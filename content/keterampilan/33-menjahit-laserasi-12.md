@@ -1,26 +1,27 @@
 ---
 title: Menjahit Laserasi Perineum Derajat 1-2
 tags:
-- keterampilan
-- persalinan
-- skdi-4a
+  - keterampilan
+  - persalinan
+  - skdi-4a
 level_kompetensi: 4A
 kategori: persalinan
 nomor_modul: 33
 aliases:
-- Jahit Perineum
-- Perineorafi
-- Penjahitan Laserasi
-- Penjahitan Episiotomi
-- Reparasi Perineum
-- jahit perineum
-- jahit episiotomi
-- perineorafi
-- penjahitan laserasi
+  - Jahit Perineum
+  - Perineorafi
+  - Penjahitan Laserasi
+  - Penjahitan Episiotomi
+  - Reparasi Perineum
+  - jahit perineum
+  - jahit episiotomi
+  - perineorafi
+  - penjahitan laserasi
 cssclasses:
-- buku-saku
+  - buku-saku
 ---
 
+# Menjahit Laserasi Perineum Derajat 1-2
 
 ## Kenapa Keterampilan Ini Penting
 
@@ -37,53 +38,54 @@ Keterampilan ini merupakan kelanjutan dari [[30-episiotomi]] dan membutuhkan [[2
 
 ### Klasifikasi Laserasi Perineum
 
-| Derajat | Struktur Terlibat | Kompetensi Dokter Umum |
-|---------|------------------|----------------------|
-| **1** | Mukosa vagina + kulit perineum saja. Otot TIDAK terlibat. | 4A — jahit mandiri |
-| **2** | Mukosa + kulit + **otot** perineum (bulbospongiosus, transversus perinei). Sfingter ani UTUH. | 4A — jahit mandiri lapis demi lapis |
-| **3** | Derajat 2 + robekan **sfingter ani eksternus** (± internus) | Kenali & rujuk |
-| **4** | Derajat 3 + robekan **mukosa rektum** | Kenali & rujuk segera |
+| Derajat | Struktur Terlibat                                                                             | Kompetensi Dokter Umum              |
+| ------- | --------------------------------------------------------------------------------------------- | ----------------------------------- |
+| **1**   | Mukosa vagina + kulit perineum saja. Otot TIDAK terlibat.                                     | 4A — jahit mandiri                  |
+| **2**   | Mukosa + kulit + **otot** perineum (bulbospongiosus, transversus perinei). Sfingter ani UTUH. | 4A — jahit mandiri lapis demi lapis |
+| **3**   | Derajat 2 + robekan **sfingter ani eksternus** (± internus)                                   | Kenali & rujuk                      |
+| **4**   | Derajat 3 + robekan **mukosa rektum**                                                         | Kenali & rujuk segera               |
 
 > [!warning] Batas Kompetensi
 > Derajat 1–2: mahir mandiri (4A). Derajat 3–4: **kenali dan rujuk ke spesialis** — jangan menjahit sfingter ani tanpa pelatihan khusus.
 
 ### Lapisan Jaringan (Dari Dalam ke Luar)
 
-| Lapisan | Struktur | Peran Penjahitan |
-|---------|----------|-----------------|
-| 1 | Mukosa vagina (merah, halus) + submukosa (longgar, kekuningan) | Hemostasis — sumber perdarahan utama. Jahitan terkunci mengontrol pleksus vena vagina |
-| 2 | M. bulbospongiosus + m. transversus perinei + pusat tendon perineum | Kekuatan jahitan — mengembalikan kontinuitas otot dasar panggul |
-| 3 | Subkutis (lemak kekuningan) + kulit (putih keabuan) | Menutup luka, hasil kosmetik. Dead space → hematoma |
+| Lapisan | Struktur                                                            | Peran Penjahitan                                                                      |
+| ------- | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| 1       | Mukosa vagina (merah, halus) + submukosa (longgar, kekuningan)      | Hemostasis — sumber perdarahan utama. Jahitan terkunci mengontrol pleksus vena vagina |
+| 2       | M. bulbospongiosus + m. transversus perinei + pusat tendon perineum | Kekuatan jahitan — mengembalikan kontinuitas otot dasar panggul                       |
+| 3       | Subkutis (lemak kekuningan) + kulit (putih keabuan)                 | Menutup luka, hasil kosmetik. Dead space → hematoma                                   |
 
 ---
 
 ## Alat dan Bahan
 
-| No. | Alat / Bahan | Keterangan |
-|----|-------------|------------|
-| 1 | Needle holder | Ukuran sedang (Delphine/Hegar) |
-| 2 | Pinset chirurgis + anatomi | Untuk memegang jaringan |
-| 3 | Gunting benang | Tajam, potong rapat pada simpul ke-3 |
-| 4 | Spekulum vagina steril | Melihat ujung atas laserasi vagina |
-| 5 | Kasa steril 10–20 lembar | Irigasi, kompresi |
-| 6 | NaCl 0,9% steril | Membersihkan luka |
-| 7 | Povidone iodine 10% | Desinfeksi perineum |
-| 8 | Lampu sorot / headlamp | **Kritis** — tanpa pencahayaan baik, jahitan tidak sempurna |
-| 9 | Handscoen steril | Minimal 2 pasang |
-| 10 | Spuit 10 mL + jarum 23–25G | Anestesi (lihat [[29-anestesi-lokal-perineum]]) |
-| 11 | Lidokain 1% | 5–10 mL |
+| No. | Alat / Bahan               | Keterangan                                                  |
+| --- | -------------------------- | ----------------------------------------------------------- |
+| 1   | Needle holder              | Ukuran sedang (Delphine/Hegar)                              |
+| 2   | Pinset chirurgis + anatomi | Untuk memegang jaringan                                     |
+| 3   | Gunting benang             | Tajam, potong rapat pada simpul ke-3                        |
+| 4   | Spekulum vagina steril     | Melihat ujung atas laserasi vagina                          |
+| 5   | Kasa steril 10–20 lembar   | Irigasi, kompresi                                           |
+| 6   | NaCl 0,9% steril           | Membersihkan luka                                           |
+| 7   | Povidone iodine 10%        | Desinfeksi perineum                                         |
+| 8   | Lampu sorot / headlamp     | **Kritis** — tanpa pencahayaan baik, jahitan tidak sempurna |
+| 9   | Handscoen steril           | Minimal 2 pasang                                            |
+| 10  | Spuit 10 mL + jarum 23–25G | Anestesi (lihat [[29-anestesi-lokal-perineum]])             |
+| 11  | Lidokain 1%                | 5–10 mL                                                     |
 
 ### Pemilihan Benang Jahit
 
-| Lapisan | Benang Pilihan | Ukuran | Keterangan |
-|---------|---------------|--------|------------|
-| Mukosa vagina | **Chromic catgut** (atau Vicryl) | **2-0** | Absorbable, durasi 7–14 hari |
-| Otot perineum | **Chromic catgut** (atau Vicryl/PDS) | **2-0** | Perlu kekuatan lebih |
-| Subkutis | **Chromic catgut** (atau Vicryl 3-0) | **3-0** | Reaksi jaringan minimal |
-| Kulit | **Chromic catgut** subkutikuler (atau Monocryl 4-0) | **3-0 / 4-0** | Absorbable, tidak perlu dibuka |
+| Lapisan       | Benang Pilihan                                      | Ukuran        | Keterangan                     |
+| ------------- | --------------------------------------------------- | ------------- | ------------------------------ |
+| Mukosa vagina | **Chromic catgut** (atau Vicryl)                    | **2-0**       | Absorbable, durasi 7–14 hari   |
+| Otot perineum | **Chromic catgut** (atau Vicryl/PDS)                | **2-0**       | Perlu kekuatan lebih           |
+| Subkutis      | **Chromic catgut** (atau Vicryl 3-0)                | **3-0**       | Reaksi jaringan minimal        |
+| Kulit         | **Chromic catgut** subkutikuler (atau Monocryl 4-0) | **3-0 / 4-0** | Absorbable, tidak perlu dibuka |
 
 > [!tip] Benang
-> - **Chromic catgut 2-0** = *workhorse* — cukup kuat, absorbsi sesuai, tersedia luas di fasilitas primer.
+>
+> - **Chromic catgut 2-0** = _workhorse_ — cukup kuat, absorbsi sesuai, tersedia luas di fasilitas primer.
 > - **Jangan gunakan benang non-absorbable** (silk/nylon) pada kulit perineum — ibu harus kembali untuk buka jahitan.
 > - **Monocryl 4-0** = pilihan terbaik untuk jahitan subkutikuler — monofilamen, reaksi minimal, elastis.
 
@@ -106,16 +108,17 @@ Keterampilan ini merupakan kelanjutan dari [[30-episiotomi]] dan membutuhkan [[2
 
 Hanya mukosa + kulit. Satu lapis jahitan. Otot tidak terlibat.
 
-**Opsi 1 — Jahitan Jelujur Sederhana (*Simple Continuous*):**
+**Opsi 1 — Jahitan Jelujur Sederhana (_Simple Continuous_):**
+
 1. Ikat jangkar di ujung proksimal, 1 cm di atas puncak luka.
 2. Jahit menerus ke distal: jarum masuk satu sisi mukosa, tembus sisi lain.
 3. Jarak tepi 8–10 mm, interval 8–10 mm. Jaga ketegangan konstan.
 4. Ikat simpul di ujung distal. Potong benang 3–5 mm.
 
-**Opsi 2 — Jahitan Terputus (*Simple Interrupted*):**
+**Opsi 2 — Jahitan Terputus (_Simple Interrupted_):**
 Untuk laserasi tidak beraturan atau tepi tidak rata. Tusuk luar→dalam, dalam→luar. Simpul di samping luka. Jarak 1 cm. 2–5 jahitan.
 
-**Opsi 3 — Jahitan Jelujur Terkunci (*Continuous Locking*):**
+**Opsi 3 — Jahitan Jelujur Terkunci (_Continuous Locking_):**
 Untuk laserasi perdarahan aktif. Setiap jahitan dikunci pada loop sebelumnya — hemostasis lebih baik. Hati-hati jangan terlalu kencang.
 
 > [!tip] Laserasi derajat 1 yang sangat kecil (< 1 cm), tidak perdarahan, tepi rapat — dapat dibiarkan sembuh spontan.
@@ -130,12 +133,12 @@ Untuk laserasi perdarahan aktif. Setiap jahitan dikunci pada loop sebelumnya —
 
 1. Identifikasi puncak laserasi di dinding posterior vagina. Spekulum + asisten.
 2. Pasang jahitan jangkar 1 cm di atas puncak (jaringan sehat). Ikat.
-3. **Jahit jelujur terkunci** (*continuous locking*) ke arah fourchette:
+3. **Jahit jelujur terkunci** (_continuous locking_) ke arah fourchette:
    - Benang: **Chromic 2-0**, jarum ½ circle
    - Kedalaman: tembus mukosa + submukosa — jangan terlalu dalam
    - Jarak tepi 8–10 mm, interval 8–10 mm
 4. Akhiri di fourchette. Ikat, potong.
-5. Cek hemostasis — tambah jahitan *figure-of-8* jika perlu.
+5. Cek hemostasis — tambah jahitan _figure-of-8_ jika perlu.
 
 > [!warning] Manuver Keamanan Rektum
 > Letakkan **jari telunjuk kiri di rektum** saat menjahit lapisan profunda. Jika jarum menusuk jari Anda → Anda akan menusuk rektum! Tarik dan alihkan arah. Alternatif: jari di dalam vagina sebagai penuntun.
@@ -146,7 +149,7 @@ Untuk laserasi perdarahan aktif. Setiap jahitan dikunci pada loop sebelumnya —
 
 1. Identifikasi otot robek — m. bulbospongiosus, m. transversus perinei.
 2. Jepit ujung otot dengan pinset chirurgis — jepit **fasia** otot, bukan otot langsung.
-3. **Jahit terputus** (*interrupted*):
+3. **Jahit terputus** (_interrupted_):
    - Benang: **Chromic 2-0**
    - 2–4 jahitan, tusuk fasia satu sisi ke sisi lain
    - Jarak tepi 5–8 mm. Ikat tension sedang.
@@ -160,13 +163,15 @@ Untuk laserasi perdarahan aktif. Setiap jahitan dikunci pada loop sebelumnya —
 
 **Subkutis** (opsional): jelujur sederhana chromic 3-0, jarak 5 mm dari tepi. Tutup dead space.
 
-**Kulit — Opsi 1: Jahitan Subkutikuler (Intradermal)** — *pilihan terbaik.*
+**Kulit — Opsi 1: Jahitan Subkutikuler (Intradermal)** — _pilihan terbaik._
+
 1. Mulai dari ujung distal: tusuk dari dermis ke subkutis satu sisi.
 2. Jahit horizontal bolak-balik di dermis (≈ ⅔ ketebalan dermis).
 3. Panjang tusukan horizontal 5–7 mm. Jarak tepi 5–7 mm.
 4. Akhiri di ujung proksimal. Ikat simpul di subkutis.
 
 **Kulit — Opsi 2: Jahitan Terputus Sederhana**
+
 1. Tusuk luar→dalam (3–5 mm tepi), dalam→luar sisi lain.
 2. Simpul di samping luka. Jarak antar jahitan 8–10 mm.
 3. Jangan strangulasi.
@@ -203,14 +208,14 @@ DERAJAT 2 — tiga lapis:
 
 ### Peta Keputusan Teknik Jahit
 
-| Tipe Laserasi | Mukosa | Otot | Kulit |
-|--------------|--------|------|-------|
-| Derajat 1 lurus < 3 cm | Jelujur sederhana | — | — |
-| Derajat 1 tidak beraturan | Terputus | — | — |
-| Derajat 1 perdarahan | Jelujur terkunci | — | — |
-| Derajat 2 mukosa panjang | Jelujur terkunci | Terputus 2–3 | Subkutikuler |
-| Derajat 2 otot robek lebar | Jelujur terkunci | Jelujur | Interrupted |
-| Episiotomi mediolateral | Jelujur terkunci | Terputus 3–4 | Subkutikuler |
+| Tipe Laserasi              | Mukosa            | Otot         | Kulit        |
+| -------------------------- | ----------------- | ------------ | ------------ |
+| Derajat 1 lurus < 3 cm     | Jelujur sederhana | —            | —            |
+| Derajat 1 tidak beraturan  | Terputus          | —            | —            |
+| Derajat 1 perdarahan       | Jelujur terkunci  | —            | —            |
+| Derajat 2 mukosa panjang   | Jelujur terkunci  | Terputus 2–3 | Subkutikuler |
+| Derajat 2 otot robek lebar | Jelujur terkunci  | Jelujur      | Interrupted  |
+| Episiotomi mediolateral    | Jelujur terkunci  | Terputus 3–4 | Subkutikuler |
 
 ---
 
@@ -233,27 +238,27 @@ DERAJAT 2 — tiga lapis:
 
 (Detail lengkap di [[39-perawatan-luka-episiotomi]])
 
-| Topik | Edukasi |
-|-------|---------|
-| **Kebersihan** | Basuh perineum air mengalir setiap habis BAK/BAB. Keringkan depan→belakang. |
-| **Ganti pembalut** | Setiap 4–6 jam. |
-| **Nyeri** | Kompres dingin 20 menit/4 jam (24 jam I). Parasetamol 500 mg–1 g/6 jam. |
-| **Duduk** | Permukaan keras lebih nyaman. Bantal donat membantu. |
-| **BAK/BAB** | Jangan tahan BAK. Serat tinggi + ≥ 2 L/hari. Laktulosa bila perlu. |
-| **Aktivitas** | Hindari angkat > 5 kg, 2 minggu. Jalan santai boleh. |
-| **Hubungan seks** | Tunggu 4–6 minggu. |
-| **Tanda bahaya** | Nyeri ↑, demam > 38°C, perdarahan segar, bengkak, cairan berbau, jahitan lepas. |
-| **Kontrol** | 7–10 hari pasca persalinan. |
+| Topik              | Edukasi                                                                         |
+| ------------------ | ------------------------------------------------------------------------------- |
+| **Kebersihan**     | Basuh perineum air mengalir setiap habis BAK/BAB. Keringkan depan→belakang.     |
+| **Ganti pembalut** | Setiap 4–6 jam.                                                                 |
+| **Nyeri**          | Kompres dingin 20 menit/4 jam (24 jam I). Parasetamol 500 mg–1 g/6 jam.         |
+| **Duduk**          | Permukaan keras lebih nyaman. Bantal donat membantu.                            |
+| **BAK/BAB**        | Jangan tahan BAK. Serat tinggi + ≥ 2 L/hari. Laktulosa bila perlu.              |
+| **Aktivitas**      | Hindari angkat > 5 kg, 2 minggu. Jalan santai boleh.                            |
+| **Hubungan seks**  | Tunggu 4–6 minggu.                                                              |
+| **Tanda bahaya**   | Nyeri ↑, demam > 38°C, perdarahan segar, bengkak, cairan berbau, jahitan lepas. |
+| **Kontrol**        | 7–10 hari pasca persalinan.                                                     |
 
 ### Tanda Bahaya
 
-| Komplikasi | Waktu | Gejala | Tatalaksana |
-|-----------|-------|--------|-------------|
-| Hematoma perineum | < 24 jam | Nyeri hebat, bengkak biru, syok tanpa perdarahan eksternal | Evakuasi, ligasi. Rujuk jika > 5 cm |
-| Infeksi luka | 48–72 jam | Nyeri ↑, merah, pus, demam | Antibiotik, drainase bila abses |
-| Dehiscence | 3–7 hari | Jahitan lepas, luka terbuka | Rawat luka, antibiotik, jahit ulang 5–7 hari |
-| Jahitan tembus rektum | Saat jahit | Teraba benang saat palpasi | Cabut, jahit ulang superfisial |
-| Fistula rektovagina | > 7 hari | Gas/feses dari vagina | Rujuk subspesialis |
+| Komplikasi            | Waktu      | Gejala                                                     | Tatalaksana                                  |
+| --------------------- | ---------- | ---------------------------------------------------------- | -------------------------------------------- |
+| Hematoma perineum     | < 24 jam   | Nyeri hebat, bengkak biru, syok tanpa perdarahan eksternal | Evakuasi, ligasi. Rujuk jika > 5 cm          |
+| Infeksi luka          | 48–72 jam  | Nyeri ↑, merah, pus, demam                                 | Antibiotik, drainase bila abses              |
+| Dehiscence            | 3–7 hari   | Jahitan lepas, luka terbuka                                | Rawat luka, antibiotik, jahit ulang 5–7 hari |
+| Jahitan tembus rektum | Saat jahit | Teraba benang saat palpasi                                 | Cabut, jahit ulang superfisial               |
+| Fistula rektovagina   | > 7 hari   | Gas/feses dari vagina                                      | Rujuk subspesialis                           |
 
 ---
 
@@ -276,18 +281,19 @@ DERAJAT 2 — tiga lapis:
 
 ## Referensi
 
-1. WHO. *WHO Recommendations on Episiotomy and Perineal Trauma*. Geneva; 2019.
-2. RCOG. *Management of Third- and Fourth-Degree Perineal Tears*. Green-top No. 29. London; 2015.
-3. ACOG. *Prevention and Management of Obstetric Lacerations*. Practice Bulletin No. 198. 2018.
-4. Kemenkes RI. *Asuhan Persalinan Normal (APN)*. Jakarta; 2020.
-5. POGI. *Pedoman Penanganan Perdarahan Pasca Persalinan*. Jakarta; 2021.
-6. Cunningham FG, et al. *Williams Obstetrics*. 26th ed. McGraw-Hill; 2022.
-7. Sultan AH, Thakar R. *Perineal Trauma*. In: Te Linde's Operative Gynecology. 12th ed. 2022.
-8. Kindig M, et al. *Perineal Repair: A Guide for Clinicians*. Obstet Gynecol Clin North Am. 2021;48(3):457–472.
+1. WHO. _WHO Recommendations on Episiotomy and Perineal Trauma_. Geneva; 2019.
+2. RCOG. _Management of Third- and Fourth-Degree Perineal Tears_. Green-top No. 29. London; 2015.
+3. ACOG. _Prevention and Management of Obstetric Lacerations_. Practice Bulletin No. 198. 2018.
+4. Kemenkes RI. _Asuhan Persalinan Normal (APN)_. Jakarta; 2020.
+5. POGI. _Pedoman Penanganan Perdarahan Pasca Persalinan_. Jakarta; 2021.
+6. Cunningham FG, et al. _Williams Obstetrics_. 26th ed. McGraw-Hill; 2022.
+7. Sultan AH, Thakar R. _Perineal Trauma_. In: Te Linde's Operative Gynecology. 12th ed. 2022.
+8. Kindig M, et al. _Perineal Repair: A Guide for Clinicians_. Obstet Gynecol Clin North Am. 2021;48(3):457–472.
 
 ---
 
 > [!info] Catatan Revisi
+>
 > - Modul ke-33 — Buku Saku Obgyn: Keterampilan Persalinan
 > - Level SKDI: 4A (mahir mandiri — derajat 1–2)
 > - Derajat 3–4: kompetensi level 2 (eksposur — kenali dan rujuk)

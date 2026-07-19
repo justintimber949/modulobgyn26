@@ -2,7 +2,7 @@
 title: "Mastitis"
 tags:
   - penyakit
-  - obsetri
+  - obstetri
   - skdi-4a
 level_kompetensi: 4A
 kategori: obstetri
@@ -32,9 +32,9 @@ cssclasses:
 
 ## Cerita Pembuka
 
-**Bu Sari**, 28 tahun, P1A0, datang ke Poli Obgyn RSKH dengan keluhan: *"Payudara kanan saya merah, bengkak, dan sakit sekali, Dok. Badan saya juga panas sejak dua hari lalu."* Ia sedang menyusui bayi laki-lakinya yang berusia 3 minggu. Asi tampak lancar, namun bayi lebih rewel menyusu pada payudara kanan. Bu Sari mengaku sempat demam 38,5°C tadi malam dan menggigil. Ia tak sempat kontrol nifas karena sibuk merawat bayi.
+**Bu Sari**, 28 tahun, P1A0, datang ke Poli Obgyn RSKH dengan keluhan: _"Payudara kanan saya merah, bengkak, dan sakit sekali, Dok. Badan saya juga panas sejak dua hari lalu."_ Ia sedang menyusui bayi laki-lakinya yang berusia 3 minggu. Asi tampak lancar, namun bayi lebih rewel menyusu pada payudara kanan. Bu Sari mengaku sempat demam 38,5°C tadi malam dan menggigil. Ia tak sempat kontrol nifas karena sibuk merawat bayi.
 
-Di hari yang sama, seorang mahasiswi 22 tahun, **Dinda**, datang ke Poli Umum RSKH dengan keluhan: *"Dok, payudara kiri saya bengkak dan keluar cairan kuning dari puting — sudah seminggu. Saya tidak menyusui dan tidak hamil."* Dinda mengaku punya riwayat merokok aktif sejak 2 tahun lalu.
+Di hari yang sama, seorang mahasiswi 22 tahun, **Dinda**, datang ke Poli Umum RSKH dengan keluhan: _"Dok, payudara kiri saya bengkak dan keluar cairan kuning dari puting — sudah seminggu. Saya tidak menyusui dan tidak hamil."_ Dinda mengaku punya riwayat merokok aktif sejak 2 tahun lalu.
 
 Dua pasien dengan keluhan payudara yang mirip — namun mekanisme dan tata laksana keduanya berbeda total. Inilah saatnya Anda memahami **mastitis** dalam dua wajahnya.
 
@@ -44,10 +44,10 @@ Dua pasien dengan keluhan payudara yang mirip — namun mekanisme dan tata laksa
 
 Mastitis adalah **peradangan pada parenkim payudara** yang dapat disertai atau tanpa infeksi. Secara umum dibagi menjadi dua kategori utama:
 
-| Tipe | Definisi | Puncak Insidens |
-|------|----------|-----------------|
-| **Mastitis Laktasional** (Mastitis Puerperalis) | Peradangan payudara pada ibu menyusui — biasanya unilateral, terjadi pada 2-3 minggu pertama pasca persalinan | 2-6 minggu postpartum |
-| **Mastitis Non-Laktasional** (Mastitis Periduktal) | Peradangan payudara di luar masa menyusui — sering terkait dengan merokok, ektasia duktus, atau infeksi bakteri | Usia 20-40 tahun |
+| Tipe                                               | Definisi                                                                                                        | Puncak Insidens       |
+| -------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | --------------------- |
+| **Mastitis Laktasional** (Mastitis Puerperalis)    | Peradangan payudara pada ibu menyusui — biasanya unilateral, terjadi pada 2-3 minggu pertama pasca persalinan   | 2-6 minggu postpartum |
+| **Mastitis Non-Laktasional** (Mastitis Periduktal) | Peradangan payudara di luar masa menyusui — sering terkait dengan merokok, ektasia duktus, atau infeksi bakteri | Usia 20-40 tahun      |
 
 ### Epidemiologi
 
@@ -66,16 +66,16 @@ Mastitis adalah **peradangan pada parenkim payudara** yang dapat disertai atau t
 
 ### Mastitis Laktasional
 
-Dimulai dengan **stasis ASI** *(milk stasis)* — ASI tidak dikeluarkan secara efektif dari payudara. Stasis ini memicu respons inflamasi steril yang kemudian menjadi lahan subur bagi bakteri. Bakteri masuk melalui **retak/lecet pada puting** *(fissured nipple)* yang sering terjadi akibat posisi menyusui yang salah. Kuman tersering:
+Dimulai dengan **stasis ASI** _(milk stasis)_ — ASI tidak dikeluarkan secara efektif dari payudara. Stasis ini memicu respons inflamasi steril yang kemudian menjadi lahan subur bagi bakteri. Bakteri masuk melalui **retak/lecet pada puting** _(fissured nipple)_ yang sering terjadi akibat posisi menyusui yang salah. Kuman tersering:
 
-- ***Staphylococcus aureus*** — penyebab **> 90%** kasus (termasuk MRSA)
-- *Streptococcus agalactiae* (Group B *Streptococcus*)
-- *Escherichia coli*
-- Koagulase-negatif *Staphylococci*
+- **_Staphylococcus aureus_** — penyebab **> 90%** kasus (termasuk MRSA)
+- _Streptococcus agalactiae_ (Group B _Streptococcus_)
+- _Escherichia coli_
+- Koagulase-negatif _Staphylococci_
 
 ### Mastitis Non-Laktasional
 
-Sering disebabkan oleh **ektasia duktus** — pelebaran duktus laktiferus yang disertai peradangan kronis dan fibrosis periduktal. Faktor risikonya adalah merokok (toksin nikotin merusak epitel duktus), usia > 30 tahun, dan inversio papilla. Infeksi bakteri sekunder (*S. aureus*, anaerob) dapat menyusul. Pada beberapa kasus, mastitis non-laktasional dapat menyertai **inflamasi granulomatosa idiopatik** yang memerlukan biopsi untuk menyingkirkan keganasan.
+Sering disebabkan oleh **ektasia duktus** — pelebaran duktus laktiferus yang disertai peradangan kronis dan fibrosis periduktal. Faktor risikonya adalah merokok (toksin nikotin merusak epitel duktus), usia > 30 tahun, dan inversio papilla. Infeksi bakteri sekunder (_S. aureus_, anaerob) dapat menyusul. Pada beberapa kasus, mastitis non-laktasional dapat menyertai **inflamasi granulomatosa idiopatik** yang memerlukan biopsi untuk menyingkirkan keganasan.
 
 ---
 
@@ -83,25 +83,25 @@ Sering disebabkan oleh **ektasia duktus** — pelebaran duktus laktiferus yang d
 
 ### Mastitis Laktasional (Bu Sari)
 
-| Gejala | Deskripsi |
-|--------|-----------|
-| **Nyeri payudara** | Nyeri unilateral, memberat saat menyusui |
-| **Kemerahan** | Eritema fokal pada satu kuadran — paling sering kuadran luar atas |
-| **Bengkak** | Payudara membesar, teraba hangat, keras segmental |
-| **Demam** | Demam > 38°C, menggigil, badan pegal-pegal (gejala sistemik) |
-| **Riwayat puting lecet** | Sering ditemukan — tanda posisi menyusui tidak tepat |
-| **Bayi rewel** | Bayi menolak menyusu pada payudara sakit (karena rasa ASI berubah) |
+| Gejala                   | Deskripsi                                                          |
+| ------------------------ | ------------------------------------------------------------------ |
+| **Nyeri payudara**       | Nyeri unilateral, memberat saat menyusui                           |
+| **Kemerahan**            | Eritema fokal pada satu kuadran — paling sering kuadran luar atas  |
+| **Bengkak**              | Payudara membesar, teraba hangat, keras segmental                  |
+| **Demam**                | Demam > 38°C, menggigil, badan pegal-pegal (gejala sistemik)       |
+| **Riwayat puting lecet** | Sering ditemukan — tanda posisi menyusui tidak tepat               |
+| **Bayi rewel**           | Bayi menolak menyusu pada payudara sakit (karena rasa ASI berubah) |
 
 ### Mastitis Non-Laktasional (Dinda)
 
-| Gejala | Deskripsi |
-|--------|-----------|
-| **Nyeri payudara** | Unilateral, di daerah periareolar |
-| **Benjolan** | Teraba massa tidak nyeri atau nyeri tekan di sekitar areola |
-| **Duh puting** | Sekret kuning kehijauan (purulen) dari puting — sering multipori |
-| **Retraksi puting** | Puting tertarik ke dalam (inversio papilla) — pada kasus kronis |
+| Gejala              | Deskripsi                                                            |
+| ------------------- | -------------------------------------------------------------------- |
+| **Nyeri payudara**  | Unilateral, di daerah periareolar                                    |
+| **Benjolan**        | Teraba massa tidak nyeri atau nyeri tekan di sekitar areola          |
+| **Duh puting**      | Sekret kuning kehijauan (purulen) dari puting — sering multipori     |
+| **Retraksi puting** | Puting tertarik ke dalam (inversio papilla) — pada kasus kronis      |
 | **Riwayat merokok** | Faktor risiko paling kuat — perokok memiliki risiko 15× lebih tinggi |
-| **Demam** | Tidak selalu ada; jika ada biasanya subfebril |
+| **Demam**           | Tidak selalu ada; jika ada biasanya subfebril                        |
 
 ### Poin Krusial Anamnesis
 
@@ -115,6 +115,7 @@ Sering disebabkan oleh **ektasia duktus** — pelebaran duktus laktiferus yang d
 8. **Riwayat benjolan sebelumnya** — sudah ada benjolan sebelum hamil/menyusui? (→ curiga Ca mamae)
 
 > [!warning] Red Flag — Segera Rujuk jika:
+>
 > - Teraba **fluktuasi** / massa yang mengarah ke abses → rujuk untuk USG + drainase
 > - **Demam tinggi menetap** > 48 jam meski sudah antibiotik → eksklusi abses dalam
 > - **Benjolan tidak nyeri** + konsistensi keras + fiksasi → curiga **Ca mamae** — rujuk untuk mamografi + biopsi
@@ -132,7 +133,7 @@ Langkah sistematis pemeriksaan payudara mengacu pada [[01-px-fisik-umum-payudara
 
 1. **Bandingkan kedua payudara** — asimetri, pembesaran unilateral, eritema, edema
 2. **Inspeksi puting** — inversio, retraksi, ekskoriasi, fisura, ulserasi, duh keluar spontan
-3. **Tanda khas mastitis:** kulit eritematosa, edema fokal, tampak seperti **"kulit jeruk" *(peau d'orange)*** pada daerah peradangan
+3. **Tanda khas mastitis:** kulit eritematosa, edema fokal, tampak seperti **"kulit jeruk" _(peau d'orange)_** pada daerah peradangan
 4. **Tanda abses:** fluktuasi yang terlihat pada daerah yang paling meradang
 
 ### Palpasi (Posisi Duduk + Berbaring)
@@ -145,30 +146,30 @@ Langkah sistematis pemeriksaan payudara mengacu pada [[01-px-fisik-umum-payudara
 
 ### Tanda Klinis Pembeda
 
-| Temuan | Mastitis (Tanpa Abses) | Abses Payudara | Ca Mamae |
-|--------|----------------------|----------------|----------|
-| **Nyeri** | +++ (nyeri hebat) | ++++ (berdenyut) | ± / tidak nyeri |
-| **Eritema** | +++ (merah merata) | ++++ (± fluktuasi) | ± / samar |
-| **Demam** | ++ (sistemik) | +++ (sepsis) | (-) |
-| **Konsistensi** | Keras, difus | Fluktuasi / massa fluktuatif | Keras, ireguler, fiksasi |
-| **Batas** | Tak jelas | Samar — fluktuasi +++ | Tegas / ireguler |
-| **Mobilitas** | Hipermobil karena edema | ↓↓↓ | Fiksasi ke kulit / dinding dada |
-| **Duh puting** | Serous / purulen | Purulen | Berdarah / *bloody nipple discharge* |
-| **KGB aksila** | Membesar, nyeri | Membesar, nyeri | Membesar, **tidak nyeri**, keras |
+| Temuan          | Mastitis (Tanpa Abses)  | Abses Payudara               | Ca Mamae                             |
+| --------------- | ----------------------- | ---------------------------- | ------------------------------------ |
+| **Nyeri**       | +++ (nyeri hebat)       | ++++ (berdenyut)             | ± / tidak nyeri                      |
+| **Eritema**     | +++ (merah merata)      | ++++ (± fluktuasi)           | ± / samar                            |
+| **Demam**       | ++ (sistemik)           | +++ (sepsis)                 | (-)                                  |
+| **Konsistensi** | Keras, difus            | Fluktuasi / massa fluktuatif | Keras, ireguler, fiksasi             |
+| **Batas**       | Tak jelas               | Samar — fluktuasi +++        | Tegas / ireguler                     |
+| **Mobilitas**   | Hipermobil karena edema | ↓↓↓                          | Fiksasi ke kulit / dinding dada      |
+| **Duh puting**  | Serous / purulen        | Purulen                      | Berdarah / _bloody nipple discharge_ |
+| **KGB aksila**  | Membesar, nyeri         | Membesar, nyeri              | Membesar, **tidak nyeri**, keras     |
 
 ---
 
 ## Pemeriksaan Penunjang
 
-| Pemeriksaan | Indikasi | Interpretasi |
-|-------------|----------|--------------|
-| **Darah rutin + LED** | Semua kasus | Leukositosis, LED ↑ → infeksi aktif |
-| **C-Reactive Protein (CRP)** | Mastitis berat / gagal terapi | > 10 mg/dL → infeksi signifikan |
-| **USG Payudara** | **Wajib** jika curiga abses atau gagal terapi 48 jam | Abses: kavitas hipoekoik dengan dinding tebal; mastitis: edema difus, *increased echogenicity* |
-| **Kultur ASI** | Mastitis berat, gagal terapi, curiga MRSA | Hasil ± 3 hari — panduan antibiotik definitif |
-| **Mamografi** | Mastitis non-laktasional rekuren / curiga Ca mamae | Kontraindikasi pada mastitis akut (nyeri); dilakukan setelah inflamasi reda |
-| **Biopsi Jarum / Core Biopsy** | Non-laktasional dengan massa menetap > 2 minggu setelah terapi | Eksklusi keganasan; diagnosis banding mastitis granulomatosa |
-| **FNA (Fine Needle Aspiration)** | Bila fluktuasi (+) → konfirmasi abses & drainase | Aspirasi pus → konfirmasi abses + kultur |
+| Pemeriksaan                      | Indikasi                                                       | Interpretasi                                                                                   |
+| -------------------------------- | -------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| **Darah rutin + LED**            | Semua kasus                                                    | Leukositosis, LED ↑ → infeksi aktif                                                            |
+| **C-Reactive Protein (CRP)**     | Mastitis berat / gagal terapi                                  | > 10 mg/dL → infeksi signifikan                                                                |
+| **USG Payudara**                 | **Wajib** jika curiga abses atau gagal terapi 48 jam           | Abses: kavitas hipoekoik dengan dinding tebal; mastitis: edema difus, _increased echogenicity_ |
+| **Kultur ASI**                   | Mastitis berat, gagal terapi, curiga MRSA                      | Hasil ± 3 hari — panduan antibiotik definitif                                                  |
+| **Mamografi**                    | Mastitis non-laktasional rekuren / curiga Ca mamae             | Kontraindikasi pada mastitis akut (nyeri); dilakukan setelah inflamasi reda                    |
+| **Biopsi Jarum / Core Biopsy**   | Non-laktasional dengan massa menetap > 2 minggu setelah terapi | Eksklusi keganasan; diagnosis banding mastitis granulomatosa                                   |
+| **FNA (Fine Needle Aspiration)** | Bila fluktuasi (+) → konfirmasi abses & drainase               | Aspirasi pus → konfirmasi abses + kultur                                                       |
 
 > [!tip] USG payudara adalah **alat diagnostik paling berguna** untuk membedakan mastitis vs abses payudara vs Ca mamae pada pasien menyusui. Sensitivitasnya mencapai > 95% untuk abses. Jangan tunda USG jika ada fluktuasi atau gagal terapi 48 jam.
 
@@ -176,16 +177,16 @@ Langkah sistematis pemeriksaan payudara mengacu pada [[01-px-fisik-umum-payudara
 
 ## Diagnosis Banding
 
-| Diagnosis | Ciri Pembeda |
-|-----------|-------------|
-| **Bendungan ASI** | Nyeri bilateral, tidak merah, tidak demam, membaik setelah menyusui/memompa, onset mendadak 3-5 hari postpartum |
-| **Abses Payudara** | Fluktuasi (+), demam tinggi menggigil, USG (+) kavitas pus — bisa timbul 24-48 jam setelah mastitis tak teratasi |
-| **Ca Mamae (Kanker Payudara)** | Benjolan **tidak nyeri**, konsistensi keras/berkayu, batas ireguler, fiksasi ke kulit/dinding dada, KGB aksila tidak nyeri, duh puting berdarah, **tidak ada demam** |
-| **Karsinoma Inflamatorik Payudara** | Eritema luas, *peau d'orange*, tidak nyeri (atau minimal), tidak demam, tidak ada fluktuasi — **biopsi kulit (+) untuk sel ganas** — kegawatdaruratan onkologi! |
-| **Mastitis Granulomatosa Idiopatik** | Non-laktasional, massa menetap, sering bilateral, biopsi (+) granuloma non-kaseosa — eksklusi TB payudara |
-| **TB Payudara** | Massa kronis, fistel multipel, KGB aksila membesar, riwayat TB paru (+) |
-| **Ektasia Duktus** | Duh puting kental (putih/hijau), multipori, perimenopause, retraksi puting, tidak demam |
-| **Abses Subareolar (Fistula Zuska)** | Abses periduktal rekuren di daerah areola, pada perokok, sering fistel ke kulit |
+| Diagnosis                            | Ciri Pembeda                                                                                                                                                         |
+| ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Bendungan ASI**                    | Nyeri bilateral, tidak merah, tidak demam, membaik setelah menyusui/memompa, onset mendadak 3-5 hari postpartum                                                      |
+| **Abses Payudara**                   | Fluktuasi (+), demam tinggi menggigil, USG (+) kavitas pus — bisa timbul 24-48 jam setelah mastitis tak teratasi                                                     |
+| **Ca Mamae (Kanker Payudara)**       | Benjolan **tidak nyeri**, konsistensi keras/berkayu, batas ireguler, fiksasi ke kulit/dinding dada, KGB aksila tidak nyeri, duh puting berdarah, **tidak ada demam** |
+| **Karsinoma Inflamatorik Payudara**  | Eritema luas, _peau d'orange_, tidak nyeri (atau minimal), tidak demam, tidak ada fluktuasi — **biopsi kulit (+) untuk sel ganas** — kegawatdaruratan onkologi!      |
+| **Mastitis Granulomatosa Idiopatik** | Non-laktasional, massa menetap, sering bilateral, biopsi (+) granuloma non-kaseosa — eksklusi TB payudara                                                            |
+| **TB Payudara**                      | Massa kronis, fistel multipel, KGB aksila membesar, riwayat TB paru (+)                                                                                              |
+| **Ektasia Duktus**                   | Duh puting kental (putih/hijau), multipori, perimenopause, retraksi puting, tidak demam                                                                              |
+| **Abses Subareolar (Fistula Zuska)** | Abses periduktal rekuren di daerah areola, pada perokok, sering fistel ke kulit                                                                                      |
 
 ---
 
@@ -204,7 +205,7 @@ Langkah sistematis pemeriksaan payudara mengacu pada [[01-px-fisik-umum-payudara
 #### Tahap 1 — Non-Farmakologis & Konservatif (untuk stasis ASI / mastitis ringan tanpa demam)
 
 - **Lanjutkan menyusui** dari payudara yang sakit — mulai dari sisi sakit agar hisapan bayi maksimal saat masih lapar
-- **Perbaiki posisi menyusui** — pastikan perlekatan *(latch)* baik, mulut bayi menutupi areola, bukan hanya puting
+- **Perbaiki posisi menyusui** — pastikan perlekatan _(latch)_ baik, mulut bayi menutupi areola, bukan hanya puting
 - **Pompa ASI** setelah menyusui jika payudara masih terasa penuh
 - **Kompres hangat** sebelum menyusui (15 menit) → merangsang let-down reflex
 - **Kompres dingin** setelah menyusui (10-15 menit) → mengurangi edema dan nyeri
@@ -218,15 +219,15 @@ Langkah sistematis pemeriksaan payudara mengacu pada [[01-px-fisik-umum-payudara
 
 Jika demam > 38°C, menggigil, atau gejala tidak membaik setelah 12-24 jam tatalaksana konservatif — berikan antibiotik:
 
-| Antibiotik | Dosis | Lama | Keterangan |
-|------------|-------|------|------------|
-| **Dikloksasilin** (lini 1) | 4 × 500 mg per oral | 7-10 hari | Anti-Stafilokokus, tidak diekskresi signifikan ke ASI |
-| **Sefaleksin** (lini 1 — alternatif) | 4 × 500 mg per oral | 7-10 hari | Aman untuk ibu menyusui, spektrum baik |
-| **Amoksisilin-asam klavulanat** (jika tidak ada perbaikan 48 jam) | 3 × 625 mg per oral | 7-10 hari | Mencakup *S. aureus* + anaerob |
-| **Klindamisin** (jika alergi penisilin) | 3 × 300 mg per oral | 7-10 hari | Ekskresi ke ASI minimal, aman |
-| **Vankomisin / Linezolid** (jika curiga MRSA) | Sesuai panduan | 10-14 hari | Hanya di RS — rujuk segera |
+| Antibiotik                                                        | Dosis               | Lama       | Keterangan                                            |
+| ----------------------------------------------------------------- | ------------------- | ---------- | ----------------------------------------------------- |
+| **Dikloksasilin** (lini 1)                                        | 4 × 500 mg per oral | 7-10 hari  | Anti-Stafilokokus, tidak diekskresi signifikan ke ASI |
+| **Sefaleksin** (lini 1 — alternatif)                              | 4 × 500 mg per oral | 7-10 hari  | Aman untuk ibu menyusui, spektrum baik                |
+| **Amoksisilin-asam klavulanat** (jika tidak ada perbaikan 48 jam) | 3 × 625 mg per oral | 7-10 hari  | Mencakup _S. aureus_ + anaerob                        |
+| **Klindamisin** (jika alergi penisilin)                           | 3 × 300 mg per oral | 7-10 hari  | Ekskresi ke ASI minimal, aman                         |
+| **Vankomisin / Linezolid** (jika curiga MRSA)                     | Sesuai panduan      | 10-14 hari | Hanya di RS — rujuk segera                            |
 
-> [!warning] **Jangan berikan tetrasiklin (doksisiklin) atau fluorokuinolon pada ibu menyusui** — kontraindikasi karena efek samping pada pertumbuhan tulang/ gigi bayi. Hindari juga kloramfenikol (risiko *gray baby syndrome*).
+> [!warning] **Jangan berikan tetrasiklin (doksisiklin) atau fluorokuinolon pada ibu menyusui** — kontraindikasi karena efek samping pada pertumbuhan tulang/ gigi bayi. Hindari juga kloramfenikol (risiko _gray baby syndrome_).
 
 #### Tahap 3 — Evaluasi dan Tindak Lanjut
 
@@ -243,26 +244,26 @@ Jika demam > 38°C, menggigil, atau gejala tidak membaik setelah 12-24 jam tatal
 2. **Hentikan merokok** — ini adalah **langkah paling penting** untuk mencegah rekurensi
 3. **Biopsi** — pertimbangkan biopsi eksisi jika massa menetap > 2 minggu pasca terapi
 4. **Duh puting** — jika hanya duh tanpa massa, observasi + kompres hangat, tidak perlu antibiotik
-5. **Abses periduktal** — sering rekuren; terapi definitif adalah **eksisi duktus total** *(total duct excision)* oleh dokter bedah
+5. **Abses periduktal** — sering rekuren; terapi definitif adalah **eksisi duktus total** _(total duct excision)_ oleh dokter bedah
 
 ### Tatalaksana Abses Payudara (Komplikasi Mastitis)
 
 Jika sudah terbentuk abses → terapi definitif adalah **drainase**:
 
-| Metode | Indikasi | Teknik |
-|--------|----------|--------|
-| **Aspirasi jarum** *(needle aspiration)* | Abses kecil (< 3 cm), tunggal | USG-guided, aspirasi pus, kultur — bisa diulang 2-3× |
-| **Insisi & Drainase (I&D)** | Abses besar (> 3 cm), multilokulasi | Sayatan radial (+2 cm dari areola) → buka septa → drain terbuka |
-| **Aspirasi pasca-I&D** | I&D + sisa pus | USG-guided follow-up |
+| Metode                                   | Indikasi                            | Teknik                                                          |
+| ---------------------------------------- | ----------------------------------- | --------------------------------------------------------------- |
+| **Aspirasi jarum** _(needle aspiration)_ | Abses kecil (< 3 cm), tunggal       | USG-guided, aspirasi pus, kultur — bisa diulang 2-3×            |
+| **Insisi & Drainase (I&D)**              | Abses besar (> 3 cm), multilokulasi | Sayatan radial (+2 cm dari areola) → buka septa → drain terbuka |
+| **Aspirasi pasca-I&D**                   | I&D + sisa pus                      | USG-guided follow-up                                            |
 
-> [!tip] **Ibu tetap boleh menyusui** meski sudah dilakukan I&D! ASI dari payudara yang sakit tetap aman. Jika bayi tidak mau menyusu langsung, pompa dan buang ASI *(pump & dump)* dari payudara yang sakit untuk menjaga produksi, lalu lanjutkan menyusui dari payudara sehat.
+> [!tip] **Ibu tetap boleh menyusui** meski sudah dilakukan I&D! ASI dari payudara yang sakit tetap aman. Jika bayi tidak mau menyusu langsung, pompa dan buang ASI _(pump & dump)_ dari payudara yang sakit untuk menjaga produksi, lalu lanjutkan menyusui dari payudara sehat.
 
 ---
 
 ## Yang Sering Jadi Jebakan
 
 > [!tip] Jebakan #1 — **Mengira bendungan ASI sebagai mastitis dan langsung memberi antibiotik**
-> Bendungan ASI *(engorgement)* bersifat bilateral, tidak merah, tidak demam, dan membaik setelah menyusui. Mastitis bersifat unilateral, eritema fokal, demam sistemik. Beri antibiotik hanya jika ada tanda infeksi — overuse antibiotik tidak perlu pada bendungan ASI.
+> Bendungan ASI _(engorgement)_ bersifat bilateral, tidak merah, tidak demam, dan membaik setelah menyusui. Mastitis bersifat unilateral, eritema fokal, demam sistemik. Beri antibiotik hanya jika ada tanda infeksi — overuse antibiotik tidak perlu pada bendungan ASI.
 
 > [!tip] Jebakan #2 — **Menyuruh ibu berhenti menyusui**
 > Ini adalah kesalahan paling sering dan paling fatal. Menghentikan menyusui memperburuk stasis ASI, meningkatkan risiko abses, dan menghilangkan perlindungan anti-infeksi ASI. **Edukasi:** ASI dari payudara yang sakit tetap aman. Justru semakin sering dikosongkan, semakin cepat sembuh.
@@ -271,7 +272,7 @@ Jika sudah terbentuk abses → terapi definitif adalah **drainase**:
 > Karsinoma inflamatorik payudara adalah keganasan agresif yang sering salah diagnosis sebagai mastitis — terutama pada non-laktasional. Bedakan: IBC tidak demam, tidak nyeri, eritema luas tanpa fluktuasi, dan progresif cepat. **Jika setelah 2 minggu terapi mastitis tidak membaik — rujuk untuk biopsi kulit.**
 
 > [!tip] Jebakan #4 — **Lupa mengevaluasi posisi menyusui**
-> Mastitis laktasional hampir selalu diawali oleh posisi menyusui yang salah → puting lecet → infeksi ascending. Perbaiki posisi menyusui adalah **tindakan pencegahan paling efektif**. Edukasi ibu tentang *latch-on* yang benar — rujuk ke konselor laktasi jika perlu.
+> Mastitis laktasional hampir selalu diawali oleh posisi menyusui yang salah → puting lecet → infeksi ascending. Perbaiki posisi menyusui adalah **tindakan pencegahan paling efektif**. Edukasi ibu tentang _latch-on_ yang benar — rujuk ke konselor laktasi jika perlu.
 
 > [!tip] Jebakan #5 — **Hanya mengobati pasien tanpa mengecek kondisi payudara kontralateral**
 > Mastitis bisa bilateral pada 5-10% kasus. Selalu periksa kedua payudara. Payudara kontralateral yang normal dapat menjadi sumber ASI jika produksi pada payudara sakit terpaksa dihentikan sementara.
@@ -285,16 +286,17 @@ Jika sudah terbentuk abses → terapi definitif adalah **drainase**:
 
 ### Bu Sari (Pasien 1 — Mastitis Laktasional)
 
-| Pemeriksaan | Hasil |
-|------------|-------|
-| **Inspeksi** | Payudara kanan lebih besar, eritema di kuadran luar atas — puting kanan tampak fisura (+), eritema periareolar |
-| **Palpasi** | Nyeri tekan hebat di kuadran luar atas — tidak ada fluktuasi — konsistensi keras difus — KGB aksila kanan membesar, nyeri |
-| **Suhu** | 38,6°C |
-| **USG payudara** | Tidak ditemukan kavitas abses — hanya edema difus dan peningkatan vaskularisasi |
+| Pemeriksaan      | Hasil                                                                                                                     |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| **Inspeksi**     | Payudara kanan lebih besar, eritema di kuadran luar atas — puting kanan tampak fisura (+), eritema periareolar            |
+| **Palpasi**      | Nyeri tekan hebat di kuadran luar atas — tidak ada fluktuasi — konsistensi keras difus — KGB aksila kanan membesar, nyeri |
+| **Suhu**         | 38,6°C                                                                                                                    |
+| **USG payudara** | Tidak ditemukan kavitas abses — hanya edema difus dan peningkatan vaskularisasi                                           |
 
 **Diagnosis:** Mastitis laktasional fase non-abses.
 
 **Terapi:**
+
 - **Dikloksasilin 500 mg** 4 × 1 kapsul per oral × 7 hari
 - **Paracetamol 500 mg** tiap 6 jam jika demam/nyeri
 - **Edukasi:** perbaiki posisi menyusui (bayi dimulai dari payudara kanan), kompres hangat sebelum menyusui, kompres dingin setelahnya
@@ -305,17 +307,18 @@ Jika sudah terbentuk abses → terapi definitif adalah **drainase**:
 
 ### Dinda (Pasien 2 — Mastitis Non-Laktasional)
 
-| Pemeriksaan | Hasil |
-|------------|-------|
-| **Inspeksi** | Payudara kiri tampak eritema ringan di daerah periareolar — puting invert (+), duh kuning kehijauan keluar dari 3 pori |
-| **Palpasi** | Teraba massa padat, nyeri tekan di daerah subareolar — fluktuasi (-) — KGB aksila kiri tidak membesar |
-| **Suhu** | 37,2°C |
-| **USG payudara** | Duktus ektatik (melebar) dengan dinding menebal — tidak ada massa solid — tidak ada abses — BI-RADS 2 |
-| **Mamografi** | Dilakukan setelah inflamasi reda — ektasia duktus, tidak ditemukan lesi curiga |
+| Pemeriksaan      | Hasil                                                                                                                  |
+| ---------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| **Inspeksi**     | Payudara kiri tampak eritema ringan di daerah periareolar — puting invert (+), duh kuning kehijauan keluar dari 3 pori |
+| **Palpasi**      | Teraba massa padat, nyeri tekan di daerah subareolar — fluktuasi (-) — KGB aksila kiri tidak membesar                  |
+| **Suhu**         | 37,2°C                                                                                                                 |
+| **USG payudara** | Duktus ektatik (melebar) dengan dinding menebal — tidak ada massa solid — tidak ada abses — BI-RADS 2                  |
+| **Mamografi**    | Dilakukan setelah inflamasi reda — ektasia duktus, tidak ditemukan lesi curiga                                         |
 
 **Diagnosis:** Mastitis non-laktasional — ektasia duktus dengan infeksi sekunder.
 
 **Terapi:**
+
 - **Sefaleksin 500 mg** 4 × 1 per oral × 10 hari
 - **Ibuprofen 400 mg** 3 × 1 per oral (anti-inflamasi + analgesik)
 - **Edukasi:** **hentikan merokok** — berikan konseling berhenti merokok — risiko utama rekurensi
@@ -331,7 +334,7 @@ Jika sudah terbentuk abses → terapi definitif adalah **drainase**:
 Strategi pencegahan yang efektif berfokus pada **perbaikan teknik menyusui**:
 
 1. **Posisi dan perlekatan yang benar** — pastikan mulut bayi membuka lebar dan areola bawah lebih banyak masuk dibanding atas
-2. **Susui sesering mungkin** — jadwal sesuai permintaan bayi *(on-demand)*
+2. **Susui sesering mungkin** — jadwal sesuai permintaan bayi _(on-demand)_
 3. **Kosongkan satu payudara dulu** — sebelum beralih ke payudara lain
 4. **Puting kering** — jaga puting tetap kering, hindari lembab berkepanjangan
 5. **Oleskan ASI akhir pada puting** — ASI memiliki efek antimikroba alami
@@ -348,7 +351,7 @@ Liputan lebih lengkap tentang hal ini ada di [[36-manajemen-laktasi|Manajemen La
 Mengingat mastitis bisa menyerupai Ca mamae — terutama pada non-laktasional — **deteksi dini sangat penting**. Ajarkan setiap pasien untuk melakukan:
 
 - **[[41-sadari|SADARI]]** — Pemeriksaan Payudara Sendiri setiap bulan (hari ke-7 sampai ke-10 siklus haid)
-- Sadari perubahan bentuk, benjolan baru, duh puting, atau kulit *peau d'orange*
+- Sadari perubahan bentuk, benjolan baru, duh puting, atau kulit _peau d'orange_
 - Pada ibu menyusui: jika ada benjolan yang **tidak hilang setelah mastitis sembuh** → rujuk untuk mamografi/USG
 
 ---
@@ -363,10 +366,10 @@ Mengingat mastitis bisa menyerupai Ca mamae — terutama pada non-laktasional �
 
 ## Referensi
 
-1. **Kemenkes RI.** (2024). *Pedoman Nasional Pelayanan Kedokteran (PNPK) Tata Laksana Infeksi Payudara.* Jakarta: Kementerian Kesehatan RI.
-2. **POGI.** (2023). *Pedoman Diagnosis dan Tatalaksana Mastitis dan Abses Payudara.* Jakarta: Perkumpulan Obstetri dan Ginekologi Indonesia.
-3. **World Health Organization.** (2024). *Mastitis: Causes and Management — Guidelines for Health Workers.* Geneva: WHO.
-4. **Sarwono Prawirohardjo.** (2024). *Ilmu Kandungan.* Edisi 4. Jakarta: Yayasan Bina Pustaka Sarwono Prawirohardjo.
-5. **Academy of Breastfeeding Medicine.** (2022). *Clinical Protocol #4: Mastitis — ABM Protocol Revision.* Breastfeeding Medicine, 17(5): 360-375.
-6. **American College of Obstetricians and Gynecologists.** (2023). *ACOG Practice Bulletin: Benign Breast Disorders.* Obstetrics & Gynecology, 141(4): e102-e119.
-7. **Mangesi L, Zakarija-Grkovic I.** (2023). Treatments for breast engorgement and mastitis. *Cochrane Database of Systematic Reviews*, Issue 3. Art. No.: CD006946.
+1. **Kemenkes RI.** (2024). _Pedoman Nasional Pelayanan Kedokteran (PNPK) Tata Laksana Infeksi Payudara._ Jakarta: Kementerian Kesehatan RI.
+2. **POGI.** (2023). _Pedoman Diagnosis dan Tatalaksana Mastitis dan Abses Payudara._ Jakarta: Perkumpulan Obstetri dan Ginekologi Indonesia.
+3. **World Health Organization.** (2024). _Mastitis: Causes and Management — Guidelines for Health Workers._ Geneva: WHO.
+4. **Sarwono Prawirohardjo.** (2024). _Ilmu Kandungan._ Edisi 4. Jakarta: Yayasan Bina Pustaka Sarwono Prawirohardjo.
+5. **Academy of Breastfeeding Medicine.** (2022). _Clinical Protocol #4: Mastitis — ABM Protocol Revision._ Breastfeeding Medicine, 17(5): 360-375.
+6. **American College of Obstetricians and Gynecologists.** (2023). _ACOG Practice Bulletin: Benign Breast Disorders._ Obstetrics & Gynecology, 141(4): e102-e119.
+7. **Mangesi L, Zakarija-Grkovic I.** (2023). Treatments for breast engorgement and mastitis. _Cochrane Database of Systematic Reviews_, Issue 3. Art. No.: CD006946.

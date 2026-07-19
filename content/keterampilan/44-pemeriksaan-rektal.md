@@ -1,135 +1,157 @@
 ---
-id: 44-pemeriksaan-rektal
-title: Pemeriksaan Rektal (Palpasi Kantung Douglas, Uterus, Adneksa)
-level: 3
-kategori: persalinan
+title: "Pemeriksaan Rektal (Palpasi Kantung Douglas, Uterus, Adneksa)"
 tags:
-- persalinan
-- pemeriksaan-rektal
-- palpasi-douglas
-- partus-lama
-- evaluasi-pembukaan
-- evaluasi-presentasi
-est_duration: 5-10 menit
-prerequisites:
-- 43-menilai-lochia
-- 42-kompresi-bimanual
-related_skills:
-- 42-kompresi-bimanual
-- 51-ctg
-- 53-induksi-kimiawi-persalinan
-- 54-persalinan-presentasi-bokong
-- 55-pengambilan-plasenta-manual
-indications:
-- Partus lama (prolongasi kala I/II)
-- Evaluasi pembukaan serviks (pengganti PV jika kontraindikasi)
-- Evaluasi presentasi janin (bokong, transversal)
-- Evaluasi ketuban pecah dini (aliran ketuban)
-- Sosok pelipis/kelainan pelvis
-- Perdarahan pasca plasenta (evaluasi kantung Douglas)
-contraindications:
-- Trombosis vena rektal akut/hemoroid trombosis berat
-- Fissura ani akut dengan nyeri hebat
-- Proktitis aktif/IBD flare
-- Post-operasi anorektal < 6 minggu
-- Koagulopati berat (risiko perdarahan rektal)
-- Pasien menolak prosedur
-equipment:
-- Sarung tangan steril (2 pasang)
-- Gel pelumas steril (KY jelly/Surgilube)
-- Kasa steril
-- Sabun antiseptik + air
-- Handuk kertas
-- Lampu pencahayaan (headlamp/lampu operasi)
-- Kursi persalinan/ranjang lithotomy
-medications:
-- Gel pelumas steril (KY jelly/Surgilube)
-- Lidokain 2% gel (opsional, anestesi lokal area perianal)
-prevention:
-- Persalinan aktif (active management of labor)
-- Monitoring partograf rutin
-- Deteksi dini presentasi abnormal
-- Antisepsis perineum adekuat
-references:
-- 'Cunningham FG, et al. Williams Obstetrics. 26th ed. Ch 17: Abnormal Labor'
-- WHO. Managing Complications in Pregnancy and Childbirth. 2017
-- POGI. Pedoman Pelayanan Persalinan. 2021
-- Buku Ajar Ilmu Kandungan Sarwono Prawirohardjo. Ed 5
-- 'ACOG Practice Bulletin No. 49: Dystocia and Augmentation of Labor'
+  - keterampilan
+  - persalinan
+  - skdi-3a
+level_kompetensi: 3A
+kategori: persalinan
+nomor_modul: 44
 aliases:
-- pemeriksaan rektal
-- rektal
-- palpasi rektum
-- pemeriksaan anus
-- rectal exam
+  - "Pemeriksaan Rektal"
+  - "Rektal Touche"
+  - "Palpasi Rektum"
+  - "Rektal Vagina Alternatif"
+  - "rectal exam"
+  - "pemeriksaan dubur"
+  - "rektal toucher"
+cssclasses:
+  - buku-saku
 ---
 
+# Pemeriksaan Rektal (Palpasi Kantung Douglas, Uterus, Adneksa)
 
-> [!IMPORTANT] **Kenapa Penting**
-> Pemeriksaan rektal adalah **alternatif vital** ketika pemeriksaan vagina (PV) relatif atau absolut kontraindikasi — misalnya perdarahan vagina masif sumber tidak jelas (placenta previa), infeksi vagina berat, atau pasien menolak PV. Prosedur ini memungkinkan **palpasi kantung Douglas** (deteksi darah beku/retensi plazenta), **evaluasi pembukaan serviks** (jarak jari telunjuk-jari tengah via rektum ≈ cm pembukaan), **taksiran presentasi janin** (kepala/bokong/anggota lain via palpatio rektal), serta **pelipis pelvis** (promontorium, spinesia iskia). Keterampilan ini **wajib dikuasai dokter umum di Puskesmas/RS Dasar** sebagai penyelamat kehidupan ibu-janin ketika PV tidak memungkinkan.
+> [!info] Level Kompetensi SKDI: 3A
+> Dokter umum harus mampu melakukan **pemeriksaan rektal** sebagai alternatif ketika pemeriksaan vagina (PV) kontraindikasi — misalnya perdarahan vagina masif, placenta previa, atau infeksi vagina berat. Pemeriksaan rektal memungkinkan palpasi kantung Douglas, evaluasi pembukaan serviks (secara estimasi), dan taksiran presentasi janin.
 
-> [!WARNING] **Peringatan Penting**
-> - **KONTRAINDIKASI ABSOLUT**: Trombosis hemoroid akut, fissura ani akut nyeri hebat, proktitis aktif, post-op anorektal <6 minggu, koagulopati berat (INR>3, trombosit<20k).
-> - **KONTRAINDIKASI RELATIF**: Pasien sangat cemas/menolak, obesitas morbid (sulit menjangkau), deformitas pelvis berat.
-> - **RISIKO**: Perdarahan rektal (hemoroid patah), perforasi rektum (sangat jarang, teknik kasar), infeksi (teknik aseptik longgar), nyeri hebat → reaksi vagal (hipotensi/bradikardi), trauma psikologis pasien.
-> - **BATASAN**: Tidak menggantikan PV penuh. Pembukaan serviks via rektal **kurang akurat** (±1-2 cm). Presentasi bokong sulit dibedakan dari kepala jika tidak berpengalaman. **Tidak bisa** evaluasi ketuban (pecah/utuh) langsung.
-> - **KONDISI WAJIB**: Sarung tangan steril, gel pelumas cukup, lighting baik, informed consent tertulis/lisan, pendamping wanita (chaperone).
+---
 
-> [!TIP] **Persiapan Alat & Bahan**
-> **Alat Utama:** Sarung tangan steril (2 pasang - ganti jika kontaminasi), gel pelumas steril (KY jelly/Surgilube) ±10-15 mL, kasa steril, handuk kertas, lampu pencahayaan (headlamp/lampu operasi portable).
-> **Alat Bantu:** Kursi persalinan/ranjang lithotomy dengan stirrup, timbangan/IV pole untuk IV line (jika perlu resusitasi), alat resusitasi neonatal (siaga).
-> **Persiapan Pasien:** Posisi litotomi (supin, lutut ditekuk, paha abdakusi), kosongkan kandung kemih (kateterisasi jika perlu), bersihkan area perianal dengan sabun antiseptik, draping steril, informed consent + chaperone (perempuan).
-> **Persiapan Operator:** Cuci tangan surgical, sarung tangan steril double (optional), gel lumuri jari telunjuk & tengah tangan dominan (biasanya kanan), jari manis & kelingking dikukuk (fisting position).
+## Kenapa Keterampilan Ini Penting
 
-> [!NOTE] **Langkah-Langkah Prosedur**
-> 1.  **Verifikasi Identitas & Indikasi**: Pastikan indikasi jelas (partus lama, evaluasi pembukaan/presentasi, contraindikasi PV). Jelaskan prosedur, risiko (nyeri, perdarahan rektal minor), dan dapatkan consent.
-> 2.  **Persiapan Pasien & Asepsis**: Pasien litotomi, kosongkan KK, bersihkan perianal povidon iodin 10% + alkohol 70%, draping steril. Posisi operator: duduk/kutang di sisi kiri pasien.
-> 3.  **Anestesi Lokal (Opsional)**: Aplikasi lidokain 2% gel pada bukaan anus ±2-3 mL, tunggu 2-3 menit. Kurangi nyeri & sfingter spasm.
-> 4.  **Pelumasan & Posisi Jari**: Lumuri jari telunjuk & tengah tangan dominan gel steril penuh. Jari manis & kelingking dikukuk. Jempol di samping.
-> 5.  **Masukkan Jari (Insersi)**: Tekan jari telunjuk & tengah ke bukaan anus dengan gerakan *rotasi pelan* (screw motion) sambil minta pasien *tenesmus/tarik napas dalam* → relaksasi sfingter ani eksternus. Masukkan hingga pangkal jari (≈5-7 cm).
-> 6.  **Palpasi Anterior (Kantung Douglas & Uterus)**: Arahkan ujung jari ke **anterior** (arah perut). Palpasi kantung Douglas (recessus rectouterinus) — teraba sebagai *cekungan lunak* di antara rektum posterior & uterus anterior. Catat: **cairan/darah beku** (fluktuasi), **massa** (retensi plazenta, miom), **ketuban utuh/pecah** (tidak bisa dipastikan via rektal).
-> 7.  **Evaluasi Serviks (Pembukaan & Penghapusan)**: Jari telunjuk di anterior serviks (via rektum), jari tengah di posterior serviks/vagina postero-lateral. Ukur **jarak antar ujung jari ≈ cm pembukaan**. Palpasi konsistensi serviks (keras/lembut), posisi (posterior/medial/anterior), penghapusan (%).
-> 8.  **Evaluasi Presentasi Janin**: Jika pembukaan ≥ 7 cm, palpasi bagian janin terendah via anterior rektum. **Kepala**: keras, bola, sutura & fontanela teraba. **Bokong**: lunak, tidak teraba sutura, *ischial tuberosity* teraba bilateral. **Transversal**: bahu/punggung teraba lateral.
-> 9.  **Evaluasi Pelipis Pelvis (Opsional)**: Jari telunjuk ke lateral kanan/kiri → palpasi *spina iskiadika* (prominen), *tuber iskium*, *promontorium* (jarang terjangkau). Taksu: *gynecoid/anthropoid/android/platypelloid*.
-> 10. **Evaluasi Ketuban (Indirect)**: Jika kepala teraba tinggi & ballotable → kemungkinan ketuban utuh. Jika kepala turun rapat & tidak ballotable → kemungkinan pecah. **Konfirmasi via PV/USG jika memungkinkan**.
-> 11. **Tarikan Jari & Inspeksi**: Tarik jari perlahan sambil rotasi. Periksa sarung tangan: darah segar (merah cerah) = perdarahan rektal/servikal; darah gelap/terbeku = kantung Douglas/retensi plazenta; mecunium = ketuban pecah >24 jam.
-> 12. **Dokumentasi & Tindak Lanjut**: Catat: pembukaan (cm), penghapusan (%), presentasi, posisi, station, pelipis, isi kantung Douglas, ketuban (estimasi), komplikasi prosedur. Keputusan: augmentasi oksitosin, sectio caesarea, persalinan vaginal (bokong/kepala), manual removal placenta.
+Pemeriksaan rektal adalah **alternatif vital** ketika PV relatif atau absolut kontraindikasi. Prosedur ini memungkinkan:
 
-> [!WARNING] **Interpretasi & Peringatan Kritis**
-> *   **PEMBUKAAN VIA REKTAL ≈ JARAK JARI TELUNJUK-JARI TENGAH (cm)** — Kurang presisi ±1-2 cm vs PV. Gunakan hanya jika PV **tidak bisa** dilakukan.
-> *   **KANTUNG DOUGLAS TERABA "CEKUNGAN LEMBAH" DI ANTERIOR REKTUM** — Cairan bebas/darah beku = fluktuasi positif. **Retensi plazenta** = massa keras tidak teratur di kantung Douglas.
-> *   **PRESENTASI BOKONG**: Tidak teraba sutura/fontanela, *ischial tuberosity* teraba 2 sisi, bentuk tidak bulat. **BEDAKAN DENGAN KEPALA** (keras, sutura, fontanela). Jika ragu → USG/sekunder PV.
-> *   **STATION JANIN**: Via rektal sulit menilai station pasti. Perkiraan: kepala teraba di atas promontorium = station -3 s.d. -1; kepala di spinesia = station 0; kepala di bawah spinesia = station +1 s.d. +3.
-> *   **PERDARAHAN REKTAL PASCA PROSEDUR**: Biasanya dari hemoroid patah. Tekan kasa 5-10 menit. Jika terus → anuskop/rujuk bedah.
-> *   **REAKSI VAGAL**: Nyeri hebat → bradikardi/hipotensi. Hentikan, Trendelenburg, atropin 0,5 mg IV jika perlu.
-> *   **KONTRAINDIKASI PV = INDIKASI REKTAL UTAMA**: Placenta previa, vasa previa, perdarahan vagina masif sumber tidak jelas, herpes genital aktif, pasien menolak PV kuat.
+1. **Palpasi kantung Douglas** — deteksi cairan bebas/darah beku (penanda perdarahan intraabdomen/retensi plasenta)
+2. **Evaluasi pembukaan serviks** — perkiraan via jarak jari telunjuk-jari tengah
+3. **Taksiran presentasi janin** — kepala/bokong/anggota lain via palpasi rektal
+4. **Palpasi pelipis pelvis** — promontorium, spina iskiadika
 
-> [!WARNING] **Kesalahan Sering Terjadi**
-> 1.  **MELAKUKAN REKTAL TANPA INDIKASI JELAS / SEBAGAI RUTIN** — PV tetap *gold standard*. Rektal hanya *alternatif* jika PV kontraindikasi.
-> 2.  **TIDAK MENGGUNAKAN GEL PELUMAS CUKUP** — Nyeri hebat, sfingter spasm, trauma mucosa rektal, pasien menolak prosedur lanjutan.
-> 3.  **JARI TIDAK MASUK CUKUP DALAM (HANYA 2-3 CM)** — Tidak menjangkau kantung Douglas/serviks. Harus sampai pangkal jari (±5-7 cm).
-> 4.  **MENGAKIRI JARAK JARI SEBAGAI PEMBUKAAN PASTI** — Akurasi ±1-2 cm. Jangan buat keputusan sektio hanya berdasarkan angka rektal.
-> 5.  **SALAH BEDA KEPALA vs BOKONG** — Bokong terasa lunak, tidak ada sutura. Jika ragu → USG/sekunder PV. Kesalahan = *breech delivery tidak terduga* → risiko locking kepala.
-> 6.  **TIDAK MEMPERIKSA KANTUNG DOUGLAS** — Lewatkan deteksi retensi plazenta/darah beku → PPH tersembunyi.
-> 7.  **TIDAK MENGGUNAKAN SARUNG TANGAN STERIL / DOUBLE GLOVING** — Risiko infeksi, kontaminasi feses ke jalur genital.
-> 8.  **TIDAK ADA CHAPERONE / CONSENT TIDAK DIDOKUMENTASIKAN** — Risiko medikolegal tinggi pada pemeriksaan intim.
-> 9.  **MENJANGKAU JARI KE LATERAL TANPA ARAH** — Harus sistematis: anterior (Douglas/serviks/janin) → lateral (pelipis) → posterior (rektum).
-> 10. **TIDAK MENCATAT HASIL LENGKAP** — Pembukaan, presentasi, station, pelipis, isi Douglas, ketuban. Dokumentasi tidak lengkap = tidak dilakukan.
+> [!warning] Pemeriksaan rektal **bukan pengganti PV** untuk penilaian rutin. Gunakan hanya jika PV memang kontraindikasi.
 
-> [!NOTE] **Dipakai Untuk Penyakit**
-> - [[64-kelainan-janin]]
-> - [[62-kelainan-letak-janin]]
-> - [[67-malpresentasi-intrapartal]]
-> - [[57-plasenta-previa]] (kontraindikasi PV → indikasi rektal)
-> - [[58-vasa-previa]] (kontraindikasi PV → indikasi rektal)
-> - [[59-abrupsio-plasenta]] (evaluasi kantung Douglas)
-> - [[55-pengambilan-plasenta-manual]] (evaluasi pasca)
-> - [[53-induksi-kimiawi-persalinan]] (evaluasi sebelum induksi)
+---
 
-> [!INFO] **Referensi**
-> 1. Cunningham FG, et al. Williams Obstetrics. 26th ed. Ch 17: Abnormal Labor; Ch 27: Operative Obstetrics.
-> 2. WHO. Managing Complications in Pregnancy and Childbirth. 2017.
-> 3. POGI. Pedoman Pelayanan Persalinan. 2021.
-> 4. Sarwono Prawirohardjo. Ilmu Kandungan. Ed 5. Jakarta: Yayasan Bina Pustaka Sarwono Prawirohardjo.
-> 5. ACOG Practice Bulletin No. 49: Dystocia and Augmentation of Labor.
-> 6. RCOG Green-top Guideline No. 26: Operative Vaginal Delivery.
+## Indikasi
+
+| Indikasi                              | Keterangan                                      |
+| ------------------------------------- | ----------------------------------------------- |
+| **Partus lama**                       | Prolongasi kala I/II — PV tidak nyaman/bahaya   |
+| **Placenta previa**                   | PV kontraindikasi — risiko perdarahan massif    |
+| **Vasa previa**                       | PV kontraindikasi                               |
+| **Infeksi vagina aktif**              | Herpes genital aktif, vaginitis berat           |
+| **Evaluasi kantung Douglas**          | Curiga perdarahan intraabdomen/retensi plasenta |
+| **Alternatif saat PV ditolak pasien** | Informed consent tetap diperlukan               |
+
+## Kontraindikasi
+
+| Kontraindikasi                    | Keterangan                     |
+| --------------------------------- | ------------------------------ |
+| Hemoroid trombosis akut           | Nyeri hebat, risiko perdarahan |
+| Fissura ani akut                  | Nyeri hebat, spasme sfingter   |
+| Proktitis aktif                   | Risiko penyebaran infeksi      |
+| Pasca-operasi anorektal <6 minggu | Gangguan penyembuhan luka      |
+| Koagulopati berat                 | Risiko perdarahan rektal       |
+| Pasien menolak                    | Informed consent mutlak        |
+
+---
+
+## Persiapan
+
+### Alat & Bahan
+
+| Item                          | Jumlah           | Keterangan                   |
+| ----------------------------- | ---------------- | ---------------------------- |
+| Sarung tangan steril          | 1-2 pasang       | Double gloving opsional      |
+| Gel pelumas steril (KY Jelly) | 5-10 mL          | Jangan pakai vaselin         |
+| Kasa steril                   | 3-5 lembar       | Bersihkan sisa pelumas/feses |
+| Lampu senter/headlamp         | 1                | Pencahayaan adekuat          |
+| Sabun antiseptik              | Sesuai kebutuhan | Pembersih area perianal      |
+
+### Persiapan Pasien
+
+| Langkah | Tindakan                                                     |
+| ------- | ------------------------------------------------------------ |
+| 1       | **Informed consent** — jelaskan prosedur, risiko, alternatif |
+| 2       | **Chaperone** — wajib ada pendamping wanita                  |
+| 3       | **Posisi litotomi** — berbaring, lutut ditekuk, paha dibuka  |
+| 4       | **Kosongkan kandung kemih** — minta BAK atau pasang kateter  |
+| 5       | **Bersihkan area perianal** — sabun antiseptik + air         |
+
+---
+
+## Langkah-Langkah
+
+1. **Persiapan Operator** — Cuci tangan, pakai sarung tangan steril. Oleskan gel pelumas pada jari telunjuk dan jari tengah tangan dominan.
+
+2. **Posisikan Pasien** — Litotomi. Minta pasien relaks dan napas panjang.
+
+3. **Insersi** — Letakkan bantalan jari telunjuk di anus, minta pasien mengejan (seperti BAB). Masukkan jari perlahan dengan gerakan memutar. Masukkan hingga ruas kedua.
+
+4. **Palpasi Anterior (Kantung Douglas)** — Arahkan ujung jari ke anterior. Palpasi dinding anterior rektum:
+   - **Kantung Douglas** — cekungan normal di anterior rektum
+   - **Cairan/darah beku** — fluktuasi positif, teraba sebagai massa kistik
+   - **Massa padat** — retensi plasenta, mioma, atau tumor
+
+5. **Palpasi Uterus & Serviks (via Rektal)** — Palpasi melalui dinding anterior rektum:
+   - **Serviks** — konsistensi (lunak ?keras?), posisi (posterior/mendatar/anterior)
+   - **Pembukaan serviks** — perkiraan jarak antar jari (cm)
+   - **Presentasi** — kepala (keras, sutura, fontanela) vs bokong (lunak, tidak ada sutura)
+
+6. **Palpasi Adneksa** — Palpasi dinding lateral rektum kanan dan kiri. Catat adanya massa, nyeri, atau fluktuasi.
+
+7. **Setelah Selesai** — Tarik jari perlahan. Periksa sarung tangan: darah (merah segar vs gelap), feses (warna, konsistensi), pus/mukus. Bersihkan area perianal dengan kasa.
+
+---
+
+## Interpretasi Hasil
+
+| Temuan                                        | Interpretasi                                                        |
+| --------------------------------------------- | ------------------------------------------------------------------- |
+| **Kantung Douglas teraba cekung normal**      | Tidak ada cairan berlebih                                           |
+| **Kantung Douglas teraba menonjol/fluktuasi** | Cairan bebas (darah? pus? asites?) — curiga KET ruptur/TOA/abrupsio |
+| **Dinding anterior teraba massa padat**       | Retensi plasenta? Mioma uteri?                                      |
+| **Pembukaan serviks via rektal**              | ±1-2 cm dari pembukaan sebenarnya                                   |
+| **Kepala teraba jelas dengan sutura**         | Presentasi kepala (vertex)                                          |
+| **Tidak ada sutura/fontanela**                | Presentasi bokong? Wajah?                                           |
+| **Spina iskiadika teraba tajam**              | Pelvis tipe android (sempit)                                        |
+
+> [!warning] Pemeriksaan rektal **kurang akurat** daripada PV. Jangan buat keputusan besar (seperti seksio sesarea) hanya berdasarkan angka pembukaan dari rektal jika PV masih memungkinkan.
+
+---
+
+## Kesalahan yang Sering Terjadi
+
+1. **Melakukan rektal tanpa indikasi jelas** — PV tetap gold standard
+2. **Tidak menggunakan cukup gel** — nyeri hebat, trauma mukosa rektal
+3. **Jari tidak masuk cukup dalam** — tidak mencapai kantung Douglas; minimal hingga ruas kedua/seluruh jari telunjuk
+4. **Salah membedakan kepala vs bokong** — bokong terasa lunak, tidak ada sutura; konfirmasi dengan USG jika ragu
+5. **Tidak memeriksa sarung tangan setelah ditarik** — informasi diagnostik penting hilang
+6. **Tidak ada chaperone** — risiko medikolegal tinggi pada pemeriksaan area intim
+7. **Menganggap angka pembukaan rektal presisi** — akurasi ±1-2 cm
+
+---
+
+## Dipakai Untuk Penyakit Apa Saja
+
+- [[62-kelainan-letak-janin|Kelainan Letak Janin]]
+- [[67-malpresentasi-intrapartal|Malpresentasi Intrapartal]]
+- [[57-plasenta-previa|Plasenta Previa]] (kontraindikasi PV → rektal sebagai alternatif)
+- [[45-perdarahan-postpartum|Perdarahan Postpartum]] (evaluasi kantung Douglas)
+- [[55-pengambilan-plasenta-manual|Pengambilan Plasenta Manual]] (evaluasi pasca)
+
+---
+
+## Referensi
+
+1. **Cunningham FG, et al.** _Williams Obstetrics._ 26th ed. Ch 17: Abnormal Labor.
+2. **WHO.** _Managing Complications in Pregnancy and Childbirth._ 2017.
+3. **POGI.** (2021). _Pedoman Pelayanan Persalinan._
+4. **Sarwono Prawirohardjo.** _Ilmu Kandungan._ Ed. 5. Jakarta: Yayasan Bina Pustaka Sarwono Prawirohardjo.

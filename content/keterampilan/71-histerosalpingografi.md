@@ -1,73 +1,90 @@
 ---
-title: Histerosalpingografi (HSG)
+title: "Histerosalpingografi (HSG)"
 tags:
-- keterampilan
-- ginekologi-dasar
-- skdi-1
+  - keterampilan
+  - ginekologi-dasar
+  - skdi-1
 level_kompetensi: 1
 kategori: ginekologi-dasar
 nomor_modul: 71
 aliases:
-- HSG
-- Histerosalpingografi
-- Rontgen Rahim & Tuba
-- hsg
-- histerosalpingografi
-- rontgen rahim tuba
-- cek tuba rontgen
-- histerosalpingogram
+  - "HSG"
+  - "Histerosalpingografi"
+  - "Rontgen Rahim & Tuba"
+  - "hsg"
+  - "histerosalpingografi"
+  - "rontgen rahim tuba"
+  - "cek tuba rontgen"
+  - "histerosalpingogram"
+  - "hysterosalpingography"
 cssclasses:
-- buku-saku
+  - buku-saku
 ---
------|---------|
-| **Rongga uterus normal** (segitiga terbalik, dinding halus) | Normal |
-| **Septum uterus** | Indentasi tengah ke bawah > 1 cm, angle > 90° |
-| **Uterus bikornis** | Dua rongga terpisah, fundus bercabang |
-| **Adhesi intrauterin (Asherman)** | Defek filling (lucutan) di rongga uterus |
-| **Mioma submukosa** | Defek filling bulat/oval di dinding |
-| **Tuba paten (bilateral spill)** | Kontras keluar bebas ke peritoneum — **NORMAL** |
-| **Tuba tidak paten (proksimal)** | Kontras tidak masuk tuba (block di isthmus/interstisial) |
-| **Tuba tidak paten (distal / fimbrial)** | Tuba terlihat dilatasi (hydrosalpinx), TIDAK ada spill |
-| **Hydrosalpinx** | Tuba dilatasi besar, ujung tertutup, tidak spill |
-| **Peritubal adhesi** | Spill ada tapi terbatas/terikat, kontras tidak clearance cepat |
+
+# Histerosalpingografi (HSG)
+
+> [!info] Level Kompetensi SKDI: 1
+> HSG dilakukan oleh **dokter spesialis (SpOG/Radiolog)**. Dokter umum harus mampu memahami **indikasi, interpretasi hasil, dan kontraindikasi** HSG serta melakukan rujukan yang tepat untuk pasien infertilitas.
+
+---
+
+## Temuan HSG & Interpretasi
+
+| Temuan HSG                                              | Interpretasi                                             |
+| ------------------------------------------------------- | -------------------------------------------------------- |
+| Rongga uterus normal (segitiga terbalik, dinding halus) | Normal                                                   |
+| Septum uterus                                           | Indentasi tengah >1 cm, angle >90°                       |
+| Uterus bikornis                                         | Dua rongga terpisah, fundus bercabang                    |
+| Adhesi intrauterin (Asherman)                           | Defek filling difus di rongga uterus                     |
+| Mioma submukosa                                         | Defek filling bulat/oval di dinding                      |
+| Tuba paten (bilateral spill)                            | Kontras keluar bebas ke peritoneum — **NORMAL**          |
+| Tuba tidak paten (proksimal)                            | Kontras tidak masuk tuba (block di isthmus/interstisial) |
+| Tuba tidak paten (distal/fimbrial)                      | Tuba dilatasi (hidrosalpinx), TIDAK ada spill            |
+| Hidrosalpinx                                            | Tuba dilatasi besar, ujung tertutup, tidak spill         |
+| Adhesi peritubal                                        | Spill ada tapi terbatas, kontras tidak clearance cepat   |
 
 > [!warning] Red Flag
-> **False positive block proksimal** — spasm tuba! Bisa diberi spasmolitik (hyoscin butilbromida 20 mg IV / nitroglycerin sublingual) lalu ulang suntikan.
-> **False negative patensi** — kontras tekanan tinggi bisa "membuka" block proksimal / fimbrial longgar. Korelasikan dengan laparoskopi.
-> **Radiasi:** Dosis gonadal ~ 1-2 mSv (rendah), tapi HINDARI kehamilan.
+> **False positive block proksimal** — spasme tuba! Beri spasmolitik (hyoscin butilbromida 20 mg IV / nitrogliserin sublingual), lalu ulang suntikan.
+> **False negative patensi** — kontras bertekanan tinggi bisa "membuka" block proksimal. Korelasikan dengan laparoskopi.
+> **Radiasi:** Dosis gonadal ~1-2 mSv (rendah), tapi **HINDARI jika hamil**.
+
+---
 
 ## Komplikasi
 
-- **Nyeri kram** (90%) — biasanya ringan-sedang, < 30 menit
-- **Vasovagal** (hipotensi, bradikardia, pusing) — 5-10%
-- **Infeksi / PID** — 1-3% (lebih tinggi jika PID baseline)
-- **Perforasi uterus** (jarang, < 0,1%) — kanul terlalu dalam
-- **Reaksi alergi kontras** — < 0,5%
-- **Radiasi** — minimal, tapi kontraindikasi kehamilan
+| Komplikasi                        | Frekuensi | Penanganan                               |
+| --------------------------------- | --------- | ---------------------------------------- |
+| Nyeri kram                        | 90%       | Biasanya ringan-sedang, <30 menit        |
+| Vasovagal (hipotensi, bradikardi) | 5-10%     | Posisi Trendelenburg, atropin jika perlu |
+| Infeksi / PID                     | 1-3%      | Lebih tinggi jika PID baseline           |
+| Perforasi uterus                  | <0,1%     | Kanul terlalu dalam                      |
+| Reaksi alergi kontras             | <0,5%     | Antihistamin, steroid                    |
+| Radiasi                           | Minimal   | Kontraindikasi kehamilan                 |
+
+---
 
 ## Ringkasan untuk Dokter Umum
 
-1. HSG = evaluasi **kelangsungan tuba + morfologi uterus** untuk infertilitas
-2. Waktu: **Hari 7-10 siklus** (pra-ovulasi)
-3. Kontras iodin water-soluble, fluoroscopy real-time
-4. **Paten = spill bilateral ke peritoneum**
-5. Block proksimal = spasm seringkali → ulang pakai spasmolitik
-6. Hydrosalpinx = tuba besar, tidak spill → IVF biasanya
-6. Risiko infeksi → screening GC/CT dulu, doksisiklin profilaksis
-7. Bukan tindakan dokter umum — rujuk SpOG / Radiolog
+1. HSG = evaluasi **patensi tuba + morfologi uterus** untuk infertilitas
+2. Waktu: **hari ke 7-10 siklus** (pra-ovulasi, setelah haid selesai)
+3. Kontras: iodin water-soluble, dengan panduan fluoroskopi real-time
+4. **Paten = spill bilateral kontras ke peritoneum**
+5. Block proksimal sering karena spasme — ulangi dengan spasmolitik
+6. Hidrosalpinx = tuba besar, tidak spill → biasanya perlu IVF
+7. Skrining GC/CT sebelum HSG + doksisiklin profilaksis
+8. Bukan tindakan dokter umum — **rujuk ke SpOG/Radiolog**
+
+---
 
 ## Keterampilan Terkait
 
-- [[72-peniupan-tuba-fallopi]]
-- [[73-inseminasi-artifisial]]
-- [[15-identifikasi-kehamilan-risiko-tinggi]]
-- [[48-uji-paska-koitus]]
+- [[72-peniupan-tuba-fallopi|Peniupan Tuba Fallopi (Rubin Test)]]
+- [[73-inseminasi-artifisial|Inseminasi Artifisial]]
 
 ## Referensi
 
-1. ACOG Practice Bulletin No. 156: Hysterosalpingography. 2015
-2. ASRM Guidelines for HSG. 2019
-3. POGI. Pedoman Infertilitas. 2018
-4. Radiology Key: Hysterosalpingography. 2020
-5. Sarwono Prawirohardjo. Ilmu Kandungan. 2018
-6. Kemenkes RI. Standar Pelayanan Radiologi. 2019
+1. **ACOG.** (2015). _Practice Bulletin No. 156: Hysterosalpingography._
+2. **ASRM.** (2019). _Guidelines for HSG._
+3. **POGI.** (2018). _Pedoman Infertilitas._
+4. **Sarwono Prawirohardjo.** (2018). _Ilmu Kandungan._
+5. **Kemenkes RI.** (2019). _Standar Pelayanan Radiologi._
