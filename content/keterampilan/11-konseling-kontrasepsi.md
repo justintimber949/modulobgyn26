@@ -182,19 +182,19 @@ Konseling kontrasepsi adalah **fondasi utama program KB** — bukan sekadar "mem
 
 ## Dipakai Untuk Penyakit Apa Saja
 
-- Sindrom Duh Genital — konseling KB pasca pengobatan IMS
-- Vulvitis / Vaginitis / Vaginosis Bakterialis — konseling KB saat infeksi (hindari IUD saat infeksi aktif)
-- Salpingitis/PID — konseling KB pasca PID (risiko infertilitas, IUD relatif aman jika sudah sembuh)
-- Kista/Abses Bartolini — konseling KB pasca operasi
-- Infertilitas — konseling pra-konsepsi & spacing
-- Baby Blues/PPD — konseling KB pasca melahirkan (LAM, POP, IUD pasca plasenta, implan)
-- Servisitis — konseling KB saat infeksi serviks
-- Aborsi Mengancam / Aborsi Inkomplit / Aborsi Komplit — **KB pasca aborsi segera (IUD pasca aborsi, implan, suntik, pil)** — efektivitas tertinggi jika dipasang <48 jam
-- Retensio Plasenta / PPH — konseling KB pasca darurat
-- Toksoplasmosis / Herpes / Mola Hidatidosa — konseling KB pasca penyakit spesifik
-- Hipertensi Kehamilan / DM Gestasional / [[53-diabetes-gestasional|DM Pra-gestasional] — konseling KB untuk penyakit kronik (MEC checking wajib)
-- Menopause — konseling KB perimenopause (transisi ke non-hormonal)
-- Ginekomastia / Gangguan Ereksi / Gangguan Ejakulasi — konseling KB pria (kondom, vasektomi)
+- [[01-sindrom-duh-genital|Sindrom Duh Genital]] — konseling KB pasca pengobatan IMS
+- [[03-vulvitis|Vulvitis]] / [[04-vaginitis|Vaginitis]] / [[05-vaginosis-bakterialis|Vaginosis Bakterialis]] — konseling KB saat infeksi (hindari IUD saat infeksi aktif)
+- [[06-salpingitis|Salpingitis/PID]] — konseling KB pasca PID (risiko infertilitas, IUD relatif aman jika sudah sembuh)
+- [[19-kista-abses-bartolini|Kista/Abses Bartolini]] — konseling KB pasca operasi
+- [[25-infertilitas|Infertilitas]] — konseling pra-konsepsi & spacing
+- [[26-baby-blues-postpartum-depression|Baby Blues/PPD]] — konseling KB pasca melahirkan (LAM, POP, IUD pasca plasenta, implan)
+- [[27-servisitis|Servisitis]] — konseling KB saat infeksi serviks
+- [[32-aborsi-mengancam|Aborsi Mengancam]] / [[33-aborsi-inkomplit|Aborsi Inkomplit]] / [[08-aborsi-spontan-komplit|Aborsi Komplit]] — **KB pasca aborsi segera (IUD pasca aborsi, implan, suntik, pil)** — efektivitas tertinggi jika dipasang <48 jam
+- [[43-retensio-plasenta|Retensio Plasenta]] / [[45-perdarahan-postpartum|PPH]] — konseling KB pasca darurat
+- [[49-toksoplasmosis|Toksoplasmosis]] / [[50-herpes-simpleks-tipe-2|Herpes]] / [[51-mola-hidatidosa|Mola Hidatidosa]] — konseling KB pasca penyakit spesifik
+- [[52-hipertensi-kehamilan|Hipertensi Kehamilan]] / [[53-diabetes-gestasional|DM Gestasional]] / [[53-diabetes-gestasional|DM Pra-gestasional]] — konseling KB untuk penyakit kronik (MEC checking wajib)
+- [[74-menopause|Menopause]] — konseling KB perimenopause (transisi ke non-hormonal)
+- [[83-ginekomastia|Ginekomastia]] / [[84-gangguan-ereksi|Gangguan Ereksi]] / [[85-gangguan-ejakulasi|Gangguan Ejakulasi]] — konseling KB pria (kondom, vasektomi)
 
 ---
 

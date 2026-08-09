@@ -218,16 +218,16 @@ Keterampilan ini adalah **kompetensi wajib SKDI Level 3** untuk dokter Puskesmas
 
 ## Dipakai Untuk Penyakit
 
-- Diabetes Gestasional — Polihidramnios, Makrosomia, Screening Anomali Jantung/Neural
-- Insufisiensi Plasenta — IUGR (Asimetri AC), Oligohidramnios, Doppler UA/UV
-- Kehamilan Posterm — Oligohidramnios, Makrosomia, Skor BPP, Plasenta Grado III
-- Plasenta Previa — Lokasi Plasenta menutupi OS, Grado, Vasa Previa
-- Vasa Previa — Vasa lintas membran di depan presenting part (Color Doppler)
-- Kehamilan Ganda — Korialitas (Lambda/T-sign), Amnionisitas, TTTS, sIUGR, TAPS
-- [[87-malformasi-kongenital-umum] — Screening Anomali Struktural (Level 1), Rujuk Level 2/3
-- Polihidramnion — AFI > 25, Etiologi (DM, Anomali, Isoimun, Idiopatik)
-- Inkompeten Serviks — Panjang Serviks Transvaginal (jika probe transvaginal tersedia)
-- Kehamilan Ektopik — **Konfirmasi INTRAUTERIN** (eksklusi ektopik) — _Life Saving_
+- [[53-diabetes-gestasional]] — Polihidramnios, Makrosomia, Screening Anomali Jantung/Neural
+- [[55-insufisiensi-plasenta]] — IUGR (Asimetri AC), Oligohidramnios, Doppler UA/UV
+- [[54-kehamilan-posterm]] — Oligohidramnios, Makrosomia, Skor BPP, Plasenta Grado III
+- [[57-plasenta-previa]] — Lokasi Plasenta menutupi OS, Grado, Vasa Previa
+- [[58-vasa-previa]] — Vasa lintas membran di depan presenting part (Color Doppler)
+- [[63-kehamilan-ganda]] — Korialitas (Lambda/T-sign), Amnionisitas, TTTS, sIUGR, TAPS
+- [[62-kelainan-letak-janin]] — Screening Anomali Struktural (Level 1), Rujuk Level 2/3
+- [[61-polihidramnion]] — AFI > 25, Etiologi (DM, Anomali, Isoimun, Idiopatik)
+- [[60-inkompeten-serviks]] — Panjang Serviks Transvaginal (jika probe transvaginal tersedia)
+- [[75-kehamilan-ektopik]] — **Konfirmasi INTRAUTERIN** (eksklusi ektopik) — _Life Saving_
 
 ---
 
@@ -250,6 +250,6 @@ Keterampilan ini adalah **kompetensi wajib SKDI Level 3** untuk dokter Puskesmas
 >
 > - Modul ke-46 — Buku Saku Obgyn: Keterampilan Antenatal
 > - Level SKDI: 3 (Mampu USG Perabdominal Basic: Dating, Presentasi, Plasenta, AFI, Biometri, Screening Anomali Level 1)
-> - Wajib wikilink: Diabetes Gestasional, Insufisiensi Plasenta, Plasenta Previa, Kehamilan Ganda, Kehamilan Ektopik
+> - Wajib wikilink: [[53-diabetes-gestasional]], [[55-insufisiensi-plasenta]], [[57-plasenta-previa]], [[63-kehamilan-ganda]], [[75-kehamilan-ektopik]]
 > - Disusun berdasarkan ISUOG, ACOG, SMFM, POGI, Kemenkes
 > - Revisi terakhir: Juli 2026

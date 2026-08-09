@@ -173,12 +173,12 @@ cssclasses:
 
 ## Dipakai Untuk Penyakit
 
-- Polikistik Ovarium — Infertilitas anovulasi, evaluasi faktor servikal sekunder
-- Endometriosis — Infertilitas endometriosis, evaluasi faktor servikal tambahan
-- Ginekomastia / Gangguan Ereksi / Gangguan Ejakulasi — Faktor suami, tapi PCT evaluasi interaksi
-- Herpes Simpleks Tipe — Infeksi serviks → mukus abnormal
-- [[11-konseling-kontrasepsi] — Edukasi fisiologi mukus serviks (metode Billings/Creighton)
-- Suntik Kb / [[12-insersi-ekstraksi-iud] / Pil Kb — KB hormonal pengaruh mukus serviks
+- [[91-polikistik-ovarium]] — Infertilitas anovulasi, evaluasi faktor servikal sekunder
+- [[73-endometriosis]] — Infertilitas endometriosis, evaluasi faktor servikal tambahan
+- [[83-ginekomastia]] / [[84-gangguan-ereksi]] / [[85-gangguan-ejakulasi]] — Faktor suami, tapi PCT evaluasi interaksi
+- [[50-herpes-simpleks-tipe-2]] — Infeksi serviks → mukus abnormal
+- [[11-konseling-kontrasepsi]] — Edukasi fisiologi mukus serviks (metode Billings/Creighton)
+- [[13-suntik-kb]] / [[12-insersi-ekstraksi-iud]] / [[13-suntik-kb]] — KB hormonal pengaruh mukus serviks
 
 ---
 
@@ -201,6 +201,6 @@ cssclasses:
 >
 > - Modul ke-48 — Buku Saku Obgyn: Keterampilan Ginekologi Dasar
 > - Level SKDI: 3 (Mampu indikasi, eksekusi, interpretasi PCT - dengan pemahaman keterbatasan bukti)
-> - Wajib wikilink: Polikistik Ovarium, Endometriosis, [[11-konseling-kontrasepsi]
+> - Wajib wikilink: [[91-polikistik-ovarium]], [[73-endometriosis]], [[11-konseling-kontrasepsi]]
 > - Disusun berdasarkan ASRM/ESHRE/NICE/WHO/POGI Guidelines
 > - Revisi terakhir: Juli 2026

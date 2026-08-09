@@ -211,7 +211,7 @@ Ny. Sari, 28 tahun, G1P0A1, riwayat **mola hidatidosa 6 bulan lalu (kuretase, hi
 - Histeroskopi Diagnostik
 - Histeroskopi Terapeutik
 - Histerektomi Total
-- [[76-karsinoma-serviks]
+- [[76-karsinoma-serviks]]
 - Karsinoma Endometrium
 - Karsinoma Ovarium
 

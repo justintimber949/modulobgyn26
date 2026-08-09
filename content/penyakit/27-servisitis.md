@@ -176,12 +176,12 @@ Diagnosis **dibuat klinis** jika:
 
 ## Keterampilan Terkait
 
-- Pemeriksaan Spekulum
-- Melakukan Swab Vagina
-- Melakukan Paps Smear
-- Pemeriksaan Iva
-- [[48-uji-pasca-koitus]
-- [[49-electro-cryocoagulation-cervix]
+- [[03-pemeriksaan-spekulum]]
+- [[05-melakukan-swab-vagina]]
+- [[06-melakukan-paps-smear]]
+- [[07-pemeriksaan-iva]]
+- [[48-uji-pasca-koitus]]
+- [[49-electro-cryocoagulation-cervix]]
 
 ## Referensi
 

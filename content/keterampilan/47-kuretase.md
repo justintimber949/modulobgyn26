@@ -197,14 +197,14 @@ Keterampilan **dilatasi bertahap (Hegar/Pratt), kuretase tajam vs tumpul (sharp 
 
 ## Dipakai Untuk Penyakit
 
-- Hiperplasia Endometrium — Diagnostik (biopsi/kuretase) & Terapeutik (pengangkatan)
-- Karsinoma Endometrium — Staging klinis, biopsi inkisional (jika histeroskopi tdk ada)
-- Fibrokista Payudara — _Tidak langsung, tapi AUB perimenopause perlu D&C eksklusi endometrium_
-- Mola Hidatidosa — Evakuasi molar (terapeutik) + histopat + follow-up hCG
-- Abrupsio Plasenta / Pengambilan Plasenta Manual — Retensio plasenta (terapeutik)
-- Kehamilan Ektopik — **KONTRAINDIKASI D&C** (kecuali dikombinasi laparoskopi/rujukan). D&C hanya untuk eksklusi heterotopic (jarang).
-- Suntik Kb / [[12-insersi-ekstraksi-iud] — AUB pada pemakai KB → D&C diagnostik
-- Resusitasi Cairan Ibu — Manajemen PPH sekunder retensio plasenta (kuretase darurat)
+- [[90-hiperplasia-endometrium]] — Diagnostik (biopsi/kuretase) & Terapeutik (pengangkatan)
+- [[92-karsinoma-endometrium]] — Staging klinis, biopsi inkisional (jika histeroskopi tdk ada)
+- [[80-fibrokista-payudara]] — _Tidak langsung, tapi AUB perimenopause perlu D&C eksklusi endometrium_
+- [[51-mola-hidatidosa]] — Evakuasi molar (terapeutik) + histopat + follow-up hCG
+- [[59-abrupsio-plasenta]] / [[55-pengambilan-plasenta-manual]] — Retensio plasenta (terapeutik)
+- [[75-kehamilan-ektopik]] — **KONTRAINDIKASI D&C** (kecuali dikombinasi laparoskopi/rujukan). D&C hanya untuk eksklusi heterotopic (jarang).
+- [[13-suntik-kb]] / [[12-insersi-ekstraksi-iud]] — AUB pada pemakai KB → D&C diagnostik
+- [[45-perdarahan-postpartum]] — Manajemen PPH sekunder retensio plasenta (kuretase darurat)
 
 ---
 
@@ -227,6 +227,6 @@ Keterampilan **dilatasi bertahap (Hegar/Pratt), kuretase tajam vs tumpul (sharp 
 >
 > - Modul ke-47 — Buku Saku Obgyn: Keterampilan Ginekologi Dasar
 > - Level SKDI: 3 (Mampu D&C Diagnostik & Terapeutik, Dilatasi Bertahap, Kuretase Sistematis, MVA)
-> - Wajib wikilink: Hiperplasia Endometrium, Karsinoma Endometrium, Mola Hidatidosa, Pengambilan Plasenta Manual
+> - Wajib wikilink: [[90-hiperplasia-endometrium]], [[92-karsinoma-endometrium]], [[51-mola-hidatidosa]], [[55-pengambilan-plasenta-manual]]
 > - Disusun berdasarkan WHO, ACOG, IPAS, POGI, Kemenkes
 > - Revisi terakhir: Juli 2026

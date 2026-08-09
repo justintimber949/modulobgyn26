@@ -156,16 +156,16 @@ Ny. Dewi, 48 tahun, G2P2A0, perimenopause (siklus tidak teratur 2-6 bln). Keluha
 
 ## Keterampilan Terkait
 
-- Pemeriksaan Usg Obstetri
-- 5tri
-- Kolposkopi
-- Laparoskopi Diagnostik
-- Laparoskopi Terapeutik
-- Histeroskopi Diagnostik
-- Histeroskopi Terapeutik
-- Histerektomi Total
-- Histerektomi Radikal
-- [[92-karsinoma-endometrium]
+- [[25-pemeriksaan-usg-obstetri]]
+- [[25-pemeriksaan-usg-obstetri]]
+- [[58-kolposkopi]]
+- [[59-laparoskopi-diagnostik]]
+- [[61-laparoskopi-terapeutik]]
+- [[58-kolposkopi]]
+- [[61-laparoskopi-terapeutik]]
+- [[70-operasi-caesar]]
+- [[70-operasi-caesar]]
+- [[92-karsinoma-endometrium]]
 
 ## Referensi
 

@@ -175,12 +175,12 @@ Ny. Dewi, 30 tahun, G0P0A0, keluhan: **dysmenorrhea progresif seitan 3 tahun** (
 
 ## Keterampilan Terkait
 
-- Pemeriksaan Usg Obstetri
-- Laparoskopi Diagnostik
-- Laparoskopi Terapeutik
-- Kehamilan Ganda
-- [[87-malformasi-kongenital-umum]
-- Iufd
+- [[25-pemeriksaan-usg-obstetri]]
+- [[59-laparoskopi-diagnostik]]
+- [[61-laparoskopi-terapeutik]]
+- [[63-kehamilan-ganda]]
+- [[62-kelainan-letak-janin]]
+- [[65-iufd]]
 
 ## Referensi
 

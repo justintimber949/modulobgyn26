@@ -232,16 +232,16 @@ Keterampilan ini membedakan dokter umum yang **mampu skrining awal kanker gineko
 
 ## Dipakai Untuk Penyakit
 
-- Karsinoma Serviks — Staging FIGO 2018 (Parametrium IIB, Vagina IIIA, Rektum/Vejiga IVA, Douglas IIIC)
-- Endometriosis — Endometriosis Mendalam (DIE): Septum Rectovaginal, Lig. Uterosakral, Torus Uterinus
-- Hiperplasia Endometrium — Evaluasi invasi miometrium / adneksa (pre-op histerektomi)
-- Karsinoma Endometrium — Staging klinis (Douglas, parametrium, adneksa)
-- Karsinoma Ovarium — Evaluasi kantung Douglas (metastasis), fixed adneksa, ascites
-- Inkontinensia Urine / Kistokel / Rektokel — Evaluasi defek fasia simultan (anterior/apical/posterior)
-- Kehamilan Ektopik — Evaluasi massa adneksa, cairan Douglas (hemoperitoneum)
-- Fistula — Evaluasi fistula vesikovaginal/rektovaginal (lokasi, ukuran, jaringan sekitar)
-- Mola Hidatidosa — Evaluasi uterus besar, theca lutein kista, invasif (Ca Cx-like)
-- Suntik Kb / [[12-insersi-ekstraksi-iud] — Evaluasi posisi uterus, mobilitas, kelainan anatomi pre-insersi
+- [[76-karsinoma-serviks]] — Staging FIGO 2018 (Parametrium IIB, Vagina IIIA, Rektum/Vejiga IVA, Douglas IIIC)
+- [[73-endometriosis]] — Endometriosis Mendalam (DIE): Septum Rectovaginal, Lig. Uterosakral, Torus Uterinus
+- [[90-hiperplasia-endometrium]] — Evaluasi invasi miometrium / adneksa (pre-op histerektomi)
+- [[92-karsinoma-endometrium]] — Staging klinis (Douglas, parametrium, adneksa)
+- [[93-karsinoma-ovarium]] — Evaluasi kantung Douglas (metastasis), fixed adneksa, ascites
+- [[69-inkontinensia-urine]] / [[88-kistokel]] / [[89-rektokel]] — Evaluasi defek fasia simultan (anterior/apical/posterior)
+- [[75-kehamilan-ektopik]] — Evaluasi massa adneksa, cairan Douglas (hemoperitoneum)
+- [[71-fistula]] — Evaluasi fistula vesikovaginal/rektovaginal (lokasi, ukuran, jaringan sekitar)
+- [[51-mola-hidatidosa]] — Evaluasi uterus besar, theca lutein kista, invasif (Ca Cx-like)
+- [[13-suntik-kb]] / [[12-insersi-ekstraksi-iud]] — Evaluasi posisi uterus, mobilitas, kelainan anatomi pre-insersi
 
 ---
 
@@ -264,6 +264,6 @@ Keterampilan ini membedakan dokter umum yang **mampu skrining awal kanker gineko
 >
 > - Modul ke-45 — Buku Saku Obgyn: Keterampilan Ginekologi Dasar
 > - Level SKDI: 3 (Mampu melakukan pemeriksaan combined recto-vaginal terstruktur)
-> - Wajib wikilink: Karsinoma Serviks, Endometriosis, Kistokel, Rektokel
+> - Wajib wikilink: [[76-karsinoma-serviks]], [[73-endometriosis]], [[88-kistokel]], [[89-rektokel]]
 > - Disusun berdasarkan FIGO 2018, RCOG/ESHRE/ACOG Guidelines, POGI Pedoman
 > - Revisi terakhir: Juli 2026

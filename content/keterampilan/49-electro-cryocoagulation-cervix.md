@@ -193,11 +193,11 @@ Keterampilan **seleksi pasien (eksklusi invasif via kolposkopi/biopsi), teknik a
 
 ## Dipakai Untuk Penyakit
 
-- Karsinoma Serviks — **CIN 1-2 (Pra-kanker)**, _Bukan_ Kanker Invasif (Staging & Terapi Berbeda)
-- Hiperplasia Endometrium — _Tidak langsung, tapi screening serviks bersamaan_
-- Herpes Simpleks Tipe — Erosio/Ulserasi HSV (Kontraindikasi ablasi saat aktif)
-- Fibrokista Payudara — _Screening serviks rutin bersamaan_
-- [[11-konseling-kontrasepsi] — Edukasi vaksinasi HPV & Pap Smear berkala
+- [[76-karsinoma-serviks]] — **CIN 1-2 (Pra-kanker)**, _Bukan_ Kanker Invasif (Staging & Terapi Berbeda)
+- [[90-hiperplasia-endometrium]] — _Tidak langsung, tapi screening serviks bersamaan_
+- [[50-herpes-simpleks-tipe-2]] — Erosio/Ulserasi HSV (Kontraindikasi ablasi saat aktif)
+- [[80-fibrokista-payudara]] — _Screening serviks rutin bersamaan_
+- [[11-konseling-kontrasepsi]] — Edukasi vaksinasi HPV & Pap Smear berkala
 
 ---
 
@@ -220,6 +220,6 @@ Keterampilan **seleksi pasien (eksklusi invasif via kolposkopi/biopsi), teknik a
 >
 > - Modul ke-49 — Buku Saku Obgyn: Keterampilan Ginekologi Dasar
 > - Level SKDI: 3 (Mampu Elektro/Kriokoagulasi Serviks: Seleksi Pasien, Teknik, Follow-up)
-> - Wajib wikilink: Karsinoma Serviks, [[11-konseling-kontrasepsi]
+> - Wajib wikilink: [[76-karsinoma-serviks]], [[11-konseling-kontrasepsi]]
 > - Disusun berdasarkan WHO, ACOG, POGI, Kemenkes
 > - Revisi terakhir: Juli 2026

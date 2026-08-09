@@ -143,13 +143,13 @@ Ny. Sari, 32 tahun, G2P1A0, usia kehamilan 30 minggu. Keluhan: perut cepat besar
 
 ## Keterampilan Terkait
 
-- Pemeriksaan Usg Obstetri
-- Pemeriksaan Usg Obstetri
-- Diabetes Gestasional
-- [[53-induksi-kimiawi-persalinan]
-- Operasi Caesar
-- Perdarahan Postpartum
-- Resusitasi Neonatal
+- [[25-pemeriksaan-usg-obstetri]]
+- [[64-amniosentesis]]
+- [[53-diabetes-gestasional]]
+- [[53-induksi-kimiawi-persalinan]]
+- [[70-operasi-caesar]]
+- [[45-perdarahan-postpartum]]
+- [[74-resusitasi-neonatal]]
 
 ## Referensi
 

@@ -166,11 +166,11 @@ Ny. Ani, 38 tahun, G2P2A0, keluhan "tidak tahan BAB saat urgency, kadang bocor g
 
 ## Keterampilan Terkait
 
-- Pemeriksaan Bimanual
-- Menilai Lochia
-- [[60-insersi-pesarium]
-- [[49-electro-cryocoagulation-cervix]
-- Fistula
+- [[04-pemeriksaan-bimanual]]
+- [[43-menilai-lochia]]
+- [[60-insersi-pesarium]]
+- [[49-electro-cryocoagulation-cervix]]
+- [[71-fistula]]
 
 ## Referensi
 

@@ -188,16 +188,16 @@ Ny. Rina, 24 tahun, G0, keluhan: **tidak haid 3-4 bln (oligomenorea), jerawat be
 
 ## Keterampilan Terkait
 
-- Pemeriksaan Usg Obstetri
-- Kolposkopi
-- [[62-insisi-abses-lainnya]
-- Amniosentesis
-- Chorionic Villus Sampling
-- Histeroskopi Diagnostik
-- Histeroskopi Terapeutik
-- Operasi Caesar
-- Hiperplasia Endometrium
-- [[92-karsinoma-endometrium]
+- [[25-pemeriksaan-usg-obstetri]]
+- [[58-kolposkopi]]
+- [[62-insisi-abses-lainnya]]
+- [[64-amniosentesis]]
+- [[65-chorionic-villus-sampling]]
+- [[58-kolposkopi]]
+- [[61-laparoskopi-terapeutik]]
+- [[70-operasi-caesar]]
+- [[90-hiperplasia-endometrium]]
+- [[92-karsinoma-endometrium]]
 
 ## Referensi
 

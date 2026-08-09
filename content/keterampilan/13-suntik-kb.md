@@ -49,7 +49,7 @@ Namun, beberapa kelemahan perlu dipahami sebelum memberikan suntikan:
 - **Efek samping perdarahan** — spotting pada tahun pertama, kemudian amenorea pada pemakaian jangka panjang.
 - **Efek pada kepadatan tulang** — penurunan BMD reversibel pada pemakaian jangka panjang (>2 tahun), terutama pada remaja.
 
-Keterampilan ini merupakan **tindak lanjut langsung** dari [[11-konseling-kontrasepsi] — setelah pasien memutuskan memilih DMPA sebagai metode kontrasepsinya, dokter harus mampu memberikan suntikan dengan aman, efektif, dan tepat jadwal.
+Keterampilan ini merupakan **tindak lanjut langsung** dari [[11-konseling-kontrasepsi]] — setelah pasien memutuskan memilih DMPA sebagai metode kontrasepsinya, dokter harus mampu memberikan suntikan dengan aman, efektif, dan tepat jadwal.
 
 > [!tip] **Pesan Kunci**
 > DMPA 150 mg IM setiap 12 minggu (3 bulan). Suntikan pertama diberikan dalam 7 hari pertama siklus haid untuk proteksi segera. Efek samping perdarahan adalah penyebab tersering penghentian dini — edukasi pra-injeksi adalah kunci kepatuhan.
@@ -59,7 +59,7 @@ Keterampilan ini merupakan **tindak lanjut langsung** dari [[11-konseling-kontra
 ## Vignette Klinis
 
 > **Vignette — Injeksi DMPA di Puskesmas:**
-> Ny. Rina, 26 tahun, G2P2A0, datang ke **Puskesmas Kelurahan Harapan Sehat** untuk suntik KB. Ibu melahirkan anak kedua 4 bulan lalu, menyusui eksklusif, ASI lancar. Haid sudah kembali 2 bulan pasca salin, siklus teratur 28 hari, hari ini hari ke-3 haid. Setelah mengikuti konseling kontrasepsi ([[11-konseling-kontrasepsi]) pada kunjungan imunisasi anak 2 bulan lalu, ibu memilih DMPA karena praktis — suntik 3 bulan sekali, tidak mengganggu ASI. Penapisan: TD 115/75 mmHg, BMI 23, tidak merokok, tidak ada riwayat DM/hipertensi/tromboflebitis. Dokter melakukan injeksi DMPA 150 mg IM di gluteus maksimus kiri (kuadran atas luar) dengan teknik _Z-track_. Ibu diedukasi tentang efek spotting dan jadwal suntik ulang 3 bulan lagi sebelum 12 minggu. Prosedur berjalan lancar.
+> Ny. Rina, 26 tahun, G2P2A0, datang ke **Puskesmas Kelurahan Harapan Sehat** untuk suntik KB. Ibu melahirkan anak kedua 4 bulan lalu, menyusui eksklusif, ASI lancar. Haid sudah kembali 2 bulan pasca salin, siklus teratur 28 hari, hari ini hari ke-3 haid. Setelah mengikuti konseling kontrasepsi ([[11-konseling-kontrasepsi]]) pada kunjungan imunisasi anak 2 bulan lalu, ibu memilih DMPA karena praktis — suntik 3 bulan sekali, tidak mengganggu ASI. Penapisan: TD 115/75 mmHg, BMI 23, tidak merokok, tidak ada riwayat DM/hipertensi/tromboflebitis. Dokter melakukan injeksi DMPA 150 mg IM di gluteus maksimus kiri (kuadran atas luar) dengan teknik _Z-track_. Ibu diedukasi tentang efek spotting dan jadwal suntik ulang 3 bulan lagi sebelum 12 minggu. Prosedur berjalan lancar.
 
 ---
 
@@ -282,13 +282,13 @@ DMBA memang sering dikaitkan dengan kenaikan BB, namun efeknya bervariasi antar 
 
 ## Hubungan dengan Keterampilan Lain
 
-| Keterampilan                   | Hubungan                                                                                                                                                                                               |
-| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [[11-konseling-kontrasepsi]    | **Prasyarat mutlak.** Konseling kontrasepsi adalah langkah pertama sebelum injeksi DMPA — pasien harus memilih DMPA secara sadar setelah mendapat informasi lengkap tentang semua pilihan kontrasepsi. |
-| Konseling Kb Paska Salin       | **Bersamaan.** Pada masa nifas, DMPA adalah pilihan kontrasepsi progestin-only yang aman bagi ibu menyusui.                                                                                            |
-| Tes Kehamilan                  | **Prasyarat.** Konfirmasi tidak hamil adalah syarat mutlak sebelum injeksi pada siklus yang meragukan.                                                                                                 |
-| [[50-insersi-ekstraksi-implan] | **Paralel.** Dua metode kontrasepsi progestin-only jangka panjang dengan efek samping serupa — pasien yang tidak cocok spotting DMPA bisa beralih ke implan (spotting lebih ringan).                   |
-| [[12-insersi-ekstraksi-iud]    | **Alternatif.** DMPA adalah progestin sistemik, IUD adalah progestin/copper lokal — pilihan berbeda untuk profil pasien berbeda.                                                                       |
+| Keterampilan                    | Hubungan                                                                                                                                                                                               |
+| ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [[11-konseling-kontrasepsi]]    | **Prasyarat mutlak.** Konseling kontrasepsi adalah langkah pertama sebelum injeksi DMPA — pasien harus memilih DMPA secara sadar setelah mendapat informasi lengkap tentang semua pilihan kontrasepsi. |
+| [[38-konseling-kb-paska-salin]] | **Bersamaan.** Pada masa nifas, DMPA adalah pilihan kontrasepsi progestin-only yang aman bagi ibu menyusui.                                                                                            |
+| [[23-tes-kehamilan]]            | **Prasyarat.** Konfirmasi tidak hamil adalah syarat mutlak sebelum injeksi pada siklus yang meragukan.                                                                                                 |
+| [[50-insersi-ekstraksi-implan]] | **Paralel.** Dua metode kontrasepsi progestin-only jangka panjang dengan efek samping serupa — pasien yang tidak cocok spotting DMPA bisa beralih ke implan (spotting lebih ringan).                   |
+| [[12-insersi-ekstraksi-iud]]    | **Alternatif.** DMPA adalah progestin sistemik, IUD adalah progestin/copper lokal — pilihan berbeda untuk profil pasien berbeda.                                                                       |
 
 ---
 
@@ -333,6 +333,6 @@ DMBA memang sering dikaitkan dengan kenaikan BB, namun efeknya bervariasi antar 
 > - Modul ke-13 — Buku Saku Obgyn: Keterampilan KB & Kontrasepsi
 > - Level SKDI: 4A (mahir mandiri — injeksi DMPA)
 > - Lingkup: injeksi DMPA 150 mg IM, teknik Z-track, edukasi efek samping spotting/amenore, penanganan komplikasi
-> - Wajib wikilink: [[11-konseling-kontrasepsi] (prasyarat konseling)
+> - Wajib wikilink: [[11-konseling-kontrasepsi]] (prasyarat konseling)
 > - Disusun berdasarkan WHO MEC, CDC, ACOG, POGI, BKKBN
 > - Revisi terakhir: Juli 2026

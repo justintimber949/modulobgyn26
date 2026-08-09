@@ -151,12 +151,12 @@ Infertilitas adalah **ketidakmampuan mencapai kehamilan klinis** setelah **12 bu
 
 ## Keterampilan Terkait
 
-- [[11-konseling-kontrasepsi|Konseling Kontrasepsi]
-- [[12-insersi-ekstraksi-iud]
-- [[50-insersi-ekstraksi-implan]
-- Histerosalpingografi
-- Peniupan Tuba Fallopi
-- Inseminasi Artifisial
+- [[11-konseling-kontrasepsi|Konseling Kontrasepsi]]
+- [[12-insersi-ekstraksi-iud]]
+- [[50-insersi-ekstraksi-implan]]
+- [[71-histerosalpingografi]]
+- [[72-peniupan-tuba-fallopi]]
+- [[73-inseminasi-artifisial]]
 
 ## Referensi
 

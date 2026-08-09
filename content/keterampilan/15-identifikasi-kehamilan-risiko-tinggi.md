@@ -174,26 +174,26 @@ Gunakan **Checklist KRT Kemenkes / Poedji Rochjati**. Tanya secara sistematis:
 
 ## Dipakai Untuk Penyakit Apa
 
-- [[35-preeklampsia|Preeklampsia / Eklampsia]
-- [[53-diabetes-gestasional|Diabetes Melitus Kehamilan (GDM / DM Pra-gestational)]
-- [[52-hipertensi-kehamilan|Hipertensi Kronis pada Kehamilan]
-- [[57-plasenta-previa|Plasenta Previa]
-- [[59-abrupsio-plasenta|Abruptio Placenta]
-- [[75-kehamilan-ektopik|Kehamilan Ekstra Uterin (Ektopik)]
-- [[63-kehamilan-ganda|Kehamilan Ganda (Kewelasan / Kembar)]
-- Kehamilan Usia Lanjut (> 35 th)
-- Kehamilan Remaja (< 18 th)
-- [[09-anemia-defisiensi-besi-pada-kehamilan|Anemia Kehamilan (Berat/Sedang)]
-- [[31-infeksi-kehamilan|HIV pada Kehamilan]
-- [[31-infeksi-kehamilan|Sifilis Kongenital / Maternal]
-- [[31-infeksi-kehamilan|Hepatitis B pada Kehamilan]
-- Penyakit Autoimun (SLE, APS) pada Kehamilan
-- Penyakit Jantung pada Kehamilan
-- Penyakit Ginjal pada Kehamilan
-- [[15-janin-tumbuh-lambat|Keterlambatan Pertumbuhan Janin (KEG/IUGR)]
-- [[16-persalinan-preterm|Partus Prematur / Threatened Preterm Labor]
-- [[54-kehamilan-posterm|Kehamilan Post-term (> 41 mgg)]
-- [[87-malformasi-kongenital-umum|Anomali Kongenital Janin]
+- [[35-preeklampsia|Preeklampsia / Eklampsia]]
+- [[53-diabetes-gestasional|Diabetes Melitus Kehamilan (GDM / DM Pra-gestational)]]
+- [[52-hipertensi-kehamilan|Hipertensi Kronis pada Kehamilan]]
+- [[57-plasenta-previa|Plasenta Previa]]
+- [[59-abrupsio-plasenta|Abruptio Placenta]]
+- [[75-kehamilan-ektopik|Kehamilan Ekstra Uterin (Ektopik)]]
+- [[63-kehamilan-ganda|Kehamilan Ganda (Kewelasan / Kembar)]]
+- [[102-kehamilan-usia-lanjut|Kehamilan Usia Lanjut (> 35 th)]]
+- [[103-kehamilan-remaja|Kehamilan Remaja (< 18 th)]]
+- [[09-anemia-defisiensi-besi-pada-kehamilan|Anemia Kehamilan (Berat/Sedang)]]
+- [[31-infeksi-kehamilan|HIV pada Kehamilan]]
+- [[31-infeksi-kehamilan|Sifilis Kongenital / Maternal]]
+- [[31-infeksi-kehamilan|Hepatitis B pada Kehamilan]]
+- [[104-penyakit-autoimun-kehamilan|Penyakit Autoimun (SLE, APS) pada Kehamilan]]
+- [[105-penyakit-jantung-kehamilan|Penyakit Jantung pada Kehamilan]]
+- [[106-penyakit-ginjal-kehamilan|Penyakit Ginjal pada Kehamilan]]
+- [[15-janin-tumbuh-lambat|Keterlambatan Pertumbuhan Janin (KEG/IUGR)]]
+- [[16-persalinan-preterm|Partus Prematur / Threatened Preterm Labor]]
+- [[54-kehamilan-posterm|Kehamilan Post-term (> 41 mgg)]]
+- [[99-anomali-kongenital|Anomali Kongenital Janin]]
 
 ---
 

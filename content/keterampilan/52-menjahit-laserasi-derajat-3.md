@@ -58,7 +58,7 @@ cssclasses:
 
 > [!warning] **BATAS KOMPETENSI DOKTER UMUM (SKDI)**
 >
-> - **Derajat 1-2**: Mahir Mandiri (Level 4A) — Lihat Modul Menjahit Laserasi.
+> - **Derajat 1-2**: Mahir Mandiri (Level 4A) — Lihat Modul [[33-menjahit-laserasi-12]].
 > - **Derajat 3A-3B**: **Level 3** — **Mampu Reparasi Primer End-to-End/Overlap EAS** di bawah supervisi/asesi SpOG. **WAJIB** anestesi regional/umum, eksposur baik, teknik benar.
 > - **Derajat 3C-4**: **Level 2** — **Kenali, Stabilisasi (Kompresi, Antibiotik, Laktulosa), RUJUK SEGERA ke SpOG / Bedah Kolorektal**. Jangan coba jahit IAS/Mukosa Rektum tanpa pelatihan khusus.
 
@@ -210,13 +210,13 @@ cssclasses:
 
 ## Dipakai Untuk Penyakit
 
-- [[70-inkontinensia-feses] — **HASIL AKHIR YANG DIINGIN MENCEGAH** (Inkontinensia Flatus/Cair/Padat)
-- Fistula — **Fistula Rektovaginal (Komplikasi Jahitan Tembus / Dehiscens / Infeksi)**
-- Malpresentasi Intrapartal — Risiko Tinggi OASI (Breech, Vakum, Forceps, Makrosomia)
-- Pertolongan Distosia Bahu — Distosia Bahu → Episiotomi Luas → Risiko OASI
-- Operasi Caesar — **Indikasi Sectio Caesar Jika OASI Berulang / Sfinkter Rusak Parah Sebelumnya**
-- Menjahit Laserasi — Prasyarat Teknik Dasar Jahit Perineum (Derajat 1-2)
-- Perawatan Luka Episiotomi — Perawatan Pasca Reparasi OASI (Lanjutan)
+- [[70-inkontinensia-feses]] — **HASIL AKHIR YANG DIINGIN MENCEGAH** (Inkontinensia Flatus/Cair/Padat)
+- [[71-fistula]] — **Fistula Rektovaginal (Komplikasi Jahitan Tembus / Dehiscens / Infeksi)**
+- [[67-malpresentasi-intrapartal]] — Risiko Tinggi OASI (Breech, Vakum, Forceps, Makrosomia)
+- [[57-pertolongan-distosia-bahu]] — Distosia Bahu → Episiotomi Luas → Risiko OASI
+- [[70-operasi-caesar]] — **Indikasi Sectio Caesar Jika OASI Berulang / Sfinkter Rusak Parah Sebelumnya**
+- [[33-menjahit-laserasi-12]] — Prasyarat Teknik Dasar Jahit Perineum (Derajat 1-2)
+- [[39-perawatan-luka-episiotomi]] — Perawatan Pasca Reparasi OASI (Lanjutan)
 
 ---
 
@@ -240,6 +240,6 @@ cssclasses:
 > - Modul ke-52 — Buku Saku Obgyn: Keterampilan Persalinan (Level Lanjut)
 > - Level SKDI: 3 (Mampu Reparasi Primer OASI Derajat 3A/3B: End-to-End/Overlap EAS, Benang PDS, Palpasi Rektal Wajib, Protokol Pasca)
 > - Derajat 3C/4: Level 2 (Kenali, Stabilisasi, Rujuk SpOG/Kolorektal)
-> - Wajib wikilink: Menjahit Laserasi, Perawatan Luka Episiotomi, [[70-inkontinensia-feses], Fistula, Malpresentasi Intrapartal
+> - Wajib wikilink: [[33-menjahit-laserasi-12]], [[39-perawatan-luka-episiotomi]], [[70-inkontinensia-feses]], [[71-fistula]], [[67-malpresentasi-intrapartal]]
 > - Disusun berdasarkan RCOG, ACOG, Sultan/Thakar, Cochrane, POGI, Kemenkes
 > - Revisi terakhir: Juli 2026

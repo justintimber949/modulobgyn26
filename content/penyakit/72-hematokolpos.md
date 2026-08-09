@@ -173,12 +173,12 @@ Anak Perempuan, 14 tahun, belum menarche. Keluhan: **nyeri perut bawah siklik se
 
 ## Keterampilan Terkait
 
-- Pemeriksaan Spekulum
-- Pemeriksaan Bimanual
-- [[60-insersi-pesarium]
-- [[61-laparoskopi-terapeutik]
-- Amniosentesis
-- Pengambilan Darah Fetus
+- [[03-pemeriksaan-spekulum]]
+- [[04-pemeriksaan-bimanual]]
+- [[60-insersi-pesarium]]
+- [[61-laparoskopi-terapeutik]]
+- [[64-amniosentesis]]
+- [[69-pengambilan-darah-fetus]]
 
 ## Referensi
 

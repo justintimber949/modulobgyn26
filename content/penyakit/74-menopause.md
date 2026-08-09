@@ -200,12 +200,12 @@ Ny. Sari, 51 tahun, menopause spontan seitan 6 bulan (LMP 12 bulan lalu). Keluha
 
 ## Keterampilan Terkait
 
-- Pemeriksaan Spekulum
-- Pemeriksaan Bimanual
-- Injeksi Im Iv
-- Pemasangan Infus
-- [[60-insersi-pesarium]
-- Iufd
+- [[03-pemeriksaan-spekulum]]
+- [[04-pemeriksaan-bimanual]]
+- [[44-pemeriksaan-rektal]]
+- [[45-pemeriksaan-combined-rectovaginal]]
+- [[60-insersi-pesarium]]
+- [[65-iufd]]
 
 ## Referensi
 

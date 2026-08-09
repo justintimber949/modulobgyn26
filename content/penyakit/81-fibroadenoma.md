@@ -158,13 +158,13 @@ Ny. Sari, 22 tahun, mahasiswi, G0, keluhan: **benjolan payudara kiri luar atas s
 
 ## Keterampilan Terkait
 
-- Abses Folikel Rambut
-- [[41-sadari]
-- [[36-manajemen-laktasi]
-- Inflamasi Abses Payudara
-- Fibrokista Payudara
-- Karsinoma Payudara
-- Tumor Filoides
+- [[11-abses-folikel-rambut]]
+- [[41-sadari]]
+- [[36-manajemen-laktasi]]
+- [[79-inflamasi-abses-payudara]]
+- [[80-fibrokista-payudara]]
+- [[82-karsinoma-payudara]]
+- [[97-tumor-filoides]]
 
 ## Referensi
 

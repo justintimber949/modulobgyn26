@@ -218,13 +218,13 @@ Ny. Sari, 42 tahun, G3P3A0, tidak pernah screening serviks. Keluhan: **perdaraha
 
 ## Keterampilan Terkait
 
-- Pemeriksaan Spekulum
-- Pemeriksaan Bimanual
-- [[49-electro-cryocoagulation-cervix]
-- Laparoskopi Terapeutik
-- Operasi Caesar
-- Amniosentesis
-- Iufd
+- [[03-pemeriksaan-spekulum]]
+- [[04-pemeriksaan-bimanual]]
+- [[49-electro-cryocoagulation-cervix]]
+- [[61-laparoskopi-terapeutik]]
+- [[70-operasi-caesar]]
+- [[64-amniosentesis]]
+- [[65-iufd]]
 
 ## Referensi
 

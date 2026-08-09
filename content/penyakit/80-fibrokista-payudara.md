@@ -152,13 +152,13 @@ Ny. Ani, 35 tahun, G1P1A0, keluhan: **kelenjar payudara kaku & nyeri (mastalgia 
 
 ## Keterampilan Terkait
 
-- Abses Folikel Rambut
-- Mastitis
-- Cracked Nipple
-- Inisiasi Menyusui Dini
-- Manajemen Laktasi
-- [[41-sadari]
-- [[36-manajemen-laktasi]
+- [[11-abses-folikel-rambut]]
+- [[12-mastitis]]
+- [[13-cracked-nipple]]
+- [[34-inisiasi-menyusui-dini]]
+- [[36-manajemen-laktasi]]
+- [[41-sadari]]
+- [[36-manajemen-laktasi]]
 
 ## Referensi
 

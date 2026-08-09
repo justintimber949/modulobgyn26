@@ -209,14 +209,14 @@ Ny. Dewi, 48 tahun, G2P2A0, menopause 2 tahun, tidak pernah SADARI/mammografi. K
 
 ## Keterampilan Terkait
 
-- Abses Folikel Rambut
-- [[41-sadari]
-- [[36-manajemen-laktasi]
-- Inflamasi Abses Payudara
-- Fibrokista Payudara
-- Fibroadenoma
-- Tumor Filoides
-- Penyakit Paget Payudara
+- [[11-abses-folikel-rambut]]
+- [[41-sadari]]
+- [[36-manajemen-laktasi]]
+- [[79-inflamasi-abses-payudara]]
+- [[80-fibrokista-payudara]]
+- [[81-fibroadenoma]]
+- [[97-tumor-filoides]]
+- [[98-penyakit-paget-payudara]]
 
 ## Referensi
 

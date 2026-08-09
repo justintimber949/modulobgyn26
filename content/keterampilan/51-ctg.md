@@ -203,19 +203,19 @@ cssclasses:
 
 ## Dipakai Untuk Penyakit
 
-- Diabetes Gestasional — NST Mingguan Tri 3, Intrapartal Monitoring (Makrosomia, Asfiksia Risiko)
-- Insufisiensi Plasenta / Polihidramnion / Inkompeten Serviks — Monitoring Hipoksia Kronik/Akut
-- Kehamilan Posterm — NST 2x Minggu ≥ 41 mgg, Intrapartal (Induksi Risiko Tinggi)
-- Plasenta Previa / Vasa Previa / Abrupsio Plasenta — Monitoring Darurat (Kontraindikasi FSE/IUPC)
-- Kehamilan Ganda — Monitoring Dua Janin (Dual CTG / Dual Doppler)
-- [[87-malformasi-kongenital-umum] — Anomali Jantung (Aritmia, Blok AV) → CTG Khusus
-- Kehamilan Ektopik — _Bukan Indikasi CTG (Diagnostik USG/hCG)_
-- Menilai Lochia / Kompresi Bimanual — _Postpartum, Bukan CTG_
-- Menolong Persalinan Fisiologis Apn — Intrapartal CTG Standar
-- Induksi Kimiawi Persalinan — Wajib CTG Kontinu (Oksitosin/Prostaglandin)
-- Ekstraksi Vakum Rendah / Pertolongan Distosia Bahu — Intrapartal Monitoring Ketat
-- Persalinan Presentasi Bokong — Risiko Tinggi Kompresi Kepala/Tali Pusat
-- Pengambilan Plasenta Manual — _Postpartum, Bukan CTG_
+- [[53-diabetes-gestasional]] — NST Mingguan Tri 3, Intrapartal Monitoring (Makrosomia, Asfiksia Risiko)
+- [[55-insufisiensi-plasenta]] / [[61-polihidramnion]] / [[60-inkompeten-serviks]] — Monitoring Hipoksia Kronik/Akut
+- [[54-kehamilan-posterm]] — NST 2x Minggu ≥ 41 mgg, Intrapartal (Induksi Risiko Tinggi)
+- [[57-plasenta-previa]] / [[58-vasa-previa]] / [[59-abrupsio-plasenta]] — Monitoring Darurat (Kontraindikasi FSE/IUPC)
+- [[63-kehamilan-ganda]] — Monitoring Dua Janin (Dual CTG / Dual Doppler)
+- [[62-kelainan-letak-janin]] — Anomali Jantung (Aritmia, Blok AV) → CTG Khusus
+- [[75-kehamilan-ektopik]] — _Bukan Indikasi CTG (Diagnostik USG/hCG)_
+- [[43-menilai-lochia]] / [[42-kompresi-bimanual]] — _Postpartum, Bukan CTG_
+- [[27-menolong-persalinan-fisiologis-apn]] — Intrapartal CTG Standar
+- [[53-induksi-kimiawi-persalinan]] — Wajib CTG Kontinu (Oksitosin/Prostaglandin)
+- [[56-ekstraksi-vakum-rendah]] / [[57-pertolongan-distosia-bahu]] — Intrapartal Monitoring Ketat
+- [[54-persalinan-presentasi-bokong]] — Risiko Tinggi Kompresi Kepala/Tali Pusat
+- [[55-pengambilan-plasenta-manual]] — _Postpartum, Bukan CTG_
 
 ---
 
@@ -238,6 +238,6 @@ cssclasses:
 >
 > - Modul ke-51 — Buku Saku Obgyn: Keterampilan Persalinan
 > - Level SKDI: 3 (Mampu Pasang CTG Eksternal/Intrauterin, Akuisisi Tracing Berkualitas, Interpretasi Sistematik FIGO/NICHD, Keputusan Klinis: Normal/Konservatif/Emergensi)
-> - Wajib wikilink: Diabetes Gestasional, Kehamilan Posterm, Plasenta Previa, Abrupsio Plasenta, Kehamilan Ganda, Induksi Kimiawi Persalinan, Persalinan Presentasi Bokong, Ekstraksi Vakum Rendah
+> - Wajib wikilink: [[53-diabetes-gestasional]], [[54-kehamilan-posterm]], [[57-plasenta-previa]], [[59-abrupsio-plasenta]], [[63-kehamilan-ganda]], [[53-induksi-kimiawi-persalinan]], [[54-persalinan-presentasi-bokong]], [[56-ekstraksi-vakum-rendah]]
 > - Disusun berdasarkan FIGO 2015/2021, NICHD/ACOG, NICE, POGI, Kemenkes
 > - Revisi terakhir: Juli 2026

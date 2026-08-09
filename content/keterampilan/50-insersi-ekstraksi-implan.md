@@ -194,15 +194,15 @@ cssclasses:
 
 ## Dipakai Untuk Penyakit
 
-- [[11-konseling-kontrasepsi] — Pemilihan metode LARC, konseling informed choice
-- Suntik Kb — Alternatif progestin-only jangka panjang
-- [[12-insersi-ekstraksi-iud] — Alternatif LARC non-hormonal (Cu-IUD) / hormonal (LNG-IUS)
-- Pil Kb — Switch dari pil kombinasi/progestin-only
-- Kondom — Backup 7 hari jika timing insersi tidak ideal
-- Diafragma / Metode Amenore Laktasi — Konteks KB menyusui
-- Karsinoma Payudara — **KONTRAINDIKASI ABSOLUT** (Kanker Payudara Aktif)
-- Tromboemboli — **KONTRAINDIKASI ABSOLUT** (TEV Aktif/Riwayat)
-- Hipertensi Kehamilan / Diabetes Gestasional — Kondisi medis kompleks, evaluasi MEC
+- [[11-konseling-kontrasepsi]] — Pemilihan metode LARC, konseling informed choice
+- [[13-suntik-kb]] — Alternatif progestin-only jangka panjang
+- [[12-insersi-ekstraksi-iud]] — Alternatif LARC non-hormonal (Cu-IUD) / hormonal (LNG-IUS)
+- [[13-suntik-kb]] — Switch dari pil kombinasi/progestin-only
+- [[11-konseling-kontrasepsi]] — Backup 7 hari jika timing insersi tidak ideal
+- [[11-konseling-kontrasepsi]] / [[38-konseling-kb-paska-salin]] — Konteks KB menyusui
+- [[82-karsinoma-payudara]] — **KONTRAINDIKASI ABSOLUT** (Kanker Payudara Aktif)
+- [[68-tromboemboli]] — **KONTRAINDIKASI ABSOLUT** (TEV Aktif/Riwayat)
+- [[52-hipertensi-kehamilan]] / [[53-diabetes-gestasional]] — Kondisi medis kompleks, evaluasi MEC
 
 ---
 
@@ -225,6 +225,6 @@ cssclasses:
 >
 > - Modul ke-50 — Buku Saku Obgyn: Keterampilan KB-Kontrasepsi
 > - Level SKDI: 3 (Mampu Insersi & Ekstraksi Implan Standar & USG-Guided)
-> - Wajib wikilink: [[11-konseling-kontrasepsi], [[12-insersi-ekstraksi-iud], Suntik Kb, Karsinoma Payudara, Tromboemboli
+> - Wajib wikilink: [[11-konseling-kontrasepsi]], [[12-insersi-ekstraksi-iud]], [[13-suntik-kb]], [[82-karsinoma-payudara]], [[68-tromboemboli]]
 > - Disusun berdasarkan WHO MEC/SPR, FSRH, POGI, Kemenkes, Merck/Bayer/Levoplant Manuals
 > - Revisi terakhir: Juli 2026

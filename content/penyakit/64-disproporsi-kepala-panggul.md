@@ -86,14 +86,14 @@ Ny. Dewi, 28 tahun, G1P0A0, usia kehamilan 40 minggu. ANC rutin normal, BB naik 
 
 ### 2. Pemeriksaan Fisik Umum & Obstetri
 
-- Pemeriksaan Umum Ibu Hamil: TD, Nadi, Suhu, RR, Edema, IMT
-- [[19-palpasi-leopold]: **Estimasi BB janin (Hadlock/Dare), presentasi, letak, engagement (Hodge), jumlah janin, cairan ketuban**
-- [[03-pemeriksaan-spekulum]: Pendarahan, pecah ketuban, warna cairan (meconium?)
-- [[22-pemeriksaan-pelvimetri-klinis]:
+- [[01-px-fisik-umum-payudara]]: TD, Nadi, Suhu, RR, Edema, IMT
+- [[19-palpasi-leopold]]: **Estimasi BB janin (Hadlock/Dare), presentasi, letak, engagement (Hodge), jumlah janin, cairan ketuban**
+- [[03-pemeriksaan-spekulum]]: Pendarahan, pecah ketuban, warna cairan (meconium?)
+- [[04-pemeriksaan-bimanual]]:
   - **Serviks:** Dilatasi, effacement, konsistensi, posisi, aplikasi kepala
   - **Kepala Janin:** **Hodge, sutura (molding), fontanel (posterior/anterior), caput, cephalhematoma, asinklitisme**
   - **Panggul (Pelvimetri Klinis):** **IS (Interspinosus), konjugata eksternal, bituberous, sacrum (kurvang/lebar/straight), outlet (IS + bituberous), tanda inlet contraction (prominen _sacral promontory_, konjugata eksternal < 19 cm, IS < 10 cm)**
-- Mengidentifikasi Djj: Baseline, variabilitas, akselerasi, deselerasi
+- [[20-mengidentifikasi-djj]]: Baseline, variabilitas, akselerasi, deselerasi
 
 ### 3. Monitoring Intrapartal (WAJIB)
 
@@ -103,12 +103,12 @@ Ny. Dewi, 28 tahun, G1P0A0, usia kehamilan 40 minggu. ANC rutin normal, BB naik 
 
 ### 4. Penunjang
 
-| Pemeriksaan                                 | Indikasi & Interpretasi CPD                                                                                                                                                                                                  |
-| ------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **USG Obstetri** (Pemeriksaan Usg Obstetri) | **BPD, HC, AC, FL, EFW** — BPD > 9,5 cm / HC > 33 cm / EFW > 4000 g → risiko CPD ↑. **Asinklitisme, defleksi kepala, posisi OP** terlihat USG. **Pelvimetri USG** (AP inlet, midpelvis, outlet) — opsional, tidak _routine_. |
-| **Pelvimetri CT / MRI**                     | Hanya jika _clinical dilemma_ (mis. panggul post-trauma, kelainan kongenital) — jarang dibutuhkan.                                                                                                                           |
-| **Lab Darah**                               | CBC, GDS, Koagulasi (baseline pre-op), Golongan Darah & Crossmatch (siap operasi Caesar).                                                                                                                                    |
-| **Blood Gas Analysis (BGA)**                | Jika _fetal distress_ / _maternal exhaustion_ — lakukan _fetal scalp blood sampling_ (jika tersedia) atau BGA maternal.                                                                                                      |
+| Pemeriksaan                                        | Indikasi & Interpretasi CPD                                                                                                                                                                                                  |
+| -------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **USG Obstetri** ([[25-pemeriksaan-usg-obstetri]]) | **BPD, HC, AC, FL, EFW** — BPD > 9,5 cm / HC > 33 cm / EFW > 4000 g → risiko CPD ↑. **Asinklitisme, defleksi kepala, posisi OP** terlihat USG. **Pelvimetri USG** (AP inlet, midpelvis, outlet) — opsional, tidak _routine_. |
+| **Pelvimetri CT / MRI**                            | Hanya jika _clinical dilemma_ (mis. panggul post-trauma, kelainan kongenital) — jarang dibutuhkan.                                                                                                                           |
+| **Lab Darah**                                      | CBC, GDS, Koagulasi (baseline pre-op), Golongan Darah & Crossmatch (siap operasi Caesar).                                                                                                                                    |
+| **Blood Gas Analysis (BGA)**                       | Jika _fetal distress_ / _maternal exhaustion_ — lakukan _fetal scalp blood sampling_ (jika tersedia) atau BGA maternal.                                                                                                      |
 
 ## Menegakkan Diagnosis
 
@@ -190,18 +190,18 @@ Ny. Dewi, 28 tahun, G1P0A0, usia kehamilan 40 minggu. ANC rutin normal, BB naik 
 
 ## Keterampilan Terkait
 
-- Pemeriksaan Umum Ibu Hamil
-- [[19-palpasi-leopold]
-- [[03-pemeriksaan-spekulum]
-- [[22-pemeriksaan-pelvimetri-klinis]
-- Menginterpretasikan Partografik
-- Mengidentifikasi Djj
-- Pemeriksaan Usg Obstetri
-- [[27-menolong-persalinan-fisiologis-apn]
-- Memperkirakan Kehilangan Darah
-- Resusitasi Cairan Ibu
-- Induksi Kimiawi Persalinan
-- [[70-operasi-caesar]
+- [[01-px-fisik-umum-payudara]]
+- [[19-palpasi-leopold]]
+- [[03-pemeriksaan-spekulum]]
+- [[04-pemeriksaan-bimanual]]
+- [[26-pemeriksaan-obstetri]]
+- [[20-mengidentifikasi-djj]]
+- [[25-pemeriksaan-usg-obstetri]]
+- [[27-menolong-persalinan-fisiologis-apn]]
+- [[32-memperkirakan-kehilangan-darah]]
+- [[45-perdarahan-postpartum]]
+- [[53-induksi-kimiawi-persalinan]]
+- [[70-operasi-caesar]]
 
 ## Referensi
 

@@ -156,7 +156,7 @@ Ny. Rini, 38 tahun, G1P1A0, keluhan: **dismenorea progresif seitan 3 tahun (skal
 - Pemeriksaan Usg Obstetri
 - Kolposkopi
 - Laparoskopi Diagnostik
-- [[62-insisi-abses-lainnya]
+- [[62-insisi-abses-lainnya]]
 - Laparoskopi Terapeutik
 - Histeroskopi Diagnostik
 - Histeroskopi Terapeutik

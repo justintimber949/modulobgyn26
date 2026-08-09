@@ -132,10 +132,10 @@ cssclasses:
 
 ## Keterampilan Terkait
 
-- [[48-uji-pasca-koitus]
-- Identifikasi Kehamilan Risiko Tinggi
-- Histerosalpingografi
-- Peniupan Tuba Fallopi
+- [[48-uji-pasca-koitus]]
+- [[15-identifikasi-kehamilan-risiko-tinggi]]
+- [[71-histerosalpingografi]]
+- [[72-peniupan-tuba-fallopi]]
 
 ## Referensi
 

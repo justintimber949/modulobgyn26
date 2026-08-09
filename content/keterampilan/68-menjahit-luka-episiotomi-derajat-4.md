@@ -19,20 +19,12 @@ cssclasses:
   - buku-saku
 ---
 
-# Menjahit Luka Episiotomi Derajat 4
-
-> [!info] Level Kompetensi SKDI: 2
-> Kompetensi level 2 (eksposur) — dokter umum harus memahami prinsip dan teknik, tetapi perbaikan laserasi derajat 4 adalah **tindakan kompleks yang wajib dirujuk ke SpOG** bila tidak terlatih.
-
-## Struktur yang Terlibat
-
-| Struktur                               | Fungsi                          | Catatan Penjahitan                          |
-| -------------------------------------- | ------------------------------- | ------------------------------------------- |
-| Sfincter ani eksternal (EAS)           | Kontinensia sukarela (skeletal) | **WAJIB** — ikat terpisah                   |
-| Sfincter ani internal (IAS)            | Kontinensia involuner (halus)   | **WAJIB** — sering terpotong bersamaan EAS  |
-| Mukosa rektum                          | Barrier luminal                 | **WAJIB** — tutup rapat                     |
-| Otot levator ani (puborektalis)        | Angulasi anorektal              | Identifikasi, hindari jahitan terlalu dalam |
-| Otot bulbo kavernosus / transv perinei | Dukungan perineum               | Jahit lapis subkutan                        |
+-------|--------|----------------------|
+| Sfincter ani eksternal (EAS) | Kontinensia sukarela (skeletal) | **WAJIB** — ikat terpisah |
+| Sfincter ani internal (IAS) | Kontinensia involuner (halus) | **WAJIB** — sering terpotong bersamaan EAS |
+| Mukosa rektum | Barrier luminal | **WAJIB** — tutup rapat |
+| Otot levator ani (puborektalis) | Angulasi anorektal | Identifikasi, hindari jahitan terlalu dalam |
+| Otot bulbo kavernosus / transv perinei | Dukungan perineum | Jahit lapis subkutan |
 
 ## Persiapan
 
@@ -136,10 +128,10 @@ cssclasses:
 
 ## Keterampilan Terkait
 
-- Menjahit Laserasi
-- [[52-menjahit-laserasi-derajat-3]
-- Kompresi Bimanual
-- Memperkirakan Kehilangan Darah
+- [[33-menjahit-laserasi-12]]
+- [[52-menjahit-laserasi-derajat-3]]
+- [[42-kompresi-bimanual]]
+- [[32-memperkirakan-kehilangan-darah]]
 
 ## Referensi
 

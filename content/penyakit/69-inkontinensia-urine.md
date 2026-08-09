@@ -162,11 +162,11 @@ Ny. Sari, 42 tahun, G3P3A0, keluhan "kencing tidak tahan saat batuk/tersedak/oll
 
 ## Keterampilan Terkait
 
-- Pemeriksaan Bimanual
-- Pemeriksaan Spekulum
-- [[60-insersi-pesarium]
-- Menilai Lochia
-- [[49-electro-cryocoagulation-cervix]
+- [[04-pemeriksaan-bimanual]]
+- [[03-pemeriksaan-spekulum]]
+- [[60-insersi-pesarium]]
+- [[43-menilai-lochia]]
+- [[49-electro-cryocoagulation-cervix]]
 
 ## Referensi
 

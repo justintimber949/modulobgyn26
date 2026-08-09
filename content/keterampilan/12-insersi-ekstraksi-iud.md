@@ -180,26 +180,26 @@ Mahasiswa KOAS **wajib bisa pasang & lepas keduanya** dengan supervisi awal, lal
 
 ## Dipakai Untuk Penyakit Apa Saja
 
-- Sindrom Duh Genital — KB pasca pengobatan IMS (IUD non-hormonal aman)
-- Vulvitis / Vaginitis / VB — IUD setelah infeksi sembuh
-- Salpingitis/PID — IUD pasca PID sembuh (risiko PID ulang tidak meningkat jika screening benar)
-- Kehamilan Normal — KB pasca melahirkan (IUD pasca plasenta immediate <10 menit / interval 4-6 minggu)
-- Aborsi Komplit / Aborsi Mengancam / Aborsi Inkomplit — **IUD immediate post-abortus (<48 jam) paling efektif**
-- Kista/Abses Bartolini — KB pasca operasi
-- Infertilitas — IUD untuk spacing selama investigasi / pasca hamil
-- Baby Blues/PPD — LNG-IUS aman (tidak mempengaruhi mood/ASI)
-- Hyperemesis — KB pasca melahirkan
-- Preeklampsia / Eklampsia — KB pasca melahirkan (hindari estrogen)
-- Retensio Plasenta / PPH — KB pasca darurat
-- Toksoplasmosis / Herpes / Mola — KB pasca penyakit
-- Hipertensi Kehamilan / DM Gestasional / [[53-diabetes-gestasional|DM Pra-gestasional] — **LNG-IUS / Cu-IUD aman (MEC 1-2), hindari estrogen**
-- Endometriosis — **LNG-IUS terapi + KB** (kurangi nyeri, proteksi endometrium)
-- Menopause — LNG-IUS proteksi endometrium pada HT estrogen
-- Karsinoma Serviks — IUD relatif kontraindikasi (MEC 3-4), konsul onkologi
-- Karsinoma Payudara — **Hanya Cu-IUD (MEC 1), hormonal MEC 4**
-- Hiperplasia Endometrium — **LNG-IUS terapi + KB** (regresi hiperplasia)
-- PCOS — LNG-IUS proteksi endometrium + KB
-- Adenomiosis — **LNG-IUS terapi nyeri & menorrhagia + KB**
+- [[01-sindrom-duh-genital|Sindrom Duh Genital]] — KB pasca pengobatan IMS (IUD non-hormonal aman)
+- [[03-vulvitis|Vulvitis]] / [[04-vaginitis|Vaginitis]] / [[05-vaginosis-bakterialis|VB]] — IUD setelah infeksi sembuh
+- [[06-salpingitis|Salpingitis/PID]] — IUD pasca PID sembuh (risiko PID ulang tidak meningkat jika screening benar)
+- [[07-kehamilan-normal|Kehamilan Normal]] — KB pasca melahirkan (IUD pasca plasenta immediate <10 menit / interval 4-6 minggu)
+- [[08-aborsi-spontan-komplit|Aborsi Komplit]] / [[32-aborsi-mengancam|Aborsi Mengancam]] / [[33-aborsi-inkomplit|Aborsi Inkomplit]] — **IUD immediate post-abortus (<48 jam) paling efektif**
+- [[19-kista-abses-bartolini|Kista/Abses Bartolini]] — KB pasca operasi
+- [[25-infertilitas|Infertilitas]] — IUD untuk spacing selama investigasi / pasca hamil
+- [[26-baby-blues-postpartum-depression|Baby Blues/PPD]] — LNG-IUS aman (tidak mempengaruhi mood/ASI)
+- [[34-hiperemesis-gravidarum|Hyperemesis]] — KB pasca melahirkan
+- [[35-preeklampsia|Preeklampsia]] / [[36-eklampsia|Eklampsia]] — KB pasca melahirkan (hindari estrogen)
+- [[43-retensio-plasenta|Retensio Plasenta]] / [[45-perdarahan-postpartum|PPH]] — KB pasca darurat
+- [[49-toksoplasmosis|Toksoplasmosis]] / [[50-herpes-simpleks-tipe-2|Herpes]] / [[51-mola-hidatidosa|Mola]] — KB pasca penyakit
+- [[52-hipertensi-kehamilan|Hipertensi Kehamilan]] / [[53-diabetes-gestasional|DM Gestasional]] / [[53-diabetes-gestasional|DM Pra-gestasional]] — **LNG-IUS / Cu-IUD aman (MEC 1-2), hindari estrogen**
+- [[73-endometriosis|Endometriosis]] — **LNG-IUS terapi + KB** (kurangi nyeri, proteksi endometrium)
+- [[74-menopause|Menopause]] — LNG-IUS proteksi endometrium pada HT estrogen
+- [[76-karsinoma-serviks|Karsinoma Serviks]] — IUD relatif kontraindikasi (MEC 3-4), konsul onkologi
+- [[82-karsinoma-payudara|Karsinoma Payudara]] — **Hanya Cu-IUD (MEC 1), hormonal MEC 4**
+- [[90-hiperplasia-endometrium|Hiperplasia Endometrium]] — **LNG-IUS terapi + KB** (regresi hiperplasia)
+- [[91-polikistik-ovarium|PCOS]] — LNG-IUS proteksi endometrium + KB
+- [[95-adenomiosis|Adenomiosis]] — **LNG-IUS terapi nyeri & menorrhagia + KB**
 
 ---
 

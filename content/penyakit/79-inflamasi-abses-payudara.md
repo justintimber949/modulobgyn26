@@ -177,12 +177,12 @@ Ny. Sari, 28 tahun, G2P2A0, bayi usia 3 minggu (menyusui). Keluhan: **payudara k
 
 ## Keterampilan Terkait
 
-- Abses Folikel Rambut
-- Mastitis
-- Cracked Nipple
-- Inisiasi Menyusui Dini
-- Manajemen Laktasi
-- [[36-manajemen-laktasi]
+- [[11-abses-folikel-rambut]]
+- [[12-mastitis]]
+- [[13-cracked-nipple]]
+- [[34-inisiasi-menyusui-dini]]
+- [[36-manajemen-laktasi]]
+- [[36-manajemen-laktasi]]
 
 ## Referensi
 

@@ -178,16 +178,16 @@ Ny. Sri, 62 tahun, G3P3A0, menopause 12 tahun. Keluhan: **rasa ada benjolan di v
 
 ## Keterampilan Terkait
 
-- Pemeriksaan Spekulum
-- Pemeriksaan Bimanual
-- Kompresi Bimanual
-- Menilai Lochia
-- [[60-insersi-pesarium]
-- Laparoskopi Terapeutik
-- Operasi Caesar
-- Inkontinensia Urine
-- Inkontinensia Feses
-- Kistokel
+- [[03-pemeriksaan-spekulum]]
+- [[04-pemeriksaan-bimanual]]
+- [[42-kompresi-bimanual]]
+- [[43-menilai-lochia]]
+- [[60-insersi-pesarium]]
+- [[61-laparoskopi-terapeutik]]
+- [[70-operasi-caesar]]
+- [[69-inkontinensia-urine]]
+- [[70-inkontinensia-feses]]
+- [[88-kistokel]]
 
 ## Referensi
 

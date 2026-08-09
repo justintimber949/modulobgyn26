@@ -121,10 +121,10 @@ cssclasses:
 
 ## Keterampilan Terkait
 
-- Laparoskopi Diagnostik
-- Laparoskopi Terapeutik
-- [[12-insersi-ekstraksi-iud]
-- [[50-insersi-ekstraksi-implan]
+- [[59-laparoskopi-diagnostik]]
+- [[61-laparoskopi-terapeutik]]
+- [[12-insersi-ekstraksi-iud]]
+- [[50-insersi-ekstraksi-implan]]
 
 ## Referensi
 

@@ -133,18 +133,18 @@ cssclasses:
 
 ## Dipakai Untuk Penyakit Apa
 
-- Kehamilan Tidak Diinginkan / Unmet Need KB
-- [[73-endometriosis|Endometriosis] (Manajemen efek samping LNG-IUS/Implant/DMPA)
+- [[11-konseling-kontrasepsi|Kehamilan Tidak Diinginkan / Unmet Need KB]]
+- [[73-endometriosis|Endometriosis]] (Manajemen efek samping LNG-IUS/Implant/DMPA)
 - [[95-adenomiosis|Adenomiosis]] (Manajemen komplikasi pendarahan LNG-IUS)
-- Menorrhagia (Manajemen BTB pada LNG-IUS/Implant/Suntik)
-- [[90-hiperplasia-endometrium|Hiperplasia Endometrium] (Monitoring efek LNG-IUS)
-- Kontraindikasi Estrogen (Switching metode non-estrogen)
-- [[68-tromboemboli|Tromboemboli Venosa / Riwayat TEV] (Hentikan estrogen, manajemen KB aman)
-- Stroke / TIA / Penyakit Jantung Iskemik (KB non-estrogen, monitoring ketat)
-- [[52-hipertensi-kehamilan|Hipertensi Kronis] (Pemilihan KB aman, monitoring TD)
-- [[82-karsinoma-payudara|Kanker Payudara (Riwayat)] (KB non-hormonal / LNG-IUS dengan onkologi)
-- Trombositopenia / Koagulopati (Hindari IUD jika trombosit rendah, kelola pendarahan KB)
-- [[26-baby-blues-postpartum-depression|Gangguan Mood Berhubungan KB Hormonal] (Switch metode, rujuk psikiater)
+- [[101-menorrhagia|Menorrhagia]] (Manajemen BTB pada LNG-IUS/Implant/Suntik)
+- [[90-hiperplasia-endometrium|Hiperplasia Endometrium]] (Monitoring efek LNG-IUS)
+- [[90-hiperplasia-endometrium|Kontraindikasi Estrogen]] (Switching metode non-estrogen)
+- [[68-tromboemboli|Tromboemboli Venosa / Riwayat TEV]] (Hentikan estrogen, manajemen KB aman)
+- [[68-tromboemboli|Stroke / TIA / Penyakit Jantung Iskemik]] (KB non-estrogen, monitoring ketat)
+- [[52-hipertensi-kehamilan|Hipertensi Kronis]] (Pemilihan KB aman, monitoring TD)
+- [[82-karsinoma-payudara|Kanker Payudara (Riwayat)]] (KB non-hormonal / LNG-IUS dengan onkologi)
+- [[09-anemia-defisiensi-besi-pada-kehamilan|Trombositopenia / Koagulopati]] (Hindari IUD jika trombosit rendah, kelola pendarahan KB)
+- [[26-baby-blues-postpartum-depression|Gangguan Mood Berhubungan KB Hormonal]] (Switch metode, rujuk psikiater)
 
 ---
 
