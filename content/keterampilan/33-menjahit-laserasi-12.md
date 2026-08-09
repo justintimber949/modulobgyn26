@@ -30,7 +30,7 @@ cssclasses:
 > [!tip] Prinsip Emas
 > **Jahit segera, jahit bersih, jahit rapi.** Penjahitan dalam 10–15 menit pertama pasca persalinan — saat anestesi masih bekerja dan uterus kontraksi baik — memberikan hasil terbaik. Semakin ditunda, semakin banyak perdarahan dan risiko infeksi.
 
-Keterampilan ini merupakan kelanjutan dari [[30-episiotomi]] dan membutuhkan [[29-anestesi-lokal-perineum]] yang adekuat. Perawatan lanjutan di [[39-perawatan-luka-episiotomi]].
+Keterampilan ini merupakan kelanjutan dari Episiotomi dan membutuhkan Anestesi Lokal Perineum yang adekuat. Perawatan lanjutan di Perawatan Luka Episiotomi.
 
 ---
 
@@ -71,7 +71,7 @@ Keterampilan ini merupakan kelanjutan dari [[30-episiotomi]] dan membutuhkan [[2
 | 7   | Povidone iodine 10%        | Desinfeksi perineum                                         |
 | 8   | Lampu sorot / headlamp     | **Kritis** — tanpa pencahayaan baik, jahitan tidak sempurna |
 | 9   | Handscoen steril           | Minimal 2 pasang                                            |
-| 10  | Spuit 10 mL + jarum 23–25G | Anestesi (lihat [[29-anestesi-lokal-perineum]])             |
+| 10  | Spuit 10 mL + jarum 23–25G | Anestesi (lihat Anestesi Lokal Perineum)                    |
 | 11  | Lidokain 1%                | 5–10 mL                                                     |
 
 ### Pemilihan Benang Jahit
@@ -236,7 +236,7 @@ DERAJAT 2 — tiga lapis:
 
 ## Perawatan Pasca Penjahitan
 
-(Detail lengkap di [[39-perawatan-luka-episiotomi]])
+(Detail lengkap di Perawatan Luka Episiotomi)
 
 | Topik              | Edukasi                                                                         |
 | ------------------ | ------------------------------------------------------------------------------- |
@@ -273,8 +273,8 @@ DERAJAT 2 — tiga lapis:
 7. **Kulit:** subkutikuler (intradermal) — kosmetik terbaik.
 8. **Mulai dari puncak** laserasi → fourchette, bukan sebaliknya.
 9. **Palpasi rektal** — WAJIB setelah selesai (deteksi jahitan tembus).
-10. Anestesi adekuat prasyarat — lihat [[29-anestesi-lokal-perineum]].
-11. Edukasi ibu — [[39-perawatan-luka-episiotomi]].
+10. Anestesi adekuat prasyarat — lihat Anestesi Lokal Perineum.
+11. Edukasi ibu — Perawatan Luka Episiotomi.
 12. Dokumentasi lengkap — untuk keselamatan pasien dan perlindungan medikolegal.
 
 ---

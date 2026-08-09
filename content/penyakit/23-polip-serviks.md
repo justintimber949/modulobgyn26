@@ -1,26 +1,25 @@
 ---
 title: Polip Serviks
 tags:
-- penyakit
-- ginekologi-dasar
-- skdi-3a
+  - penyakit
+  - ginekologi-dasar
+  - skdi-3a
 level_kompetensi: 3A
 kategori: ginekologi-dasar
 nomor_modul: 23
 aliases:
-- Cervical Polyp
-- Polip Endoserviks
-- Polip Ektoserviks
-- Polip Servicalis
-- Cervical Canal Polyp
-- polip serviks
-- benjolan di serviks
-- polip rahim
-- serviks berpolip
+  - Cervical Polyp
+  - Polip Endoserviks
+  - Polip Ektoserviks
+  - Polip Servicalis
+  - Cervical Canal Polyp
+  - polip serviks
+  - benjolan di serviks
+  - polip rahim
+  - serviks berpolip
 cssclasses:
-- buku-saku
+  - buku-saku
 ---
-
 
 # Polip Serviks
 
@@ -31,13 +30,13 @@ cssclasses:
 
 ## Vignette Klinis
 
-**Ny. Dewi Sartika, 38 tahun, G3P2A1**, datang ke Poli Obgyn RSKH dengan keluhan utama *"keluar flek darah terus-menerus setelah berhubungan, Dok."* Ia mengaku sejak 2 bulan terakhir, setiap kali selesai berhubungan intim dengan suaminya, akan keluar bercak darah segar. Awalnya dikira akan haid, tapi flek ini muncul kapan saja, tidak terkait siklus. Tidak ada nyeri, tidak ada keputihan berbau, dan tidak ada keluhan lain.
+**Ny. Dewi Sartika, 38 tahun, G3P2A1**, datang ke Poli Obgyn RSKH dengan keluhan utama _"keluar flek darah terus-menerus setelah berhubungan, Dok."_ Ia mengaku sejak 2 bulan terakhir, setiap kali selesai berhubungan intim dengan suaminya, akan keluar bercak darah segar. Awalnya dikira akan haid, tapi flek ini muncul kapan saja, tidak terkait siklus. Tidak ada nyeri, tidak ada keputihan berbau, dan tidak ada keluhan lain.
 
-Pada [[03-pemeriksaan-spekulum|pemeriksaan spekulum]], tampak **massa lonjong kemerahan sebesar biji kacang tanah, menonjol keluar dari ostium servikalis eksternum**. Massa bertangkai tipis, permukaan halus, dan mudah berdarah saat disentuh dengan lidi kapas. Serviks di sekitarnya tampak normal.
+Pada pemeriksaan spekulum, tampak **massa lonjong kemerahan sebesar biji kacang tanah, menonjol keluar dari ostium servikalis eksternum**. Massa bertangkai tipis, permukaan halus, dan mudah berdarah saat disentuh dengan lidi kapas. Serviks di sekitarnya tampak normal.
 
-Pasien panik dan bertanya, *"Dok, apakah ini kanker?"* — pertanyaan yang wajar dan harus Anda jawab dengan tenang namun jujur.
+Pasien panik dan bertanya, _"Dok, apakah ini kanker?"_ — pertanyaan yang wajar dan harus Anda jawab dengan tenang namun jujur.
 
-Di sisi lain, ada **Ny. Maria, 52 tahun, G5P4A1**, seorang perimenopause yang datang dengan keluhan perdarahan pervaginam setelah berhubungan sejak 1 bulan yang lalu. Pada [[03-pemeriksaan-spekulum|pemeriksaan spekulum]], tampak massa polipoid di ektoserviks, namun dengan permukaan yang **tidak rata dan mudah berdarah**. Di sinilah Anda harus waspada dan membedakan antara polip serviks jinak dan lesi yang mencurigakan ke arah **karsinoma serviks**.
+Di sisi lain, ada **Ny. Maria, 52 tahun, G5P4A1**, seorang perimenopause yang datang dengan keluhan perdarahan pervaginam setelah berhubungan sejak 1 bulan yang lalu. Pada pemeriksaan spekulum, tampak massa polipoid di ektoserviks, namun dengan permukaan yang **tidak rata dan mudah berdarah**. Di sinilah Anda harus waspada dan membedakan antara polip serviks jinak dan lesi yang mencurigakan ke arah **karsinoma serviks**.
 
 ---
 
@@ -49,15 +48,15 @@ Polip serviks merupakan salah satu **penyebab tersering perdarahan kontak** (per
 
 ### Polip Endoserviks vs Ektoserviks
 
-| Karakteristik | Polip Endoserviks | Polip Ektoserviks |
-|--------------|-------------------|-------------------|
-| **Asal** | Mukosa kanalis servikalis (endoserviks) | Mukosa porsio (ektoserviks) |
-| **Lokasi** | Menonjol keluar dari ostium eksternum | Tumbuh dari permukaan ektoserviks |
-| **Penampakan** | Merah terang/keunguan, lonjong, permukaan halus | Merah muda keputihan, lebih padat |
-| **Jaringan** | Epitel kolumnar (kelenjar endoserviks) | Epitel skuamosa berlapis |
-| **Tangkai** | Biasanya bertangkai (pedunkulatus) | Sering sesil atau bertangkai pendek |
-| **Perdarahan** | +++ sering berdarah kontak | ++ lebih jarang berdarah |
-| **Usia tersering** | 30–50 tahun (reproduktif akhir) | Perimenopause / pascamenopause |
+| Karakteristik      | Polip Endoserviks                               | Polip Ektoserviks                   |
+| ------------------ | ----------------------------------------------- | ----------------------------------- |
+| **Asal**           | Mukosa kanalis servikalis (endoserviks)         | Mukosa porsio (ektoserviks)         |
+| **Lokasi**         | Menonjol keluar dari ostium eksternum           | Tumbuh dari permukaan ektoserviks   |
+| **Penampakan**     | Merah terang/keunguan, lonjong, permukaan halus | Merah muda keputihan, lebih padat   |
+| **Jaringan**       | Epitel kolumnar (kelenjar endoserviks)          | Epitel skuamosa berlapis            |
+| **Tangkai**        | Biasanya bertangkai (pedunkulatus)              | Sering sesil atau bertangkai pendek |
+| **Perdarahan**     | +++ sering berdarah kontak                      | ++ lebih jarang berdarah            |
+| **Usia tersering** | 30–50 tahun (reproduktif akhir)                 | Perimenopause / pascamenopause      |
 
 > [!tip] **Jebakan Klinis**
 > Polip endoserviks yang besar dan prolaps keluar dari ostium bisa disangka sebagai **prolaps polip endometrium** (polip bertangkai panjang dari kavum uteri). Bedanya: polip endometrium lebih lunak, berwarna lebih keabu-abuan, dan bisa mencapai ukuran yang lebih besar.
@@ -78,13 +77,13 @@ Polip serviks merupakan salah satu **penyebab tersering perdarahan kontak** (per
 
 Penyebab pasti polip serviks belum diketahui secara lengkap, namun beberapa mekanisme berperan:
 
-| Faktor | Mekanisme |
-|--------|-----------|
-| **Inflamasi kronis** | Iritasi kronik mukosa serviks → hiperplasia mukosa reparatif → pembentukan polip |
-| **Respons hormonal (estrogen)** | Peningkatan sensitivitas mukosa serviks terhadap estrogen — sering ditemukan bersamaan dengan hiperplasia endometrium |
-| **Trauma persalinan / dilatasi serviks** | Jaringan parut dan gangguan aliran drainase kelenjar endoserviks → proliferasi mukosa |
-| **Stasis vaskular** | Kongesti pembuluh darah endoserviks → edema dan prolaps mukosa |
-| **Infeksi menahun (servisitis kronik)** | Infeksi *Chlamydia trachomatis*, *Neisseria gonorrhoeae*, atau *Trichomonas vaginalis* yang tidak diobati |
+| Faktor                                   | Mekanisme                                                                                                             |
+| ---------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| **Inflamasi kronis**                     | Iritasi kronik mukosa serviks → hiperplasia mukosa reparatif → pembentukan polip                                      |
+| **Respons hormonal (estrogen)**          | Peningkatan sensitivitas mukosa serviks terhadap estrogen — sering ditemukan bersamaan dengan hiperplasia endometrium |
+| **Trauma persalinan / dilatasi serviks** | Jaringan parut dan gangguan aliran drainase kelenjar endoserviks → proliferasi mukosa                                 |
+| **Stasis vaskular**                      | Kongesti pembuluh darah endoserviks → edema dan prolaps mukosa                                                        |
+| **Infeksi menahun (servisitis kronik)**  | Infeksi _Chlamydia trachomatis_, _Neisseria gonorrhoeae_, atau _Trichomonas vaginalis_ yang tidak diobati             |
 
 Secara patologis, polip serviks terdiri dari **stroma fibrovaskular** yang dilapisi oleh epitel kolumnar (endoserviks) atau epitel skuamosa (ektoserviks). Permukaan polip rentan terhadap trauma dan perdarahan karena stromanya kaya akan pembuluh darah yang berdinding tipis.
 
@@ -104,12 +103,12 @@ Polip serviks dapat mengalami perubahan sekunder yang mengubah penampilan klinis
 
 ### Gejala
 
-Hampir **sepertiga** polip serviks bersifat asimptomatik dan ditemukan secara kebetulan pada pemeriksaan [[06-melakukan-paps-smear|Pap Smear]] rutin atau [[07-pemeriksaan-iva|pemeriksaan IVA]].
+Hampir **sepertiga** polip serviks bersifat asimptomatik dan ditemukan secara kebetulan pada pemeriksaan Pap Smear rutin atau pemeriksaan IVA.
 
 Jika bergejala, manifestasi tersering:
 
 1. **Perdarahan kontak** (contact bleeding) — gejala paling khas:
-   - Perdarahan setelah hubungan seksual (*postcoital bleeding*)
+   - Perdarahan setelah hubungan seksual (_postcoital bleeding_)
    - Perdarahan setelah pemeriksaan vagina
    - Perdarahan setelah mengejan saat BAB
 
@@ -130,13 +129,13 @@ Jika bergejala, manifestasi tersering:
 
 ### Red Flag — Kapan Harus Curiga Keganasan?
 
-| Temuan | Keterangan |
-|--------|------------|
-| Polip berdasar lebar (sesil) > 2 cm | Lebih sering ganas dibanding polip bertangkai |
-| Permukaan tidak rata, ireguler | Curiga pertumbuhan invasif |
+| Temuan                                              | Keterangan                                    |
+| --------------------------------------------------- | --------------------------------------------- |
+| Polip berdasar lebar (sesil) > 2 cm                 | Lebih sering ganas dibanding polip bertangkai |
+| Permukaan tidak rata, ireguler                      | Curiga pertumbuhan invasif                    |
 | Perdarahan kontak terus-menerus disertai duh berbau | Dapat menandakan ulserasi atau nekrosis tumor |
-| Usia > 50 tahun + perdarahan pascamenopause | Risiko ganas lebih tinggi |
-| Disertai massa adneksa atau uterus membesar | Kemungkinan keganasan lanjut |
+| Usia > 50 tahun + perdarahan pascamenopause         | Risiko ganas lebih tinggi                     |
+| Disertai massa adneksa atau uterus membesar         | Kemungkinan keganasan lanjut                  |
 
 ---
 
@@ -150,11 +149,11 @@ Tanyakan secara sistematis:
    - Perdarahan kontak? Postkoital? Pascapemeriksaan?
    - Perdarahan intermenstrual / metroragia?
    - Perdarahan pascamenopause? — **red flag!**
-   - Apakah sudah pernah diperiksa [[06-melakukan-paps-smear|Pap Smear]] sebelumnya?
+   - Apakah sudah pernah diperiksa Pap Smear sebelumnya?
 
 2. **Riwayat obstetri-ginekologi:**
    - Paritas (multipar → risiko lebih tinggi)
-   - Riwayat [[07-pemeriksaan-iva|IVA]] sebelumnya
+   - Riwayat IVA sebelumnya
    - Riwayat infeksi genital (servisitis kronik, vaginitis rekuren)
    - Kontrasepsi yang digunakan
 
@@ -174,7 +173,7 @@ Tanyakan secara sistematis:
 
 #### Pemeriksaan Spekulum (Kunci Diagnosis)
 
-**[[03-pemeriksaan-spekulum|Pemeriksaan spekulum]]** adalah langkah paling penting untuk menegakkan diagnosis polip serviks. Langkah-langkah:
+**Pemeriksaan spekulum** adalah langkah paling penting untuk menegakkan diagnosis polip serviks. Langkah-langkah:
 
 1. **Pilih spekulum yang tepat:**
    - Spekulum **Graves** (ukuran sedang/besar) untuk multipara — memberikan visualisasi optimal
@@ -186,7 +185,7 @@ Tanyakan secara sistematis:
    - Buka spekulum perlahan — **jangan langsung membuka lebar** karena polip bisa terjepit atau terlepas
 
 3. **Visualisasi sistematis:**
-   - Inspeksi dinding vagina: cari lesi kistik atau massa dinding vagina (→ [[21-kista-gartner|kista Gartner]])
+   - Inspeksi dinding vagina: cari lesi kistik atau massa dinding vagina (→ kista Gartner)
    - Inspeksi serviks: cari polip yang menonjol dari ostium
    - **Putar spekulum perlahan** untuk melihat seluruh permukaan ektoserviks — polip kecil di belakang bibir serviks bisa terlewat
 
@@ -205,14 +204,14 @@ Tanyakan secara sistematis:
 
 ### Pemeriksaan Penunjang
 
-| Pemeriksaan | Indikasi | Keterangan |
-|-------------|----------|------------|
-| [[06-melakukan-paps-smear|Pap Smear]] | Semua pasien dengan polip | Skrining keganasan serviks — jangan terlewat |
-| [[07-pemeriksaan-iva|IVA]] | Alternatif skrining | Khususnya jika fasilitas Pap Smear terbatas |
-| Biopsi polip pasca-eksisi | **WAJIB** pada semua polip | Satu-satunya cara menyingkirkan keganasan secara definitif |
-| Kolposkopi | Jika tampak mencurigakan | Diperlukan oleh spesialis untuk menilai gambaran vaskular |
-| USG transvaginal | Jika polip besar/sesil/tidak bisa dieksisi utuh | Untuk menilai asal polip: serviks vs endometrium ([[24-polip-endometrium|polip endometrium]] dengan tangkai panjang) |
-| Tes kehamilan | Wanita usia reproduksi | Eksklusi perdarahan obstetrik |
+| Pemeriksaan               | Indikasi                                        | Keterangan                                                                                   |
+| ------------------------- | ----------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| Pap Smear                 | Semua pasien dengan polip                       | Skrining keganasan serviks — jangan terlewat                                                 |
+| IVA                       | Alternatif skrining                             | Khususnya jika fasilitas Pap Smear terbatas                                                  |
+| Biopsi polip pasca-eksisi | **WAJIB** pada semua polip                      | Satu-satunya cara menyingkirkan keganasan secara definitif                                   |
+| Kolposkopi                | Jika tampak mencurigakan                        | Diperlukan oleh spesialis untuk menilai gambaran vaskular                                    |
+| USG transvaginal          | Jika polip besar/sesil/tidak bisa dieksisi utuh | Untuk menilai asal polip: serviks vs endometrium ( polip endometrium dengan tangkai panjang) |
+| Tes kehamilan             | Wanita usia reproduksi                          | Eksklusi perdarahan obstetrik                                                                |
 
 ---
 
@@ -222,33 +221,33 @@ Tanyakan secara sistematis:
 
 **Ini adalah diagnosis banding yang paling krusial.** Dokter umum harus mampu membedakan keduanya karena tatalaksana dan prognosis sangat berbeda.
 
-| Ciri | Polip Serviks (Jinak) | Karsinoma Serviks (Ganas) |
-|------|----------------------|---------------------------|
-| **Usia** | 30–50 tahun | Rerata 45–55 tahun |
-| **Penampakan** | Merah terang, permukaan halus | Putih/abu-abu, **kasar, ireguler, mudah berdarah** |
-| **Bentuk** | Lonjong, bertangkai (sempit) | Sesil, **dasar lebar**, eksofitik atau ulseratif |
-| **Permukaan** | Licin, epitel utuh | **Berkutil, nekrotik, rapuh** (*friable*) |
-| **Perdarahan kontak** | ++ (ringan-sedang) | +++ (hebat, spontan) |
-| **Duh tubuh** | Mukoid/serous | **Berbau** (nekrosis), purulen/sanguinolen |
-| **Palpasi serviks** | Konsistensi **normal** | Konsistensi **keras, ireguler** |
-| **Nyeri panggul** | Jarang | Stadium lanjut: sering (+), menjalar |
-| **Pap Smear / IVA** | Normal/inflamasi | Abnormal: HSIL, keganasan |
-| **Biopsi** | Jaringan hiperplastik jinak | Sel displastik / ganas |
+| Ciri                  | Polip Serviks (Jinak)         | Karsinoma Serviks (Ganas)                          |
+| --------------------- | ----------------------------- | -------------------------------------------------- |
+| **Usia**              | 30–50 tahun                   | Rerata 45–55 tahun                                 |
+| **Penampakan**        | Merah terang, permukaan halus | Putih/abu-abu, **kasar, ireguler, mudah berdarah** |
+| **Bentuk**            | Lonjong, bertangkai (sempit)  | Sesil, **dasar lebar**, eksofitik atau ulseratif   |
+| **Permukaan**         | Licin, epitel utuh            | **Berkutil, nekrotik, rapuh** (_friable_)          |
+| **Perdarahan kontak** | ++ (ringan-sedang)            | +++ (hebat, spontan)                               |
+| **Duh tubuh**         | Mukoid/serous                 | **Berbau** (nekrosis), purulen/sanguinolen         |
+| **Palpasi serviks**   | Konsistensi **normal**        | Konsistensi **keras, ireguler**                    |
+| **Nyeri panggul**     | Jarang                        | Stadium lanjut: sering (+), menjalar               |
+| **Pap Smear / IVA**   | Normal/inflamasi              | Abnormal: HSIL, keganasan                          |
+| **Biopsi**            | Jaringan hiperplastik jinak   | Sel displastik / ganas                             |
 
 > [!warning] **Aturan Mutlak: Semua Polip Harus Dikirim ke PA!**
 > Makroskopis saja **tidak cukup** untuk membedakan polip jinak dari ganas. Setiap polip yang dieksisi — meski tampak jinak — **wajib** dikirim untuk pemeriksaan histopatologi (PA). Jangan memutuskan membuang polip tanpa biopsi hanya karena tampak jinak.
 
 ### Diagnosis Banding Lainnya
 
-| Diagnosis | Ciri Pembeda |
-|-----------|-------------|
-| **[[21-kista-gartner|Kista Gartner]]** | Kistik, di dinding vagina lateral, tidak menonjol dari ostium |
+| Diagnosis                                     | Ciri Pembeda                                                      |
+| --------------------------------------------- | ----------------------------------------------------------------- |
+| \*\* Kista Gartner\*\*                        | Kistik, di dinding vagina lateral, tidak menonjol dari ostium     |
 | **Polip endometrium** (prolaps lewat serviks) | Lebih lunak, lebih besar, berasal dari kavum uteri → USG membantu |
-| **Kondiloma akuminata serviks** | Vegetasi seperti kembang kol, multipel, terkait infeksi HPV |
-| **Mioma serviks (servikal mioma)** | Massa padat, keras, tidak bertangkai — USG konfirmasi |
-| **Adenomiosis serviks** | Kistik kecil-kecil di ektoserviks (kelenjar endometriosis) |
-| **Desidua serviks (kehamilan)** | Perubahan kehamilan — tes kehamilan (+) |
-| **Sarkoma serviks** (sangat jarang) | Massa polipoid besar, tumbuh cepat |
+| **Kondiloma akuminata serviks**               | Vegetasi seperti kembang kol, multipel, terkait infeksi HPV       |
+| **Mioma serviks (servikal mioma)**            | Massa padat, keras, tidak bertangkai — USG konfirmasi             |
+| **Adenomiosis serviks**                       | Kistik kecil-kecil di ektoserviks (kelenjar endometriosis)        |
+| **Desidua serviks (kehamilan)**               | Perubahan kehamilan — tes kehamilan (+)                           |
+| **Sarkoma serviks** (sangat jarang)           | Massa polipoid besar, tumbuh cepat                                |
 
 ---
 
@@ -265,34 +264,35 @@ Tanyakan secara sistematis:
 
 Pada polip yang tampak jinak (< 2 cm, bertangkai tipis, permukaan halus), dokter umum dapat melakukan polipektomi sederhana — **hanya jika kompetensi dan fasilitas memadai**:
 
-| Langkah | Keterangan |
-|---------|------------|
-| **Persiapan** | Informed consent, pastikan pasien tidak hamil, siapkan klem ovum / klem polip (Rampley forceps), lidi kapas, antiseptik, larutan pereduksi perdarahan (AgNO₃ atau Monsel solution) |
-| **Pemasangan spekulum** | Visualisasikan polip dengan baik |
-| **Puntiran (polipektomi torsi)** | Jepit tangkai polip dengan klem di bagian pangkal, putar perlahan-lahan searah sampai polip terlepas. Jangan menarik paksa — bisa menyebabkan laserasi serviks |
-| **Atau eksisi dengan gunting** | Gunting tangkai pada pangkalnya — lebih disarankan untuk tangkai yang lebih lebar |
-| **Kontrol perdarahan** | Tekan pangkal dengan lidi kapas yang dibasahi AgNO₃ atau Monsel solution (ferric subsulfate). Jika perdarahan berlanjut → jahit pangkal dengan benang vicryl 3-0 |
-| **Pengiriman spesimen** | Masukkan polip ke dalam botol berisi formalin 10%, beri label lengkap, kirim ke PA |
+| Langkah                          | Keterangan                                                                                                                                                                         |
+| -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Persiapan**                    | Informed consent, pastikan pasien tidak hamil, siapkan klem ovum / klem polip (Rampley forceps), lidi kapas, antiseptik, larutan pereduksi perdarahan (AgNO₃ atau Monsel solution) |
+| **Pemasangan spekulum**          | Visualisasikan polip dengan baik                                                                                                                                                   |
+| **Puntiran (polipektomi torsi)** | Jepit tangkai polip dengan klem di bagian pangkal, putar perlahan-lahan searah sampai polip terlepas. Jangan menarik paksa — bisa menyebabkan laserasi serviks                     |
+| **Atau eksisi dengan gunting**   | Gunting tangkai pada pangkalnya — lebih disarankan untuk tangkai yang lebih lebar                                                                                                  |
+| **Kontrol perdarahan**           | Tekan pangkal dengan lidi kapas yang dibasahi AgNO₃ atau Monsel solution (ferric subsulfate). Jika perdarahan berlanjut → jahit pangkal dengan benang vicryl 3-0                   |
+| **Pengiriman spesimen**          | Masukkan polip ke dalam botol berisi formalin 10%, beri label lengkap, kirim ke PA                                                                                                 |
 
 > [!warning] **Kontraindikasi Polipektomi oleh Dokter Umum**
+>
 > - Polip > 2 cm
 > - Tangkai lebar / sesil
 > - Tampak mencurigakan ganas
 > - Perdarahan sulit dikontrol
 > - Pasien hamil
 > - Pasien dengan gangguan perdarahan / antikoagulan
-> **Rujuk semua kasus di atas ke spesialis OB-GIN.**
+>   **Rujuk semua kasus di atas ke spesialis OB-GIN.**
 
 ### Tatalaksana Berdasarkan Temuan
 
-| Temuan Makroskopis | Tindakan |
-|-------------------|----------|
-| Polip < 2 cm, bertangkai tipis, jinak | Polipektomi puntiran/eksisi → kirim PA → **rujuk ke spesialis hanya jika PA ganas** |
-| Polip > 2 cm, bertangkai lebar, sesil | Rujuk → kolposkopi + biopsi + polipektomi hati-hati (resiko perdarahan) |
-| Polip multipel | Rujuk → kemungkinan kuretase diagnostik (eksklusi polip endometrium) |
-| Polip pada perimenopause/pascamenopause | Rujuk → risiko keganasan lebih tinggi, perlu evaluasi USG + kolposkopi |
-| Polip dengan permukaan ireguler / mencurigakan | Rujuk → kolposkopi + biopsi target |
-| Polip dengan perdarahan aktif | Polipektomi + kauter + **rujuk bila perdarahan tidak berhenti** |
+| Temuan Makroskopis                             | Tindakan                                                                            |
+| ---------------------------------------------- | ----------------------------------------------------------------------------------- |
+| Polip < 2 cm, bertangkai tipis, jinak          | Polipektomi puntiran/eksisi → kirim PA → **rujuk ke spesialis hanya jika PA ganas** |
+| Polip > 2 cm, bertangkai lebar, sesil          | Rujuk → kolposkopi + biopsi + polipektomi hati-hati (resiko perdarahan)             |
+| Polip multipel                                 | Rujuk → kemungkinan kuretase diagnostik (eksklusi polip endometrium)                |
+| Polip pada perimenopause/pascamenopause        | Rujuk → risiko keganasan lebih tinggi, perlu evaluasi USG + kolposkopi              |
+| Polip dengan permukaan ireguler / mencurigakan | Rujuk → kolposkopi + biopsi target                                                  |
+| Polip dengan perdarahan aktif                  | Polipektomi + kauter + **rujuk bila perdarahan tidak berhenti**                     |
 
 ### Tatalaksana Pasca-Eksisi
 
@@ -312,13 +312,13 @@ Pada polip yang tampak jinak (< 2 cm, bertangkai tipis, permukaan halus), dokter
 
 ## Komplikasi
 
-| Komplikasi | Penjelasan |
-|------------|------------|
+| Komplikasi                   | Penjelasan                                                                   |
+| ---------------------------- | ---------------------------------------------------------------------------- |
 | Perdarahan pasca-polipektomi | Paling sering — biasanya ringan, dapat dikontrol dengan kauter atau kompresi |
-| Infeksi sekunder pada polip | Terutama polip yang mengalami nekrosis torsi — perlu antibiotik |
-| Laserasi serviks | Akibat tarikan berlebihan saat polipektomi — jahit dengan vicryl |
-| Rekurensi | 5–10% kasus, terutama jika faktor predisposisi tidak diatasi |
-| Keganasan (sangat jarang) | < 0,5% — risiko lebih tinggi pada pascamenopause |
+| Infeksi sekunder pada polip  | Terutama polip yang mengalami nekrosis torsi — perlu antibiotik              |
+| Laserasi serviks             | Akibat tarikan berlebihan saat polipektomi — jahit dengan vicryl             |
+| Rekurensi                    | 5–10% kasus, terutama jika faktor predisposisi tidak diatasi                 |
+| Keganasan (sangat jarang)    | < 0,5% — risiko lebih tinggi pada pascamenopause                             |
 
 ---
 
@@ -346,9 +346,9 @@ Pada kasus dengan hasil PA displasia atau ganas, prognosis tergantung pada deraj
 
 Keterampilan berikut harus dikuasai untuk diagnosis dan tatalaksana polip serviks secara komprehensif:
 
-- [[03-pemeriksaan-spekulum|Pemeriksaan Spekulum]] — keterampilan **paling fundamental**: visualisasi dan penilaian polip serviks
-- [[06-melakukan-paps-smear|Pap Smear]] — skrining keganasan serviks pada pasien dengan polip
-- [[07-pemeriksaan-iva|Pemeriksaan IVA]] — alternatif skrining di fasilitas terbatas
+- Pemeriksaan Spekulum — keterampilan **paling fundamental**: visualisasi dan penilaian polip serviks
+- Pap Smear — skrining keganasan serviks pada pasien dengan polip
+- Pemeriksaan IVA — alternatif skrining di fasilitas terbatas
 
 ---
 
@@ -357,21 +357,21 @@ Keterampilan berikut harus dikuasai untuk diagnosis dan tatalaksana polip servik
 1. **Polip serviks = penyebab tersering perdarahan kontak** pada wanita 30–50 tahun.
 2. **Membedakan endoserviks vs ektoserviks**: yang pertama merah halus, menonjol dari ostium; yang kedua dari permukaan porsio.
 3. **Karsinoma serviks adalah diagnosis banding paling penting** — jangan sampai terlewat. Biopsi adalah satu-satunya jawaban definitif.
-4. **[[03-pemeriksaan-spekulum|Pemeriksaan spekulum]] adalah kunci diagnosis** — tanpa spekulum Anda tidak akan melihat polip.
+4. **Pemeriksaan spekulum adalah kunci diagnosis** — tanpa spekulum Anda tidak akan melihat polip.
 5. **Polip < 2 cm, bertangkai tipis → polipektomi puntiran bisa dilakukan** oleh dokter umum. **Polip > 2 cm, sesil, mencurigakan → rujuk.**
 6. **Setiap polip yang dieksisi WAJIB dikirim ke PA** — jangan hanya membuangnya.
-7. **Jangan lupa [[06-melakukan-paps-smear|Pap Smear]] atau [[07-pemeriksaan-iva|IVA]]** — skrining keganasan serviks tetap wajib meski polip sudah dieksisi.
+7. **Jangan lupa Pap Smear atau IVA** — skrining keganasan serviks tetap wajib meski polip sudah dieksisi.
 8. **Prognosis excellens** pada polip jinak yang diterapi adekuat.
 
 ---
 
 ## Daftar Pustaka
 
-1. **Savitri, A., & Wiknjosastro, H.** (2021). *Ilmu Kandungan*. Edisi 4. Jakarta: PT Bina Pustaka Sarwono Prawirohardjo.
-2. **POGI.** (2023). *Pedoman Diagnosis dan Tatalaksana Tumor Jinak Serviks.* Jakarta: Perkumpulan Obstetri dan Ginekologi Indonesia.
+1. **Savitri, A., & Wiknjosastro, H.** (2021). _Ilmu Kandungan_. Edisi 4. Jakarta: PT Bina Pustaka Sarwono Prawirohardjo.
+2. **POGI.** (2023). _Pedoman Diagnosis dan Tatalaksana Tumor Jinak Serviks._ Jakarta: Perkumpulan Obstetri dan Ginekologi Indonesia.
 3. **WHO Classification of Tumours of Female Reproductive Organs.** (2020). 5th Edition. Lyon: IARC Press.
-4. **Acharya S, et al.** (2020). Cervical Polyps: A Review of the Literature. *Journal of Obstetrics and Gynaecology*, 40(5): 589-594.
-5. **Stentella P, et al.** (2022). Cervical Polyps: Pathogenesis, Diagnosis, and Management. *Clinical and Experimental Obstetrics & Gynecology*, 49(2): 1-6.
-6. **Wright JD, et al.** (2024). Cervical Polyps. In: *UpToDate*. Waltham, MA: UpToDate Inc.
-7. **Kemenkes RI.** (2023). *Pedoman Nasional Pelayanan Kedokteran (PNPK) Kanker Serviks.* Jakarta: Kementerian Kesehatan RI.
-8. **Katz VL, et al.** (2023). *Comprehensive Gynecology.* 8th Edition. Philadelphia: Elsevier.
+4. **Acharya S, et al.** (2020). Cervical Polyps: A Review of the Literature. _Journal of Obstetrics and Gynaecology_, 40(5): 589-594.
+5. **Stentella P, et al.** (2022). Cervical Polyps: Pathogenesis, Diagnosis, and Management. _Clinical and Experimental Obstetrics & Gynecology_, 49(2): 1-6.
+6. **Wright JD, et al.** (2024). Cervical Polyps. In: _UpToDate_. Waltham, MA: UpToDate Inc.
+7. **Kemenkes RI.** (2023). _Pedoman Nasional Pelayanan Kedokteran (PNPK) Kanker Serviks._ Jakarta: Kementerian Kesehatan RI.
+8. **Katz VL, et al.** (2023). _Comprehensive Gynecology._ 8th Edition. Philadelphia: Elsevier.

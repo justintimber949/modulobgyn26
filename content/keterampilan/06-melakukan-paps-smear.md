@@ -1,26 +1,24 @@
 ---
 title: Pap Smear
 tags:
-- keterampilan
-- ginekologi-dasar
-- skdi-4a
-- skrining-kanker-serviks
+  - keterampilan
+  - ginekologi-dasar
+  - skdi-4a
+  - skrining-kanker-serviks
 level_kompetensi: 4A
 kategori: ginekologi-dasar
 nomor_modul: 6
 aliases:
-- Tes Pap
-- Papanicolaou Smear
-- Pemeriksaan Sitologi Serviks
-- pap smear
-- cek serviks
-- paps smear
-- tes pap
+  - Tes Pap
+  - Papanicolaou Smear
+  - Pemeriksaan Sitologi Serviks
+  - pap smear
+  - cek serviks
+  - paps smear
+  - tes pap
 cssclasses:
-- buku-saku
+  - buku-saku
 ---
-
-
 
 # Pap Smear
 
@@ -58,19 +56,19 @@ Untuk mendapatkan hasil yang optimal, pasien harus dipersiapkan dengan baik:
 
 ### B. Persiapan Alat dan Bahan
 
-| Alat | Jumlah | Keterangan |
-|------|--------|------------|
-| Spekulum vagina (Cusco) ukuran sedang/kecil | 1 buah | Steril atau sekali pakai |
-| Spatula Kayu (Ayre spatula) | 1 buah | Ujung lebar untuk porsio, ujung sempit untuk endoserviks |
-| Sikat endoserviks (cytobrush / endocervical brush) | 1 buah | Khusus untuk endoserviks |
-| Objek gelas (glass slide) berlabel | 1–2 buah | Bertanda ujung frosted |
-| Fiksatif spray (spray fixative) / alkohol 96% | 1 botol | Fiksasi segera |
-| Sarung tangan bersih (non-steril) | 1 pasang | Ukuran sesuai |
-| Lampu sorot / senter | 1 buah | Untuk visualisasi serviks |
-| Kasa atau kapas lidi | 2–3 buah | Membersihkan lendir/sekret |
-| Bahan kontras (asam asetat 3–5% atau lugol) | Opsional | Bila akan kombinasi IVA |
-| Wadah berisi larutan fiksatif (untuk LBC) | 1 buah | Khusus teknik liquid-based |
-| Formulir permintaan sitologi | 1 lembar | Berisi data klinis lengkap |
+| Alat                                               | Jumlah   | Keterangan                                               |
+| -------------------------------------------------- | -------- | -------------------------------------------------------- |
+| Spekulum vagina (Cusco) ukuran sedang/kecil        | 1 buah   | Steril atau sekali pakai                                 |
+| Spatula Kayu (Ayre spatula)                        | 1 buah   | Ujung lebar untuk porsio, ujung sempit untuk endoserviks |
+| Sikat endoserviks (cytobrush / endocervical brush) | 1 buah   | Khusus untuk endoserviks                                 |
+| Objek gelas (glass slide) berlabel                 | 1–2 buah | Bertanda ujung frosted                                   |
+| Fiksatif spray (spray fixative) / alkohol 96%      | 1 botol  | Fiksasi segera                                           |
+| Sarung tangan bersih (non-steril)                  | 1 pasang | Ukuran sesuai                                            |
+| Lampu sorot / senter                               | 1 buah   | Untuk visualisasi serviks                                |
+| Kasa atau kapas lidi                               | 2–3 buah | Membersihkan lendir/sekret                               |
+| Bahan kontras (asam asetat 3–5% atau lugol)        | Opsional | Bila akan kombinasi IVA                                  |
+| Wadah berisi larutan fiksatif (untuk LBC)          | 1 buah   | Khusus teknik liquid-based                               |
+| Formulir permintaan sitologi                       | 1 lembar | Berisi data klinis lengkap                               |
 
 ### C. Persiapan Lingkungan dan Dokter
 
@@ -154,19 +152,19 @@ Berikut adalah langkah baku melakukan Pap smear dengan teknik **konvensional** (
 
 ## Perbedaan Teknik Konvensional vs. Liquid-Based Cytology (LBC)
 
-| Aspek | Pap Smear Konvensional | Liquid-Based Cytology (LBC) |
-|-------|------------------------|-----------------------------|
-| **Media sampel** | Diamiskan langsung ke slide | Spatula/brush dibilas ke vial cairan fiksatif |
-| **Pembuatan sediaan** | Manual, langsung oleh dokter | Otomatis di laboratorium |
-| **Ketebalan apusan** | Tidak merata, sering tebal | Monolayer — sel tersebar rata |
-| **Jumlah sel** | 20–80% sel tertinggal di spatula | Hampir semua sel masuk ke vial |
-| **Kualitas** | Sering terganggu darah/lendir/radang | Darah dan lendir diffilter (sel target lebih bersih) |
-| **Air-drying artifact** | Risiko tinggi bila fiksasi lambat | Sangat minimal karena langsung tercelup cairan |
-| **Waktu fiksasi** | Harus ≤10 detik | Segera setelah brush dibilas |
-| **Jumlah slide** | 1–2 slide per pasien | 1 slide per vial |
-| **Biaya** | Lebih murah | Lebih mahal (alat + reagen) |
-| **Ketersediaan di Indonesia** | Tersedia luas di puskesmas | Terbatas di RS besar/swasta |
-| **Sensitivitas** | 50–75% (sangat tergantung teknik) | 70–85% (lebih konsisten) |
+| Aspek                         | Pap Smear Konvensional               | Liquid-Based Cytology (LBC)                          |
+| ----------------------------- | ------------------------------------ | ---------------------------------------------------- |
+| **Media sampel**              | Diamiskan langsung ke slide          | Spatula/brush dibilas ke vial cairan fiksatif        |
+| **Pembuatan sediaan**         | Manual, langsung oleh dokter         | Otomatis di laboratorium                             |
+| **Ketebalan apusan**          | Tidak merata, sering tebal           | Monolayer — sel tersebar rata                        |
+| **Jumlah sel**                | 20–80% sel tertinggal di spatula     | Hampir semua sel masuk ke vial                       |
+| **Kualitas**                  | Sering terganggu darah/lendir/radang | Darah dan lendir diffilter (sel target lebih bersih) |
+| **Air-drying artifact**       | Risiko tinggi bila fiksasi lambat    | Sangat minimal karena langsung tercelup cairan       |
+| **Waktu fiksasi**             | Harus ≤10 detik                      | Segera setelah brush dibilas                         |
+| **Jumlah slide**              | 1–2 slide per pasien                 | 1 slide per vial                                     |
+| **Biaya**                     | Lebih murah                          | Lebih mahal (alat + reagen)                          |
+| **Ketersediaan di Indonesia** | Tersedia luas di puskesmas           | Terbatas di RS besar/swasta                          |
+| **Sensitivitas**              | 50–75% (sangat tergantung teknik)    | 70–85% (lebih konsisten)                             |
 
 > [!info] **Rekomendasi untuk setting terbatas**: Teknik konvensional tetap merupakan standar skrining yang sahih dan cost-effective untuk Indonesia selama dikerjakan dengan benar. LBC diunggulkan pada populasi dengan angka perdarahan/radang tinggi dan pada program skrining massal dengan sumber daya memadai. WHO masih merekomendasikan keduanya.
 
@@ -179,6 +177,7 @@ Semua hasil Pap smear harus dilaporkan menggunakan **Sistem Bethesda 2014 (The B
 ### Kategori Utama Bethesda 2014
 
 #### I. NEGATIVE FOR INTRAEPITHELIAL LESION OR MALIGNANCY (NILM)
+
 - Tidak ditemukan sel abnormal/maligna.
 - Dapat disertai deskripsi **non-neoplastic findings**:
   - Infeksi (Trikomonas, Candida, HSV, bakteri)
@@ -190,35 +189,36 @@ Semua hasil Pap smear harus dilaporkan menggunakan **Sistem Bethesda 2014 (The B
 
 #### II. EPITHELIAL CELL ABNORMALITIES — SQUAMOUS CELL
 
-| Kategori | Deskripsi | Risiko CIN2+ | Tatalaksana Lanjut |
-|----------|-----------|--------------|--------------------|
-| **ASC-US** (Atypical Squamous Cells of Undetermined Significance) | Sel skuamosa atipik yang tidak cukup untuk disebut HSIL. Perubahan inti ringan. | ~5–17% | Repeat Pap 1 thn / HPV triage / kolposkopi |
-| **ASC-H** (Atypical Squamous Cells – cannot exclude HSIL) | Sel atipik yang lebih mencurigakan ke arah HSIL tetapi jumlah/kualitas kurang | ~26–68% | **Kolposkopi langsung** |
-| **LSIL** (Low-grade Squamous Intraepithelial Lesion) | Koilositosis + perubahan inti — setara CIN 1 / HPV | ~12–30% | Repeat Pap / HPV / kolposkopi |
-| **HSIL** (High-grade Squamous Intraepithelial Lesion) | Sel imatur hiperkromatik, N/C ratio tinggi — setara CIN 2, CIN 3 | ~70–90% | **Kolposkopi + biopsi** |
-| **SCC** (Squamous Cell Carcinoma) | Sel maligna dengan invasi stroma — keratinisasi | >99% | Rujuk onkologi ginekologi segera |
+| Kategori                                                          | Deskripsi                                                                       | Risiko CIN2+ | Tatalaksana Lanjut                         |
+| ----------------------------------------------------------------- | ------------------------------------------------------------------------------- | ------------ | ------------------------------------------ |
+| **ASC-US** (Atypical Squamous Cells of Undetermined Significance) | Sel skuamosa atipik yang tidak cukup untuk disebut HSIL. Perubahan inti ringan. | ~5–17%       | Repeat Pap 1 thn / HPV triage / kolposkopi |
+| **ASC-H** (Atypical Squamous Cells – cannot exclude HSIL)         | Sel atipik yang lebih mencurigakan ke arah HSIL tetapi jumlah/kualitas kurang   | ~26–68%      | **Kolposkopi langsung**                    |
+| **LSIL** (Low-grade Squamous Intraepithelial Lesion)              | Koilositosis + perubahan inti — setara CIN 1 / HPV                              | ~12–30%      | Repeat Pap / HPV / kolposkopi              |
+| **HSIL** (High-grade Squamous Intraepithelial Lesion)             | Sel imatur hiperkromatik, N/C ratio tinggi — setara CIN 2, CIN 3                | ~70–90%      | **Kolposkopi + biopsi**                    |
+| **SCC** (Squamous Cell Carcinoma)                                 | Sel maligna dengan invasi stroma — keratinisasi                                 | >99%         | Rujuk onkologi ginekologi segera           |
 
 #### III. EPITHELIAL CELL ABNORMALITIES — GLANDULAR CELL
 
-| Kategori | Keterangan | Tatalaksana |
-|----------|------------|-------------|
-| **AGC-NOS** (Atypical Glandular Cells — Not Otherwise Specified) | Sel glandular atipik tanpa ciri spesifik | Kolposkopi + biopsi endoserviks + endometrial sampling (≥35 thn) |
-| **AGC-favor neoplasia** | Sel glandular lebih mencurigakan | Kolposkopi + biopsi + ECC |
-| **AIS** (Adenocarcinoma In Situ) | Sel adenokarsinoma tanpa invasi | Eksisi diagnostik (LEEP/cone) |
-| **Adenocarcinoma** | Adenokarsinoma endoserviks/endometrium/ekstrauterus | Rujuk onkologi |
+| Kategori                                                         | Keterangan                                          | Tatalaksana                                                      |
+| ---------------------------------------------------------------- | --------------------------------------------------- | ---------------------------------------------------------------- |
+| **AGC-NOS** (Atypical Glandular Cells — Not Otherwise Specified) | Sel glandular atipik tanpa ciri spesifik            | Kolposkopi + biopsi endoserviks + endometrial sampling (≥35 thn) |
+| **AGC-favor neoplasia**                                          | Sel glandular lebih mencurigakan                    | Kolposkopi + biopsi + ECC                                        |
+| **AIS** (Adenocarcinoma In Situ)                                 | Sel adenokarsinoma tanpa invasi                     | Eksisi diagnostik (LEEP/cone)                                    |
+| **Adenocarcinoma**                                               | Adenokarsinoma endoserviks/endometrium/ekstrauterus | Rujuk onkologi                                                   |
 
 #### IV. OTHER MALIGNANT NEOPLASMS
+
 - Melanoma, limfoma, sarkoma — jarang pada Pap smear.
 
 ### Kategori Kualitas Sampel (Specimen Adequacy)
 
 Setiap laporan harus menyertakan pernyataan **kecukupan sampel**:
 
-| Kategori | Definisi |
-|----------|----------|
-| **Satisfactory for evaluation** | Sel skuamosa basal/parabasal ≥ 8.000, dan sel endoserviks/transformasi ada (≥ 10 sel endoserviks atau ≥ 5 sel metaplastik) |
-| **Satisfactory but limited by…** | Adekuat tetapi ada faktor pengganggu (darah, lendir, peradangan) |
-| **Unsatisfactory for evaluation** | Sampel tidak adekuat — harus diulang. Penyebab: sel terlalu sedikit, artefak fiksasi, darah terlalu tebal |
+| Kategori                          | Definisi                                                                                                                   |
+| --------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| **Satisfactory for evaluation**   | Sel skuamosa basal/parabasal ≥ 8.000, dan sel endoserviks/transformasi ada (≥ 10 sel endoserviks atau ≥ 5 sel metaplastik) |
+| **Satisfactory but limited by…**  | Adekuat tetapi ada faktor pengganggu (darah, lendir, peradangan)                                                           |
+| **Unsatisfactory for evaluation** | Sampel tidak adekuat — harus diulang. Penyebab: sel terlalu sedikit, artefak fiksasi, darah terlalu tebal                  |
 
 > [!warning] Hasil **Unsatisfactory** bukan berarti "normal" — **wajib diulang** dalam 2–4 minggu. Jangan mengabaikan hasil ini karena dapat menunda diagnosis lesi berbahaya.
 
@@ -238,18 +238,18 @@ Setiap laporan harus menyertakan pernyataan **kecukupan sampel**:
 
 ## Kesalahan yang Sering Terjadi
 
-| Kesalahan | Dampak | Cara Mencegah |
-|-----------|--------|---------------|
-| Fiksasi terlambat (>10 detik) | Air-drying artifact — sel tidak terbaca | Siapkan spray di tangan, fiksasi ≤3 detik |
-| Terlalu sedikit sel endoserviks/SCJ | Sampel "unsatisfactory" — harus ulang | Pastikan spatula mencapai SCJ, gunakan cytobrush |
-| Apusan terlalu tebal | Overlap sel, sulit dibaca | Apus tipis dengan gerakan satu arah |
-| Menggunakan pelumas berlebihan | Kontaminasi jeli, sel hilang/tidak terfiksasi | Gunakan air hangat sebagai pelumas spekulum |
-| Mengambil sampel saat menstruasi | Darah menutupi sel target | Tanya HPHT — jadwalkan di luar haid |
-| Tidak mengisi formulir lengkap | Laboratorium kesulitan interpretasi | Isi formulir sebelum/bersamaan saat pengambilan |
-| Cytobrush pada ibu hamil | Risiko perdarahan, abortus | Gunakan spatula saja pada kehamilan |
-| Menekan spatula terlalu keras | Perdarahan serviks, sel trauma | Tekanan ringan-sedang, putar perlahan |
-| Slide dikeringkan dengan pemanas | Kerusakan sel irreversibel | Biarkan kering udara (air-dry) untuk fixative spray |
-| Menggunakan kembali spatula kayu | Kontaminasi silang | Gunakan alat sekali pakai |
+| Kesalahan                           | Dampak                                        | Cara Mencegah                                       |
+| ----------------------------------- | --------------------------------------------- | --------------------------------------------------- |
+| Fiksasi terlambat (>10 detik)       | Air-drying artifact — sel tidak terbaca       | Siapkan spray di tangan, fiksasi ≤3 detik           |
+| Terlalu sedikit sel endoserviks/SCJ | Sampel "unsatisfactory" — harus ulang         | Pastikan spatula mencapai SCJ, gunakan cytobrush    |
+| Apusan terlalu tebal                | Overlap sel, sulit dibaca                     | Apus tipis dengan gerakan satu arah                 |
+| Menggunakan pelumas berlebihan      | Kontaminasi jeli, sel hilang/tidak terfiksasi | Gunakan air hangat sebagai pelumas spekulum         |
+| Mengambil sampel saat menstruasi    | Darah menutupi sel target                     | Tanya HPHT — jadwalkan di luar haid                 |
+| Tidak mengisi formulir lengkap      | Laboratorium kesulitan interpretasi           | Isi formulir sebelum/bersamaan saat pengambilan     |
+| Cytobrush pada ibu hamil            | Risiko perdarahan, abortus                    | Gunakan spatula saja pada kehamilan                 |
+| Menekan spatula terlalu keras       | Perdarahan serviks, sel trauma                | Tekanan ringan-sedang, putar perlahan               |
+| Slide dikeringkan dengan pemanas    | Kerusakan sel irreversibel                    | Biarkan kering udara (air-dry) untuk fixative spray |
+| Menggunakan kembali spatula kayu    | Kontaminasi silang                            | Gunakan alat sekali pakai                           |
 
 ---
 
@@ -257,18 +257,18 @@ Setiap laporan harus menyertakan pernyataan **kecukupan sampel**:
 
 Pap smear digunakan untuk skrining dan diagnosis awal berbagai kondisi serviks dan saluran genital:
 
-| Penyakit / Kondisi | Peran Pap Smear |
-|--------------------|----------------|
-| **Kanker serviks** dan lesi prekursor (CIN 1–3) | Skrining utama — gold standard populasi |
-| **Infeksi HPV risiko tinggi** | Deteksi tidak langsung melalui perubahan koilositosis pada LSIL |
-| **Infeksi vagina/serviks spesifik** | Trikomonas, kandidiasis, herpes simpleks, aktinomikosis, Chlamydia (dengan imunositokimia) |
-| **Adenokarsinoma endoserviks** | Deteksi sel glandular atipik (AGC/AIS) |
-| **Adenokarsinoma endometrium** | Sel endometrium abnormal pada wanita >45 tahun memerlukan investigasi lanjut |
-| **Atrofi serviks pascamenopause** | Konfirmasi perubahan atrofi (bukan displasia) |
-| **Follow-up pasca tata laksana lesi serviks** | Monitor rekurensi setelah LEEP/konisasi/krioterapi |
-| **Evaluasi efek radiasi** | Perubahan radiasi pada sel serviks |
-| **Perdarahan pervaginam abnormal** | Salah satu pemeriksaan awal dalam diagnostik |
-| **Uterus terpajan DES (diethylstilbestrol)** | Skrining adenosis/clear cell adenocarcinoma (riwayat in utero) |
+| Penyakit / Kondisi                              | Peran Pap Smear                                                                            |
+| ----------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| **Kanker serviks** dan lesi prekursor (CIN 1–3) | Skrining utama — gold standard populasi                                                    |
+| **Infeksi HPV risiko tinggi**                   | Deteksi tidak langsung melalui perubahan koilositosis pada LSIL                            |
+| **Infeksi vagina/serviks spesifik**             | Trikomonas, kandidiasis, herpes simpleks, aktinomikosis, Chlamydia (dengan imunositokimia) |
+| **Adenokarsinoma endoserviks**                  | Deteksi sel glandular atipik (AGC/AIS)                                                     |
+| **Adenokarsinoma endometrium**                  | Sel endometrium abnormal pada wanita >45 tahun memerlukan investigasi lanjut               |
+| **Atrofi serviks pascamenopause**               | Konfirmasi perubahan atrofi (bukan displasia)                                              |
+| **Follow-up pasca tata laksana lesi serviks**   | Monitor rekurensi setelah LEEP/konisasi/krioterapi                                         |
+| **Evaluasi efek radiasi**                       | Perubahan radiasi pada sel serviks                                                         |
+| **Perdarahan pervaginam abnormal**              | Salah satu pemeriksaan awal dalam diagnostik                                               |
+| **Uterus terpajan DES (diethylstilbestrol)**    | Skrining adenosis/clear cell adenocarcinoma (riwayat in utero)                             |
 
 > [!info] Pap smear **tidak** dapat mendiagnosis: kanker ovarium, mioma uteri, endometriosis, infeksi saluran genital atas (PID/Pelvic Inflammatory Disease), atau kehamilan. Pemeriksaan penunjang lain diperlukan untuk kondisi-kondisi tersebut.
 
@@ -310,16 +310,16 @@ Interpretasi hasil (Bethesda 2014) dalam 7–14 hari
 
 ## Referensi
 
-1. **Arbyn M, et al.** (2021). Estimates of incidence and mortality of cervical cancer in 2020: a worldwide analysis. *The Lancet Global Health*, 9(2), e197–e206.
-2. **Nayar R, Wilbur DC** (eds). (2015). *The Bethesda System for Reporting Cervical Cytology: Definitions, Criteria, and Explanatory Notes*. 3rd ed. Springer. [Acuan utama sistem Bethesda 2014]
+1. **Arbyn M, et al.** (2021). Estimates of incidence and mortality of cervical cancer in 2020: a worldwide analysis. _The Lancet Global Health_, 9(2), e197–e206.
+2. **Nayar R, Wilbur DC** (eds). (2015). _The Bethesda System for Reporting Cervical Cytology: Definitions, Criteria, and Explanatory Notes_. 3rd ed. Springer. [Acuan utama sistem Bethesda 2014]
 3. **Peraturan Menteri Kesehatan RI No. 29 Tahun 2017** tentang Penanggulangan Kanker Payudara dan Kanker Leher Rahim.
-4. **World Health Organization.** (2021). *WHO guideline for screening and treatment of cervical pre-cancer lesions for cervical cancer prevention*. 2nd ed. WHO.
-5. **American College of Obstetricians and Gynecologists (ACOG).** (2021). Practice Bulletin No. 168: Cervical Cancer Screening and Prevention. *Obstetrics & Gynecology*, 128(4), e111–e130.
-6. **Kementerian Kesehatan Republik Indonesia.** (2019). *Pedoman Nasional Penanganan Kanker Serviks*. Komite Penanggulangan Kanker Nasional.
-7. **Lippincott Williams & Wilkins.** (2020). *Comprehensive Cytopathology*. 5th ed. Elsevier.
-8. **Solomon D, Nayar R.** (2004). *The Bethesda System for Reporting Cervical Cytology: Definitions, Criteria, and Explanatory Notes*. 2nd ed. Springer.
+4. **World Health Organization.** (2021). _WHO guideline for screening and treatment of cervical pre-cancer lesions for cervical cancer prevention_. 2nd ed. WHO.
+5. **American College of Obstetricians and Gynecologists (ACOG).** (2021). Practice Bulletin No. 168: Cervical Cancer Screening and Prevention. _Obstetrics & Gynecology_, 128(4), e111–e130.
+6. **Kementerian Kesehatan Republik Indonesia.** (2019). _Pedoman Nasional Penanganan Kanker Serviks_. Komite Penanggulangan Kanker Nasional.
+7. **Lippincott Williams & Wilkins.** (2020). _Comprehensive Cytopathology_. 5th ed. Elsevier.
+8. **Solomon D, Nayar R.** (2004). _The Bethesda System for Reporting Cervical Cytology: Definitions, Criteria, and Explanatory Notes_. 2nd ed. Springer.
 9. **Perhimpunan Dokter Spesialis Patologi Anatomi Indonesia (IAPI).** (2018). Panduan Interpretasi Sitologi Serviks dengan Sistem Bethesda.
-10. **Sankaranarayanan R, et al.** (2005). A critical assessment of screening methods for cervical neoplasia. *International Journal of Gynecology & Obstetrics*, 89(S2), S4–S12.
-11. **Mutyaba T, et al.** (2006). Evaluation of 'See and Treat' approach to management of precancerous cervical lesions in Uganda. *BMC Women's Health*, 6, 10.
-12. **Kurman RJ, et al.** (2019). *Blaustein's Pathology of the Female Genital Tract*. 7th ed. Springer.
+10. **Sankaranarayanan R, et al.** (2005). A critical assessment of screening methods for cervical neoplasia. _International Journal of Gynecology & Obstetrics_, 89(S2), S4–S12.
+11. **Mutyaba T, et al.** (2006). Evaluation of 'See and Treat' approach to management of precancerous cervical lesions in Uganda. _BMC Women's Health_, 6, 10.
+12. **Kurman RJ, et al.** (2019). _Blaustein's Pathology of the Female Genital Tract_. 7th ed. Springer.
 13. **Pedoman SKDI (Standar Kompetensi Dokter Indonesia).** (2021). Keterampilan tingkat 4A: Pap Smear. Konsil Kedokteran Indonesia.

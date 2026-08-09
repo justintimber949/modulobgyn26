@@ -479,4 +479,4 @@ Infeksi kehamilan merupakan kondisi emergensi obstetri yang memerlukan diagnosis
 
 [!warning] **REFERENSI TAHUN 2024:** WHO Guidelines on Intrapartum Care, IDI Standards for Maternal Health 2023
 
-[[32-aborsi-mengancam]] | [[34-hiperemesis]] | [[35-preeklampsia]]
+Aborsi Mengancam | Hiperemesis | Preeklampsia

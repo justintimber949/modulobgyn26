@@ -1,48 +1,47 @@
 ---
 title: Inisiasi Menyusui Dini (IMD)
 tags:
-- keterampilan
-- persalinan
-- skdi-4a
+  - keterampilan
+  - persalinan
+  - skdi-4a
 level_kompetensi: 4A
 kategori: persalinan
 nomor_modul: 34
 aliases:
-- IMD
-- Early Initiation of Breastfeeding
-- Kontak Dini
-- Kontak Kulit ke Kulit
-- Skin-to-Skin Contact
-- Breast Crawl
-- Merangkak Mencari Payudara
-- Inisiasi Menyusu Dini
-- imd
-- kontak dini
-- kontak kulit ke kulit
-- early breastfeeding
-- inisiasi menyusui
+  - IMD
+  - Early Initiation of Breastfeeding
+  - Kontak Dini
+  - Kontak Kulit ke Kulit
+  - Skin-to-Skin Contact
+  - Breast Crawl
+  - Merangkak Mencari Payudara
+  - Inisiasi Menyusu Dini
+  - imd
+  - kontak dini
+  - kontak kulit ke kulit
+  - early breastfeeding
+  - inisiasi menyusui
 cssclasses:
-- buku-saku
+  - buku-saku
 ---
-
 
 ## Kenapa Keterampilan Ini Penting
 
-**Inisiasi Menyusui Dini (IMD)** adalah proses membiarkan bayi baru lahir melakukan kontak kulit-ke-kulit dengan ibunya segera setelah lahir — tanpa intervensi — selama minimal 1 jam, sehingga bayi dapat menemukan dan menyusu pada payudara ibu secara mandiri melalui mekanisme *breast crawl* (merangkak mencari payudara).
+**Inisiasi Menyusui Dini (IMD)** adalah proses membiarkan bayi baru lahir melakukan kontak kulit-ke-kulit dengan ibunya segera setelah lahir — tanpa intervensi — selama minimal 1 jam, sehingga bayi dapat menemukan dan menyusu pada payudara ibu secara mandiri melalui mekanisme _breast crawl_ (merangkak mencari payudara).
 
-IMD merupakan langkah pertama dari **10 Langkah Menuju Keberhasilan Menyusui** (*Ten Steps to Successful Breastfeeding*) yang direkomendasikan WHO/UNICEF dalam Inisiatif Rumah Sakit Sayang Bayi (*Baby-Friendly Hospital Initiative* — BFHI). Di Indonesia, IMD telah diwajibkan dalam Standar Pelayanan Minimal Rumah Sakit dan menjadi bagian dari 58 Langkah APN versi Kemenkes RI.
+IMD merupakan langkah pertama dari **10 Langkah Menuju Keberhasilan Menyusui** (_Ten Steps to Successful Breastfeeding_) yang direkomendasikan WHO/UNICEF dalam Inisiatif Rumah Sakit Sayang Bayi (_Baby-Friendly Hospital Initiative_ — BFHI). Di Indonesia, IMD telah diwajibkan dalam Standar Pelayanan Minimal Rumah Sakit dan menjadi bagian dari 58 Langkah APN versi Kemenkes RI.
 
 > [!tip] **Pesan Kunci:** IMD bukan sekadar "meletakkan bayi di dada ibu". Ini adalah proses fisiologis aktif di mana bayi menggunakan naluri primitifnya untuk merangkak, menemukan putting, dan menyusu sendiri — tanpa bantuan — dalam satu jam pertama kehidupan. Penundaan prosedur rutin (timbang, ukur, vitamin K, salep mata) sangat penting.
 
 **Dampak IMD terhadap Luaran Neonatal dan Ibu:**
 
-| Parameter | Dengan IMD | Tanpa IMD | Δ |
-|-----------|-----------|-----------|---|
-| Keberhasilan ASI eksklusif 6 bulan | 70–80% | 30–45% | +35% |
-| Durasi menyusui rata-rata | 12–24 bulan | 4–8 bulan | +8 bulan |
-| Risiko perdarahan postpartum | ↓ 40% | Normal | Protektif |
-| Suhu tubuh bayi (1 jam) | 36,5–37,0°C | 35,5–36,0°C | Lebih stabil |
-| Kadar gula darah neonatal (2 jam) | 55–70 mg/dL | 40–50 mg/dL | Lebih baik |
+| Parameter                          | Dengan IMD  | Tanpa IMD   | Δ            |
+| ---------------------------------- | ----------- | ----------- | ------------ |
+| Keberhasilan ASI eksklusif 6 bulan | 70–80%      | 30–45%      | +35%         |
+| Durasi menyusui rata-rata          | 12–24 bulan | 4–8 bulan   | +8 bulan     |
+| Risiko perdarahan postpartum       | ↓ 40%       | Normal      | Protektif    |
+| Suhu tubuh bayi (1 jam)            | 36,5–37,0°C | 35,5–36,0°C | Lebih stabil |
+| Kadar gula darah neonatal (2 jam)  | 55–70 mg/dL | 40–50 mg/dL | Lebih baik   |
 
 ---
 
@@ -59,23 +58,23 @@ IMD merupakan langkah pertama dari **10 Langkah Menuju Keberhasilan Menyusui** (
 
 ---
 
-## Fisiologi IMD — *Breast Crawl*
+## Fisiologi IMD — _Breast Crawl_
 
 ### Naluri Bayi Baru Lahir
 
-Bayi baru lahir memiliki **9 naluri bawaan** (*innate behaviors*) yang aktif dalam 60–90 menit pertama kehidupan — disebut *neonatal transition period* atau *first hour of golden time*:
+Bayi baru lahir memiliki **9 naluri bawaan** (_innate behaviors_) yang aktif dalam 60–90 menit pertama kehidupan — disebut _neonatal transition period_ atau _first hour of golden time_:
 
-| Urutan | Naluri | Waktu (menit) | Deskripsi |
-|--------|--------|--------------|-----------|
-| 1 | *Birth cry* (tangis lahir) | 0–1 | Tangisan pertama → mengembangnya paru |
-| 2 | *Relaxation* (relaksasi) | 1–3 | Bayi berhenti menangis, tubuh relaks, tangan terbuka |
-| 3 | *Awakening* (bangun) | 3–5 | Mata terbuka, gerakan mulut dan lidah mulai |
-| 4 | *Activity* (aktivitas) | 5–15 | Bayi mulai menggerakkan lengan dan kaki, merangkak |
-| 5 | *Crawling* (merangkak) | 15–35 | Gerakan mendorong kaki ke perut ibu → bergerak ke payudara |
-| 6 | *Resting* (istirahat) | 35–40 | Bayi berhenti sejenak di tengah perjalanan |
-| 7 | *Familiarization* (pengenalan) | 40–50 | Bayi menjilat putting, merasakan bau dan rasa areola |
-| 8 | *Suckling* (menyusu) | 50–60 | Bayi melekat dan mulai mengisap kolostrum |
-| 9 | *Sleeping* (tidur) | 60–90 | Bayi tertidur setelah menyusu pertama |
+| Urutan | Naluri                         | Waktu (menit) | Deskripsi                                                  |
+| ------ | ------------------------------ | ------------- | ---------------------------------------------------------- |
+| 1      | _Birth cry_ (tangis lahir)     | 0–1           | Tangisan pertama → mengembangnya paru                      |
+| 2      | _Relaxation_ (relaksasi)       | 1–3           | Bayi berhenti menangis, tubuh relaks, tangan terbuka       |
+| 3      | _Awakening_ (bangun)           | 3–5           | Mata terbuka, gerakan mulut dan lidah mulai                |
+| 4      | _Activity_ (aktivitas)         | 5–15          | Bayi mulai menggerakkan lengan dan kaki, merangkak         |
+| 5      | _Crawling_ (merangkak)         | 15–35         | Gerakan mendorong kaki ke perut ibu → bergerak ke payudara |
+| 6      | _Resting_ (istirahat)          | 35–40         | Bayi berhenti sejenak di tengah perjalanan                 |
+| 7      | _Familiarization_ (pengenalan) | 40–50         | Bayi menjilat putting, merasakan bau dan rasa areola       |
+| 8      | _Suckling_ (menyusu)           | 50–60         | Bayi melekat dan mulai mengisap kolostrum                  |
+| 9      | _Sleeping_ (tidur)             | 60–90         | Bayi tertidur setelah menyusu pertama                      |
 
 > [!info] **Kolostrum yang diperoleh saat IMD:**
 > Volume: 2–20 ml per sesi — cukup untuk lambung bayi yang hanya sebesar kelereng (5–7 ml pada hari pertama). Kolostrum mengandung imunoglobulin (IgA), laktoferin, leukosit, dan faktor pertumbuhan yang tidak tergantikan oleh susu formula.
@@ -85,19 +84,20 @@ Bayi baru lahir memiliki **9 naluri bawaan** (*innate behaviors*) yang aktif dal
 IMD memicu **refleks oksitosin** pada ibu:
 
 ```
-IMD (kontak kulit) 
-    → rangsang hipotalamus posterior ibu 
-    → pelepasan oksitosin 
-    → kontraksi uterus 
-        → mempercepat kala III 
+IMD (kontak kulit)
+    → rangsang hipotalamus posterior ibu
+    → pelepasan oksitosin
+    → kontraksi uterus
+        → mempercepat kala III
         → mengurangi perdarahan postpartum
     → ejeksi ASI (let-down reflex)
 ```
 
 > [!tip] **Manfaat Oksitosin selama IMD:**
+>
 > - Kontraksi uterus membantu pelepasan plasenta (kala III) — AMTSL bekerja sinergis.
 > - Risiko atonia uteri dan perdarahan postpartum turun hingga 40%.
-> - Ibu merasa tenang, nyaman, dan ikatan emosional (*bonding*) terbentuk.
+> - Ibu merasa tenang, nyaman, dan ikatan emosional (_bonding_) terbentuk.
 
 ---
 
@@ -114,17 +114,18 @@ IMD (kontak kulit)
 
 > [!warning] **Bayi TIDAK BOLEH DIPISAHKAN dari ibu tanpa alasan medis yang jelas!** Pisahkan hanya bila benar-benar diperlukan, dan kembalikan sesegera mungkin.
 
-| Ibu | Bayi |
-|-----|------|
-| Ibu tidak sadar / dalam kondisi darurat | Bayi memerlukan resusitasi >1 menit |
-| Ibu dengan HIV (belum terkontrol) — rujuk tatalaksana ARV | Bayi dengan depresi napas berat (APGAR <4) |
+| Ibu                                                                                                          | Bayi                                                                             |
+| ------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------- |
+| Ibu tidak sadar / dalam kondisi darurat                                                                      | Bayi memerlukan resusitasi >1 menit                                              |
+| Ibu dengan HIV (belum terkontrol) — rujuk tatalaksana ARV                                                    | Bayi dengan depresi napas berat (APGAR <4)                                       |
 | Ibu dengan COVID-19 aktif — lakukan IMD dengan protokol (masker, cuci tangan) — bukan kontraindikasi absolut | Bayi dengan kelainan kongenital berat (bawaan jantung sianotik, omfalokel besar) |
-| Ibu dengan eklampsia / kejang | Bayi prematur <32 minggu (belum stabil) |
-| | Bayi IUGR berat dengan asfiksia |
-| | Bayi dengan gula darah <40 mg/dL dan simtomatik |
-| Ibu menolak IMD — edukasi, jangan paksa | Bayi dengan masalah napas (RR >60, grunting, retraksi) |
+| Ibu dengan eklampsia / kejang                                                                                | Bayi prematur <32 minggu (belum stabil)                                          |
+|                                                                                                              | Bayi IUGR berat dengan asfiksia                                                  |
+|                                                                                                              | Bayi dengan gula darah <40 mg/dL dan simtomatik                                  |
+| Ibu menolak IMD — edukasi, jangan paksa                                                                      | Bayi dengan masalah napas (RR >60, grunting, retraksi)                           |
 
 > [!warning] **Bayi tidak boleh dipisah dari ibu hanya karena alasan:**
+>
 > - Bayi perlu ditimbang, diukur, diberi vitamin K atau salep mata — **semua bisa ditunda hingga 1 jam**.
 > - Ibu lelah — IMD justru membantu ibu rileks berkat oksitosin.
 > - "Nanti ASI-nya belum keluar" — kolostrum sudah ada sejak kehamilan.
@@ -137,51 +138,52 @@ IMD (kontak kulit)
 
 ### Alat dan Bahan
 
-| Kategori | Alat | Kegunaan |
-|----------|------|----------|
-| **Untuk IMD** | Kain/selimut bersih dan kering (2–3 lembar) | Mengeringkan bayi, menyelimuti ibu-bayi |
-| | Topi bayi (kain katun halus) | Mencegah kehilangan panas dari kepala |
-| | Kain hangat untuk menutupi punggung bayi | Mempertahankan suhu selama kontak kulit |
-| | Bantal atau guling kecil | Menyangga ibu agar nyaman |
-| | Tali pengaman bayi (opsional) | Mencegah bayi jatuh saat ibu bergerak |
-| **Monitoring** | Stetoskop neonatus | Memantau napas dan DJJ selama IMD |
-| | Oksimeter (bila ada) | Saturasi oksigen bayi |
-| | Termometer | Suhu aksila bayi setiap 15 menit |
-| | Jam atau timer | Memastikan durasi minimal 60 menit |
-| **Alat resusitasi** (siap siaga) | Meja resusitasi + lampu sorot | Darurat — bila bayi perlu dipisahkan |
-| | Sungkup + O₂ | Ventilasi bila diperlukan |
-| | Konektor penghisap | Membersihkan jalan napas |
+| Kategori                         | Alat                                        | Kegunaan                                |
+| -------------------------------- | ------------------------------------------- | --------------------------------------- |
+| **Untuk IMD**                    | Kain/selimut bersih dan kering (2–3 lembar) | Mengeringkan bayi, menyelimuti ibu-bayi |
+|                                  | Topi bayi (kain katun halus)                | Mencegah kehilangan panas dari kepala   |
+|                                  | Kain hangat untuk menutupi punggung bayi    | Mempertahankan suhu selama kontak kulit |
+|                                  | Bantal atau guling kecil                    | Menyangga ibu agar nyaman               |
+|                                  | Tali pengaman bayi (opsional)               | Mencegah bayi jatuh saat ibu bergerak   |
+| **Monitoring**                   | Stetoskop neonatus                          | Memantau napas dan DJJ selama IMD       |
+|                                  | Oksimeter (bila ada)                        | Saturasi oksigen bayi                   |
+|                                  | Termometer                                  | Suhu aksila bayi setiap 15 menit        |
+|                                  | Jam atau timer                              | Memastikan durasi minimal 60 menit      |
+| **Alat resusitasi** (siap siaga) | Meja resusitasi + lampu sorot               | Darurat — bila bayi perlu dipisahkan    |
+|                                  | Sungkup + O₂                                | Ventilasi bila diperlukan               |
+|                                  | Konektor penghisap                          | Membersihkan jalan napas                |
 
 ### Persiapan Ibu
 
 1. **Edukasi saat ANC** — jelaskan IMD sejak kunjungan antenatal:
-   > *"Nanti setelah bayi lahir, kami akan meletakkan bayi langsung di dada ibu tanpa dipisahkan dulu. Bayi akan mencari payudara sendiri. Ini penting untuk keberhasilan ASI eksklusif."*
+
+   > _"Nanti setelah bayi lahir, kami akan meletakkan bayi langsung di dada ibu tanpa dipisahkan dulu. Bayi akan mencari payudara sendiri. Ini penting untuk keberhasilan ASI eksklusif."_
 
 2. **Informed consent persalinan** — pastikan ibu dan suami menyetujui IMD (lampirkan dalam rencana persalinan).
 
-3. **Atur posisi ibu** — setengah duduk (*semi-recumbent*) dengan sandaran yang nyaman, atau tidur miring. Pastikan ibu dapat melihat bayinya.
+3. **Atur posisi ibu** — setengah duduk (_semi-recumbent_) dengan sandaran yang nyaman, atau tidur miring. Pastikan ibu dapat melihat bayinya.
 
-4. **Bersihkan payudara** — cukup dengan air bersih. **Jangan gunakan sabun/antiseptik** pada putting dan areola (menghilangkan aroma *Montgomery glands* yang memandu bayi).
+4. **Bersihkan payudara** — cukup dengan air bersih. **Jangan gunakan sabun/antiseptik** pada putting dan areola (menghilangkan aroma _Montgomery glands_ yang memandu bayi).
 
 5. **Lepaskan baju ibu bagian atas** — biarkan dada terbuka untuk kontak kulit langsung.
 
 ### Persiapan Ruangan
 
-| Item | Checklist |
-|------|-----------|
-| Suhu ruang 26–28°C (hangat) | ☐ |
-| Tidak ada angin (AC tidak langsung ke ibu-bayi) | ☐ |
-| Penerangan cukup namun tidak menyilaukan | ☐ |
-| Privasi terjamin (tirai/pintu tertutup) | ☐ |
-| Tempat tidur ibu stabil dan nyaman | ☐ |
-| Jam dinding / timer terlihat penolong | ☐ |
-| Alat resusitasi neonatus siap (tidak dipakai, tapi di dekat) | ☐ |
+| Item                                                         | Checklist |
+| ------------------------------------------------------------ | --------- |
+| Suhu ruang 26–28°C (hangat)                                  | ☐         |
+| Tidak ada angin (AC tidak langsung ke ibu-bayi)              | ☐         |
+| Penerangan cukup namun tidak menyilaukan                     | ☐         |
+| Privasi terjamin (tirai/pintu tertutup)                      | ☐         |
+| Tempat tidur ibu stabil dan nyaman                           | ☐         |
+| Jam dinding / timer terlihat penolong                        | ☐         |
+| Alat resusitasi neonatus siap (tidak dipakai, tapi di dekat) | ☐         |
 
 ---
 
 ## Langkah-Langkah: 10 Langkah IMD
 
-> [!info] **Sepuluh langkah IMD berikut mengacu pada Panduan IMD Kemenkes RI dan WHO/UNICEF BFHI.** Langkah-langkah ini dilakukan segera setelah bayi lahir dan tali pusat dipotong, sebagai rangkaian dari [[27-menolong-persalinan-fisiologis-apn]].
+> [!info] **Sepuluh langkah IMD berikut mengacu pada Panduan IMD Kemenkes RI dan WHO/UNICEF BFHI.** Langkah-langkah ini dilakukan segera setelah bayi lahir dan tali pusat dipotong, sebagai rangkaian dari Menolong Persalinan Fisiologis Apn.
 
 ---
 
@@ -196,13 +198,13 @@ Segera setelah tali pusat dipotong:
 - **Jangan memandikan bayi** sebelum IMD selesai.
 
 > [!tip] **Mengapa verniks dibiarkan?**
-> Verniks mengandung peptida antimikroba (laktoferin, lisozim) yang melindungi bayi dari infeksi, menjaga suhu tubuh, dan membantu bayi mengenali ibunya melalui aroma khas *amniotic fluid*.
+> Verniks mengandung peptida antimikroba (laktoferin, lisozim) yang melindungi bayi dari infeksi, menjaga suhu tubuh, dan membantu bayi mengenali ibunya melalui aroma khas _amniotic fluid_.
 
 ### Langkah 2 — Letakkan Bayi Tengkurap di Dada/Perut Ibu (Kontak Kulit ke Kulit)
 
 - **Posisi bayi:** Tengkurap di dada ibu, dengan kepala sedikit miring ke satu sisi (menjaga jalan napas tetap terbuka).
 - **Kontak kulit:** Pastikan tubuh bayi (dada, perut, kaki) langsung menempel ke kulit ibu — **tidak boleh ada kain atau baju di antara mereka**.
-- Kaki bayi ditekuk alami (*frog position*) di atas perut ibu.
+- Kaki bayi ditekuk alami (_frog position_) di atas perut ibu.
 - Kepala bayi sejajar atau sedikit lebih tinggi dari payudara.
 - **Pertahankan tali pusat tetap longgar** — tidak tertarik atau tertekan.
 
@@ -217,8 +219,9 @@ Segera setelah tali pusat dipotong:
   - Tanda bayi kepanasan: kemerahan, keringat, napas cepat.
 
 > [!warning] **Hipotermi adalah musuh terbesar IMD:**
+>
 > - Suhu ruang harus ≥26°C.
-> - Jika suhu ruang <25°C, tambahkan lampu penghangat atau *radiant warmer* di dekat tanpa mengarah langsung ke kepala bayi.
+> - Jika suhu ruang <25°C, tambahkan lampu penghangat atau _radiant warmer_ di dekat tanpa mengarah langsung ke kepala bayi.
 > - Jangan letakkan bayi di dekat jendela/AC.
 > - Periksa suhu bayi setiap 15 menit.
 
@@ -236,14 +239,14 @@ Segera setelah tali pusat dipotong:
 
 **Prosedur yang DITUNDA** hingga setelah IMD selesai:
 
-| Prosedur | Waktu Normal | Ditunda Hingga | Alasan |
-|----------|-------------|----------------|--------|
-| Vitamin K1 1 mg IM | Segera | Setelah IMD ≥1 jam | Nyeri suntikan mengganggu konsentrasi bayi |
-| Salep mata antibiotik | Segera | Setelah IMD ≥1 jam | Menghalangi kontak mata bayi-ibu |
-| Penimbangan berat badan | Segera | Setelah IMD ≥1 jam | Pemisahan fisik dari ibu |
-| Pengukuran panjang badan | Segera | Setelah IMD ≥1 jam | Pemisahan fisik dari ibu |
-| Pengukuran lingkar kepala | Segera | Setelah IMD ≥1 jam | Pemisahan fisik dari ibu |
-| Identifikasi (gelang) | Segera | Setelah IMD ≥1 jam | *Bisa dipasang sambil bayi di dada* |
+| Prosedur                  | Waktu Normal | Ditunda Hingga     | Alasan                                     |
+| ------------------------- | ------------ | ------------------ | ------------------------------------------ |
+| Vitamin K1 1 mg IM        | Segera       | Setelah IMD ≥1 jam | Nyeri suntikan mengganggu konsentrasi bayi |
+| Salep mata antibiotik     | Segera       | Setelah IMD ≥1 jam | Menghalangi kontak mata bayi-ibu           |
+| Penimbangan berat badan   | Segera       | Setelah IMD ≥1 jam | Pemisahan fisik dari ibu                   |
+| Pengukuran panjang badan  | Segera       | Setelah IMD ≥1 jam | Pemisahan fisik dari ibu                   |
+| Pengukuran lingkar kepala | Segera       | Setelah IMD ≥1 jam | Pemisahan fisik dari ibu                   |
+| Identifikasi (gelang)     | Segera       | Setelah IMD ≥1 jam | _Bisa dipasang sambil bayi di dada_        |
 
 **Prosedur yang BOLEH dilakukan tanpa memisahkan bayi:**
 
@@ -253,66 +256,69 @@ Segera setelah tali pusat dipotong:
 - Memeriksa tali pusat dan kelengkapan plasenta — di samping tempat tidur.
 
 > [!warning] **Jangan memisahkan bayi hanya untuk:**
+>
 > - "Biaya administrasi" — gelang bisa dipasang di kaki dengan bayi di dada.
 > - "Bayi perlu dihangatkan di inkubator" — dada ibu adalah inkubator alami terbaik.
 > - "Dokter perlu melakukan VT ulang pada ibu" — bisa dilakukan dengan bayi tetap di dada.
 > - "Bayi mau disunat" — ini **tidak boleh** dilakukan dalam 24 jam pertama!
 
-### Langkah 6 — Amati dan Biarkan *Breast Crawl* Terjadi
+### Langkah 6 — Amati dan Biarkan _Breast Crawl_ Terjadi
 
-*Breast crawl* adalah rangkaian gerakan naluriah bayi untuk mencapai putting:
+_Breast crawl_ adalah rangkaian gerakan naluriah bayi untuk mencapai putting:
 
 **Fase-fase breast crawl (panduan observasi):**
 
-| Fase | Waktu | Yang Diamati |
-|------|-------|-------------|
-| **Relaksasi** | 1–3 menit | Bayi tenang, napas teratur, tangan terbuka |
-| **Bangun** | 3–8 menit | Mata terbuka, bayi mengangkat kepala sebentar |
-| **Gerakan kaki** | 5–15 menit | Bayi mendorong perut ibu dengan kakinya — gerakan merangkak |
-| **Rotasi** | 10–25 menit | Bayi memutar tubuh ke arah payudara |
-| **Mendekati putting** | 15–35 menit | Bayi bergerak ke arah putting, menyentuh areola |
-| **Istirahat** | 30–45 menit | Bayi berhenti sejenak sebelum langkah akhir — **jangan ganggu!** |
-| **Menjilat & merangsang** | 40–50 menit | Bayi menjilat putting dan areola — merangsang oksitosin |
-| **Melekat & menyusu** | 50–60 menit | Bayi membuka mulut lebar, melekat, dan mulai mengisap |
+| Fase                      | Waktu       | Yang Diamati                                                     |
+| ------------------------- | ----------- | ---------------------------------------------------------------- |
+| **Relaksasi**             | 1–3 menit   | Bayi tenang, napas teratur, tangan terbuka                       |
+| **Bangun**                | 3–8 menit   | Mata terbuka, bayi mengangkat kepala sebentar                    |
+| **Gerakan kaki**          | 5–15 menit  | Bayi mendorong perut ibu dengan kakinya — gerakan merangkak      |
+| **Rotasi**                | 10–25 menit | Bayi memutar tubuh ke arah payudara                              |
+| **Mendekati putting**     | 15–35 menit | Bayi bergerak ke arah putting, menyentuh areola                  |
+| **Istirahat**             | 30–45 menit | Bayi berhenti sejenak sebelum langkah akhir — **jangan ganggu!** |
+| **Menjilat & merangsang** | 40–50 menit | Bayi menjilat putting dan areola — merangsang oksitosin          |
+| **Melekat & menyusu**     | 50–60 menit | Bayi membuka mulut lebar, melekat, dan mulai mengisap            |
 
 > [!tip] **Yang BOLEH dan TIDAK BOLEH dilakukan penolong selama breast crawl:**
-> 
-> | ✅ BOLEH | ❌ TIDAK BOLEH |
-> |----------|---------------|
-> | Mengamati dari kejauhan | Memegang kepala bayi dan mendorong ke payudara |
-> | Menjaga bayi agar tidak jatuh | Membuka mulut bayi paksa ke putting |
-> | Mengatur posisi ibu bila tidak nyaman | Memeras kolostrum ke mulut bayi |
-> | Memeriksa suhu bayi secara berkala | Memijat dada bayi untuk "membantu" |
-> | Memberi tahu ibu apa yang terjadi | Meletakkan putting langsung ke mulut bayi |
-> | Mendokumentasikan waktu | Membalikkan bayi telentang |
-> | Membantu ibu duduk lebih tegak | Menarik tangan bayi ke arah payudara |
+>
+> | ✅ BOLEH                              | ❌ TIDAK BOLEH                                 |
+> | ------------------------------------- | ---------------------------------------------- |
+> | Mengamati dari kejauhan               | Memegang kepala bayi dan mendorong ke payudara |
+> | Menjaga bayi agar tidak jatuh         | Membuka mulut bayi paksa ke putting            |
+> | Mengatur posisi ibu bila tidak nyaman | Memeras kolostrum ke mulut bayi                |
+> | Memeriksa suhu bayi secara berkala    | Memijat dada bayi untuk "membantu"             |
+> | Memberi tahu ibu apa yang terjadi     | Meletakkan putting langsung ke mulut bayi      |
+> | Mendokumentasikan waktu               | Membalikkan bayi telentang                     |
+> | Membantu ibu duduk lebih tegak        | Menarik tangan bayi ke arah payudara           |
 
 **Prinsip utama: Biarkan bayi memimpin prosesnya sendiri!**
 
-### Langkah 7 — Bantu Bayi Melekat dengan Benar (*Latch-on*)
+### Langkah 7 — Bantu Bayi Melekat dengan Benar (_Latch-on_)
 
 Setelah bayi berhasil mencapai putting (biasanya menit ke-40–60), bayi akan membuka mulut lebar dan melekat. Tanda perlekatan yang benar:
 
-**Tanda Perlekatan Baik (*Good Latch*):**
+**Tanda Perlekatan Baik (_Good Latch_):**
 
-| Tanda | Deskripsi |
-|-------|-----------|
-| Mulut terbuka lebar | 140–160°, seperti menguap |
-| Bibir bawah terlipat keluar | Seperti "bibir ikan" |
-| Dagu menyentuh payudara | Hidung sedikit menjauh — bayi masih bisa bernapas |
-| Areola lebih banyak terlihat di atas | Bibir atas menutup lebih sedikit areola |
-| Pipi bayi bulat | Tidak cekung saat mengisap |
-| Tidak ada suara "cekikikan" | Suara menelan terdengar halus |
-| Ibu tidak merasa nyeri | Mungkin tidak nyaman 10–30 detik awal, lalu hilang |
-| Bayi mengisap ritmis | Irama isap-istirahat-telan |
+| Tanda                                | Deskripsi                                          |
+| ------------------------------------ | -------------------------------------------------- |
+| Mulut terbuka lebar                  | 140–160°, seperti menguap                          |
+| Bibir bawah terlipat keluar          | Seperti "bibir ikan"                               |
+| Dagu menyentuh payudara              | Hidung sedikit menjauh — bayi masih bisa bernapas  |
+| Areola lebih banyak terlihat di atas | Bibir atas menutup lebih sedikit areola            |
+| Pipi bayi bulat                      | Tidak cekung saat mengisap                         |
+| Tidak ada suara "cekikikan"          | Suara menelan terdengar halus                      |
+| Ibu tidak merasa nyeri               | Mungkin tidak nyaman 10–30 detik awal, lalu hilang |
+| Bayi mengisap ritmis                 | Irama isap-istirahat-telan                         |
 
 **Bantuan minimal jika bayi kesulitan:**
+
 1. **Jika bayi sudah di areola tetapi tidak melekat:** tunggu, biarkan bayi menjilat lebih lama — stimulasi akan memicu refleks rooting.
 2. **Jika bayi menjauh dari payudara:** mungkin kelelahan — istirahatkan bayi di dada, ulangi setelah 5–10 menit.
 3. **Jika bayi belum mencapai putting setelah 60 menit:** bantu dengan memindahkan bayi sedikit lebih dekat (geser ke atas, bukan memegang kepala), atau teteskan sedikit kolostrum di bibir bayi.
 4. **Jika ibu memiliki putting datar/inverted:** lakukan teknik Hoffman atau pompa putting sebelum IMD — tetapi tetap biarkan bayi mencoba sendiri lebih dulu.
 
 > [!tip] **Refleks penting yang membantu bayi:**
+>
 > - **Rooting reflex:** Bayi memutar kepala ke arah rangsangan di pipi/mulut.
 > - **Sucking reflex:** Bayi mengisap benda yang menyentuh langit-langit mulut.
 > - **Extrusion reflex:** Bayi mendorong keluar benda asing dari mulut — protektif.
@@ -322,24 +328,24 @@ Setelah bayi berhasil mencapai putting (biasanya menit ke-40–60), bayi akan me
 
 **Pemantauan Ibu:**
 
-| Parameter | Frekuensi | Target |
-|-----------|-----------|--------|
-| Kontraksi uterus | Setiap 15 menit | Keras, sepusar, konsisten |
-| Perdarahan vagina | Kontinu | <500 ml total (normal), warna merah segar → normal awal |
-| Tanda vital | Setiap 15–30 menit | TD normal, nadi <100×/mnt |
-| Nyeri | Setiap 15 menit | Skala nyeri 0–10, terutama pada jahitan perineum/SC |
-| Kenyamanan | Kontinu | Ibu tenang, tidak menggigil |
+| Parameter         | Frekuensi          | Target                                                  |
+| ----------------- | ------------------ | ------------------------------------------------------- |
+| Kontraksi uterus  | Setiap 15 menit    | Keras, sepusar, konsisten                               |
+| Perdarahan vagina | Kontinu            | <500 ml total (normal), warna merah segar → normal awal |
+| Tanda vital       | Setiap 15–30 menit | TD normal, nadi <100×/mnt                               |
+| Nyeri             | Setiap 15 menit    | Skala nyeri 0–10, terutama pada jahitan perineum/SC     |
+| Kenyamanan        | Kontinu            | Ibu tenang, tidak menggigil                             |
 
 **Pemantauan Bayi:**
 
-| Parameter | Frekuensi | Target | Alarm |
-|-----------|-----------|--------|-------|
-| Suhu aksila | Setiap 15 menit | 36,5–37,5°C | <36,0°C atau >37,8°C |
-| Warna kulit | Setiap 15 menit | Merah muda | Sianosis, pucat, ikterus |
-| Napas | Setiap 15 menit | 40–60×/mnt, reguler | <30 atau >70, grunting, retraksi |
-| Saturasi O₂ | Jika tersedia | ≥95% | <90% |
-| Aktivitas | Kontinu | Bergerak, menangis kuat, mengisap | Letargis, hipotonus |
-| Perlekatan | Observasi | Melekat dalam 60 menit | Tidak melekat dalam 90 menit |
+| Parameter   | Frekuensi       | Target                            | Alarm                            |
+| ----------- | --------------- | --------------------------------- | -------------------------------- |
+| Suhu aksila | Setiap 15 menit | 36,5–37,5°C                       | <36,0°C atau >37,8°C             |
+| Warna kulit | Setiap 15 menit | Merah muda                        | Sianosis, pucat, ikterus         |
+| Napas       | Setiap 15 menit | 40–60×/mnt, reguler               | <30 atau >70, grunting, retraksi |
+| Saturasi O₂ | Jika tersedia   | ≥95%                              | <90%                             |
+| Aktivitas   | Kontinu         | Bergerak, menangis kuat, mengisap | Letargis, hipotonus              |
+| Perlekatan  | Observasi       | Melekat dalam 60 menit            | Tidak melekat dalam 90 menit     |
 
 ### Langkah 9 — Dokumentasikan Proses IMD
 
@@ -373,10 +379,11 @@ Dokumentasi dalam rekam medis ibu dan bayi:
 Setelah IMD selesai dan prosedur rutin dilakukan:
 
 1. **Jelaskan bahwa IMD adalah awal dari perjalanan menyusui:**
-   > *"Bayi ibu sudah berhasil menyusu pertama. Sekarang, setiap kali bayi menangis atau tampak lapar, langsung susui. Tidak perlu dijadwalkan."*
 
-2. **Ajarkan tanda-tanda lapar bayi (*feeding cues*):**
-   - Bayi gelisah, menggerakkan kepala ke kiri-kanan (*rooting*).
+   > _"Bayi ibu sudah berhasil menyusu pertama. Sekarang, setiap kali bayi menangis atau tampak lapar, langsung susui. Tidak perlu dijadwalkan."_
+
+2. **Ajarkan tanda-tanda lapar bayi (_feeding cues_):**
+   - Bayi gelisah, menggerakkan kepala ke kiri-kanan (_rooting_).
    - Bayi memasukkan tangan ke mulut.
    - Bayi menjulurkan lidah.
    - **Jangan tunggu hingga bayi menangis** — itu tanda lapar stadium akhir.
@@ -388,12 +395,13 @@ Setelah IMD selesai dan prosedur rutin dilakukan:
 
 4. **Ajarkan posisi menyusui yang benar:**
    - Posisi duduk tegak dengan bantal.
-   - Posisi miring (*side-lying*) — terutama malam hari.
-   - Posisi *football hold* — untuk ibu SC (menghindari tekanan pada luka).
+   - Posisi miring (_side-lying_) — terutama malam hari.
+   - Posisi _football hold_ — untuk ibu SC (menghindari tekanan pada luka).
 
 5. **Berikan kontak informasi konselor laktasi** atau jadwal kontrol: 3 hari, 7 hari, 14 hari, 28 hari.
 
 > [!warning] **Jangan biarkan ibu pulang tanpa memahami:**
+>
 > - Kapan harus kontrol: hari ke-3 (kuning?), hari ke-7 (tali pusat lepas?), hari ke-14 (kenaikan BB).
 > - Tanda bahaya bayi: kuning (sklera, dada), tidak mau menyusu, demam, kejang.
 > - Tanda bahaya ibu: perdarahan, demam, payudara bengkak, nyeri.
@@ -418,7 +426,7 @@ flowchart TD
     J -->|Ya| K["Prosedur rutin:<br>Vit K, salep mata<br>timbang, ukur"]
     K --> L["Edukasi menyusui<br>on-demand"]
     L --> M["Dokumentasi +<br>jadwal kontrol"]
-    
+
     F -.-> N["🔄 Kala III & IV<br>berlangsung bersamaan"]
     N -.->|"TTPT, masase,<br>jahit perineum"| F
 
@@ -431,14 +439,14 @@ flowchart TD
 
 ### IMD pada Persalinan SC
 
-| Langkah | SC Spinal/Epidural | SC Anestesi Umum |
-|---------|-------------------|------------------|
-| IMD oleh | Ibu sendiri (segera setelah sadar) | Ayah/pendamping sebagai *skin-to-skin provider* |
-| Lokasi | Meja operasi (sambil luka ditutup) | Ruang pemulihan |
-| Syarat | Ibu stabil, bayi stabil, suhu ruang OK | Ayah dipakaikan baju terbuka, didampingi nakes |
-| Durasi | 60 menit | 60 menit — substitusi < 30 menit oleh ayah dilanjut ibu |
-| Prosedur | Bayi di dada, selimut hangat, pantau | Sama, tetapi ayah tetap pakai masker dan cuci tangan |
-| Pemantauan Ibu | Perdarahan, tekanan darah, mual/muntah, nyeri luka | Kesadaran, saturasi O₂, perdarahan |
+| Langkah        | SC Spinal/Epidural                                 | SC Anestesi Umum                                        |
+| -------------- | -------------------------------------------------- | ------------------------------------------------------- |
+| IMD oleh       | Ibu sendiri (segera setelah sadar)                 | Ayah/pendamping sebagai _skin-to-skin provider_         |
+| Lokasi         | Meja operasi (sambil luka ditutup)                 | Ruang pemulihan                                         |
+| Syarat         | Ibu stabil, bayi stabil, suhu ruang OK             | Ayah dipakaikan baju terbuka, didampingi nakes          |
+| Durasi         | 60 menit                                           | 60 menit — substitusi < 30 menit oleh ayah dilanjut ibu |
+| Prosedur       | Bayi di dada, selimut hangat, pantau               | Sama, tetapi ayah tetap pakai masker dan cuci tangan    |
+| Pemantauan Ibu | Perdarahan, tekanan darah, mual/muntah, nyeri luka | Kesadaran, saturasi O₂, perdarahan                      |
 
 ### IMD pada Bayi Prematur (≥34 minggu)
 
@@ -450,18 +458,18 @@ flowchart TD
 
 ### IMD pada Ibu dengan HIV
 
-> [!info] WHO (2023): Ibu dengan HIV yang menjalani terapi ARV dan viral load *suppressed* (<1000 kopi/ml) tetap dianjurkan IMD + ASI eksklusif selama 6 bulan. Pada ibu dengan HIV tanpa ARV atau viral load tidak terkontrol — IMD tetap dilakukan dengan pengawasan ketat, dan bayi mendapat profilaksis ARV.
+> [!info] WHO (2023): Ibu dengan HIV yang menjalani terapi ARV dan viral load _suppressed_ (<1000 kopi/ml) tetap dianjurkan IMD + ASI eksklusif selama 6 bulan. Pada ibu dengan HIV tanpa ARV atau viral load tidak terkontrol — IMD tetap dilakukan dengan pengawasan ketat, dan bayi mendapat profilaksis ARV.
 
 ### IMD Gagal — Apa yang Dilakukan?
 
-| Situasi | Tindakan |
-|---------|----------|
-| Bayi tidak menunjukkan *breast crawl* setelah 30 menit | Cek suhu bayi, pastikan tidak hipotermi. Ganti posisi ibu sedikit. Teteskan kolostrum di bibir bayi. Tunggu 30 menit lagi. |
-| Bayi menangis terus dan tidak tenang | Periksa: lapar? dingin? kembung? lampin basah? Perbaiki faktor pemicu. Coba posisi miring. |
-| Bayi mengantuk dan tidak bangun | Periksa gula darah (jika akses ada). Pastikan tidak ada asfiksia. Rangsang dengan mengusap punggung lembut. |
-| Ibu minta berhenti karena nyeri | Atur posisi ibu, berikan analgetik (parasetamol/supp). Jelaskan manfaat IMD. Jika tetap memaksa, akomodasi tanpa memaksa. |
-| Perdarahan postpartum aktif | Prioritaskan penanganan ibu (kompresi bimanual, oksitosin, methergin). Bayi dirawat sementara oleh bidan — IMD selesai lebih awal, dokumentasikan. |
-| Vit K belum diberikan saat IMD | Berikan setelah IMD selesai — **tidak membatalkan IMD.** |
+| Situasi                                                | Tindakan                                                                                                                                           |
+| ------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Bayi tidak menunjukkan _breast crawl_ setelah 30 menit | Cek suhu bayi, pastikan tidak hipotermi. Ganti posisi ibu sedikit. Teteskan kolostrum di bibir bayi. Tunggu 30 menit lagi.                         |
+| Bayi menangis terus dan tidak tenang                   | Periksa: lapar? dingin? kembung? lampin basah? Perbaiki faktor pemicu. Coba posisi miring.                                                         |
+| Bayi mengantuk dan tidak bangun                        | Periksa gula darah (jika akses ada). Pastikan tidak ada asfiksia. Rangsang dengan mengusap punggung lembut.                                        |
+| Ibu minta berhenti karena nyeri                        | Atur posisi ibu, berikan analgetik (parasetamol/supp). Jelaskan manfaat IMD. Jika tetap memaksa, akomodasi tanpa memaksa.                          |
+| Perdarahan postpartum aktif                            | Prioritaskan penanganan ibu (kompresi bimanual, oksitosin, methergin). Bayi dirawat sementara oleh bidan — IMD selesai lebih awal, dokumentasikan. |
+| Vit K belum diberikan saat IMD                         | Berikan setelah IMD selesai — **tidak membatalkan IMD.**                                                                                           |
 
 ---
 
@@ -500,16 +508,17 @@ Prosedur dilakukan setelah IMD: Pukul 09.35 WIB
 
 ## Kompetensi dan Assessment SKDI 4A
 
-| Kompetensi | Kriteria | Cara Uji |
-|------------|----------|----------|
-| **Kognitif** | Menjelaskan fisiologi *breast crawl*, manfaat IMD, kontraindikasi, dan 10 langkah IMD | MCQ / lisan / portfolio |
-| **Psikomotor** | Melakukan 10 langkah IMD pada manekin atau simulasi — mulai dari mengeringkan bayi hingga edukasi ibu | OSCE / *direct observation* |
-| **Afektif** | Menunjukkan sikap sabar dan tidak intervensif — membiarkan bayi memimpin proses | Observasi sikap saat simulasi |
-| **Dokumentasi** | Mencatat dengan benar parameter IMD dalam rekam medis | *Chart review* |
+| Kompetensi      | Kriteria                                                                                              | Cara Uji                      |
+| --------------- | ----------------------------------------------------------------------------------------------------- | ----------------------------- |
+| **Kognitif**    | Menjelaskan fisiologi _breast crawl_, manfaat IMD, kontraindikasi, dan 10 langkah IMD                 | MCQ / lisan / portfolio       |
+| **Psikomotor**  | Melakukan 10 langkah IMD pada manekin atau simulasi — mulai dari mengeringkan bayi hingga edukasi ibu | OSCE / _direct observation_   |
+| **Afektif**     | Menunjukkan sikap sabar dan tidak intervensif — membiarkan bayi memimpin proses                       | Observasi sikap saat simulasi |
+| **Dokumentasi** | Mencatat dengan benar parameter IMD dalam rekam medis                                                 | _Chart review_                |
 
 > [!tip] **Tips Lulus Ujian IMD:**
+>
 > - Hafalkan 10 langkah secara berurutan.
-> - Tekankan pada penguji: "Biarkan bayi memimpin proses sendiri (*infant-led approach*)."
+> - Tekankan pada penguji: "Biarkan bayi memimpin proses sendiri (_infant-led approach_)."
 > - Sebutkan bahwa verniks tidak boleh dibersihkan, semua prosedur ditunda 1 jam, dan IMD bisa dilakukan bersamaan dengan kala III.
 > - Jangan lupa dokumentasi!
 
@@ -519,18 +528,18 @@ Prosedur dilakukan setelah IMD: Pukul 09.35 WIB
 
 **10 Pesan Cepat IMD:**
 
-| # | Pesan |
-|---|-------|
-| 1 | Lakukan segera setelah bayi lahir — sebelum prosedur lain |
-| 2 | Keringkan bayi — biarkan verniks menempel |
-| 3 | Kontak kulit langsung — tanpa kain penghalang |
-| 4 | Selimuti ibu-bayi bersama, pasang topi |
-| 5 | Biarkan bayi di dada minimal 60 menit |
-| 6 | Tunda timbang, ukur, Vit K, salep mata |
-| 7 | Jangan memisahkan tanpa alasan medis |
-| 8 | Amati breast crawl — jangan bantu berlebihan |
-| 9 | Dokumentasikan semua parameter |
-| 10 | Edukasi ibu menyusui on-demand |
+| #   | Pesan                                                     |
+| --- | --------------------------------------------------------- |
+| 1   | Lakukan segera setelah bayi lahir — sebelum prosedur lain |
+| 2   | Keringkan bayi — biarkan verniks menempel                 |
+| 3   | Kontak kulit langsung — tanpa kain penghalang             |
+| 4   | Selimuti ibu-bayi bersama, pasang topi                    |
+| 5   | Biarkan bayi di dada minimal 60 menit                     |
+| 6   | Tunda timbang, ukur, Vit K, salep mata                    |
+| 7   | Jangan memisahkan tanpa alasan medis                      |
+| 8   | Amati breast crawl — jangan bantu berlebihan              |
+| 9   | Dokumentasikan semua parameter                            |
+| 10  | Edukasi ibu menyusui on-demand                            |
 
 > [!warning] **IMD adalah HAK bayi dan ibu — bukan fasilitas yang bisa dipilih-pilih.** Setiap fasilitas kesehatan yang menolong persalinan wajib menyediakan fasilitas dan tenaga yang mendukung IMD. Kegagalan melakukan IMD tanpa alasan medis yang sah dapat menjadi dasar malpraktik medis.
 
@@ -538,15 +547,15 @@ Prosedur dilakukan setelah IMD: Pukul 09.35 WIB
 
 ## Referensi
 
-1. Kemenkes RI. *Asuhan Persalinan Normal (APN)*. Jakarta: Kemenkes RI, 2020.
-2. WHO/UNICEF. *Baby-Friendly Hospital Initiative: Revised, Updated and Expanded for Integrated Care*. Geneva: WHO, 2018.
-3. WHO. *Guideline: Protecting, Promoting and Supporting Breastfeeding in Facilities Providing Maternity and Newborn Services*. Geneva: WHO, 2017.
-4. Moore ER, Anderson GC, Bergman N, Dowswell T. *Early skin-to-skin contact for mothers and their healthy newborn infants*. Cochrane Database Syst Rev, 2016.
-5. Widström AM, et al. *Newborn behaviour to locate the breast when skin-to-skin: a possible method for enabling early self-regulation*. Acta Paediatrica, 2019.
-6. IDAI. *Panduan Inisiasi Menyusu Dini dan ASI Eksklusif*. Jakarta: IDAI, 2019.
+1. Kemenkes RI. _Asuhan Persalinan Normal (APN)_. Jakarta: Kemenkes RI, 2020.
+2. WHO/UNICEF. _Baby-Friendly Hospital Initiative: Revised, Updated and Expanded for Integrated Care_. Geneva: WHO, 2018.
+3. WHO. _Guideline: Protecting, Promoting and Supporting Breastfeeding in Facilities Providing Maternity and Newborn Services_. Geneva: WHO, 2017.
+4. Moore ER, Anderson GC, Bergman N, Dowswell T. _Early skin-to-skin contact for mothers and their healthy newborn infants_. Cochrane Database Syst Rev, 2016.
+5. Widström AM, et al. _Newborn behaviour to locate the breast when skin-to-skin: a possible method for enabling early self-regulation_. Acta Paediatrica, 2019.
+6. IDAI. _Panduan Inisiasi Menyusu Dini dan ASI Eksklusif_. Jakarta: IDAI, 2019.
 
 ---
 
-| **Keterampilan Sebelumnya** | **Keterampilan Setelahnya** |
-|-----------------------------|-----------------------------|
-| [[27-menolong-persalinan-fisiologis-apn]] | [[36-manajemen-laktasi]] |
+| **Keterampilan Sebelumnya**        | **Keterampilan Setelahnya** |
+| ---------------------------------- | --------------------------- |
+| Menolong Persalinan Fisiologis Apn | Manajemen Laktasi           |

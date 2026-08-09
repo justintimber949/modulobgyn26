@@ -52,9 +52,9 @@ cssclasses:
 
 ## Keterampilan Terkait
 
-- [[61-laparoskopi-terapeutik|Laparoskopi Terapeutik]]
-- [[63-laparoskopi-sterilisasi|Laparoskopi Sterilisasi]]
-- [[70-operasi-caesar|Operasi Caesar]]
+- Laparoskopi Terapeutik
+- Laparoskopi Sterilisasi
+- Operasi Caesar
 
 ## Referensi
 

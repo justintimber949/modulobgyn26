@@ -141,11 +141,11 @@ Pemeriksaan rektal adalah **alternatif vital** ketika PV relatif atau absolut ko
 
 ## Dipakai Untuk Penyakit Apa Saja
 
-- [[62-kelainan-letak-janin|Kelainan Letak Janin]]
-- [[67-malpresentasi-intrapartal|Malpresentasi Intrapartal]]
-- [[57-plasenta-previa|Plasenta Previa]] (kontraindikasi PV → rektal sebagai alternatif)
-- [[45-perdarahan-postpartum|Perdarahan Postpartum]] (evaluasi kantung Douglas)
-- [[55-pengambilan-plasenta-manual|Pengambilan Plasenta Manual]] (evaluasi pasca)
+- Kelainan Letak Janin
+- Malpresentasi Intrapartal
+- Plasenta Previa (kontraindikasi PV → rektal sebagai alternatif)
+- Perdarahan Postpartum (evaluasi kantung Douglas)
+- Pengambilan Plasenta Manual (evaluasi pasca)
 
 ---
 

@@ -1,32 +1,31 @@
 ---
 title: Torsi Kista Ovarium
 tags:
-- penyakit
-- ginekologi-dasar
-- skdi-3b
+  - penyakit
+  - ginekologi-dasar
+  - skdi-3b
 level_kompetensi: 3B
 kategori: ginekologi-dasar
 nomor_modul: 48
 aliases:
-- Ovarian Cyst Torsion
-- Ovarian Torsion
-- Puntiran Ovarium
-- Adnexal Torsion
-- Torsi Adneksa
-- puntiran kista
-- kista ovario putar
-- ovarian torsion
-- nyeri perut mendadak kista
-- kista ovarium putar
+  - Ovarian Cyst Torsion
+  - Ovarian Torsion
+  - Puntiran Ovarium
+  - Adnexal Torsion
+  - Torsi Adneksa
+  - puntiran kista
+  - kista ovario putar
+  - ovarian torsion
+  - nyeri perut mendadak kista
+  - kista ovarium putar
 cssclasses:
-- buku-saku
+  - buku-saku
 ---
-
 
 # Torsi Kista Ovarium
 
 > [!info] Level Kompetensi SKDI: 3B
-> Dokter umum harus mampu mendiagnosis torsi kista ovarium — termasuk anamnesis nyeri perut bawah akut, [[04-pemeriksaan-bimanual|pemeriksaan bimanual]] untuk menilai massa adneksa, [[25-pemeriksaan-usg-obstetri|USG obstetri dengan Doppler]] untuk menilai aliran darah ovarium, serta **melakukan tatalaksana awal di bawah supervisi SpOG** — stabilisasi hemodinamik, analgetik, dan rujukan segera untuk laparoskopi diagnostik dan detorsi.
+> Dokter umum harus mampu mendiagnosis torsi kista ovarium — termasuk anamnesis nyeri perut bawah akut, pemeriksaan bimanual untuk menilai massa adneksa, USG obstetri dengan Doppler untuk menilai aliran darah ovarium, serta **melakukan tatalaksana awal di bawah supervisi SpOG** — stabilisasi hemodinamik, analgetik, dan rujukan segera untuk laparoskopi diagnostik dan detorsi.
 
 ---
 
@@ -34,7 +33,7 @@ cssclasses:
 
 **Ny. Dewi, 28 tahun, G2P1A0, tidak hamil**, datang ke IGD RSKH dengan keluhan nyeri perut bawah kanan hebat sejak 4 jam yang lalu. Nyeri dirasakan tiba-tiba, terus-menerus, dan tidak mereda dengan perubahan posisi. Wajahnya pucat, keringat dingin, dan gelisah.
 
-*"Dok, perut saya sakit sekali — seperti dililit dari dalam. Saya mual dan sudah muntah dua kali. Sakitnya dari pinggang kanan bawah sampai ke selangkangan,"* katanya terbata-bata sambil meringkuk.
+_"Dok, perut saya sakit sekali — seperti dililit dari dalam. Saya mual dan sudah muntah dua kali. Sakitnya dari pinggang kanan bawah sampai ke selangkangan,"_ katanya terbata-bata sambil meringkuk.
 
 Pemeriksaan: TD 110/70 mmHg, nadi 108×/menit, suhu 37,2°C, napas 22×/menit. Abdomen: nyeri tekan kuadran kanan bawah, defense muskular (+), nyeri lepas ringan. Pemeriksaan bimanual: nyeri goyang portio (+), teraba massa adneksa kanan sebesar 6×5 cm, nyeri tekan (+).
 
@@ -49,12 +48,12 @@ Pemeriksaan: TD 110/70 mmHg, nadi 108×/menit, suhu 37,2°C, napas 22×/menit. A
 
 ### Torsi dengan Kista vs Torsi Ovarium Normal
 
-| Aspek | Torsi dengan Kista | Torsi Ovarium Normal |
-|-------|-------------------|---------------------|
-| **Frekuensi** | **80–90%** kasus | 10–20% kasus |
-| **Usia tipikal** | 20–40 tahun | Semua usia |
-| **Mekanisme** | Kista menjadi beban → tergulir | Hipermobilitas ligamen |
-| **Kista tersering** | Dermoid → berat jenis tinggi | — |
+| Aspek               | Torsi dengan Kista             | Torsi Ovarium Normal   |
+| ------------------- | ------------------------------ | ---------------------- |
+| **Frekuensi**       | **80–90%** kasus               | 10–20% kasus           |
+| **Usia tipikal**    | 20–40 tahun                    | Semua usia             |
+| **Mekanisme**       | Kista menjadi beban → tergulir | Hipermobilitas ligamen |
+| **Kista tersering** | Dermoid → berat jenis tinggi   | —                      |
 
 > [!tip] **Kista Dermoid — Biang Torsi**
 > Kista dermoid (teratoma kistik matang) adalah jenis kista yang **paling sering** mengalami torsi karena berat jenisnya tinggi dan bertangkai panjang. Jika pasien dengan kista dermoid datang dengan nyeri akut, pikirkan torsi sampai terbukti lain.
@@ -65,14 +64,14 @@ Pemeriksaan: TD 110/70 mmHg, nadi 108×/menit, suhu 37,2°C, napas 22×/menit. A
 
 **Penyebab langsung:** rotasi ovarium pada poros pedikel ≥ 360° → obstruksi vaskular. Pemicu pasti sering tidak diketahui.
 
-| Faktor Risiko | Keterangan |
-|---------------|------------|
-| **Kista ovarium** | Dermoid, kistadenoma, kista korpus luteum > 5 cm |
-| **Kehamilan** | Relaksasi ligamen + hipertrofi ovarium — insiden ↑ trimester I–II |
-| **Ovulasi induksi/IVF** | Hiperstimulasi → ovarium membesar |
-| **Riwayat torsi** | Risiko rekurensi 5–10% |
-| **Anatomi bawaan** | Ligamen infundibulopelvikum panjang, mesovarium longgar |
-| **Usia reproduksi** | Puncak 20–40 tahun |
+| Faktor Risiko           | Keterangan                                                        |
+| ----------------------- | ----------------------------------------------------------------- |
+| **Kista ovarium**       | Dermoid, kistadenoma, kista korpus luteum > 5 cm                  |
+| **Kehamilan**           | Relaksasi ligamen + hipertrofi ovarium — insiden ↑ trimester I–II |
+| **Ovulasi induksi/IVF** | Hiperstimulasi → ovarium membesar                                 |
+| **Riwayat torsi**       | Risiko rekurensi 5–10%                                            |
+| **Anatomi bawaan**      | Ligamen infundibulopelvikum panjang, mesovarium longgar           |
+| **Usia reproduksi**     | Puncak 20–40 tahun                                                |
 
 > [!warning] **Torsi pada Remaja**
 > 15–20% torsi terjadi pada usia < 20 tahun. Kista fungsional dan dermoid bisa terjadi pada remaja. Jangan lewatkan hanya karena usia muda — USG Doppler tetap diindikasikan pada nyeri perut bawah akut remaja putri.
@@ -91,6 +90,7 @@ Pemeriksaan: TD 110/70 mmHg, nadi 108×/menit, suhu 37,2°C, napas 22×/menit. A
 ## Anamnesis
 
 ### Trias Klasik Torsi Adneksa
+
 1. **Nyeri perut bawah akut unilateral** — onset mendadak, berat (7–10/10), progresif
 2. **Mual dan muntah** — refleks vagal akibat regangan peritoneum
 3. **Massa adneksa + nyeri tekan** — teraba pada pemeriksaan bimanual
@@ -99,6 +99,7 @@ Pemeriksaan: TD 110/70 mmHg, nadi 108×/menit, suhu 37,2°C, napas 22×/menit. A
 > Nyeri torsi berbeda dengan ruptur kista (nyeri mendadak lalu mereda) atau PID (nyeri bertahap). Nyeri bisa menjalar ke pinggang, paha, atau selangkangan sisi yang sama.
 
 ### Poin Krusial Anamnesis
+
 - **Onset dan durasi** — berapa jam sejak awal nyeri? (krusial untuk prognosis ovarium)
 - **Sifat nyeri** — terus-menerus atau hilang timbul? (torsion-dettorsion → intermiten)
 - **Lokasi dan radiasi** — kanan/kiri? Menjalar ke paha/pinggang?
@@ -111,21 +112,21 @@ Pemeriksaan: TD 110/70 mmHg, nadi 108×/menit, suhu 37,2°C, napas 22×/menit. A
 
 ## Pemeriksaan Fisik
 
-| Parameter | Temuan |
-|-----------|--------|
-| **Kesadaran** | Compos mentis — gelisah karena nyeri |
-| **TD/Nadi** | Normal (awal); takikardi + hipotensi (jika syok/nekrosis) |
-| **Suhu** | Afebris (awal); febris (jika infark sudah terjadi) |
-| **Abdomen** | Nyeri tekan unilateral, defense muskular (+), nyeri lepas (+/—) |
+| Parameter     | Temuan                                                          |
+| ------------- | --------------------------------------------------------------- |
+| **Kesadaran** | Compos mentis — gelisah karena nyeri                            |
+| **TD/Nadi**   | Normal (awal); takikardi + hipotensi (jika syok/nekrosis)       |
+| **Suhu**      | Afebris (awal); febris (jika infark sudah terjadi)              |
+| **Abdomen**   | Nyeri tekan unilateral, defense muskular (+), nyeri lepas (+/—) |
 
-### [[04-pemeriksaan-bimanual|Pemeriksaan Bimanual]] — Kunci Diagnosis
+### Pemeriksaan Bimanual — Kunci Diagnosis
 
-| Temuan | Makna |
-|--------|-------|
-| **Nyeri goyang portio (+)** | Iritasi peritoneal — khas patologi adneksa akut |
-| **Massa adneksa teraba** | Kista/bengkak ovarium — hampir selalu ada |
-| **Nyeri tekan massa (+)** | Regangan kapsa ovarium |
-| **Kavum Douglasi menonjol (+)** | Jika ada eksudat/hemorrhage > khas ruptur |
+| Temuan                          | Makna                                           |
+| ------------------------------- | ----------------------------------------------- |
+| **Nyeri goyang portio (+)**     | Iritasi peritoneal — khas patologi adneksa akut |
+| **Massa adneksa teraba**        | Kista/bengkak ovarium — hampir selalu ada       |
+| **Nyeri tekan massa (+)**       | Regangan kapsa ovarium                          |
+| **Kavum Douglasi menonjol (+)** | Jika ada eksudat/hemorrhage > khas ruptur       |
 
 > [!tip] Pasien akan menjerit saat portio digerakkan ke arah sisi yang sakit — karena menarik ligamentum infundibulopelvikum yang terpuntir. Jika nyeri begitu hebat, hentikan dan konfirmasi dengan USG.
 
@@ -133,16 +134,16 @@ Pemeriksaan: TD 110/70 mmHg, nadi 108×/menit, suhu 37,2°C, napas 22×/menit. A
 
 ## Pemeriksaan Penunjang
 
-| Pemeriksaan | Temuan |
-|-------------|--------|
+| Pemeriksaan     | Temuan                                            |
+| --------------- | ------------------------------------------------- |
 | **Darah rutin** | Leukositosis ringan (10.000–15.000); Hb/Ht normal |
-| **CRP** | Normal (awal); ↑ (nekrosis/infark) |
-| **β-hCG** | **WAJIB** — singkirkan kehamilan ektopik |
-| **Urinalisis** | Normal (singkirkan ISK/batu ureter) |
+| **CRP**         | Normal (awal); ↑ (nekrosis/infark)                |
+| **β-hCG**       | **WAJIB** — singkirkan kehamilan ektopik          |
+| **Urinalisis**  | Normal (singkirkan ISK/batu ureter)               |
 
-### [[25-pemeriksaan-usg-obstetri|USG Doppler]] — Modalitas Utama
+### USG Doppler — Modalitas Utama
 
-**Mode B (2D):** massa adneksa unilateral, ovarium membesar (volume > 20 mL), posisi asimetris (medial/superior), folikel perifer (*string of pearls*), free fluid sedikit di kavum Douglasi. **Whirlpool sign** — pedikel vaskular terpuntir tampak seperti pusaran — **96–100% spesifik** untuk torsi.
+**Mode B (2D):** massa adneksa unilateral, ovarium membesar (volume > 20 mL), posisi asimetris (medial/superior), folikel perifer (_string of pearls_), free fluid sedikit di kavum Douglasi. **Whirlpool sign** — pedikel vaskular terpuntir tampak seperti pusaran — **96–100% spesifik** untuk torsi.
 
 **Doppler:** aliran vena tidak terdeteksi (sensitif tinggi — tanda paling dini), aliran arteri tidak terdeteksi (spesifisitas tinggi — torsi sudah lanjut), RI > 0,8.
 
@@ -154,10 +155,11 @@ Pemeriksaan: TD 110/70 mmHg, nadi 108×/menit, suhu 37,2°C, napas 22×/menit. A
 ## Diagnosis
 
 ### Kriteria Klinis
+
 1. Nyeri perut bawah **akut, unilateral, onset mendadak**
 2. Mual dan/atau muntah menyertai
 3. Massa adneksa teraba + nyeri goyang portio (+)
-4. USG Doppler: ovarium membesar + aliran terhambat + *whirlpool sign*
+4. USG Doppler: ovarium membesar + aliran terhambat + _whirlpool sign_
 5. Singkirkan diagnosis banding
 
 > [!tip] **Skor Klinis Torsi Adneksa**
@@ -165,14 +167,14 @@ Pemeriksaan: TD 110/70 mmHg, nadi 108×/menit, suhu 37,2°C, napas 22×/menit. A
 
 ### Diagnosis Banding
 
-| Diagnosis | Ciri Pembeda |
-|-----------|-------------|
-| **Apendisitis akut** | Nyeri McBurney (+), Rovsing (+), Doppler ovarium normal — bila ragu, USG |
-| **KET** | Amenore + perdarahan pervaginam + β-hCG (+) — USG: tanpa IU gestasi, free fluid |
-| **Ruptur kista** | Nyeri mendadak lalu mereda, syok, USG: free fluid banyak, kista kolaps |
-| **PID** | Nyeri bilateral, demam, fluor (+), CRP/LED ↑↑, USG: tuba menebal |
-| **Batu ureter** | Nyeri kolik, disuria, hematuria, USG: hidronefrosis |
-| **Endometrioma ruptur** | Riwayat endometriosis, nyeri siklik, kista coklat pada USG |
+| Diagnosis               | Ciri Pembeda                                                                    |
+| ----------------------- | ------------------------------------------------------------------------------- |
+| **Apendisitis akut**    | Nyeri McBurney (+), Rovsing (+), Doppler ovarium normal — bila ragu, USG        |
+| **KET**                 | Amenore + perdarahan pervaginam + β-hCG (+) — USG: tanpa IU gestasi, free fluid |
+| **Ruptur kista**        | Nyeri mendadak lalu mereda, syok, USG: free fluid banyak, kista kolaps          |
+| **PID**                 | Nyeri bilateral, demam, fluor (+), CRP/LED ↑↑, USG: tuba menebal                |
+| **Batu ureter**         | Nyeri kolik, disuria, hematuria, USG: hidronefrosis                             |
+| **Endometrioma ruptur** | Riwayat endometriosis, nyeri siklik, kista coklat pada USG                      |
 
 ---
 
@@ -183,24 +185,24 @@ Pemeriksaan: TD 110/70 mmHg, nadi 108×/menit, suhu 37,2°C, napas 22×/menit. A
 
 ### Stabilisasi Praoperasi
 
-| Langkah | Detail |
-|---------|--------|
-| **Akses IV** | RL/NaCl 0,9% 1.000–2.000 mL/24 jam |
-| **Puasa** | Siapkan untuk laparoskopi darurat |
-| **Analgetik** | Fentanil 25–50 mcg IV / morfin 2–4 mg IV (konsul SpOG) |
-| **Antiemetik** | Ondansetron 4 mg IV |
-| **Konsul SpOG** | Segera — jangan tunda |
+| Langkah         | Detail                                                 |
+| --------------- | ------------------------------------------------------ |
+| **Akses IV**    | RL/NaCl 0,9% 1.000–2.000 mL/24 jam                     |
+| **Puasa**       | Siapkan untuk laparoskopi darurat                      |
+| **Analgetik**   | Fentanil 25–50 mcg IV / morfin 2–4 mg IV (konsul SpOG) |
+| **Antiemetik**  | Ondansetron 4 mg IV                                    |
+| **Konsul SpOG** | Segera — jangan tunda                                  |
 
 ### Terapi Definitif — Laparoskopi (oleh SpOG)
 
-Tujuan: **detorsi (*untwisting*) + penilaian viabilitas ovarium.** Target < 4 jam sejak onset.
+Tujuan: **detorsi (_untwisting_) + penilaian viabilitas ovarium.** Target < 4 jam sejak onset.
 
-| Prosedur | Indikasi |
-|----------|----------|
-| **Detorsi ovarium** | Ovarium viabel — warna kembali merah muda |
-| **Detorsi + kistektomi** | Ovarium viabel + kista tetap diangkat |
-| **Salpingo-ooforektomi** | Ovarium nekrosis — hitam, tidak kembali viabel setelah 5–10 menit |
-| **Ooforopeksi** | Setelah detorsi — jahit ovarium ke lig. sakrouterinum — cegah rekurensi |
+| Prosedur                 | Indikasi                                                                |
+| ------------------------ | ----------------------------------------------------------------------- |
+| **Detorsi ovarium**      | Ovarium viabel — warna kembali merah muda                               |
+| **Detorsi + kistektomi** | Ovarium viabel + kista tetap diangkat                                   |
+| **Salpingo-ooforektomi** | Ovarium nekrosis — hitam, tidak kembali viabel setelah 5–10 menit       |
+| **Ooforopeksi**          | Setelah detorsi — jahit ovarium ke lig. sakrouterinum — cegah rekurensi |
 
 > [!warning] **Ovarium Hitam — Jangan Langsung Diangkat!**
 > Ovarium yang tampak hitam/sianosis **belum tentu nekrosis**. Setelah detorsi, beri waktu 5–10 menit. Studi menunjukkan 80–90% ovarium "hitam" pulih. Ooforektomi hanya jika terbukti tidak viabel.
@@ -210,6 +212,7 @@ Tujuan: **detorsi (*untwisting*) + penilaian viabilitas ovarium.** Target < 4 ja
 USG Doppler tetap pilihan — aman. Laparoskopi aman pada kehamilan (trimester I, II, awal III) dengan posisi miring kiri. **Jangan tunda operasi hanya karena pasien hamil** — torsi yang tidak dioperasi → nekrosis → peritonitis → abortus, lebih berbahaya.
 
 ### Indikasi Rujukan Segera
+
 1. **Semua kasus tersangka torsi** — rujuk ke RS dengan fasilitas laparoskopi
 2. Tidak ada perbaikan setelah stabilisasi
 3. Tanda peritonitis (defense, nyeri lepas, demam)
@@ -221,24 +224,24 @@ USG Doppler tetap pilihan — aman. Laparoskopi aman pada kehamilan (trimester I
 
 ## Komplikasi
 
-| Komplikasi | Mekanisme | Tata Laksana |
-|------------|-----------|-------------|
-| **Nekrosis ovarium** | Iskemia > 6–12 jam | Ooforektomi |
-| **Peritonitis/Sepsis** | Nekrosis → translokasi bakteri | Antibiotik + operasi segera |
-| **Rekurensi** | Tanpa ooforopeksi | Laparoskopi ulang + ooforopeksi |
-| **Ruptur kista** | Isi kista keluar ke rongga perut | Laparotomi darurat |
-| **Infertilitas** | Kehilangan satu ovarium | Konseling + evaluasi kontralateral |
+| Komplikasi             | Mekanisme                        | Tata Laksana                       |
+| ---------------------- | -------------------------------- | ---------------------------------- |
+| **Nekrosis ovarium**   | Iskemia > 6–12 jam               | Ooforektomi                        |
+| **Peritonitis/Sepsis** | Nekrosis → translokasi bakteri   | Antibiotik + operasi segera        |
+| **Rekurensi**          | Tanpa ooforopeksi                | Laparoskopi ulang + ooforopeksi    |
+| **Ruptur kista**       | Isi kista keluar ke rongga perut | Laparotomi darurat                 |
+| **Infertilitas**       | Kehilangan satu ovarium          | Konseling + evaluasi kontralateral |
 
 ---
 
 ## Prognosis
 
-| Aspek | Prognosis |
-|-------|-----------|
-| **Viabilitas ovarium** | **> 90%** selamat jika detorsi < 4 jam; **< 50%** jika > 36 jam |
-| **Fungsi ovarium pasca-detorsi** | Baik — 80–90% kembali normal pada detorsi dini |
-| **Rekurensi** | 5–10% — terutama tanpa ooforopeksi |
-| **Keganasan tersembunyi** | 1–2% — selalu periksa PA eksplan |
+| Aspek                            | Prognosis                                                       |
+| -------------------------------- | --------------------------------------------------------------- |
+| **Viabilitas ovarium**           | **> 90%** selamat jika detorsi < 4 jam; **< 50%** jika > 36 jam |
+| **Fungsi ovarium pasca-detorsi** | Baik — 80–90% kembali normal pada detorsi dini                  |
+| **Rekurensi**                    | 5–10% — terutama tanpa ooforopeksi                              |
+| **Keganasan tersembunyi**        | 1–2% — selalu periksa PA eksplan                                |
 
 > [!tip] **Pasca-detorsi — Pantau dengan Serial USG**
 > Ovarium yang mengalami torsi perlu USG serial (1, 3, 6 bulan) untuk memastikan viabilitas dan fungsi folikulogenesis.
@@ -267,11 +270,12 @@ USG Doppler tetap pilihan — aman. Laparoskopi aman pada kehamilan (trimester I
 
 ## Balik ke Kasus Ny. Dewi
 
-**Data:** HPHT 10 Maret 2026 → β-hCG (-). WUS, 28 tahun. Nyeri kanan bawah akut 4 jam, mual muntah 2×. TD 110/70, nadi 108. Massa adneksa kanan 6×5 cm, nyeri goyang portio (+). USG Doppler: massa adneksa 6,2×5,1 cm, ovarium volume 25 mL, aliran vena tidak terdeteksi, RI 0,85, *whirlpool sign* (+). Free fluid minimal.
+**Data:** HPHT 10 Maret 2026 → β-hCG (-). WUS, 28 tahun. Nyeri kanan bawah akut 4 jam, mual muntah 2×. TD 110/70, nadi 108. Massa adneksa kanan 6×5 cm, nyeri goyang portio (+). USG Doppler: massa adneksa 6,2×5,1 cm, ovarium volume 25 mL, aliran vena tidak terdeteksi, RI 0,85, _whirlpool sign_ (+). Free fluid minimal.
 
 > **Diagnosis: Torsi kista ovarium kanan** — tersangka kista dermoid dengan torsi adneksa kanan fase akut.
 
 **Tatalaksana di RSKH:**
+
 1. Infus RL 1.000 mL/24 jam + puasa
 2. Fentanil 50 mcg IV (nyeri 9/10 → 4/10) + ondansetron 4 mg IV
 3. **Konsul SpOG segera** → laparoskopi diagnostik dalam 2 jam
@@ -288,7 +292,7 @@ USG Doppler tetap pilihan — aman. Laparoskopi aman pada kehamilan (trimester I
 
 1. **Definisi:** Darurat ginekologi — puntiran ovarium pada pedikel → iskemia → nekrosis.
 2. **Trias:** Nyeri perut bawah akut unilateral + mual muntah + massa adneksa.
-3. **Diagnosis: [[04-pemeriksaan-bimanual|Bimanual]] + [[25-pemeriksaan-usg-obstetri|USG Doppler]]** — cari massa, whirlpool sign, hambatan aliran vena.
+3. **Diagnosis: Bimanual + USG Doppler** — cari massa, whirlpool sign, hambatan aliran vena.
 4. **⚠️ Doppler normal TIDAK menyingkirkan torsi** — klinis + B-mode adalah acuan.
 5. **Target operasi < 4 jam** — setiap jam keterlambatan mengurangi kesempatan selamatkan ovarium.
 6. **Detorsi + ooforopeksi** — jangan ooforektomi tanpa observasi 5–10 menit.

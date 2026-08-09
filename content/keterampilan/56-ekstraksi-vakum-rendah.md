@@ -1,24 +1,23 @@
 ---
 title: Ekstraksi Vakum Rendah
 tags:
-- keterampilan
-- persalinan
-- skdi-3
+  - keterampilan
+  - persalinan
+  - skdi-3
 level_kompetensi: 3
 kategori: persalinan
 nomor_modul: 56
 aliases:
-- Vacuum Extraction
-- Ekstraksi Vakum
-- Vacuum Assisted Delivery
-- ekstraksi vakum
-- vacuum extraction
-- vakum persalinan
-- vacuum assisted delivery
+  - Vacuum Extraction
+  - Ekstraksi Vakum
+  - Vacuum Assisted Delivery
+  - ekstraksi vakum
+  - vacuum extraction
+  - vakum persalinan
+  - vacuum assisted delivery
 cssclasses:
-- buku-saku
+  - buku-saku
 ---
-
 
 > [!info] Level Kompetensi SKDI: 3
 > Dilakukan di bawah supervisi SpOG. Dokter umum perlu memahami indikasi, kontraindikasi, dan teknik dasar.
@@ -43,6 +42,7 @@ Ekstraksi vakum rendah adalah teknik persalinan operatif yang menggunakan alat h
 ## Kontraindikasi
 
 **Absolut:**
+
 - Kepala janin belum terfiksasi (belum mencapai station +2)
 - Kehamilan kurang dari 34 minggu
 - Kepala janin tidak dalam presentasi belakang kepala (presentasi muka, dahi)
@@ -50,6 +50,7 @@ Ekstraksi vakum rendah adalah teknik persalinan operatif yang menggunakan alat h
 - Kepala janin belum terlepas dari pintu atas panggul
 
 **Relatif:**
+
 - Riwayat operasi caesar sebelumnya
 - Kehamilan ganda
 - Fetal macrosomia (> 4000 g)
@@ -60,16 +61,17 @@ Ekstraksi vakum rendah adalah teknik persalinan operatif yang menggunakan alat h
 2. **Posisi** — litotomi
 3. **Kateterisasi** kandung kemih
 4. **Anestesi** — episiotomi lokal atau pudendal block
-5. **Alat:** vakum ekstraktor (Kielland atau metal), pompa hisap, pelumas steril
+5. **Alat:** vakum ekstraktor (cup metal atau silikon), pompa hisap, pelumas steril
 6. **Pastikan:** serviks lengkap, kepala terfiksasi di bawah, presentasi belakang kepala
 
 ## Teknik
 
 ### Langkah-langkah:
+
 1. Masukkan spekulum vagina untuk melihat serviks — pastikan lengkap 10 cm
 2. Lubrikan cup vakum, masukkan ke vagina dengan tangan kiri membimbing
-3. Posisikan cup di belakang kepala janin (fontanela posterior 3 cm dari garis imaginary frenulum)
-4. Atur hisap hingga 0,2-0,4 kg/cm² (atau 60-80 mmHg)
+3. Posisikan cup di belakang kepala janin (fontanela posterior 3 cm dari garis imajiner frenulum)
+4. Atur hisap hingga 0,2 kg/cm² (≈150 mmHg) untuk aplikasi cup; setelah melekat sempurna, tingkatkan ke 0,6-0,8 kg/cm² (450-600 mmHg) saat tarikan
 5. Tunggu sampai muncul "cucuk" (kedutan pada kulit kepala) — pertanda cup sudah melekat
 6. Tarik sesuai kontraksi ibu — tarik ke arah bawah, lalu ke depan mengikuti kurva jalan lahir
 7. Lepaskan hisap saat kontraksi berakhir
@@ -83,11 +85,13 @@ Ekstraksi vakum rendah adalah teknik persalinan operatif yang menggunakan alat h
 ## Komplikasi
 
 **Pada ibu:**
+
 - Robekan perineum
 - Perdarahan
 - Laserasi serviks
 
 **Pada janin/neonatus:**
+
 - Caput succedaneum (bengkak kulit kepala) — biasanya hilang dalam 24-48 jam
 - Cephal hematoma
 - Fraktur kranium (jarang)

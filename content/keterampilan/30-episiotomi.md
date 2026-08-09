@@ -1,28 +1,26 @@
 ---
 title: Episiotomi
 tags:
-- keterampilan
-- persalinan
-- skdi-4a
+  - keterampilan
+  - persalinan
+  - skdi-4a
 level_kompetensi: 4A
 kategori: persalinan
 nomor_modul: 30
 aliases:
-- Episiotomy
-- Sayatan Perineum
-- Jahit Perineum
-- Perineotomi
-- Mediolateral Episiotomy
-- episiotomi
-- sayatan perineum
-- jahit perineum
-- perineotomi
-- episiotomy
+  - Episiotomy
+  - Sayatan Perineum
+  - Jahit Perineum
+  - Perineotomi
+  - Mediolateral Episiotomy
+  - episiotomi
+  - sayatan perineum
+  - jahit perineum
+  - perineotomi
+  - episiotomy
 cssclasses:
-- buku-saku
+  - buku-saku
 ---
-
-
 
 # Episiotomi
 
@@ -42,14 +40,14 @@ Keputusan untuk melakukan episiotomi harus selalu berdasarkan **indikasi klinis 
 > [!tip] Prinsip Emas
 > Episiotomi bukan prosedur rutin. **Lakukan hanya bila ada indikasi**. Bila harus dilakukan, **lakukan dengan benar** — sudut, panjang, waktu, dan teknik jahit yang tepat.
 
-Keterampilan ini terintegrasi erat dengan [[29-anestesi-lokal-perineum]] (prasyarat), [[27-menolong-persalinan-fisiologis-apn]] (konteks pelaksanaan), [[33-menjahit-laserasi-12]] (penjahitan), dan [[39-perawatan-luka-episiotomi]] (follow-up).
+Keterampilan ini terintegrasi erat dengan Anestesi Lokal Perineum (prasyarat), Menolong Persalinan Fisiologis Apn (konteks pelaksanaan), Menjahit Laserasi (penjahitan), dan Perawatan Luka Episiotomi (follow-up).
 
 ---
 
 ## Vignette Klinis
 
 > **Vignette I — Primigravida dengan Gawat Janin:**
-> Seorang G1P0A0, 22 tahun, hamil aterm (40 minggu), datang di kala II persalinan. His adekuat 4×/10 menit, durasi 50–60 dtk, ibu sudah mengejan sejak 1 jam yang lalu. VT: pembukaan lengkap, bagian terbawah kepala di Hodge III+ (station +2), kaput terlihat 3–4 cm di introitus (*crowning*). DJJ tiba-tiba turun menjadi 90×/mnt setelah his dan lambat kembali ke baseline (deselerasi lambat). Untuk mempercepat keluaran kepala janin dan memperpendek kala II, diputuskan melakukan **episiotomi mediolateral kanan**. Setelah episiotomi, kepala lahir dalam 2 his berikutnya. Bayi lahir APGAR 6–8, jenis kelamin laki-laki, BB 3200 g. Dilakukan penjahitan perineum lapis demi lapis.
+> Seorang G1P0A0, 22 tahun, hamil aterm (40 minggu), datang di kala II persalinan. His adekuat 4×/10 menit, durasi 50–60 dtk, ibu sudah mengejan sejak 1 jam yang lalu. VT: pembukaan lengkap, bagian terbawah kepala di Hodge III+ (station +2), kaput terlihat 3–4 cm di introitus (_crowning_). DJJ tiba-tiba turun menjadi 90×/mnt setelah his dan lambat kembali ke baseline (deselerasi lambat). Untuk mempercepat keluaran kepala janin dan memperpendek kala II, diputuskan melakukan **episiotomi mediolateral kanan**. Setelah episiotomi, kepala lahir dalam 2 his berikutnya. Bayi lahir APGAR 6–8, jenis kelamin laki-laki, BB 3200 g. Dilakukan penjahitan perineum lapis demi lapis.
 
 > **Vignette II — Persalinan dengan Perineum Kaku:**
 > Seorang G1P0A0, 35 tahun (primigravida tua), hamil 39 minggu, persalinan kala II. Sudah 2 jam mengejan efektif, DJJ normal (130–150×/mnt), tetapi kepala janin belum juga lahir. Perineum tampak sangat kencang, pucat, dan teregang maksimal. Terdapat risiko robekan spontan ke arah anterior (klitoris, uretra) karena perineum yang tidak lentur. Dilakukan **episiotomi mediolateral kiri** untuk mengarahkan robekan dan mempercepat persalinan. Bayi lahir 3 his kemudian dengan BB 3450 g. Dilakukan penjahitan perineum lapis demi lapis.
@@ -63,7 +61,7 @@ Keterampilan ini terintegrasi erat dengan [[29-anestesi-lokal-perineum]] (prasya
 
 ### Batas-Batas Perineum
 
-**Perineum obstetri** (perineum posterior) adalah area berbentuk belah ketupat antara komisura posterior labia mayora (vulva) di anterior dan anus di posterior. Secara klinis, "perineum" yang dimaksud dalam episiotomi adalah jarak antara **fourchette posterior** (muara vagina) dan **anus**, yang disebut sebagai *obstetric perineum*.
+**Perineum obstetri** (perineum posterior) adalah area berbentuk belah ketupat antara komisura posterior labia mayora (vulva) di anterior dan anus di posterior. Secara klinis, "perineum" yang dimaksud dalam episiotomi adalah jarak antara **fourchette posterior** (muara vagina) dan **anus**, yang disebut sebagai _obstetric perineum_.
 
 - Panjang normal perineum: 3–5 cm
 - Perineum pendek (< 3 cm): risiko lebih tinggi laserasi lanjut ke sfingter ani
@@ -71,23 +69,24 @@ Keterampilan ini terintegrasi erat dengan [[29-anestesi-lokal-perineum]] (prasya
 
 ### Lapisan Jaringan dari Superfisial ke Profunda
 
-| Lapisan | Struktur | Relevansi untuk Episiotomi |
-|---------|----------|----------------------------|
-| **Kulit** | Epidermis + dermis perineum | Lapisan pertama yang dipotong; lebih elastis pada ibu muda |
-| **Subkutis** | Jaringan lemak, fasia perineum superfisialis | Mengandung pembuluh darah kecil → perlu hemostasis |
-| **Bulbospongiosus** | Otot yang mengelilingi introitus vagina | Dipotong pada episiotomi mediolateral; perlu penjahitan ulang |
-| **Transversus perinei superfisialis** | Otot kecil dari tuber iskii ke pusat tendon perineum | Penanda anatomis penting; pusat tendon perineum (*perineal body*) adalah titik kunci penjahitan |
-| **Levator ani** (m. pubococcygeus) | Otot utama dasar panggul | Biasanya terpotong hanya pada bagian medial; reapproksimasi penting untuk fungsi panggul |
-| **Mukosa vagina** | Epitel skuamosa berlapis | Dipotong bersama tepi posterior vagina (termasuk forniks posterior pada episiotomi yang panjang) |
+| Lapisan                               | Struktur                                             | Relevansi untuk Episiotomi                                                                       |
+| ------------------------------------- | ---------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| **Kulit**                             | Epidermis + dermis perineum                          | Lapisan pertama yang dipotong; lebih elastis pada ibu muda                                       |
+| **Subkutis**                          | Jaringan lemak, fasia perineum superfisialis         | Mengandung pembuluh darah kecil → perlu hemostasis                                               |
+| **Bulbospongiosus**                   | Otot yang mengelilingi introitus vagina              | Dipotong pada episiotomi mediolateral; perlu penjahitan ulang                                    |
+| **Transversus perinei superfisialis** | Otot kecil dari tuber iskii ke pusat tendon perineum | Penanda anatomis penting; pusat tendon perineum (_perineal body_) adalah titik kunci penjahitan  |
+| **Levator ani** (m. pubococcygeus)    | Otot utama dasar panggul                             | Biasanya terpotong hanya pada bagian medial; reapproksimasi penting untuk fungsi panggul         |
+| **Mukosa vagina**                     | Epitel skuamosa berlapis                             | Dipotong bersama tepi posterior vagina (termasuk forniks posterior pada episiotomi yang panjang) |
 
 ### Vaskularisasi & Inervasi
 
 - **Vaskularisasi:** A. pudenda interna (cabang a. iliaca interna) dan a. rektalis inferior. Perdarahan dapat signifikan jika sayatan mengenai cabang lateral.
-- **Inervasi:** N. pudendus (S2–S4) — cabang perineal. Anestesi infiltrasi lokal (lihat [[29-anestesi-lokal-perineum]]) harus mencakup area ini.
+- **Inervasi:** N. pudendus (S2–S4) — cabang perineal. Anestesi infiltrasi lokal (lihat Anestesi Lokal Perineum) harus mencakup area ini.
 
-### Pusat Tendon Perineum (*Perineal Body*)
+### Pusat Tendon Perineum (_Perineal Body_)
 
 Ini adalah struktur fibromuskular berbentuk piramida di antara vagina dan anus, tempat bertemunya:
+
 - M. bulbospongiosus
 - M. transversus perinei superfisialis
 - M. levator ani (bagian anterior)
@@ -103,13 +102,13 @@ Pemilihan jenis episiotomi sangat memengaruhi risiko robekan lanjutan, nyeri pos
 
 ### 1. Mediolateral (Paling Sering)
 
-| Parameter | Detail |
-|-----------|--------|
-| **Frekuensi** | ≥ 80% dari seluruh episiotomi — **standar emas** |
-| **Arah** | Dari **fourchette posterior** ke arah lateral, menjauhi anus |
-| **Sudut** | **45–60° dari garis tengah** (vertikal), biasanya ke kanan atau kiri |
-| **Panjang** | 3–4 cm (diukur dari fourchette) |
-| **Sisi** | Dominasi tangan operator menentukan sisi (biasanya kanan untuk operator tangan kanan) |
+| Parameter     | Detail                                                                                |
+| ------------- | ------------------------------------------------------------------------------------- |
+| **Frekuensi** | ≥ 80% dari seluruh episiotomi — **standar emas**                                      |
+| **Arah**      | Dari **fourchette posterior** ke arah lateral, menjauhi anus                          |
+| **Sudut**     | **45–60° dari garis tengah** (vertikal), biasanya ke kanan atau kiri                  |
+| **Panjang**   | 3–4 cm (diukur dari fourchette)                                                       |
+| **Sisi**      | Dominasi tangan operator menentukan sisi (biasanya kanan untuk operator tangan kanan) |
 
 **Keuntungan:** Risiko laserasi derajat 3–4 lebih rendah dibanding mediana. Jika robekan meluas, umumnya tidak mencapai sfingter ani. Pemulihan lebih baik karena jahitan tidak berada di garis tengah yang teregang saat ibu duduk.
 
@@ -117,11 +116,11 @@ Pemilihan jenis episiotomi sangat memengaruhi risiko robekan lanjutan, nyeri pos
 
 ### 2. Mediana (Midline / Median)
 
-| Parameter | Detail |
-|-----------|--------|
-| **Arah** | Lurus ke bawah dari fourchette posterior menuju anus, di garis tengah |
-| **Sudut** | 0° (lurus ke bawah) |
-| **Panjang** | 2–3 cm |
+| Parameter   | Detail                                                                |
+| ----------- | --------------------------------------------------------------------- |
+| **Arah**    | Lurus ke bawah dari fourchette posterior menuju anus, di garis tengah |
+| **Sudut**   | 0° (lurus ke bawah)                                                   |
+| **Panjang** | 2–3 cm                                                                |
 
 **Keuntungan:** Penjahitan lebih mudah (lapisan simetris), perdarahan minimal, penyembuhan lebih cepat, nyeri postpartum lebih ringan, kualitas jaringan parut lebih baik.
 
@@ -132,11 +131,11 @@ Pemilihan jenis episiotomi sangat memengaruhi risiko robekan lanjutan, nyeri pos
 
 ### 3. Lateral
 
-| Parameter | Detail |
-|-----------|--------|
-| **Arah** | Dari lateral introitus vagina (1–2 cm dari fourchette) ke arah lateral |
-| **Sudut** | Bervariasi, umumnya 30–45° |
-| **Panjang** | 2–3 cm |
+| Parameter   | Detail                                                                 |
+| ----------- | ---------------------------------------------------------------------- |
+| **Arah**    | Dari lateral introitus vagina (1–2 cm dari fourchette) ke arah lateral |
+| **Sudut**   | Bervariasi, umumnya 30–45°                                             |
+| **Panjang** | 2–3 cm                                                                 |
 
 **Keuntungan:** Risiko robekan ke sfingter ani hampir nol.
 
@@ -144,10 +143,10 @@ Pemilihan jenis episiotomi sangat memengaruhi risiko robekan lanjutan, nyeri pos
 
 ### 4. J-Shaped
 
-| Parameter | Detail |
-|-----------|--------|
-| **Arah** | Mulai sebagai mediana, kemudian membelok ke lateral membentuk huruf "J" |
-| **Panjang** | 4–5 cm total |
+| Parameter   | Detail                                                                  |
+| ----------- | ----------------------------------------------------------------------- |
+| **Arah**    | Mulai sebagai mediana, kemudian membelok ke lateral membentuk huruf "J" |
+| **Panjang** | 4–5 cm total                                                            |
 
 **Keuntungan:** Menggabungkan kelebihan mediana (mudah dijahit) dan mediolateral (menghindari sfingter).
 
@@ -165,6 +164,7 @@ Pemilihan jenis episiotomi sangat memengaruhi risiko robekan lanjutan, nyeri pos
 Episiotomi **tidak rutin**. Dilakukan hanya bila ada indikasi berikut:
 
 **a) Indikasi Ibu**
+
 - Perineum kaku / kaku vagina — terutama pada primigravida usia lanjut
 - Perineum pendek — untuk mengarahkan robekan agar tidak ke sfingter
 - Persalinan dengan penyulit — distosia bahu, letak sungsang, ekstraksi vakum/forceps
@@ -172,16 +172,19 @@ Episiotomi **tidak rutin**. Dilakukan hanya bila ada indikasi berikut:
 - Kelainan jaringan ikat (misal: jaringan parut luas di perineum)
 
 **b) Indikasi Janin**
+
 - Gawat janin — mempercepat kala II untuk segera melahirkan janin
 - Prematuritas — mengurangi tekanan berlebihan pada kepala janin
 - Janin besar (makrosomia, > 4000 g)
 - Kelahiran sungsang — memberikan ruang untuk manuver
 
 **c) Indikasi Prosedural**
+
 - Sebelum ekstraksi vakum atau forceps
 - Pada manuver distosia bahu (McRoberts + tekanan suprapubik + episiotomi luas)
 
 ### Kontraindikasi
+
 - Tidak ada — karena episiotomi adalah tindakan darurat; namun pada koagulopati berat, pertimbangkan risiko perdarahan vs manfaat.
 - Episiotomi **tanpa indikasi** pada persalinan normal yang sudah maju baik → justru kontraindikasi relatif (meningkatkan morbiditas tanpa manfaat).
 
@@ -191,22 +194,22 @@ Episiotomi **tidak rutin**. Dilakukan hanya bila ada indikasi berikut:
 
 ### Alat & Bahan
 
-| No. | Alat/Bahan | Keterangan |
-|----|-----------|------------|
-| 1 | Gunting episiotomi | Gunting tajam, ujung tumpul pada satu sisi (untuk melindungi kepala janin) — **steril** |
-| 2 | Anestesi lokal | Lidokain 1%, 5–10 mL (lihat [[29-anestesi-lokal-perineum]]) |
-| 3 | Spuit 10 mL + jarum 23G–25G | Untuk infiltrasi anestesi |
-| 4 | Handscoen steril | 1–2 pasang |
-| 5 | Kasa steril | 5–10 lembar |
-| 6 | Antiseptik (povidone iodine 10%) | Untuk desinfeksi perineum |
-| 7 | Gunting jaringan / gunting benang | Untuk memotong benang jahit |
-| 8 | Needle holder | Paling sering ukuran sedang (Delphine atau Hegar) |
-| 9 | Pinset jaringan (pinset chirurgis) | Untuk memegang jaringan saat menjahit |
-| 10 | Pinset anatomi | Untuk manuver halus |
-| 11 | Benang jahit absorbable | **Chromic catgut 2-0 atau 3-0** (lapisan mukosa & otot), **Polyglactin 910 (Vicryl) 3-0** (alternatif), atau **Monocryl 3-0** (kulit — jahitan subkutikuler) |
-| 12 | Lampu sorot / headlamp | Pencahayaan adekuat — kritis |
-| 13 | Spekulum steril (opsional) | Untuk memperlihatkan forniks vagina superior |
-| 14 | NaCl 0,9% steril | Membersihkan luka sebelum jahit |
+| No. | Alat/Bahan                         | Keterangan                                                                                                                                                   |
+| --- | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1   | Gunting episiotomi                 | Gunting tajam, ujung tumpul pada satu sisi (untuk melindungi kepala janin) — **steril**                                                                      |
+| 2   | Anestesi lokal                     | Lidokain 1%, 5–10 mL (lihat Anestesi Lokal Perineum)                                                                                                         |
+| 3   | Spuit 10 mL + jarum 23G–25G        | Untuk infiltrasi anestesi                                                                                                                                    |
+| 4   | Handscoen steril                   | 1–2 pasang                                                                                                                                                   |
+| 5   | Kasa steril                        | 5–10 lembar                                                                                                                                                  |
+| 6   | Antiseptik (povidone iodine 10%)   | Untuk desinfeksi perineum                                                                                                                                    |
+| 7   | Gunting jaringan / gunting benang  | Untuk memotong benang jahit                                                                                                                                  |
+| 8   | Needle holder                      | Paling sering ukuran sedang (Delphine atau Hegar)                                                                                                            |
+| 9   | Pinset jaringan (pinset chirurgis) | Untuk memegang jaringan saat menjahit                                                                                                                        |
+| 10  | Pinset anatomi                     | Untuk manuver halus                                                                                                                                          |
+| 11  | Benang jahit absorbable            | **Chromic catgut 2-0 atau 3-0** (lapisan mukosa & otot), **Polyglactin 910 (Vicryl) 3-0** (alternatif), atau **Monocryl 3-0** (kulit — jahitan subkutikuler) |
+| 12  | Lampu sorot / headlamp             | Pencahayaan adekuat — kritis                                                                                                                                 |
+| 13  | Spekulum steril (opsional)         | Untuk memperlihatkan forniks vagina superior                                                                                                                 |
+| 14  | NaCl 0,9% steril                   | Membersihkan luka sebelum jahit                                                                                                                              |
 
 ### Persiapan Operator
 
@@ -221,7 +224,7 @@ Episiotomi **tidak rutin**. Dilakukan hanya bila ada indikasi berikut:
 2. **Posisi ibu** — lithotomi (posisi persalinan standar). Pastikan bokong tepat di tepi tempat tidur.
 3. **Desinfeksi** — usap perineum dengan povidone iodine, dari dalam ke luar, sirkular.
 4. **Drainase kandung kemih** — pastikan kandung kemih kosong (kateter bila perlu).
-5. **Anestesi** — infiltrasi lidokain 1% di sepanjang garis insisi (lihat [[29-anestesi-lokal-perineum]]). Berikan **saat his** untuk mengurangi nyeri tusukan.
+5. **Anestesi** — infiltrasi lidokain 1% di sepanjang garis insisi (lihat Anestesi Lokal Perineum). Berikan **saat his** untuk mengurangi nyeri tusukan.
 6. **Tunggu onset anestesi** — 3–5 menit. Uji dengan menjepit perineum pakai pinset.
 
 ---
@@ -250,7 +253,7 @@ Sebelum memotong, tentukan secara mental:
 
 3. **Letakkan gunting episiotomi** di luar perineum, dengan satu mata gunting di luar dan satu mata di dalam (antara jari dan jaringan perineum). **Ujung tumpul gunting menghadap ke kepala janin.**
 
-4. **Pada puncak his**, saat kepala janin mulai *crowning* dan perineum teregang maksimal:
+4. **Pada puncak his**, saat kepala janin mulai _crowning_ dan perineum teregang maksimal:
    - **Bukalah** gunting selebar mungkin dalam satu gerakan tegas
    - Arah gunting: **45–60° dari garis tengah**
    - **Gunting dengan satu gerakan mantap** — jangan gunting-gunting kecil
@@ -262,6 +265,7 @@ Sebelum memotong, tentukan secara mental:
 
 > [!warning] Pemotongan Saat His
 > Sangat penting. Jika Anda memotong di luar his:
+>
 > 1. Jaringan tidak teregang optimal → sayatan tidak presisi
 > 2. Ibu kesakitan (ditambah nyeri tusukan anestesi yang baru)
 > 3. Kepala janin bisa tertahan lebih lama
@@ -273,6 +277,7 @@ Setelah bayi lahir, plasenta lahir, dan uterus berkontraksi baik, segera jahit e
 
 > [!info] Prinsip Penjahitan Episiotomi
 > **Tiga lapisan** yang harus dijahit secara terpisah:
+>
 > 1. **Mukosa vagina** + jaringan submukosa
 > 2. **Otot perineum** (m. bulbospongiosus & m. transversus perinei)
 > 3. **Subkutis + kulit**
@@ -287,7 +292,7 @@ Setelah bayi lahir, plasenta lahir, dan uterus berkontraksi baik, segera jahit e
 
 #### Langkah 2 — Jahit Lapisan Pertama (Mukosa Vagina + Submukosa)
 
-- **Teknik:** Jahitan terus-menerus (*continuous locking* atau *simple continuous*)
+- **Teknik:** Jahitan terus-menerus (_continuous locking_ atau _simple continuous_)
 - **Benang:** Chromic catgut 2-0 / Vicryl 2-0
 - **Mulai dari** ujung atas sayatan vagina (forniks posterior) ke arah fourchette
 - **Jarak tusuk:** 0,8–1 cm dari tepi luka
@@ -296,13 +301,13 @@ Setelah bayi lahir, plasenta lahir, dan uterus berkontraksi baik, segera jahit e
 - **Aksesibilitas:** Gunakan spekulum atau pengait untuk memperlihatkan ujung atas luka. Jika sulit, minta asisten menekan dinding posterior vagina.
 
 > [!tip] Menghindari Jahitan Transfiksasi Rektum
-> Selalu letakkan jari telunjuk tangan kiri di dalam rektum (anus) saat menjahit lapisan profunda. Ini adalah **safety maneuver** — jika jarum menusuk jari Anda, berarti Anda akan menusuk rektum! Atau gunakan teknik *rectal guidance* dengan memasukkan jari ke dalam rektum melalui anus untuk merasakan ujung jarum.
+> Selalu letakkan jari telunjuk tangan kiri di dalam rektum (anus) saat menjahit lapisan profunda. Ini adalah **safety maneuver** — jika jarum menusuk jari Anda, berarti Anda akan menusuk rektum! Atau gunakan teknik _rectal guidance_ dengan memasukkan jari ke dalam rektum melalui anus untuk merasakan ujung jarum.
 
 - **Akhiri** jahitan di fourchette. Ikat simpul, potong benang.
 
 #### Langkah 3 — Jahit Lapisan Kedua (Otot Perineum)
 
-- **Teknik:** Jahitan terputus-putus (*interrupted sutures*) — 2–3 jahitan, atau jahitan terus-menerus untuk otot yang panjang
+- **Teknik:** Jahitan terputus-putus (_interrupted sutures_) — 2–3 jahitan, atau jahitan terus-menerus untuk otot yang panjang
 - **Benang:** Chromic catgut 2-0 / Vicryl 2-0
 - **Mulai dari** ujung distal sayatan otot ke arah fourchette
 - **Approksimasi:** Satukan tepi m. bulbospongiosus dan m. transversus perinei
@@ -393,16 +398,16 @@ Dokumentasi: jenis, panjang, sudut, jumlah jahitan, perdarahan
 
 > [!warning] Komplikasi yang Harus Diwaspadai
 
-| Komplikasi | Waktu | Gejala/Tanda | Penanganan |
-|-----------|-------|-------------|------------|
-| **Perdarahan / Hematoma** | < 24 jam pasca | Nyeri perineum hebat, bengkak warna biru-keunguan, syok hipovolemik tanpa perdarahan eksternal | Evakuasi hematoma, ligasi pembuluh darah, jahit ulang. Jika > 5 cm → rujuk |
-| **Infeksi luka** | > 48 jam | Nyeri bertambah, merah, bengkak, pus, demam > 38°C | Antibiotik (amoksisilin-klavulanat atau metronidazol + sefalosporin), insisi drainase bila abses |
-| **Dehiscence luka** | 3–7 hari | Jahitan lepas, luka terbuka kembali | Rawat luka terbuka, antibiotik, jahit ulang setelah jaringan bersih (5–7 hari) |
-| **Laserasi derajat 3–4** | Saat tindakan | Robekan meluas ke sfingter ani (derajat 3) atau mukosa rektum (derajat 4) | → Lihat penanganan di bawah |
-| **Jahitan tembus rektum** | Saat penjahitan | Ditemukan saat palpasi rektal | Cabut jahitan tembus, ganti dengan jahitan baru yang tidak tembus |
-| **Nyeri berkepanjangan** > 2 minggu | > 14 hari | Dispareunia, nyeri duduk | Evaluasi jahitan, fisioterapi dasar panggul, analgetik |
-| **Fistula rektovagina** | > 7 hari | Keluar gas/feses dari vagina | Rujuk ke sub-spesialis |
-| **Inkontinensia flatus/feses** | > 2 minggu | Tidak dapat menahan gas atau feses | Fisioterapi dasar panggul; jika menetap → rujuk ke spesialis bedah rektum |
+| Komplikasi                          | Waktu           | Gejala/Tanda                                                                                   | Penanganan                                                                                       |
+| ----------------------------------- | --------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| **Perdarahan / Hematoma**           | < 24 jam pasca  | Nyeri perineum hebat, bengkak warna biru-keunguan, syok hipovolemik tanpa perdarahan eksternal | Evakuasi hematoma, ligasi pembuluh darah, jahit ulang. Jika > 5 cm → rujuk                       |
+| **Infeksi luka**                    | > 48 jam        | Nyeri bertambah, merah, bengkak, pus, demam > 38°C                                             | Antibiotik (amoksisilin-klavulanat atau metronidazol + sefalosporin), insisi drainase bila abses |
+| **Dehiscence luka**                 | 3–7 hari        | Jahitan lepas, luka terbuka kembali                                                            | Rawat luka terbuka, antibiotik, jahit ulang setelah jaringan bersih (5–7 hari)                   |
+| **Laserasi derajat 3–4**            | Saat tindakan   | Robekan meluas ke sfingter ani (derajat 3) atau mukosa rektum (derajat 4)                      | → Lihat penanganan di bawah                                                                      |
+| **Jahitan tembus rektum**           | Saat penjahitan | Ditemukan saat palpasi rektal                                                                  | Cabut jahitan tembus, ganti dengan jahitan baru yang tidak tembus                                |
+| **Nyeri berkepanjangan** > 2 minggu | > 14 hari       | Dispareunia, nyeri duduk                                                                       | Evaluasi jahitan, fisioterapi dasar panggul, analgetik                                           |
+| **Fistula rektovagina**             | > 7 hari        | Keluar gas/feses dari vagina                                                                   | Rujuk ke sub-spesialis                                                                           |
+| **Inkontinensia flatus/feses**      | > 2 minggu      | Tidak dapat menahan gas atau feses                                                             | Fisioterapi dasar panggul; jika menetap → rujuk ke spesialis bedah rektum                        |
 
 ### Penanganan Laserasi Derajat 3–4
 
@@ -412,14 +417,15 @@ Jika saat penjahitan didapati bahwa episiotomi meluas menjadi laserasi derajat 3
 2. **Identifikasi anatomi**:
    - Cari kedua ujung sfingter ani eksternus yang terputus
    - Gunakan Allis clamp untuk menjepit ujung sfingter
-3. **Anestesi tambahan** — infiltrasi ulang lidokain atau anestesi pudendal (lihat [[29-anestesi-lokal-perineum]])
+3. **Anestesi tambahan** — infiltrasi ulang lidokain atau anestesi pudendal (lihat Anestesi Lokal Perineum)
 4. **Jahit mukosa rektum** (bila derajat 4) — jahitan terputus Vicryl 3-0, simpul di lumen rektum
-5. **Jahit sfingter ani eksternus** — teknik *end-to-end* atau *overlapping* dengan Vicryl 2-0 (jahitan matras atau jahitan angka-8)
+5. **Jahit sfingter ani eksternus** — teknik _end-to-end_ atau _overlapping_ dengan Vicryl 2-0 (jahitan matras atau jahitan angka-8)
 6. **Lanjutkan jahit lapisan mukosa vagina, otot, kulit seperti biasa**
 7. **Antibiotik profilaksis** — sefalosporin generasi 2 + metronidazol
 8. **Rujuk** untuk follow-up spesialis — pasien memerlukan evaluasi fungsi sfingter jangka panjang
 
 > [!danger] Laserasi Derajat 3–4 adalah KEGAWATDARURATAN
+>
 > - Jangan menjahit tanpa anestesi yang adekuat
 > - Jangan mengabaikan sfingter ani dan berharap sembuh sendiri
 > - Laserasi derajat 3–4 yang tidak dijahit dengan benar → inkontinensia permanen
@@ -442,6 +448,7 @@ Sudut > 70° menyebabkan sayatan menjauhi introitus, tidak efektif memperbesar j
 
 **4. Sayatan terlalu panjang (> 5 cm)**
 Episiotomi > 5 cm tidak memberikan manfaat tambahan dalam hal pelebaran, tetapi:
+
 - Perdarahan lebih banyak
 - Waktu penjahitan lebih lama
 - Risiko infeksi lebih tinggi
@@ -478,22 +485,22 @@ Catat dalam rekam medis: indikasi, jenis episiotomi, sisi, sudut, panjang, jumla
 
 ## Perawatan Pasca Episiotomi
 
-(Detail lengkap di [[39-perawatan-luka-episiotomi]])
+(Detail lengkap di Perawatan Luka Episiotomi)
 
 ### Poin Penting untuk Edukasi Ibu
 
-| Topik | Edukasi |
-|-------|---------|
-| **Kebersihan** | Basuh perineum dengan air mengalir setiap setelah BAK/BAB. Keringkan dengan tisu lembut dari depan ke belakang. Jangan digosok. |
-| **Perineal hygiene** | Ganti pembalut setiap 4–6 jam. Hindari sabun wangi di area jahitan. |
-| **Nyeri** | Kompres dingin (cold pack) 20 menit setiap 4 jam dalam 24 jam pertama. Parasetamol 500 mg–1 g setiap 6 jam. |
-| **Duduk** | Duduk di permukaan keras lebih nyaman daripada bantal empuk (mengurangi tekanan pada jahitan). Gunakan bantal donat (doughnut) bila perlu. |
-| **BAK** | Jangan menahan BAK. Siram perineum dengan air hangat saat BAK untuk mengurangi nyeri. |
-| **BAB** | Makan tinggi serat, minum ≥ 2 L/hari. Laksatif ringan (laktulosa, supositoria gliserol) bila perlu. |
-| **Aktivitas** | Istirahat cukup, hindari angkat beban berat dalam 2 minggu. Jalan santai diperbolehkan. |
-| **Hubungan seks** | Tunggu hingga luka sembuh total — biasanya 4–6 minggu. Mulai perlahan, gunakan pelumas bila perlu. |
-| **Tanda bahaya** | Segera ke fasilitas kesehatan jika: nyeri bertambah, demam, perdarahan segar, bengkak, keluar cairan berbau, buka jahitan. |
-| **Kontrol** | Kontrol 7–10 hari pasca persalinan untuk evaluasi luka. |
+| Topik                | Edukasi                                                                                                                                    |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Kebersihan**       | Basuh perineum dengan air mengalir setiap setelah BAK/BAB. Keringkan dengan tisu lembut dari depan ke belakang. Jangan digosok.            |
+| **Perineal hygiene** | Ganti pembalut setiap 4–6 jam. Hindari sabun wangi di area jahitan.                                                                        |
+| **Nyeri**            | Kompres dingin (cold pack) 20 menit setiap 4 jam dalam 24 jam pertama. Parasetamol 500 mg–1 g setiap 6 jam.                                |
+| **Duduk**            | Duduk di permukaan keras lebih nyaman daripada bantal empuk (mengurangi tekanan pada jahitan). Gunakan bantal donat (doughnut) bila perlu. |
+| **BAK**              | Jangan menahan BAK. Siram perineum dengan air hangat saat BAK untuk mengurangi nyeri.                                                      |
+| **BAB**              | Makan tinggi serat, minum ≥ 2 L/hari. Laksatif ringan (laktulosa, supositoria gliserol) bila perlu.                                        |
+| **Aktivitas**        | Istirahat cukup, hindari angkat beban berat dalam 2 minggu. Jalan santai diperbolehkan.                                                    |
+| **Hubungan seks**    | Tunggu hingga luka sembuh total — biasanya 4–6 minggu. Mulai perlahan, gunakan pelumas bila perlu.                                         |
+| **Tanda bahaya**     | Segera ke fasilitas kesehatan jika: nyeri bertambah, demam, perdarahan segar, bengkak, keluar cairan berbau, buka jahitan.                 |
+| **Kontrol**          | Kontrol 7–10 hari pasca persalinan untuk evaluasi luka.                                                                                    |
 
 ---
 
@@ -554,22 +561,23 @@ Nama jelas & SIP: _____________________
 
 ## Referensi
 
-1. WHO. *WHO recommendations on episiotomy and perineal trauma*. Geneva: World Health Organization; 2019. ISBN: 978-92-4-155041-9.
-2. NICE. *Intrapartum care for healthy women and babies*. NICE Guideline [NG235]. London: National Institute for Health and Care Excellence; 2023.
-3. RCOG. *Management of Third- and Fourth-Degree Perineal Tears*. Green-top Guideline No. 29. London: Royal College of Obstetricians and Gynaecologists; 2015 (reviewed 2019).
-4. ACOG. *Prevention and Management of Obstetric Lacerations at Vaginal Delivery*. Practice Bulletin No. 198. Obstet Gynecol. 2018;132(3):e87–e102.
-5. Cunningham FG, Leveno KJ, Bloom SL, et al. *Williams Obstetrics*. 26th ed. McGraw-Hill Education; 2022. Chapter 23: Normal Labor; Chapter 25: Episiotomy and Perineal Repair.
-6. Oxorn H, Foote WR. *Oxorn-Foote Human Labor and Birth*. 6th ed. McGraw-Hill; 2013. Chapter 12: The Episiotomy.
-7. POGI. *Pedoman Pelayanan Antenatal, Intranatal, dan Postnatal*. Jakarta: Perkumpulan Obstetri dan Ginekologi Indonesia; 2021.
-8. Kemenkes RI. *Pedoman Nasional Pelayanan Kedokteran: Pelayanan Anestesi dan Terapi Intensif*. Jakarta: Kementerian Kesehatan RI; 2020.
-9. Kemenkes RI. *Buku Acuan Persalinan Normal (APN)*. Jakarta: Kementerian Kesehatan RI; 2018.
-10. FIGO. *FIGO Guidelines: Episiotomy — To do or not to do?* Int J Gynaecol Obstet. 2015;131(2):113–119.
-11. Jiang H, Qian X, Carroli G, et al. *Selective versus routine use of episiotomy for vaginal birth*. Cochrane Database Syst Rev. 2017;(2):CD000081.
-12. Gabbe SG, Niebyl JR, Simpson JL, et al. *Obstetrics: Normal and Problem Pregnancies*. 8th ed. Elsevier; 2021. Chapter 14: Intrapartum Assessment and Management.
+1. WHO. _WHO recommendations on episiotomy and perineal trauma_. Geneva: World Health Organization; 2019. ISBN: 978-92-4-155041-9.
+2. NICE. _Intrapartum care for healthy women and babies_. NICE Guideline [NG235]. London: National Institute for Health and Care Excellence; 2023.
+3. RCOG. _Management of Third- and Fourth-Degree Perineal Tears_. Green-top Guideline No. 29. London: Royal College of Obstetricians and Gynaecologists; 2015 (reviewed 2019).
+4. ACOG. _Prevention and Management of Obstetric Lacerations at Vaginal Delivery_. Practice Bulletin No. 198. Obstet Gynecol. 2018;132(3):e87–e102.
+5. Cunningham FG, Leveno KJ, Bloom SL, et al. _Williams Obstetrics_. 26th ed. McGraw-Hill Education; 2022. Chapter 23: Normal Labor; Chapter 25: Episiotomy and Perineal Repair.
+6. Oxorn H, Foote WR. _Oxorn-Foote Human Labor and Birth_. 6th ed. McGraw-Hill; 2013. Chapter 12: The Episiotomy.
+7. POGI. _Pedoman Pelayanan Antenatal, Intranatal, dan Postnatal_. Jakarta: Perkumpulan Obstetri dan Ginekologi Indonesia; 2021.
+8. Kemenkes RI. _Pedoman Nasional Pelayanan Kedokteran: Pelayanan Anestesi dan Terapi Intensif_. Jakarta: Kementerian Kesehatan RI; 2020.
+9. Kemenkes RI. _Buku Acuan Persalinan Normal (APN)_. Jakarta: Kementerian Kesehatan RI; 2018.
+10. FIGO. _FIGO Guidelines: Episiotomy — To do or not to do?_ Int J Gynaecol Obstet. 2015;131(2):113–119.
+11. Jiang H, Qian X, Carroli G, et al. _Selective versus routine use of episiotomy for vaginal birth_. Cochrane Database Syst Rev. 2017;(2):CD000081.
+12. Gabbe SG, Niebyl JR, Simpson JL, et al. _Obstetrics: Normal and Problem Pregnancies_. 8th ed. Elsevier; 2021. Chapter 14: Intrapartum Assessment and Management.
 
 ---
 
 > [!info] Catatan Revisi
+>
 > - Modul ke-30 — Buku Saku Obgyn: Keterampilan Persalinan
 > - Level kompetensi SKDI: 4A (mandiri penuh)
 > - Episiotomi mediolateral sebagai standar pilihan

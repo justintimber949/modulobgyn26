@@ -78,8 +78,8 @@ cssclasses:
 
 ## Keterampilan Terkait
 
-- [[72-peniupan-tuba-fallopi|Peniupan Tuba Fallopi (Rubin Test)]]
-- [[73-inseminasi-artifisial|Inseminasi Artifisial]]
+- Peniupan Tuba Fallopi (Rubin Test)
+- Inseminasi Artifisial
 
 ## Referensi
 

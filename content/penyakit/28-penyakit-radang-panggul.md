@@ -189,11 +189,11 @@ PID adalah **infeksi ascending** dari vagina/serviks ke **endometrium, tuba Fall
 
 ## Keterampilan Terkait
 
-- [[04-pemeriksaan-bimanual]]
-- [[05-melakukan-swab-vagina]]
-- [[30-abses-tube-ovarium]]
-- [[42-kompresi-bimanual|Kompresi Bimanual]]
-- [[45-pemeriksaan-combined-rectovaginal|Pemeriksaan Combined Rectovaginal]]
+- Pemeriksaan Bimanual
+- Melakukan Swab Vagina
+- Abses Tube Ovarium
+- Kompresi Bimanual
+- Pemeriksaan Combined Rectovaginal
 
 ## Referensi
 

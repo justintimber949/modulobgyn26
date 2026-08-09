@@ -1,25 +1,24 @@
 ---
 title: Baby Blues (Post-Partum Depression)
 tags:
-- penyakit
-- obstetri
-- skdi-3a
+  - penyakit
+  - obstetri
+  - skdi-3a
 level_kompetensi: 3A
 kategori: obstetri
 nomor_modul: 26
 aliases:
-- Post-Partum Blues
-- Postpartum Depression
-- Depresi Pasca Melahirkan
-- Gangguan Mood Pasca Persalinan
-- baby blues
-- depresi pasca melahirkan
-- sedih setelah melahirkan
-- ppd
+  - Post-Partum Blues
+  - Postpartum Depression
+  - Depresi Pasca Melahirkan
+  - Gangguan Mood Pasca Persalinan
+  - baby blues
+  - depresi pasca melahirkan
+  - sedih setelah melahirkan
+  - ppd
 cssclasses:
-- buku-saku
+  - buku-saku
 ---
-
 
 > [!info] Level Kompetensi SKDI: 3A
 > Dokter umum: screening, diagnosis ringan, rujuk psikiater/SpOG untuk berat. SpOG: tata laksana kolaboratif.
@@ -40,24 +39,25 @@ Ny. Dewi, 26 tahun, G1P1A0, melahirkan normal 3 hari lalu di RSKH. Bayi lahir se
 
 ## Spektrum Gangguan Mood Pasca Persalinan
 
-| Entitas | Prevalensi | Onset | Durasi | Gejala Utama | Tata Laksana |
-|---------|------------|-------|--------|--------------|--------------|
-| **Baby blues** | 50-80% | Hari 2-5 | < 2 mgg | Merinding, cemas, irritable, mood labil, insomnia | Reassurance, dukungan sosial, monitoring |
-| **PPD (Post-partum Depression)** | 10-15% | ≤ 4 mgg (bisa hingga 12 bln) | > 2 mgg (bulan-tahun) | Depressed mood, anhedonia, fatigue, guilt, sleep/appetite change, suicidal ideation | **Terapi: Psikoterapi (CBT/IPT) + SSRI** |
-| **Post-partum psychosis** | 0,1-0,2% | Hari 1-14 | Akut | Delusi, halusinasi, disorganisasi, katatonia, risiko bunuh diri/infantisida | **EMERGENSI: Hospitalisasi psikiater, antipsychotik, mood stabilizer** |
+| Entitas                          | Prevalensi | Onset                        | Durasi                | Gejala Utama                                                                        | Tata Laksana                                                           |
+| -------------------------------- | ---------- | ---------------------------- | --------------------- | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| **Baby blues**                   | 50-80%     | Hari 2-5                     | < 2 mgg               | Merinding, cemas, irritable, mood labil, insomnia                                   | Reassurance, dukungan sosial, monitoring                               |
+| **PPD (Post-partum Depression)** | 10-15%     | ≤ 4 mgg (bisa hingga 12 bln) | > 2 mgg (bulan-tahun) | Depressed mood, anhedonia, fatigue, guilt, sleep/appetite change, suicidal ideation | **Terapi: Psikoterapi (CBT/IPT) + SSRI**                               |
+| **Post-partum psychosis**        | 0,1-0,2%   | Hari 1-14                    | Akut                  | Delusi, halusinasi, disorganisasi, katatonia, risiko bunuh diri/infantisida         | **EMERGENSI: Hospitalisasi psikiater, antipsychotik, mood stabilizer** |
 
 ## Faktor Risiko PPD
 
-| Kategori | Faktor |
-|----------|--------|
-| **Obstetri** | Riwayat PPD (resiko 25-50% ulang), aborsi berulang, infertilitas, komplikasi persalinan (SC darurat, PPH), bayi NICU/prematurity, kesulitan menyusui |
-| **Psikososial** | Kurang dukungan suami/keluarga, stres kehidupan (ekonomi, DV, migrasi), kehamilan tidak diinginkan, usia muda (< 20 th), ibu tunggal |
-| **Psikiatrik** | Riwayat MDD, anxiety disorder, bipolar disorder, PMDD |
-| **Biologis** | Perubahan hormon drastis (estrogen/progesteron drop), thyroid dysfunction, defisiensi zat besi, DHA, vitamin D |
+| Kategori        | Faktor                                                                                                                                               |
+| --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Obstetri**    | Riwayat PPD (resiko 25-50% ulang), aborsi berulang, infertilitas, komplikasi persalinan (SC darurat, PPH), bayi NICU/prematurity, kesulitan menyusui |
+| **Psikososial** | Kurang dukungan suami/keluarga, stres kehidupan (ekonomi, DV, migrasi), kehamilan tidak diinginkan, usia muda (< 20 th), ibu tunggal                 |
+| **Psikiatrik**  | Riwayat MDD, anxiety disorder, bipolar disorder, PMDD                                                                                                |
+| **Biologis**    | Perubahan hormon drastis (estrogen/progesteron drop), thyroid dysfunction, defisiensi zat besi, DHA, vitamin D                                       |
 
 ## Screening & Diagnosis
 
 ### Alat Screening Standar: **EPDS (Edinburgh Postnatal Depression Scale)**
+
 - 10 item, self-report, 5 menit
 - **Cut-off ≥ 10** = positif screening (sens 85%, spec 78%)
 - **Cut-off ≥ 13** = kemungkinan besar PPD
@@ -69,7 +69,9 @@ Ny. Dewi, 26 tahun, G1P1A0, melahirkan normal 3 hari lalu di RSKH. Bayi lahir se
 > **Post-partum psychosis:** Halusinasi auditif ("suara suruh bunuh bayi"), delusi bayi jahat/iblis, agitasi berat → **EMERGENSI PSIKIATRI, jangan biarkan sendirian dengan bayi**.
 
 ### Diagnosis Klinis PPD (DSM-5)
+
 ≥ 5 gejala berikut ≥ 2 minggu, salah satu **depressed mood ATAU anhedonia**:
+
 1. Depressed mood sebagian besar hari
 2. Anhedonia (kehilangan minat/kenikmatan)
 3. Perubahan berat badan/nafsu makan signifikan
@@ -79,17 +81,19 @@ Ny. Dewi, 26 tahun, G1P1A0, melahirkan normal 3 hari lalu di RSKH. Bayi lahir se
 7. Perasaan tidak berharga/bersalah berlebihan
 8. Kesulitan konsentrasi/keputusan
 9. Ide bunuh diri/percobaan bunuh diri
-**+ Onset peripartum (selama kehamilan - 4 minggu pasca persalinan)**
+   **+ Onset peripartum (selama kehamilan - 4 minggu pasca persalinan)**
 
 ## Tata Laksana
 
 ### Baby Blues (Ringan, Self-Limiting)
+
 - Edukasi: "Biasa, hormon turun drastis, 80% ibu alami"
 - Dukungan praktis: bantuan rumah tangga, tidur saat bayi tidur
 - Monitoring EPDS mingguan × 2 minggu
 - Jika > 2 minggu tidak membaik → evaluasi PPD
 
 ### PPD Ringan-Sedang (EPDS 10-18, fungsi masih ada)
+
 1. **Psikoterapi first-line:** CBT (Cognitive Behavioral Therapy) atau IPT (Interpersonal Therapy) — 8-12 sesi
 2. **Dukungan menyusui** — ASI bisa lanjut dengan SSRI
 3. **Farmakologi (jika psikoterapi tidak cukup / sedang):**
@@ -102,12 +106,14 @@ Ny. Dewi, 26 tahun, G1P1A0, melahirkan normal 3 hari lalu di RSKH. Bayi lahir se
 5. **Monitoring:** EPDS 2-4 mingguan, cek efek samping, dukungan ASI
 
 ### PPD Berat / Dengan Fitur Psychotic / Risiko Bunuh Diri Tinggi
+
 - **Hospitalisasi** (ruang perinat/psikiatri mother-baby unit jika ada)
 - **Kombinasi:** Antidepressan + Antipsikotik (kualanpin, olanzapin, risperidon) ± Mood stabilizer (valproat/lithium — hati-hati ASI)
 - **ECT (Electroconvulsive Therapy)** — gold standard untuk PPD berat dengan psicosis/katatonia/risiko bunuh diri tinggi, aman saat ASI
 - **Multidisplin:** Psikiater, SpOG, Pediatri, Keperawatan, Konselor, Keluarga
 
 ### Post-partum Psychosis
+
 - **Darurat psikiater** → rujuk IGD Psikiatri / RSJ
 - Antipsikotik parenteral (haloperidol/olanzapin IM) + Mood stabilizer
 - Pemisahan sementara ibu-bayi demi keamanan
@@ -115,14 +121,14 @@ Ny. Dewi, 26 tahun, G1P1A0, melahirkan normal 3 hari lalu di RSKH. Bayi lahir se
 
 ## Keamanan Antidepressan Saat ASI
 
-| Obat | Kategori Laktasi (Hale) | Catatan |
-|------|------------------------|---------|
-| **Sertraline** | L2 (Lebih aman) | **Pilihan utama**, level ASI sangat rendah, tidak terdeteksi plasma bayi |
-| **Escitalopram** | L2 | Aman, level ASI rendah |
-| **Fluoxetine** | L3 | Half-life panjang, akumulasi bayi mungkin, monitor bayi (irritabilitas, tidur) |
-| **Paroxetine** | L3 | Anticholinergic, withdrawal — **hindari first-line** |
-| **Venlafaxine** | L3 | SNRI, opsi kedua |
-| **Bupropion** | L3 | Dopaminergik, bisa ganggu ASI (sedikit evidence), opsi jika SSRI gagal |
+| Obat             | Kategori Laktasi (Hale) | Catatan                                                                        |
+| ---------------- | ----------------------- | ------------------------------------------------------------------------------ |
+| **Sertraline**   | L2 (Lebih aman)         | **Pilihan utama**, level ASI sangat rendah, tidak terdeteksi plasma bayi       |
+| **Escitalopram** | L2                      | Aman, level ASI rendah                                                         |
+| **Fluoxetine**   | L3                      | Half-life panjang, akumulasi bayi mungkin, monitor bayi (irritabilitas, tidur) |
+| **Paroxetine**   | L3                      | Anticholinergic, withdrawal — **hindari first-line**                           |
+| **Venlafaxine**  | L3                      | SNRI, opsi kedua                                                               |
+| **Bupropion**    | L3                      | Dopaminergik, bisa ganggu ASI (sedikit evidence), opsi jika SSRI gagal         |
 
 > [!tip] Yang Sering Jadi Jebakan
 > **"Nanti lewat sendiri" untuk PPD** — 50% PPD tidak terdiagnosis, bisa jadi kronik, ganggu ikatan ibu-bayi, perkembangan bayi (kognitif, emosional, bahasa).
@@ -150,10 +156,10 @@ Ny. Dewi, 26 tahun, G1P1A0, melahirkan normal 3 hari lalu di RSKH. Bayi lahir se
 
 ## Keterampilan Terkait
 
-- [[34-inisiasi-menyusui-dini]]
-- [[36-manajemen-laktasi]]
-- [[43-menilai-lochia]]
-- [[55-informed-consent]]
+- Inisiasi Menyusui Dini
+- Manajemen Laktasi
+- Menilai Lochia
+- Informed Consent
 
 ## Referensi
 

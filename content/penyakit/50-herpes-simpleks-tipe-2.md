@@ -35,56 +35,60 @@ HSV-2 (Herpes Simplex Virus tipe 2) adalah virus DNA herpesvirus yang menyebabka
 
 ## Epidemiologi & Risiko Transmisi
 
-| Situasi | Risiko Transmisi ke Bayi |
-|---------|---------------------------|
-| **Infeksi primer trimester 3** | **30-50%** (palig tinggi — tidak ada antibodi maternal, shedding virus tinggi) |
-| **Infeksi primer trimester 1-2** | 10-25% (risiko abortus, anomali kongenital) |
-| **Rekuren (lesi aktif saat persalinan)** | 2-5% (ada antibodi maternal protektif) |
-| **Rekuren TANPA lesi aktif (asymptomatic shedding)** | < 1-2% |
-| **Infeksi primer < 28 mg + SC darurat** | Risiko tetap tinggi jika membran pecah lama |
+| Situasi                                              | Risiko Transmisi ke Bayi                                                       |
+| ---------------------------------------------------- | ------------------------------------------------------------------------------ |
+| **Infeksi primer trimester 3**                       | **30-50%** (palig tinggi — tidak ada antibodi maternal, shedding virus tinggi) |
+| **Infeksi primer trimester 1-2**                     | 10-25% (risiko abortus, anomali kongenital)                                    |
+| **Rekuren (lesi aktif saat persalinan)**             | 2-5% (ada antibodi maternal protektif)                                         |
+| **Rekuren TANPA lesi aktif (asymptomatic shedding)** | < 1-2%                                                                         |
+| **Infeksi primer < 28 mg + SC darurat**              | Risiko tetap tinggi jika membran pecah lama                                    |
 
 > **Kunci:** Infeksi primer dekat persalinan = risiko tertinggi. Rekuren dengan profilaksis = risiko sangat rendah.
 
 ## Klasifikasi Infeksi Neonatal HSV
 
-| Jenis | Prevalensi | Gejala | Onset | Prognosis |
-|-------|------------|--------|-------|-----------|
-| **SEM (Skin, Eye, Mouth)** | 45% | Veskula kulit, konjungtivitis, stomatitis | Minggu 1-2 | Baik jika diobati awal (acyclovir IV) |
-| **Ensefalis (CNS)** | 30% | Seizure, lethargy, bulging fontanel, CSF pleositosis | Minggu 2-4 | Sekuela neurologi 50-70% (delay, seizure, mikrocefali) |
-| **Disseminated** | 25% | Hepatitis, pneumonitis, DIC, shock, multi-organ failure | Minggu 1 | Mortalitas 60-80% tanpa terapi, 30% dengan acyclovir IV |
+| Jenis                      | Prevalensi | Gejala                                                  | Onset      | Prognosis                                               |
+| -------------------------- | ---------- | ------------------------------------------------------- | ---------- | ------------------------------------------------------- |
+| **SEM (Skin, Eye, Mouth)** | 45%        | Veskula kulit, konjungtivitis, stomatitis               | Minggu 1-2 | Baik jika diobati awal (acyclovir IV)                   |
+| **Ensefalis (CNS)**        | 30%        | Seizure, lethargy, bulging fontanel, CSF pleositosis    | Minggu 2-4 | Sekuela neurologi 50-70% (delay, seizure, mikrocefali)  |
+| **Disseminated**           | 25%        | Hepatitis, pneumonitis, DIC, shock, multi-organ failure | Minggu 1   | Mortalitas 60-80% tanpa terapi, 30% dengan acyclovir IV |
 
 ## Diagnosis Ibu
 
 ### Klinis
+
 - **Primer:** Lesi veskula/ulserasi genital multiple, bilateral, nyeri hebat, limfadenopati inguinal bilateral, demam, malaise — durasi 2-3 minggu
 - **Rekuren:** Prodroma (gatal, sensasi terbakar) → veskula/ulserasi unilokal, kurang nyeri, sembuh 7-10 hari, frekuen 1-6×/tahun
 - **Asymptomatic shedding:** Tidak ada lesi, tapi PCR swab positif (10-20% hari)
 
 ### Laboratorium
-| Tes | Kegunaan |
-|-----|----------|
-| **PCR Swab Lesi** | Gold standard diagnosis lesi aktif (sensitivitas > 95%) |
-| **Serologi HSV-2 IgG (type-specific)** | Diagnosis infeksi lama/rekuren (positif = ever infected) |
-| **Serologi HSV-1 IgG** | Diferensiasi (HSV-1 genital biasanya primer oral, rekuren lebih jarang) |
-| **Tzanck smear / Kultur** | Jarang dipakai (sensitivitas rendah) |
+
+| Tes                                    | Kegunaan                                                                |
+| -------------------------------------- | ----------------------------------------------------------------------- |
+| **PCR Swab Lesi**                      | Gold standard diagnosis lesi aktif (sensitivitas > 95%)                 |
+| **Serologi HSV-2 IgG (type-specific)** | Diagnosis infeksi lama/rekuren (positif = ever infected)                |
+| **Serologi HSV-1 IgG**                 | Diferensiasi (HSV-1 genital biasanya primer oral, rekuren lebih jarang) |
+| **Tzanck smear / Kultur**              | Jarang dipakai (sensitivitas rendah)                                    |
 
 > **Screening rutin serologi HSV-2 pada ANC TIDAK direkomendasikan** (ACOG/POGI) — tidak mengubah tata laksana, kecuali jika pasien minta / riwayat lesi.
 
 ## Tata Laksana Ibu Hamil
 
 ### 1. Infeksi Primer Saat Hamil
-| Trimester | Terapi |
-|-----------|--------|
-| **Trimester 1-2** | **Asiklovir 400 mg 3× sehari 7-10 hari** (kategori B, aman) / Valasiklovir 1 g 2× sehari 7-10 hari |
-| **Trimester 3 (≥ 28 mg)** | **Asiklovir 400 mg 3× sehari 7-10 hari** + **Profilaksis supresif 400 mg 2× sehari sampai persalinan** |
-| **Jika dekat persalinan (< 6 minggu)** | Pertimbangkan **SC elektif 38-39 mg** (jika primer trimester 3) — diskusi SpOG KFM |
+
+| Trimester                              | Terapi                                                                                                 |
+| -------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| **Trimester 1-2**                      | **Asiklovir 400 mg 3× sehari 7-10 hari** (kategori B, aman) / Valasiklovir 1 g 2× sehari 7-10 hari     |
+| **Trimester 3 (≥ 28 mg)**              | **Asiklovir 400 mg 3× sehari 7-10 hari** + **Profilaksis supresif 400 mg 2× sehari sampai persalinan** |
+| **Jika dekat persalinan (< 6 minggu)** | Pertimbangkan **SC elektif 38-39 mg** (jika primer trimester 3) — diskusi SpOG KFM                     |
 
 ### 2. Rekuren (Sudah Pernah HSV Sebelum Hamil)
-| Situasi | Terapi |
-|---------|--------|
-| **Lesi aktif saat ANC** | Asiklovir 400 mg 3× 7-10 hari / Valasiklovir 1 g 2× 7-10 hari |
-| **Profilaksis supresif** | **Asiklovir 400 mg 2× sehari mulai 36 minggu** sampai persalinan (standar) |
-| **Valasiklovir 500 mg 1× sehari** | Alternatif (lebih mahal, adherence lebih baik) |
+
+| Situasi                           | Terapi                                                                     |
+| --------------------------------- | -------------------------------------------------------------------------- |
+| **Lesi aktif saat ANC**           | Asiklovir 400 mg 3× 7-10 hari / Valasiklovir 1 g 2× 7-10 hari              |
+| **Profilaksis supresif**          | **Asiklovir 400 mg 2× sehari mulai 36 minggu** sampai persalinan (standar) |
+| **Valasiklovir 500 mg 1× sehari** | Alternatif (lebih mahal, adherence lebih baik)                             |
 
 > [!warning] Red Flag
 > **Infeksi primer trimester 3 + lesi aktif / prodroma saat persalinan** → **SEKSI CAESAR ELEKTIF** (sebelum KPD / sebelum onset contractions) — risiko transmisi 30-50% jika persalinan normal.
@@ -92,39 +96,41 @@ HSV-2 (Herpes Simplex Virus tipe 2) adalah virus DNA herpesvirus yang menyebabka
 > **Jangan lakukan FBS (fetal scalp electrode) / vacuum / forceps** jika ada risiko HSV — mikrolesi kulit janin jadi portal entry.
 
 ### 3. Pasangan
+
 - Jika pasangan HSV-2 positif tapi ibu negatif (serodiskordan) → **kondom konsisten + profilaksis valasiklovir 500 mg 1× sehari pasangan** (mengurangi transmis 50%)
 - Konseling: hindari seks saat lesi aktif, hindari seks oral-genital jika HSV-1 oral
 
 ## Tata Laksana Persalinan
 
-| Kondisi Ibu | Rekomendasi Persalinan |
-|-------------|------------------------|
-| **Infeksi primer trimester 3, lesi aktif/prodroma** | **SC elektif 38-39 mg (sebelum contractions/KPD)** |
-| **Infeksi primer trimester 3, tidak ada lesi tapi < 6 mgg sejak onset** | **SC elektif** (diskusi SpOG KFM) |
-| **Rekuren, lesi aktif saat persalinan** | **SC darurat** (jika contractions sudah mulai, pertimbangkan SC vs normal + profilaksis bayi) |
-| **Rekuren, TIDAK ada lesi/prodroma, sudah profilaksis 36 mg** | **Persalinan normal diperbolehkan** |
-| **Rekuren, TIDAK ada lesi, TIDAK profilaksis** | Persalinan normal, tapi pertimbangkan profilaksis bayi (kontroversial) |
+| Kondisi Ibu                                                             | Rekomendasi Persalinan                                                                        |
+| ----------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| **Infeksi primer trimester 3, lesi aktif/prodroma**                     | **SC elektif 38-39 mg (sebelum contractions/KPD)**                                            |
+| **Infeksi primer trimester 3, tidak ada lesi tapi < 6 mgg sejak onset** | **SC elektif** (diskusi SpOG KFM)                                                             |
+| **Rekuren, lesi aktif saat persalinan**                                 | **SC darurat** (jika contractions sudah mulai, pertimbangkan SC vs normal + profilaksis bayi) |
+| **Rekuren, TIDAK ada lesi/prodroma, sudah profilaksis 36 mg**           | **Persalinan normal diperbolehkan**                                                           |
+| **Rekuren, TIDAK ada lesi, TIDAK profilaksis**                          | Persalinan normal, tapi pertimbangkan profilaksis bayi (kontroversial)                        |
 
 > **Jika KPD > 4-6 jam pada ibu HSV+** → risiko transmisi naik → pertimbangkan SC.
 
 ## Tata Laksana Bayi Lahir (Neonatal HSV Prophylaxis)
 
-| Situasi Ibu | Tindakan Bayi |
-|-------------|---------------|
-| **Rekuren + profilaksis + tidak ada lesi** | Observasi ketat 24-48 jam, **tidak butuh acyclovir profilaksis rutin** (ACOG/APA) |
+| Situasi Ibu                                         | Tindakan Bayi                                                                                                       |
+| --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| **Rekuren + profilaksis + tidak ada lesi**          | Observasi ketat 24-48 jam, **tidak butuh acyclovir profilaksis rutin** (ACOG/APA)                                   |
 | **Infeksi primer / lesi aktif / tidak profilaksis** | **Asiklovir IV 20 mg/kg 8 jam × 10-14 hari** (jika bayi gejala / PCR positif) — **konsultasi pediatri/neonatologi** |
-| **Bayi gejala (vesikula, seizure, hepatitis)** | **Asiklovir IV 20 mg/kg 8 jam × 14-21 hari** (CNS/disseminated 21 hari) + dukungan ICU |
-| **Semua bayi ibu HSV+** | Swab PCR HSV (kulit, konjungtiva, orofaring, rektum, CSF jika indikasi) pada usia 24-48 jam |
+| **Bayi gejala (vesikula, seizure, hepatitis)**      | **Asiklovir IV 20 mg/kg 8 jam × 14-21 hari** (CNS/disseminated 21 hari) + dukungan ICU                              |
+| **Semua bayi ibu HSV+**                             | Swab PCR HSV (kulit, konjungtiva, orofaring, rektum, CSF jika indikasi) pada usia 24-48 jam                         |
 
 ## Komplikasi Neonatal HSV (Jika Tidak Diobati)
 
-| Komplikasi | Mortalitas | Sekuela |
-|------------|------------|---------|
-| **SEM** | < 5% | Minimal jika diobati |
-| **Ensefalis** | 15-20% | 50-70% (delay motorik/kognitif, seizure, mikrocefali, blind) |
-| **Disseminated** | 60-80% | Jika selamat: multi-organ sekuela |
+| Komplikasi       | Mortalitas | Sekuela                                                      |
+| ---------------- | ---------- | ------------------------------------------------------------ |
+| **SEM**          | < 5%       | Minimal jika diobati                                         |
+| **Ensefalis**    | 15-20%     | 50-70% (delay motorik/kognitif, seizure, mikrocefali, blind) |
+| **Disseminated** | 60-80%     | Jika selamat: multi-organ sekuela                            |
 
 ## Pencegahan
+
 - Kondom konsisten (mengurangi 50% transmisi)
 - Profilaksis valasiklovir pasangan (jika serodiskordan)
 - Hindari seks saat lesi aktif/prodroma
@@ -142,11 +148,11 @@ HSV-2 (Herpes Simplex Virus tipe 2) adalah virus DNA herpesvirus yang menyebabka
 
 ## Keterampilan Terkait
 
-- [[25-pemeriksaan-usg-obstetri]]
-- [[70-operasi-caesar]]
-- [[46-resusitasi-neonatal]]
-- [[66-insersi-kateter-tekanan-intrauterus]]
-- [[34-inisiasi-menyusui-dini]]
+- Pemeriksaan Usg Obstetri
+- Operasi Caesar
+- Resusitasi Neonatal
+- Insersi Kateter Tekanan Intrauterus
+- Inisiasi Menyusui Dini
 
 ## Referensi
 

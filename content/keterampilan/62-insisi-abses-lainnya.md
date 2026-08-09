@@ -1,23 +1,24 @@
 ---
 title: Insisi Abses Lainnya
 tags:
-- keterampilan
-- ginekologi-dasar
-- skdi-2
+  - keterampilan
+  - ginekologi-dasar
+  - skdi-2
 level_kompetensi: 2
 kategori: ginekologi-dasar
 nomor_modul: 62
 aliases:
-- Abscess Incision and Drainage
-- Insisi dan Drainase Abses
-- Abses Vulva/Vagina/Perineum
-- insisi abses
-- drainase abses
-- incision drainage
-- abses vulva/vagina/perineum
+  - Abscess Incision and Drainage
+  - Insisi dan Drainase Abses
+  - Abses Vulva/Vagina/Perineum
+  - insisi abses
+  - drainase abses
+  - incision drainage
+  - abses vulva/vagina/perineum
 cssclasses:
-- buku-saku
+  - buku-saku
 ---
+
 -----|---------------|----------------|
 | **Kelenjar Bartholini** | Obstruksi duk | E. coli, Strep, Gonokokus |
 | **Vulva** | Infeksi folikulitis, luka, hidradenitis | Staph aureus, Strep |
@@ -49,6 +50,7 @@ cssclasses:
 ## Teknik Insisi & Drainase (Umum)
 
 ### Langkah-langkah:
+
 1. Posisi pasien sesuai lokasi (litotomi untuk vulva/perineum/Bartholini)
 2. Anestesi lokal — **jangan suntik LANGSUNG ke abses** (bisa menyebarkan bakteri), suntik di sekitar (field block)
 3. Prep betadine area luas, drapping steril
@@ -101,11 +103,11 @@ Teknik: Insisi abses → keluarkan nanah → jahit epitel mukosa kelenjar ke epi
 
 ## Keterampilan Terkait
 
-- [[19-kista-abses-bartolini]]
-- [[11-abses-folikel-rambut]]
-- [[12-mastitis]]
-- [[44-injeksi-im-iv]]
-- [[45-pemasangan-infus]]
+- Kista Abses Bartolini
+- Abses Folikel Rambut
+- Mastitis
+- Injeksi Im Iv
+- Pemasangan Infus
 
 ## Referensi
 

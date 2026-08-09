@@ -33,53 +33,56 @@ Ny. Rina, 29 tahun, G2P1A0 (SC sebelumnya), usia kehamilan 38 minggu. Datang den
 
 ## Klasifikasi
 
-| Tipe | Anatomi | Mekanisme |
-|------|---------|-----------|
-| **Tipe 1 (Velamentous Insertion + Vasa Previa)** | Tali pusat menyisip ke membran (velamentous) → pembuluh lari di membran → menutupi os | Paling umum, risiko pecah tinggi |
-| **Tipe 2 (Bilobata/Succenturiate Lobe + Vasa Previa)** | Plasenta memiliki lobus aksesori (succenturiate) → pembuluh menghubungkan lobus utama & aksesori melintasi os | Pembuluh antara dua lobus plasenta |
-| **Tipe 3 (Vasa Marginalis)** | Pembuluh lari di tepi plasenta (marginal) dekat os, **tidak menutupi os penuh** | Risiko lebih rendah, tapi bisa jadi previa jika plasenta baja |
+| Tipe                                                   | Anatomi                                                                                                       | Mekanisme                                                     |
+| ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
+| **Tipe 1 (Velamentous Insertion + Vasa Previa)**       | Tali pusat menyisip ke membran (velamentous) → pembuluh lari di membran → menutupi os                         | Paling umum, risiko pecah tinggi                              |
+| **Tipe 2 (Bilobata/Succenturiate Lobe + Vasa Previa)** | Plasenta memiliki lobus aksesori (succenturiate) → pembuluh menghubungkan lobus utama & aksesori melintasi os | Pembuluh antara dua lobus plasenta                            |
+| **Tipe 3 (Vasa Marginalis)**                           | Pembuluh lari di tepi plasenta (marginal) dekat os, **tidak menutupi os penuh**                               | Risiko lebih rendah, tapi bisa jadi previa jika plasenta baja |
 
 ## Epidemiologi & Faktor Risiko
 
-| Faktor | Risiko |
-|--------|--------|
-| **Velamentous cord insertion** | 1:50-100 kehamilan → 10-15% jadi vasa previa |
-| **Plasenta bilobata / succenturiate lobe** | 3-5% kehamilan → risiko vasa previa tipe 2 |
-| **Kehamilan ganda (monokorionik)** | ↑ (anastomosis vaskular) |
-| **IVF / ART** | 3-5× lipat (velamentous ↑) |
-| **SC sebelumnya / Kuretase** | ↑ (plasenta baja, vasa marginalis) |
-| **Rokok** | ↑ velamentous insertion |
-| **Nullipara** | Sedikit ↑ |
+| Faktor                                     | Risiko                                       |
+| ------------------------------------------ | -------------------------------------------- |
+| **Velamentous cord insertion**             | 1:50-100 kehamilan → 10-15% jadi vasa previa |
+| **Plasenta bilobata / succenturiate lobe** | 3-5% kehamilan → risiko vasa previa tipe 2   |
+| **Kehamilan ganda (monokorionik)**         | ↑ (anastomosis vaskular)                     |
+| **IVF / ART**                              | 3-5× lipat (velamentous ↑)                   |
+| **SC sebelumnya / Kuretase**               | ↑ (plasenta baja, vasa marginalis)           |
+| **Rokok**                                  | ↑ velamentous insertion                      |
+| **Nullipara**                              | Sedikit ↑                                    |
 
 **Insidensi:** 1:2.000 - 1:5.000 kehamilan. **Mortalitas perinatal tanpa diagnosis antenatal: 50-60%**. **Dengan diagnosis antenatal + SC elektif: < 3%**.
 
 ## Gejala & Tanda (Klasik Triad)
 
-| Triad | Deskripsi |
-|-------|-----------|
-| **1. KPD (Premature Rupture of Membranes)** | Spontan / artifisial |
-| **2. Perdarahan Vagina Merah Segar** | **Tiba-tiba, tidak nyeri**, volume bisa kecil (50-200 mL) tapi **darah fetal** → bayi cepat shock |
-| **3. Bradikardia Janin / Deselerasi Variabel/Panjang** | **HR < 110 bpm** tiba-tiba saat KPD/kontraksi — tanda **hipovolemi fetal akut** |
+| Triad                                                  | Deskripsi                                                                                         |
+| ------------------------------------------------------ | ------------------------------------------------------------------------------------------------- |
+| **1. KPD (Premature Rupture of Membranes)**            | Spontan / artifisial                                                                              |
+| **2. Perdarahan Vagina Merah Segar**                   | **Tiba-tiba, tidak nyeri**, volume bisa kecil (50-200 mL) tapi **darah fetal** → bayi cepat shock |
+| **3. Bradikardia Janin / Deselerasi Variabel/Panjang** | **HR < 110 bpm** tiba-tiba saat KPD/kontraksi — tanda **hipovolemi fetal akut**                   |
 
 > **Beda dengan Plasenta Previa:**
+>
 > - Previa: perdarahan **maternal**, ibu shock dulu, janin relatif stabil (kecuali hipoksia)
 > - Vasa Previa: perdarahan **fetal**, **janin shock dulu** (bradikardia, asidosis), ibu relatif stabil
 
 ## Diagnosis
 
 ### 1. Antenatal (Gold Standard: USG + Color Doppler)
-| Modality | Temuan |
-|----------|--------|
+
+| Modality                                                                    | Temuan                                                                                                                                        |
+| --------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
 | **USG Transvaginal + Color Doppler** (20-24 mg screening, 32 mg konfirmasi) | **Pembuluh darah (arteri/vena) melintasi os serviks internal** — color Doppler menunjukkan aliran arterial (merah) & venosa (biru) di atas os |
-| **3D/4D USG** | Visualisasi jelas kursus pembuluh |
-| **MRI** | Pelengkap jika USG ragu (jarang) |
+| **3D/4D USG**                                                               | Visualisasi jelas kursus pembuluh                                                                                                             |
+| **MRI**                                                                     | Pelengkap jika USG ragu (jarang)                                                                                                              |
 
 > **Screening rutin USG anatomik 18-22 mg:** **WAJIB cek inseri tali pusat & plasenta** (velamentous, succenturiate, vasa previa). Jika velamentous/succenturiate → **follow-up USG TV Doppler 32 mg** untuk konfirmasi vasa previa.
 
 ### 2. Intrapartal (Jika Tidak Terdiagnosis Antenatal)
-| Situasi | Tindakan |
-|---------|----------|
-| **KPD + perdarahan + bradikardia janin tiba-tiba** | **CLINICAL DIAGNOSIS → SC DARURAT SEKALI** (jangan tunggu USG, bayi bisa mati dalam menit) |
+
+| Situasi                                                             | Tindakan                                                                                           |
+| ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| **KPD + perdarahan + bradikardia janin tiba-tiba**                  | **CLINICAL DIAGNOSIS → SC DARURAT SEKALI** (jangan tunggu USG, bayi bisa mati dalam menit)         |
 | **VT (jika sudah KPD):** bisa teraba pembuluh pulsa di membran / os | **JANGAN VT** jika curiga vasa previa (bisa robek pembuluh) — hanya visualisasi spekulum hati-hati |
 
 > [!warning] Red Flag
@@ -89,15 +92,17 @@ Ny. Rina, 29 tahun, G2P1A0 (SC sebelumnya), usia kehamilan 38 minggu. Datang den
 ## Tata Laksana
 
 ### A. Diagnosis Antenatal (Ideal)
-| UK | Strategi |
-|----|----------|
-| **< 34 mg** | Rawat inap / rawat jalan ketat: **hindari VT, hindari KPD artifisial, hindali seks, aktivitas ringan**. Betametason 12 mg IM 2× 24j (jika < 34+6). MgSO4 neuroproteksi < 32 mg. **SC elektif 34+0 - 35+6 mg** (balance prematuritas vs risiko KPD spontan). |
-| **34-36+6 mg** | **SC elektif 35-36 mg** (setelah betametason jika belum). |
-| **≥ 37 mg** | **SC elektif segera** (37-38 mg). |
+
+| UK             | Strategi                                                                                                                                                                                                                                                    |
+| -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **< 34 mg**    | Rawat inap / rawat jalan ketat: **hindari VT, hindari KPD artifisial, hindali seks, aktivitas ringan**. Betametason 12 mg IM 2× 24j (jika < 34+6). MgSO4 neuroproteksi < 32 mg. **SC elektif 34+0 - 35+6 mg** (balance prematuritas vs risiko KPD spontan). |
+| **34-36+6 mg** | **SC elektif 35-36 mg** (setelah betametason jika belum).                                                                                                                                                                                                   |
+| **≥ 37 mg**    | **SC elektif segera** (37-38 mg).                                                                                                                                                                                                                           |
 
 > **Kunci:** **Tidak boleh persalinan normal** — kontraksi + KPD = pecah vasa → kematian janin.
 
 ### B. Diagnosis Intrapartal (Darurat)
+
 - **SC DARURAT SEKALI** — general anesthesia tercepat (GA), bayi keluar < 5 menit dari insisi kulit
 - **Transfusi darah bayi siap** (O neg / type-specific, iradiasi, CMV neg, leukoreduced)
 - **Neonatologi standby** di OR
@@ -105,13 +110,13 @@ Ny. Rina, 29 tahun, G2P1A0 (SC sebelumnya), usia kehamilan 38 minggu. Datang den
 
 ## Komplikasi
 
-| Maternal | Fetal/Neonatal |
-|----------|----------------|
-| PPH (plasenta baja/accreta risiko ↑) | **Eksanguinasi fetal (mati dalam menit)** |
-| Infeksi (KPD lama) | **Asidosis metabolic berat** (pH < 7,0) |
-| SC darurat risiko (anestesi, luka) | **Ensefalopati hipoksik-iskemik (HIE)** |
-| | **NEC, IVH, AKI** post-transfusi/asfiksia |
-| | **Mortalitas 50-60% tanpa diagnosis antenatal** |
+| Maternal                             | Fetal/Neonatal                                  |
+| ------------------------------------ | ----------------------------------------------- |
+| PPH (plasenta baja/accreta risiko ↑) | **Eksanguinasi fetal (mati dalam menit)**       |
+| Infeksi (KPD lama)                   | **Asidosis metabolic berat** (pH < 7,0)         |
+| SC darurat risiko (anestesi, luka)   | **Ensefalopati hipoksik-iskemik (HIE)**         |
+|                                      | **NEC, IVH, AKI** post-transfusi/asfiksia       |
+|                                      | **Mortalitas 50-60% tanpa diagnosis antenatal** |
 
 ## Prognosis
 
@@ -131,11 +136,11 @@ Ny. Rina, 29 tahun, G2P1A0 (SC sebelumnya), usia kehamilan 38 minggu. Datang den
 
 ## Keterampilan Terkait
 
-- [[25-pemeriksaan-usg-obstetri]]
-- [[70-operasi-caesar]]
-- [[46-resusitasi-neonatal]]
-- [[47-resusitasi-cairan-ibu]]
-- [[32-memperkirakan-kehilangan-darah]]
+- Pemeriksaan Usg Obstetri
+- Operasi Caesar
+- Resusitasi Neonatal
+- Resusitasi Cairan Ibu
+- Memperkirakan Kehilangan Darah
 
 ## Referensi
 

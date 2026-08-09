@@ -35,21 +35,21 @@ Ny. Sari, 34 tahun, G3P2A0, usia kehamilan 36 minggu. Riwayat hipertensi kronik 
 
 ## Etiologi & Faktor Risiko
 
-| Faktor Risiko | OR / Risiko |
-|---------------|-------------|
-| **Hipertensi (kronik / preeklampsia / eklampsia)** | **#1 Risiko** — 5-10× (preeklampsia berat: 1-5% insidensi abrupsio) |
-| **Abrupsio sebelumnya** | 10-15% recurrence |
-| **Trauma perut** (tabrakan, jatuh, DV) | Akut, langsung |
-| **KPD Lama / Polihidramnion** → dekompresi tiba-tiba uterus | Mekanis |
-| **Rokok / Kokain / Amfetamin** | 2-5× (vasokonstriksi, hipertensi) |
-| **Usia ≥ 35 th / Multipara ≥ 5** | 1,5-2× |
-| **Trombophilia / APS / Protein C/S deficiency** | Trombosis vena plasenta |
-| **Kehamilan ganda** | ↑ setelah bayi 1 lahir (dekompresi) |
-| **Polyhydramnios** | Dekompresi tiba-tiba pasca KPD / persalinan bayi 1 |
+| Faktor Risiko                                               | OR / Risiko                                                         |
+| ----------------------------------------------------------- | ------------------------------------------------------------------- |
+| **Hipertensi (kronik / preeklampsia / eklampsia)**          | **#1 Risiko** — 5-10× (preeklampsia berat: 1-5% insidensi abrupsio) |
+| **Abrupsio sebelumnya**                                     | 10-15% recurrence                                                   |
+| **Trauma perut** (tabrakan, jatuh, DV)                      | Akut, langsung                                                      |
+| **KPD Lama / Polihidramnion** → dekompresi tiba-tiba uterus | Mekanis                                                             |
+| **Rokok / Kokain / Amfetamin**                              | 2-5× (vasokonstriksi, hipertensi)                                   |
+| **Usia ≥ 35 th / Multipara ≥ 5**                            | 1,5-2×                                                              |
+| **Trombophilia / APS / Protein C/S deficiency**             | Trombosis vena plasenta                                             |
+| **Kehamilan ganda**                                         | ↑ setelah bayi 1 lahir (dekompresi)                                 |
+| **Polyhydramnios**                                          | Dekompresi tiba-tiba pasca KPD / persalinan bayi 1                  |
 
 ## Patofisiologi
 
-1. **Ruptur arteri spiral maternal** di *decidua basalis* → perdarahan ke ruang *retroplacental*
+1. **Ruptur arteri spiral maternal** di _decidua basalis_ → perdarahan ke ruang _retroplacental_
 2. **Hematoma retroplacental** → memisahkan plasenta dari miometrium → **malperfusisi janin**
 3. **Tromboplastin dari plasenta/decidua** masuk sirkulasi maternal → **aktivasi koagulasi masif → DIC (Consumptive Coagulopathy)**
 4. **Fibrinogen turun drastis** (plasenta kaya fibrinogen) → pendarahan makin parah
@@ -57,41 +57,44 @@ Ny. Sari, 34 tahun, G3P2A0, usia kehamilan 36 minggu. Riwayat hipertensi kronik 
 
 ## Klasifikasi Klinis (Page / POGI Modifikasi)
 
-| Kelas | Gejala Maternal | Perdarahan Vagina | Uterus | Janin | Lab / DIC |
-|-------|-----------------|-------------------|--------|-------|-----------|
-| **0 (Klinis Tersembunyi)** | Asimtomatik / nyeri ringan | Tidak ada / spotting | Tidak keras | Normal | Normal |
-| **1 (Ringan)** | Nyeri perut ringan, tidak kontraksi tetanus | < 500 mL (merah segar/gelap) | Nyeri tekan, tidak keras | Normal / NST reaktif | Fibrinogen normal, trombosit normal |
-| **2 (Sedang)** | Nyeri moderat, kontraksi tetanus | 500-1000 mL | Keras, nyeri tekan, kontraksi tetanus | **Non-reassuring** (bradikardia, deselerasi late, variabel) | Fibrinogen 150-200, trombosit 80-100k, PT/aPTT sedikit ↑ |
-| **3 (Berat)** | **Shock (hipotensi, takikardi, oliguria, altered mental)** | **> 1000 mL / Tersembunyi (utero-hematoma, uterus keras besar > UK)** | **Woody (keras kayu), sangat nyeri, kontraksi tetanus, tidak relaks** | **IUFD / Bradikardia berat / Asidosis berat** | **DIC Lengkap: Fibrinogen < 100-150, Trombosit < 50-80k, PT/aPTT ↑↑, FDP/D-dimer ↑↑, Skistasit (+)** |
+| Kelas                      | Gejala Maternal                                            | Perdarahan Vagina                                                     | Uterus                                                                | Janin                                                       | Lab / DIC                                                                                            |
+| -------------------------- | ---------------------------------------------------------- | --------------------------------------------------------------------- | --------------------------------------------------------------------- | ----------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| **0 (Klinis Tersembunyi)** | Asimtomatik / nyeri ringan                                 | Tidak ada / spotting                                                  | Tidak keras                                                           | Normal                                                      | Normal                                                                                               |
+| **1 (Ringan)**             | Nyeri perut ringan, tidak kontraksi tetanus                | < 500 mL (merah segar/gelap)                                          | Nyeri tekan, tidak keras                                              | Normal / NST reaktif                                        | Fibrinogen normal, trombosit normal                                                                  |
+| **2 (Sedang)**             | Nyeri moderat, kontraksi tetanus                           | 500-1000 mL                                                           | Keras, nyeri tekan, kontraksi tetanus                                 | **Non-reassuring** (bradikardia, deselerasi late, variabel) | Fibrinogen 150-200, trombosit 80-100k, PT/aPTT sedikit ↑                                             |
+| **3 (Berat)**              | **Shock (hipotensi, takikardi, oliguria, altered mental)** | **> 1000 mL / Tersembunyi (utero-hematoma, uterus keras besar > UK)** | **Woody (keras kayu), sangat nyeri, kontraksi tetanus, tidak relaks** | **IUFD / Bradikardia berat / Asidosis berat**               | **DIC Lengkap: Fibrinogen < 100-150, Trombosit < 50-80k, PT/aPTT ↑↑, FDP/D-dimer ↑↑, Skistasit (+)** |
 
 > **Catatan:** Perdarahan vagina **TIDAK SEBANDING** dengan keparahan — bisa **tersembunyi (concealed)** di balik plasenta/uterus → shock tapi perdarahan vagina minimal.
 
 ## Diagnosis
 
 ### Klinis (WAJIB DICURIGAI PADA: Nyeri perut mendadak + uterus keras + perdarahan trimester 3 + janin distress)
-| Tanda | Spesifik untuk Abrupsio |
-|-------|-------------------------|
-| **Nyeri perut kontinu, hebat, tidak reda** | Ya (vs kontraksi intermiten persalinan) |
+
+| Tanda                                                       | Spesifik untuk Abrupsio                    |
+| ----------------------------------------------------------- | ------------------------------------------ |
+| **Nyeri perut kontinu, hebat, tidak reda**                  | Ya (vs kontraksi intermiten persalinan)    |
 | **Uterus keras kayu (woody), tidak relaks antar kontraksi** | Ya (vs persalinan: relaks antar kontraksi) |
-| **Nyeri tekan uterus hebat** | Ya |
-| **Perdarahan vagina merah segar/gelap** | Ya (tapi bisa tidak ada) |
-| **Tanda shock tidak sebanding perdarahan terlihat** | Ya (concealed hemorrhage) |
-| **Janin distress / IUFD tiba-tiba** | Ya |
+| **Nyeri tekan uterus hebat**                                | Ya                                         |
+| **Perdarahan vagina merah segar/gelap**                     | Ya (tapi bisa tidak ada)                   |
+| **Tanda shock tidak sebanding perdarahan terlihat**         | Ya (concealed hemorrhage)                  |
+| **Janin distress / IUFD tiba-tiba**                         | Ya                                         |
 
 ### Laboratorium (WAJIB Serial)
-| Parameter | Target / Artinya |
-|-----------|------------------|
-| **Fibrinogen** | **< 200 mg/dL = DIC / Abrupsio berat** (fibrinogen normal kehamilan 400-600) |
-| **Trombosit** | < 100.000 = DIC |
-| **PT / aPTT / INR** | ↑ 1,5× normal = DIC |
-| **D-dimer / FDP** | ↑↑ (fibrinolisis) |
-| **CBC (Hb, Ht)** | Anemia akut (bisa normal awal karena hemokonsentrasi) |
-| **Fungsi Ginjal (Kreatinin, Ureum)** | AKI (oliguria, ATN) |
-| **Fungsi Hati (AST, ALT, LDH)** | HELLP / ischemia hati |
-| **Gas Darah Arteri** | Asidosis metabolic (janin & maternal) |
-| **Golongan Darah & Crossmatch** | **4-6 unit PRC siap** |
+
+| Parameter                            | Target / Artinya                                                             |
+| ------------------------------------ | ---------------------------------------------------------------------------- |
+| **Fibrinogen**                       | **< 200 mg/dL = DIC / Abrupsio berat** (fibrinogen normal kehamilan 400-600) |
+| **Trombosit**                        | < 100.000 = DIC                                                              |
+| **PT / aPTT / INR**                  | ↑ 1,5× normal = DIC                                                          |
+| **D-dimer / FDP**                    | ↑↑ (fibrinolisis)                                                            |
+| **CBC (Hb, Ht)**                     | Anemia akut (bisa normal awal karena hemokonsentrasi)                        |
+| **Fungsi Ginjal (Kreatinin, Ureum)** | AKI (oliguria, ATN)                                                          |
+| **Fungsi Hati (AST, ALT, LDH)**      | HELLP / ischemia hati                                                        |
+| **Gas Darah Arteri**                 | Asidosis metabolic (janin & maternal)                                        |
+| **Golongan Darah & Crossmatch**      | **4-6 unit PRC siap**                                                        |
 
 ### USG (Sensitivitas ~ 50-80% — **NORMAL TIDAK MENOLAK DIAGNOSA**)
+
 - Hematoma retroplacental (hipoekogenik/isoekogenik di belakang plasenta)
 - Hematoma intrauterin (retroplacental, subkorionik, preplacental)
 - Plasenta tebal, heterogen
@@ -105,6 +108,7 @@ Ny. Sari, 34 tahun, G3P2A0, usia kehamilan 36 minggu. Riwayat hipertensi kronik 
 ## Tata Laksana
 
 ### A. Stabilisasi Maternal (ABCDE) — **PRIORITAS UTAMA**
+
 1. **Airway & Breathing:** O2 10-15 L/min masker non-rebreather, intubasi jika GCS < 8 / edema paru / asidosis berat
 2. **Circulation — FLUID RESUSITASI CEPAT:**
    - **2 IV line 14-16G** (sentral jika shock berat)
@@ -117,16 +121,18 @@ Ny. Sari, 34 tahun, G3P2A0, usia kehamilan 36 minggu. Riwayat hipertensi kronik 
 3. **Monitoring:** CVP / arterial line, urine output (kateter Foley, target > 30 mL/jam), ABG, lab serial 1-2 jam
 
 ### B. Terminasi Kehamilan (Delivery) — **TERAPI DEFINITIF**
-| Situasi | Mode Persalinan |
-|---------|-----------------|
-| **Janin hidup + Maternal stabil (Kelas 1-2)** | **Induksi persalinan** (misoprostol/oksitosin) — **CFM kontinu**, siap SC kapan saja |
-| **Janin hidup + Maternal TIDAK stabil / Kelas 3 / IUFD** | **SC DARURAT (General Anestesi)** — bayi keluar < 10-15 menit dari insisi |
-| **IUFD + Maternal stabil** | Induksi (misoprostol PV/PO + oksitosin) — bisa normal, tapi siap SC jika perdarahan/DIC |
-| **KPD + Abrupsio** | SC (infeksi risiko ↑, DIC risiko ↑) |
+
+| Situasi                                                  | Mode Persalinan                                                                         |
+| -------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| **Janin hidup + Maternal stabil (Kelas 1-2)**            | **Induksi persalinan** (misoprostol/oksitosin) — **CFM kontinu**, siap SC kapan saja    |
+| **Janin hidup + Maternal TIDAK stabil / Kelas 3 / IUFD** | **SC DARURAT (General Anestesi)** — bayi keluar < 10-15 menit dari insisi               |
+| **IUFD + Maternal stabil**                               | Induksi (misoprostol PV/PO + oksitosin) — bisa normal, tapi siap SC jika perdarahan/DIC |
+| **KPD + Abrupsio**                                       | SC (infeksi risiko ↑, DIC risiko ↑)                                                     |
 
 > **Anestesi:** **General Anestesi (GA) preferred** untuk abrupsio berat/DIC — hindari spinal/epidural (risiko hematoma epidural, hipotensi simpatetik, koagulopati). Jika GA tidak memungkinkan → spinal hati-hati (cek trombosit > 80k, fibrinogen > 200, INR < 1,5).
 
 ### C. Pasca Plasenta Keluar — Pencegahan PPH & DIC
+
 1. **Oksitosin 20-40 IU IV infus** (10-20 U/jam) — atonia uterus risiko tinggi
 2. **Ergometrin 0,2 mg IM/IV** (jika TD < 160/110, tidak preeklampsia berat)
 3. **Misoprostol 400-600 mcg PR / 800 mcg SL** (tambahan)
@@ -136,24 +142,25 @@ Ny. Sari, 34 tahun, G3P2A0, usia kehamilan 36 minggu. Riwayat hipertensi kronik 
 7. **Histerektomi Subtotal/Total** — **jika perdarahan tidak terkendali 30-60 menit / DIC tidak perbaiki / histerektomi profilik direncanakan (abrupsio berulang, kelengkapan keluarga)**
 
 ### D. Koreksi DIC (Bersamaan dengan Resusitasi)
-| Target | Terapi |
-|--------|--------|
-| **Fibrinogen > 150-200 mg/dL** | Kriopresipitat 10 unit (1 unit/10 kg) / Fibrinogen concentrate 2-4 g |
-| **Trombosit > 50.000 (OP > 100.000)** | Trombosit 1 pool (6 unit) / 1 unit/10 kg |
-| **PT/aPTT < 1,5× normal** | FFP 15-20 mL/kg (4-6 unit) |
-| **Asidosis (pH < 7,2, BE < -6)** | Bikarbonat 8,4% 1-2 mmol/kg IV (hati-hati: CO2 ↑, perlu ventilasi) |
-| **Hiperkalemia (K > 6,0)** | Insulin + Glukosa, Kalsium gluconat, Kayexalate, Dialisis jika berat |
+
+| Target                                | Terapi                                                               |
+| ------------------------------------- | -------------------------------------------------------------------- |
+| **Fibrinogen > 150-200 mg/dL**        | Kriopresipitat 10 unit (1 unit/10 kg) / Fibrinogen concentrate 2-4 g |
+| **Trombosit > 50.000 (OP > 100.000)** | Trombosit 1 pool (6 unit) / 1 unit/10 kg                             |
+| **PT/aPTT < 1,5× normal**             | FFP 15-20 mL/kg (4-6 unit)                                           |
+| **Asidosis (pH < 7,2, BE < -6)**      | Bikarbonat 8,4% 1-2 mmol/kg IV (hati-hati: CO2 ↑, perlu ventilasi)   |
+| **Hiperkalemia (K > 6,0)**            | Insulin + Glukosa, Kalsium gluconat, Kayexalate, Dialisis jika berat |
 
 ## Komplikasi
 
-| Maternal | Fetal/Neonatal |
-|----------|----------------|
-| **Shock hipovolemik** | **IUFD (20-30% abrupsio berat)** |
-| **DIC (20-30% abrupsio, 50% berat)** | **Asfiksia berat / HIE (asidosis metabolic)** |
-| **AKI (Acute Kidney Injury)** | **Preterm (SC prematur)** |
-| **Sheehan Syndrome (nekrosis hipofisis)** | **IUGR (jika abrupsio kronik/parsial)** |
-| **Histerektomi (kehilangan fertilitas)** | **NEC, IVH, AKI, Sepsis (prematurity + asfiksia)** |
-| **Mortalitas Maternal** | **Mortalitas Perinatal 10-30% (tergantung UK & keparahan)** |
+| Maternal                                  | Fetal/Neonatal                                              |
+| ----------------------------------------- | ----------------------------------------------------------- |
+| **Shock hipovolemik**                     | **IUFD (20-30% abrupsio berat)**                            |
+| **DIC (20-30% abrupsio, 50% berat)**      | **Asfiksia berat / HIE (asidosis metabolic)**               |
+| **AKI (Acute Kidney Injury)**             | **Preterm (SC prematur)**                                   |
+| **Sheehan Syndrome (nekrosis hipofisis)** | **IUGR (jika abrupsio kronik/parsial)**                     |
+| **Histerektomi (kehilangan fertilitas)**  | **NEC, IVH, AKI, Sepsis (prematurity + asfiksia)**          |
+| **Mortalitas Maternal**                   | **Mortalitas Perinatal 10-30% (tergantung UK & keparahan)** |
 
 ## Prognosis & Kehamilan Berikutnya
 
@@ -174,13 +181,13 @@ Ny. Sari, 34 tahun, G3P2A0, usia kehamilan 36 minggu. Riwayat hipertensi kronik 
 
 ## Keterampilan Terkait
 
-- [[47-resusitasi-cairan-ibu]]
-- [[32-memperkirakan-kehilangan-darah]]
-- [[42-kompresi-bimanual]]
-- [[45-perdarahan-postpartum]]
-- [[70-operasi-caesar]]
-- [[46-resusitasi-neonatal]]
-- [[40-hipoksia-janin]]
+- Resusitasi Cairan Ibu
+- Memperkirakan Kehilangan Darah
+- Kompresi Bimanual
+- Perdarahan Postpartum
+- Operasi Caesar
+- Resusitasi Neonatal
+- Hipoksia Janin
 
 ## Referensi
 

@@ -1,24 +1,23 @@
 ---
 title: Korioamnionitis
 tags:
-- penyakit
-- obstetri
-- skdi-3b
+  - penyakit
+  - obstetri
+  - skdi-3b
 level_kompetensi: 3B
 kategori: obstetri
 nomor_modul: 29
 aliases:
-- Intra-amniotic Infection
-- Chorioamnionitis
-- Infeksi Intrauterin
-- IAM
-- infeksi ketuban
-- korioamnionitis
-- infeksi intrauterin saat hamil
+  - Intra-amniotic Infection
+  - Chorioamnionitis
+  - Infeksi Intrauterin
+  - IAM
+  - infeksi ketuban
+  - korioamnionitis
+  - infeksi intrauterin saat hamil
 cssclasses:
-- buku-saku
+  - buku-saku
 ---
-
 
 > [!info] Level Kompetensi SKDI: 3B
 > Dokter umum melakukan tatalaksana awal di bawah supervisi SpOG. Identifikasi dini dan antibiotik empiris sudah bisa dilakukan.
@@ -29,7 +28,7 @@ cssclasses:
 
 Ny. Ayu, 26 tahun, G1P0A0, usia kehamilan 36 minggu, datang ke IGD RSKH dengan keluhan demam 38,5°C sejak 6 jam yang lalu, disertai nyeri perut bawah dan cairan ketuban berbau. Kehamilannya tidak diawasi secara rutin karena baru pindah domisili. Suaminya bercerita bahwa ketuban sudah rembes sejak kemarin tapi mereka pikir "biasa saja".
 
-[[26-pemeriksaan-obstetri]] menunjukkan serviks terbuka 4 cm, cairan ketuban berbau busuk, dan denyut jantung janin 170 bpm (takikardia). Suhu ibu 38,7°C. Diagnosis: korioamnionitis klinis.
+Pemeriksaan Obstetri menunjukkan serviks terbuka 4 cm, cairan ketuban berbau busuk, dan denyut jantung janin 170 bpm (takikardia). Suhu ibu 38,7°C. Diagnosis: korioamnionitis klinis.
 
 ## Definisi
 
@@ -44,10 +43,12 @@ Korioamnionitis adalah infeksi jaringan membran ketuban (amnion dan korion) yang
 ## Etiologi dan Faktor Risiko
 
 **Penyebab utama:**
+
 - Polimikroba — aerob dan anaerob bersamaan
 - Bakteri yang paling sering: Streptococcus agalactiae (GBS), E. coli, Klebsiella, Bacteroides
 
 **Faktor risiko:**
+
 - Ketuban pecah dini (KPD) > 18 jam sebelum persalinan
 - Persalinan lama (partus lama)
 - Penetrasi jari vagina berulang
@@ -62,13 +63,16 @@ Infeksi biasanya naik dari vagina → serviks → membran ketuban → cairan amn
 ## Diagnosis
 
 ### Kriteria Klinis (Tanpa Laboratory)
+
 Tiga dari empat kriteria berikut:
+
 1. Suhu ≥ 38,0°C
 2. Nyeri tekan uterus
 3. Cairan ketuban berbau busuk
 4. Leukosit > 15.000/mm³
 
 ### Laboratory
+
 - Leukosit ≥ 15.000/mm³
 - CRP > 10 mg/L
 - Prolonged fetal heart rate > 160 bpm
@@ -78,16 +82,17 @@ Tiga dari empat kriteria berikut:
 
 ## Diagnosis Banding
 
-| Kondisi | Pembeda |
-|---------|---------|
+| Kondisi          | Pembeda                                             |
+| ---------------- | --------------------------------------------------- |
 | Demam karena ISK | Tidak ada nyeri tekan uterus, cairan ketuban jernih |
-| Pneumonia | Batuk, sesak napas, rontgen thorax abnormal |
-| Malaria | Riwayat endemik, demam menggigil periodik |
-| Apendisitis | Nyeri kanan bawah, McBurney positif |
+| Pneumonia        | Batuk, sesak napas, rontgen thorax abnormal         |
+| Malaria          | Riwayat endemik, demam menggigil periodik           |
+| Apendisitis      | Nyeri kanan bawah, McBurney positif                 |
 
 ## Tatalaksana
 
 ### Level 3B (Tatalaksana Awal)
+
 1. **Antibiotik empiris segera:**
    - Ampisilin 2 g IV setiap 6 jam + Gentamisin 5 mg/kgBB IV setiap 24 jam + Metronidazol 500 mg IV setiap 8 jam
 2. **Rehidrasi cairan IV** — RL atau NaCl 0,9%
@@ -96,6 +101,7 @@ Tiga dari empat kriteria berikut:
 5. **Posisi miring kiri** — untuk mengurangi kompresi vena kava
 
 ### Indikasi Rujuk
+
 - Suhu tidak turun dalam 2 jam setelah antibiotik
 - Jamur dan cairan ketuban keruh tidak membaik
 - Denyut janin terus memburuk
@@ -107,11 +113,13 @@ Tiga dari empat kriteria berikut:
 ## Komplikasi
 
 **Pada ibu:**
+
 - Endometritis pasca persalinan
 - Abses pelvis
 - Sepsis dan syok septik
 
 **Pada janin/neonatus:**
+
 - Sepsis neonatal
 - Pneumonia neonatal
 - Meningitis
@@ -144,10 +152,10 @@ Ny. Ayu mendapat antibiotik empiris (ampisilin + gentamisin + metronidazol) sege
 
 ## Keterampilan Terkait
 
-- [[26-pemeriksaan-obstetri]]
-- [[47-resusitasi-cairan-ibu]]
-- [[45-pemasangan-infus]]
-- [[44-injeksi-im-iv]]
+- Pemeriksaan Obstetri
+- Resusitasi Cairan Ibu
+- Pemasangan Infus
+- Injeksi Im Iv
 
 ## Referensi
 

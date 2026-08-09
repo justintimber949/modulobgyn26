@@ -69,10 +69,10 @@ cssclasses:
 
 ## Keterampilan Terkait
 
-- [[29-anestesi-lokal-perineum|Anestesi Lokal Perineum]]
-- [[30-episiotomi|Episiotomi]]
-- [[33-menjahit-laserasi-12|Menjahit Laserasi Derajat 1-2]]
-- [[56-ekstraksi-vakum-rendah|Ekstraksi Vakum Rendah]]
+- Anestesi Lokal Perineum
+- Episiotomi
+- Menjahit Laserasi Derajat 1-2
+- Ekstraksi Vakum Rendah
 
 ## Referensi
 

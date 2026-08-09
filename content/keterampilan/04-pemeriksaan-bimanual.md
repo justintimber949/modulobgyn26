@@ -1,26 +1,24 @@
 ---
 title: Pemeriksaan Bimanual
 tags:
-- keterampilan
-- ginekologi-dasar
-- skdi-4a
+  - keterampilan
+  - ginekologi-dasar
+  - skdi-4a
 level_kompetensi: 4A
 kategori: ginekologi-dasar
 nomor_modul: 4
 aliases:
-- Palpasi Vagina
-- Pemeriksaan Dalam
-- VT
-- palpasi dalam
-- cek rahim
-- pemeriksaan bimanual
-- pemeriksaan dalam
-- vt
+  - Palpasi Vagina
+  - Pemeriksaan Dalam
+  - VT
+  - palpasi dalam
+  - cek rahim
+  - pemeriksaan bimanual
+  - pemeriksaan dalam
+  - vt
 cssclasses:
-- buku-saku
+  - buku-saku
 ---
-
-
 
 # Pemeriksaan Bimanual
 
@@ -45,16 +43,16 @@ Pemeriksaan ini **tidak bisa digantikan** USG semata — tangan dokter merasakan
 
 ## Indikasi
 
-| Indikasi | Keterangan |
-|----------|-----------|
+| Indikasi                        | Keterangan                                          |
+| ------------------------------- | --------------------------------------------------- |
 | Nyeri perut bawah / pelvic pain | PID, endometritis, kehamilan ektopik, kista ovarium |
-| Perdarahan pervaginam abnormal | Menometroragia, perdarahan pasca-koitus |
-| Gangguan haid | Amenorea, dismenorea, siklus ireguler |
-| Keputihan patologis | Servisitis, vaginitis, PID |
-| Kecurigaan massa pelvis | Kista ovarium, mioma uteri, tumor |
-| Kontrasepsi IUD | Evaluasi posisi dan benang IUD |
-| Pemeriksaan kehamilan | Taksiran usia kehamilan, letak janin |
-| Skrining Kanker Serviks | Bersamaan dengan Pap smear / IVA |
+| Perdarahan pervaginam abnormal  | Menometroragia, perdarahan pasca-koitus             |
+| Gangguan haid                   | Amenorea, dismenorea, siklus ireguler               |
+| Keputihan patologis             | Servisitis, vaginitis, PID                          |
+| Kecurigaan massa pelvis         | Kista ovarium, mioma uteri, tumor                   |
+| Kontrasepsi IUD                 | Evaluasi posisi dan benang IUD                      |
+| Pemeriksaan kehamilan           | Taksiran usia kehamilan, letak janin                |
+| Skrining Kanker Serviks         | Bersamaan dengan Pap smear / IVA                    |
 
 ---
 
@@ -70,6 +68,7 @@ Kontraindikasi **relatif** — pertimbangkan manfaat vs risiko:
 - Post-operasi vagina/rekonstruksi genital dalam 6 minggu
 
 > [!warning] Tanda Bahaya — Hentikan/Pertimbangkan Ulang
+>
 > - Nyeri hebat saat jari masuk → curiga vaginismus, infeksi berat, atau abses
 > - Perdarahan banyak setelah palpasi → curiga keganasan serviks (contact bleeding)
 > - Nyeri goyang serviks (+) → curia PID / kehamilan ektopik → segera rujuk
@@ -81,15 +80,15 @@ Kontraindikasi **relatif** — pertimbangkan manfaat vs risiko:
 
 ### Persiapan Alat
 
-| Alat | Kegunaan |
-|------|----------|
-| Handscoon steril (2 pasang) | Perlindungan infeksi |
-| Pelumas / jelly (water-based) | Memudahkan insersi |
-| Spekulum vagina (Cusco) | Inspeksi awal sebelum bimanual |
-| Lampu sorot / senter | Penerangan lapangan |
-| Underpad / perlak | Kebersihan tempat tidur |
-| Kertas tisu | Membersihkan sisa jelly |
-| Baskom desinfektan | Tempat sampah handscoon |
+| Alat                          | Kegunaan                       |
+| ----------------------------- | ------------------------------ |
+| Handscoon steril (2 pasang)   | Perlindungan infeksi           |
+| Pelumas / jelly (water-based) | Memudahkan insersi             |
+| Spekulum vagina (Cusco)       | Inspeksi awal sebelum bimanual |
+| Lampu sorot / senter          | Penerangan lapangan            |
+| Underpad / perlak             | Kebersihan tempat tidur        |
+| Kertas tisu                   | Membersihkan sisa jelly        |
+| Baskom desinfektan            | Tempat sampah handscoon        |
 
 ### Persiapan Pasien
 
@@ -124,13 +123,13 @@ Sebelum memasukkan jari, lakukan inspeksi genitalia eksterna dan pemasangan spek
 
 ### B. Palpasi Vagina — Memasukkan Jari
 
-| Langkah | Detail |
-|---------|--------|
-| **1. Posisi jari** | Jari telunjuk dan jari tengah tangan dominan diluruskan, ibu jari ditekuk ke arah palmar, jari manis dan kelingking ditekuk ke telapak. Bentuk seperti "paruh" (coning). |
-| **2. Labia dipisah** | Dengan tangan kiri (non-dominan), buka labia mayora menggunakan ibu jari dan jari telunjuk — tarik ke samping dan sedikit ke atas. |
-| **3. Olesi jelly** | Oleskan jelly secukupnya pada 2 jari yang akan masuk. Jangan kebanyakan — mengurangi sensasi palpasi. |
-| **4. Insersi** | Masukkan kedua jari ke introitus secara **miring** (30-45°) dengan tekanan **ke arah posterior** (ke arah rektum), bukan langsung ke atas. Ini menghindari tekanan pada uretra dan meatus urethrae yang sangat sensitif. |
-| **5. Evaluasi vagina** | Setelah jari masuk, raba dinding vagina anterior, posterior, dan lateral. Nilai: elastisitas, suhu, nyeri, massa atau kista (kista Gartner). |
+| Langkah                | Detail                                                                                                                                                                                                                   |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **1. Posisi jari**     | Jari telunjuk dan jari tengah tangan dominan diluruskan, ibu jari ditekuk ke arah palmar, jari manis dan kelingking ditekuk ke telapak. Bentuk seperti "paruh" (coning).                                                 |
+| **2. Labia dipisah**   | Dengan tangan kiri (non-dominan), buka labia mayora menggunakan ibu jari dan jari telunjuk — tarik ke samping dan sedikit ke atas.                                                                                       |
+| **3. Olesi jelly**     | Oleskan jelly secukupnya pada 2 jari yang akan masuk. Jangan kebanyakan — mengurangi sensasi palpasi.                                                                                                                    |
+| **4. Insersi**         | Masukkan kedua jari ke introitus secara **miring** (30-45°) dengan tekanan **ke arah posterior** (ke arah rektum), bukan langsung ke atas. Ini menghindari tekanan pada uretra dan meatus urethrae yang sangat sensitif. |
+| **5. Evaluasi vagina** | Setelah jari masuk, raba dinding vagina anterior, posterior, dan lateral. Nilai: elastisitas, suhu, nyeri, massa atau kista (kista Gartner).                                                                             |
 
 > [!tip] Kesalahan Umum
 > Jangan memasukkan jari langsung ke atas (ke arah simfisis) — akan menekan uretra dan menimbulkan nyeri hebat. Selalu arahkan miring ke posterior, searah dengan sumbu vagina (menuju sakrum).
@@ -161,16 +160,17 @@ Ini adalah bagian **terpenting** pemeriksaan bimanual — menggunakan **tangan l
    - Tangan luar menekan dinding perut ke arah **posterior dan bawah** (menjepit uterus di antara kedua tangan).
 4. **Nilai karakteristik uterus**:
 
-| Parameter | Normal | Abnormal |
-|-----------|--------|----------|
-| **Ukuran** | Sebesar telur ayam (7-8 cm), berat ~60-80 g | Lebih besar: mioma, adenomiosis, kehamilan, tumor |
-| **Bentuk** | Pir (pear-shaped) | Ireuler → mioma; bulat → kehamilan; homogen besar → adenomiosis |
-| **Konsistensi** | Padat kenyal (firm) | Lunak → kehamilan; keras/padat → mioma; kistik → mungkin kista |
-| **Posisi** | Anteversi-fleksi (60-80% wanita) | Retroversi (20-30% — bisa fisiologis jika mobil); fiksasi → patologis |
-| **Mobilitas** | Mudah digerakkan | Fiksasi → infiltrasi tumor/adhesi (endometriosis, PID, keganasan) |
-| **Nyeri tekan** | Tidak nyeri | Nyeri → inflamasi: endometritis, PID |
+| Parameter       | Normal                                      | Abnormal                                                              |
+| --------------- | ------------------------------------------- | --------------------------------------------------------------------- |
+| **Ukuran**      | Sebesar telur ayam (7-8 cm), berat ~60-80 g | Lebih besar: mioma, adenomiosis, kehamilan, tumor                     |
+| **Bentuk**      | Pir (pear-shaped)                           | Ireuler → mioma; bulat → kehamilan; homogen besar → adenomiosis       |
+| **Konsistensi** | Padat kenyal (firm)                         | Lunak → kehamilan; keras/padat → mioma; kistik → mungkin kista        |
+| **Posisi**      | Anteversi-fleksi (60-80% wanita)            | Retroversi (20-30% — bisa fisiologis jika mobil); fiksasi → patologis |
+| **Mobilitas**   | Mudah digerakkan                            | Fiksasi → infiltrasi tumor/adhesi (endometriosis, PID, keganasan)     |
+| **Nyeri tekan** | Tidak nyeri                                 | Nyeri → inflamasi: endometritis, PID                                  |
 
 > [!tip] Kesalahan Umum
+>
 > - **Posisi salah**: Banyak junior mempalpasi korpus uteri hanya dari dalam (vagina) tanpa menekan perut. Hasilnya: uterus tidak teraba dan disimpulkan "teraba normal" padahal palpasi tidak adekuat.
 > - **Tekanan terlalu kuat**: Tangan luar menekan perut terlalu keras → pasien sakit dan defens muskuler → palpasi gagal.
 > - **Kandung kemih penuh**: Menyebabkan uterus terdorong ke posterior dan sulit dipalpasi. Selalu pastikan BAK dulu.
@@ -206,19 +206,20 @@ Palpasi adneksa dilakukan secara **bergantian** kiri dan kanan. Ovarium normal u
 
 #### Temuan Palpasi Adneksa
 
-| Temuan | Interpretasi |
-|--------|-------------|
-| Tidak teraba (normal) | Ovarium normal pada wanita pasca-menarke — umumnya tidak teraba. |
-| Teraba kecil, kenyal, nyeri | Ovarium saat ovulasi (mid-cycle) — fisiologis, nyeri samar. |
-| Massa kistik, < 5 cm, mobil | Kista ovarium fungsional (folikel/korpus luteum) — observasi. |
-| Massa kistik, > 5 cm | Kista ovarium patologis atau tumor ovarium jinak → USG. |
-| Massa padat, ireguler, fiksasi | Keganasan ovarium → curiga Ca ovarium → rujuk onkologi. |
+| Temuan                                 | Interpretasi                                                     |
+| -------------------------------------- | ---------------------------------------------------------------- |
+| Tidak teraba (normal)                  | Ovarium normal pada wanita pasca-menarke — umumnya tidak teraba. |
+| Teraba kecil, kenyal, nyeri            | Ovarium saat ovulasi (mid-cycle) — fisiologis, nyeri samar.      |
+| Massa kistik, < 5 cm, mobil            | Kista ovarium fungsional (folikel/korpus luteum) — observasi.    |
+| Massa kistik, > 5 cm                   | Kista ovarium patologis atau tumor ovarium jinak → USG.          |
+| Massa padat, ireguler, fiksasi         | Keganasan ovarium → curiga Ca ovarium → rujuk onkologi.          |
 | Massa teraba di forniks posterior saja | Abses kavum Douglasi (Douglas pouch abscess) atau endometriosis. |
-| Nyeri saat ovarium dipalpasi | Ooforitis / inflamasi ovarium — sering menyertai PID. |
-| Adneksa menebal, nyeri | Salpingitis → PID. |
-| Nodul di ligamentum sakrouterina | Endometriosis (nodul "batu-batu kecil"). |
+| Nyeri saat ovarium dipalpasi           | Ooforitis / inflamasi ovarium — sering menyertai PID.            |
+| Adneksa menebal, nyeri                 | Salpingitis → PID.                                               |
+| Nodul di ligamentum sakrouterina       | Endometriosis (nodul "batu-batu kecil").                         |
 
 > [!warning] Tanda Bahaya — Temuan yang Harus Segera Dirujuk
+>
 > 1. Massa adneksa **padat, ireguler, dan fiksasi** — curiga karsinoma ovarium
 > 2. Massa adneksa **nyeri hebat disertai tanda syok hipovolemik** — curiga ruptur kista ovarium atau kehamilan ektopik terganggu
 > 3. Massa adneksa **> 10 cm** — risiko torsi ovarium atau keganasan
@@ -239,16 +240,16 @@ Setelah palpasi adneksa, dengan jari masih di dalam:
 
 ## Interpretasi Temuan & Diagnosis Banding
 
-| Temuan Bimanual | Diagnosis Banding |
-|----------------|-------------------|
-| Serviks nyeri goyang (+) | PID, kehamilan ektopik terganggu, ooforitis, salpingitis |
-| Pembesaran uterus difus | Mioma uteri, adenomiosis, kehamilan (sesuai usia) |
-| Pembesaran uterus + nyeri | Endometritis, abortus infeksius, kehamilan dengan infeksi |
-| Uterus fiksasi / tidak mobil | Endometriosis stadium lanjut, adhesi, PID kronik, keganasan |
-| Massa unilateral kistik | Kista ovarium fungsional, kista endometrioma (cokelat), kista dermoid |
-| Massa bilateral padat | Metastasis keganasan (Krukenberg tumor), endometriosis bilateral |
-| Nodul Douglasi | Endometriosis, keganasan (tumbuh ke Douglasi) |
-| Vagina: kista dinding lateral | Kista Gartner (residu duktus Wolffian) |
+| Temuan Bimanual               | Diagnosis Banding                                                     |
+| ----------------------------- | --------------------------------------------------------------------- |
+| Serviks nyeri goyang (+)      | PID, kehamilan ektopik terganggu, ooforitis, salpingitis              |
+| Pembesaran uterus difus       | Mioma uteri, adenomiosis, kehamilan (sesuai usia)                     |
+| Pembesaran uterus + nyeri     | Endometritis, abortus infeksius, kehamilan dengan infeksi             |
+| Uterus fiksasi / tidak mobil  | Endometriosis stadium lanjut, adhesi, PID kronik, keganasan           |
+| Massa unilateral kistik       | Kista ovarium fungsional, kista endometrioma (cokelat), kista dermoid |
+| Massa bilateral padat         | Metastasis keganasan (Krukenberg tumor), endometriosis bilateral      |
+| Nodul Douglasi                | Endometriosis, keganasan (tumbuh ke Douglasi)                         |
+| Vagina: kista dinding lateral | Kista Gartner (residu duktus Wolffian)                                |
 
 ---
 
@@ -318,18 +319,18 @@ Atau singkat:
 
 > [!tip] 10 Kesalahan Umum
 
-| No | Kesalahan | Akibat | Perbaikan |
-|----|-----------|--------|-----------|
-| 1 | Tidak cuci tangan / handscoon lupa | Infeksi nosokomial | Steril handscoon wajib |
-| 2 | Lupa minta BAK | Palpasi gagal — kandung kemih penuh | Verbal: "Tolong BAK dulu, Bu" |
-| 3 | Jari tidak diberi jelly | Nyeri, trauma vagina | Olesi jelly secukupnya |
-| 4 | Insersi langsung ke anterior | Nyeri uretra → pasien menegang | Arahkan ke posterior (sakrum) |
-| 5 | Tangan luar tidak aktif | Palpasi korpus uteri tidak adekuat | Kerja sama 2 tangan |
-| 6 | Tekanan perut terlalu kuat | Defens muskuler | Tekanan ringan, bertahap |
-| 7 | Pemeriksaan terburu-buru | Banyak temuan terlewat | Sistematis, jangan buru-buru |
-| 8 | Tidak periksa kedua adneksa | Massa unilateral terlewat | Kiri dan kanan wajib diperiksa |
-| 9 | Tidak nilai nyeri goyang serviks | PID terlewat | Goyangkan serviks ke lateral |
-| 10 | Dokumentasi tidak lengkap | Medikolegal rentan | Tulis semua temuan (+/-)
+| No  | Kesalahan                          | Akibat                              | Perbaikan                      |
+| --- | ---------------------------------- | ----------------------------------- | ------------------------------ |
+| 1   | Tidak cuci tangan / handscoon lupa | Infeksi nosokomial                  | Steril handscoon wajib         |
+| 2   | Lupa minta BAK                     | Palpasi gagal — kandung kemih penuh | Verbal: "Tolong BAK dulu, Bu"  |
+| 3   | Jari tidak diberi jelly            | Nyeri, trauma vagina                | Olesi jelly secukupnya         |
+| 4   | Insersi langsung ke anterior       | Nyeri uretra → pasien menegang      | Arahkan ke posterior (sakrum)  |
+| 5   | Tangan luar tidak aktif            | Palpasi korpus uteri tidak adekuat  | Kerja sama 2 tangan            |
+| 6   | Tekanan perut terlalu kuat         | Defens muskuler                     | Tekanan ringan, bertahap       |
+| 7   | Pemeriksaan terburu-buru           | Banyak temuan terlewat              | Sistematis, jangan buru-buru   |
+| 8   | Tidak periksa kedua adneksa        | Massa unilateral terlewat           | Kiri dan kanan wajib diperiksa |
+| 9   | Tidak nilai nyeri goyang serviks   | PID terlewat                        | Goyangkan serviks ke lateral   |
+| 10  | Dokumentasi tidak lengkap          | Medikolegal rentan                  | Tulis semua temuan (+/-)       |
 
 ---
 
@@ -379,11 +380,11 @@ Pemeriksaan bimanual adalah tindakan **invasif**. Catat dalam rekam medis:
 
 ## Referensi
 
-1. Berek, J.S. (2020). *Berek & Novak's Gynecology*. 16th Ed. Wolters Kluwer.
-2. Prawirohardjo, S. (2019). *Ilmu Kandungan*. Ed. 4. Jakarta: Bina Pustaka.
-3. Prawirohardjo, S. (2020). *Ilmu Kebidanan*. Ed. 5. Jakarta: Bina Pustaka.
-4. Hoffman, B.L., et al. (2020). *Williams Gynecology*. 4th Ed. McGraw-Hill.
+1. Berek, J.S. (2020). _Berek & Novak's Gynecology_. 16th Ed. Wolters Kluwer.
+2. Prawirohardjo, S. (2019). _Ilmu Kandungan_. Ed. 4. Jakarta: Bina Pustaka.
+3. Prawirohardjo, S. (2020). _Ilmu Kebidanan_. Ed. 5. Jakarta: Bina Pustaka.
+4. Hoffman, B.L., et al. (2020). _Williams Gynecology_. 4th Ed. McGraw-Hill.
 5. SKDI (Standar Kompetensi Dokter Indonesia). 2021. Kemenkes RI.
-6. Cunningham, F.G., et al. (2022). *Williams Obstetrics*. 26th Ed. McGraw-Hill.
-7. DeCherney, A.H., et al. (2019). *Current Diagnosis & Treatment ObGyn*. 12th Ed. McGraw-Hill.
-8. Kemenkes RI. (2020). *Pedoman Diagnosis dan Tatalaksana Infeksi Saluran Reproduksi*.
+6. Cunningham, F.G., et al. (2022). _Williams Obstetrics_. 26th Ed. McGraw-Hill.
+7. DeCherney, A.H., et al. (2019). _Current Diagnosis & Treatment ObGyn_. 12th Ed. McGraw-Hill.
+8. Kemenkes RI. (2020). _Pedoman Diagnosis dan Tatalaksana Infeksi Saluran Reproduksi_.

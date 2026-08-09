@@ -32,44 +32,45 @@ Ny. Wati, 35 tahun, G4P3A0 (SC 3x), usia kehamilan 39 minggu. Datang dengan kont
 
 **Ruptur Uteri** = **pecahnya dinding uterus (miometrium + serosa) sepenuhnya** → komunikasi antara rongga uterus & rongga perut / broad ligament.
 
-| Tipe | Definisi | Klinis |
-|------|----------|--------|
-| **Komplit (Ruptur Benar)** | **Semua lapisan pecah (endometrium, miometrium, serosa)** → isi uterus (janin, plasenta, cairan amnion) keluar ke rongga perut | **Darurat Obstetri #1** — Shock, IUFD, Peritonitis, DIC |
-| **Inkomplit (Dehisensia / Window)** | **Miometrium pecah, SEROSA UTUH** → janin/plasenta TIDAK keluar ke perut, tapi bisa ke broad ligament | Lebih ringan, tapi risiko lanjut jadi komplit |
-| **Silent / Asimtomatik** | Ditemukan insiden pasca SC (defek bekas sayatan) | Tidak ada gejala akut |
+| Tipe                                | Definisi                                                                                                                       | Klinis                                                  |
+| ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------- |
+| **Komplit (Ruptur Benar)**          | **Semua lapisan pecah (endometrium, miometrium, serosa)** → isi uterus (janin, plasenta, cairan amnion) keluar ke rongga perut | **Darurat Obstetri #1** — Shock, IUFD, Peritonitis, DIC |
+| **Inkomplit (Dehisensia / Window)** | **Miometrium pecah, SEROSA UTUH** → janin/plasenta TIDAK keluar ke perut, tapi bisa ke broad ligament                          | Lebih ringan, tapi risiko lanjut jadi komplit           |
+| **Silent / Asimtomatik**            | Ditemukan insiden pasca SC (defek bekas sayatan)                                                                               | Tidak ada gejala akut                                   |
 
 > **Uterine Scar Dehisensia** = bekas sayatan SC terbuka tapi serosa utuh — **bukan ruptur**, tapi risiko ruptur kehamilan berikutnya.
 
 ## Epidemiologi & Faktor Risiko
 
-| Faktor Risiko | Risiko Ruptur (VBAC / TOLAC) | Risiko Ruptur (SC Elektif) |
-|---------------|------------------------------|----------------------------|
-| **SC Sebelumnya (1x)** | **0,5-0,9%** (VBAC) | 0,1-0,2% |
-| **SC ≥ 2x** | 1,5-3,5% | 0,5-1% |
-| **SC Klasik (Vertikal Korpus)** | **4-9%** (KONTRAINDIKASI VBAC) | 1-2% |
-| **T-Shape / J-Shape / Low Vertical Incision** | 2-5% | 0,5-1% |
-| **Interpregnancy Interval < 18 bln** | 2-3× | 1,5× |
-| **Induksi / Augmentasi (Oksitosin, Misoprostol)** | **2-3×** (terutama multipara, serviks tidak matang) | - |
-| **Makrosomia / Polihidramnion** | 1,5-2× | - |
-| **KPD Lama / Obstructed Labor** | Mekanis | - |
-| **Grandemultipara (≥ 5)** | 1,5-2× | - |
-| **Operasi Uterus Lain** (Miomektomi masuk rongga, Metroplastik, Rudimentary horn resection) | 1-2% (TOLAC butuh evaluasi individual) | - |
+| Faktor Risiko                                                                               | Risiko Ruptur (VBAC / TOLAC)                        | Risiko Ruptur (SC Elektif) |
+| ------------------------------------------------------------------------------------------- | --------------------------------------------------- | -------------------------- |
+| **SC Sebelumnya (1x)**                                                                      | **0,5-0,9%** (VBAC)                                 | 0,1-0,2%                   |
+| **SC ≥ 2x**                                                                                 | 1,5-3,5%                                            | 0,5-1%                     |
+| **SC Klasik (Vertikal Korpus)**                                                             | **4-9%** (KONTRAINDIKASI VBAC)                      | 1-2%                       |
+| **T-Shape / J-Shape / Low Vertical Incision**                                               | 2-5%                                                | 0,5-1%                     |
+| **Interpregnancy Interval < 18 bln**                                                        | 2-3×                                                | 1,5×                       |
+| **Induksi / Augmentasi (Oksitosin, Misoprostol)**                                           | **2-3×** (terutama multipara, serviks tidak matang) | -                          |
+| **Makrosomia / Polihidramnion**                                                             | 1,5-2×                                              | -                          |
+| **KPD Lama / Obstructed Labor**                                                             | Mekanis                                             | -                          |
+| **Grandemultipara (≥ 5)**                                                                   | 1,5-2×                                              | -                          |
+| **Operasi Uterus Lain** (Miomektomi masuk rongga, Metroplastik, Rudimentary horn resection) | 1-2% (TOLAC butuh evaluasi individual)              | -                          |
 
 > **VBAC (Vaginal Birth After Cesarean) / TOLAC (Trial of Labor After Cesarean):**
+>
 > - **Kandidat Baik:** 1 SC low-transverse, alasan SC non-rekuren (bokong, fetal distress pertama), interpregnancy > 18 bln, serviks matang, spontan labor, 1 janin cephalic, EFW < 4000g, pelves adekuat
 > - **Sukses Rate VBAC:** 60-80% (kandidat baik)
 > - **Ruptur Rate VBAC:** 0,5-0,9% (kandidat baik) → **naik drastis jika induksi/augmentasi/SC klasik/≥ 2 SC**
 
 ## Gejala & Tanda (Klasik Tetrad)
 
-| Gejala/Tanda | Deskripsi | Spesifikitas |
-|--------------|-----------|--------------|
-| **1. Nyeri Perut Tiba-tiba Hebat → Lalu Hilang** | Nyeri "tearing" saat kontraksi puncak, lalu **nyeri hilang tiba-tiba** (janin keluar ke perut, tekanan uterus turun) | **Sangat Khusus** (pathognomonic) |
-| **2. Perdarahan Vagina** | Bisa banyak (jika plasenta terbawa) / minimal (jika plasenta melekat) / tidak ada (concealed) | Tidak spesifik |
-| **3. Tanda Shock Hipovolemik** | **Hipotensi, Takikardi, Oliguria, Dingin Keringat, Altered Mental** — **tidak sebanding perdarahan vagina** (concealed hemorrhage) | **Khas: Shock > Perdarahan Terlihat** |
-| **4. Tanda Janin** | **DJJ Hilang / Bradikardia Berat / Tidak Teraba Janin di Abdomen / Janin Teraba di Rongga Perut (Superfisial, Mudah Bergerak)** | **Sangat Khusus** |
-| **5. Kontraksi Berhenti / Kurang Efektif** | Uterus tidak kontraksi baik (defek miometrium) | Pendukung |
-| **6. Perut Keras / Guarding / Rebounding** | Peritonitis (cairan amnion + darah iritasi peritoneum) | Jika sudah peritonitis |
+| Gejala/Tanda                                     | Deskripsi                                                                                                                          | Spesifikitas                          |
+| ------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- |
+| **1. Nyeri Perut Tiba-tiba Hebat → Lalu Hilang** | Nyeri "tearing" saat kontraksi puncak, lalu **nyeri hilang tiba-tiba** (janin keluar ke perut, tekanan uterus turun)               | **Sangat Khusus** (pathognomonic)     |
+| **2. Perdarahan Vagina**                         | Bisa banyak (jika plasenta terbawa) / minimal (jika plasenta melekat) / tidak ada (concealed)                                      | Tidak spesifik                        |
+| **3. Tanda Shock Hipovolemik**                   | **Hipotensi, Takikardi, Oliguria, Dingin Keringat, Altered Mental** — **tidak sebanding perdarahan vagina** (concealed hemorrhage) | **Khas: Shock > Perdarahan Terlihat** |
+| **4. Tanda Janin**                               | **DJJ Hilang / Bradikardia Berat / Tidak Teraba Janin di Abdomen / Janin Teraba di Rongga Perut (Superfisial, Mudah Bergerak)**    | **Sangat Khusus**                     |
+| **5. Kontraksi Berhenti / Kurang Efektif**       | Uterus tidak kontraksi baik (defek miometrium)                                                                                     | Pendukung                             |
+| **6. Perut Keras / Guarding / Rebounding**       | Peritonitis (cairan amnion + darah iritasi peritoneum)                                                                             | Jika sudah peritonitis                |
 
 > [!warning] Red Flag
 > **SC Sebelumnya + Kontraksi + Nyeri Perut Hebat Tiba-tiba Hilang + Shock + DJJ Hilang = RUPTUR UTERI HINGGA TERBUKTI SEBALIKNYA** → **SC DARURAT SEKALI (General Anestesi)**.
@@ -78,34 +79,39 @@ Ny. Wati, 35 tahun, G4P3A0 (SC 3x), usia kehamilan 39 minggu. Datang dengan kont
 ## Diagnosis
 
 ### Klinis (Cukup untuk SC Darurat)
+
 - Riwayat SC / Operasi Uterus + Gejala di atas
 - **USG HANYA JIKA STABIL & WAKTU PERMISI** (biasanya tidak sempat — SC langsung)
 
 ### USG (Jika Sempat / Stabil)
+
 - **Janin di luar rongga rahim (extrauterin)**
 - **Cairan bebas masif rongga perut (hemoperitoneum)**
 - **Defek dinding uterus terlihat (disruption miometrium + serosa)**
 - **Plasenta parsial/penuh di luar uterus**
 
 ### Lab (Pasca SC / Stabilisasi)
+
 - **CBC, Koagulasi (DIC Screen), Fungsi Hati/Ginjal, Gas Darah, Crossmatch 6-8 unit PRC**
 
 ## Tata Laksana (SC DARURAT — General Anestesi Preferred)
 
 ### 1. Stabilisasi Pra-Operatif (Bersamaan Persiapan OR)
-| Tindakan | Target |
-|----------|--------|
-| **2 IV Line 14-16G + Central Line jika Shock Berat** | Akses cepat |
-| **Kristaloid (RL/NS) 2-3 L Cepat (Bolus 1-2 L/15 menit)** | MAP > 65 |
-| **Darah (PRC) O Neg / Type-Specific SEGERA** | Hb > 8-9, MAP > 65 |
-| **Transfusi Rasio 1:1:1 (PRC:FFP:Trombosit) jika DIC / Masif** | Koreksi koagulopati |
-| **Fibrinogen (Kriopresipitat 10 unit / Concentrate 2-4 g)** jika Fibrinogen < 150-200 | DIC |
-| **Traneksam Acid 1 g IV 10 menit (dalam 3 jam)** | Antifibrinolitik |
-| **Vasopresor (Norepinefrin)** jika Refrakter Cairan/Darah | MAP > 65 |
-| **O2 10-15 L/min, Intubasi (GA)** | Airway aman, asidosis koreksi |
-| **Kateter Foley, Arterial Line, CVP** | Monitoring ketat |
+
+| Tindakan                                                                              | Target                        |
+| ------------------------------------------------------------------------------------- | ----------------------------- |
+| **2 IV Line 14-16G + Central Line jika Shock Berat**                                  | Akses cepat                   |
+| **Kristaloid (RL/NS) 2-3 L Cepat (Bolus 1-2 L/15 menit)**                             | MAP > 65                      |
+| **Darah (PRC) O Neg / Type-Specific SEGERA**                                          | Hb > 8-9, MAP > 65            |
+| **Transfusi Rasio 1:1:1 (PRC:FFP:Trombosit) jika DIC / Masif**                        | Koreksi koagulopati           |
+| **Fibrinogen (Kriopresipitat 10 unit / Concentrate 2-4 g)** jika Fibrinogen < 150-200 | DIC                           |
+| **Traneksam Acid 1 g IV 10 menit (dalam 3 jam)**                                      | Antifibrinolitik              |
+| **Vasopresor (Norepinefrin)** jika Refrakter Cairan/Darah                             | MAP > 65                      |
+| **O2 10-15 L/min, Intubasi (GA)**                                                     | Airway aman, asidosis koreksi |
+| **Kateter Foley, Arterial Line, CVP**                                                 | Monitoring ketat              |
 
 ### 2. SC Darurat (General Anestesi — Cepat)
+
 1. **Insisi:** Pfannenstiel / Midline Vertikal (jika butuh eksposur luas / histerektomi direncanakan)
 2. **Ekstraksi Janin:** Cepat (< 5 menit dari insisi kulit) — janin sering di rongga perut / broad ligament
 3. **Evaluasi Rahim:**
@@ -118,6 +124,7 @@ Ny. Wati, 35 tahun, G4P3A0 (SC 3x), usia kehamilan 39 minggu. Datang dengan kont
 6. **Tutup Lapis Demi Lapis**
 
 ### 3. Pasca Operatif (ICU / HCU)
+
 - **Ventilasi Mekanik** (jika asidosis berat / shock lama)
 - **Transfusi Terarah** (Target Hb 9-10, Trombosit > 50k, Fibrinogen > 200, INR < 1,5)
 - **DIC Monitoring Serial** (PT, aPTT, Fibrinogen, Trombosit, D-dimer 6-12 jam)
@@ -128,13 +135,13 @@ Ny. Wati, 35 tahun, G4P3A0 (SC 3x), usia kehamilan 39 minggu. Datang dengan kont
 
 ## Komplikasi
 
-| Maternal | Fetal/Neonatal |
-|----------|----------------|
-| **Shock Hipovolemik Refrakter** | **IUFD (50-70% jika > 20 menit ke SC)** |
-| **DIC (30-50% ruptur komplit)** | **Asfiksia Berat / HIE** (jika selamat) |
-| **AKI / ATN** | **Sepsis Neonatal** (jika kontaminasi perut) |
-| **Sheehan Syndrome** (Nekrosis Hipofisis) | **Preterm** (jika < 37 mg) |
-| **Histerektomi** (Kehilangan Fertilitas) | **Trauma Ekstraksi** (fraktur, plexus brakius) |
+| Maternal                                                   | Fetal/Neonatal                                           |
+| ---------------------------------------------------------- | -------------------------------------------------------- |
+| **Shock Hipovolemik Refrakter**                            | **IUFD (50-70% jika > 20 menit ke SC)**                  |
+| **DIC (30-50% ruptur komplit)**                            | **Asfiksia Berat / HIE** (jika selamat)                  |
+| **AKI / ATN**                                              | **Sepsis Neonatal** (jika kontaminasi perut)             |
+| **Sheehan Syndrome** (Nekrosis Hipofisis)                  | **Preterm** (jika < 37 mg)                               |
+| **Histerektomi** (Kehilangan Fertilitas)                   | **Trauma Ekstraksi** (fraktur, plexus brakius)           |
 | **Mortalitas Maternal** (1-5% modern, 10-20% jika delayed) | **Mortalitas Neonatal** (tinggi jika preterm + asfiksia) |
 
 ## Prognosis & Kehamilan Berikutnya
@@ -156,12 +163,12 @@ Ny. Wati, 35 tahun, G4P3A0 (SC 3x), usia kehamilan 39 minggu. Datang dengan kont
 
 ## Keterampilan Terkait
 
-- [[70-operasi-caesar]]
-- [[47-resusitasi-cairan-ibu]]
-- [[32-memperkirakan-kehilangan-darah]]
-- [[42-kompresi-bimanual]]
-- [[45-perdarahan-postpartum]]
-- [[46-resusitasi-neonatal]]
+- Operasi Caesar
+- Resusitasi Cairan Ibu
+- Memperkirakan Kehilangan Darah
+- Kompresi Bimanual
+- Perdarahan Postpartum
+- Resusitasi Neonatal
 
 ## Referensi
 

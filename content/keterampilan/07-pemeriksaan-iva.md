@@ -1,26 +1,24 @@
 ---
 title: Pemeriksaan IVA
 tags:
-- keterampilan
-- ginekologi-dasar
-- skdi-4a
+  - keterampilan
+  - ginekologi-dasar
+  - skdi-4a
 level_kompetensi: 4A
 kategori: ginekologi-dasar
 nomor_modul: 7
 aliases:
-- Inspeksi Visual Asam Asetat
-- Tes IVA
-- IVA Test
-- Skrining Kanker Serviks IVA
-- skrining kanker serviks
-- cek asam asetat
-- tes iva
-- iva test
+  - Inspeksi Visual Asam Asetat
+  - Tes IVA
+  - IVA Test
+  - Skrining Kanker Serviks IVA
+  - skrining kanker serviks
+  - cek asam asetat
+  - tes iva
+  - iva test
 cssclasses:
-- buku-saku
+  - buku-saku
 ---
-
-
 
 # Pemeriksaan IVA
 
@@ -35,19 +33,19 @@ Seorang perempuan 38 tahun, ibu dua anak, datang ke puskesmas atas ajakan kader 
 
 Kanker serviks adalah **kanker penyebab kematian tertinggi nomor 2 pada perempuan Indonesia** setelah kanker payudara, dengan lebih dari 36.000 kasus baru per tahun (Globocan 2022). Setiap hari, hampir 20 perempuan Indonesia meninggal karena kanker serviks — dan hampir semuanya sebenarnya **bisa dicegah**.
 
-IVA adalah jembatan antara tidak ada apa-apa dan kanker invasif. Lesi pra-kanker (displasia) yang terdeteksi lewat IVA bisa ditatalaksana segera dengan metode ablasi (krioterapi atau termokoagulasi) dalam kunjungan yang sama — *single-visit approach*. Tanpa IVA, lesi itu diam-diam berkembang menjadi kanker invasif dalam 5–10 tahun.
+IVA adalah jembatan antara tidak ada apa-apa dan kanker invasif. Lesi pra-kanker (displasia) yang terdeteksi lewat IVA bisa ditatalaksana segera dengan metode ablasi (krioterapi atau termokoagulasi) dalam kunjungan yang sama — _single-visit approach_. Tanpa IVA, lesi itu diam-diam berkembang menjadi kanker invasif dalam 5–10 tahun.
 
 **Mengapa IVA, bukan Pap smear?**
 
-| Aspek | IVA | Pap smear |
-|-------|-----|-----------|
-| Alat | Spekulum + asam asetat 3–5% | Spatel Ayre + sikat endoserviks + slide + alkohol |
-| Hasil | Langsung (dalam 2–3 menit) | Tertunda (laboratorium) |
-| Biaya | Sangat murah (Rp 5.000–10.000) | Lebih mahal (Rp 50.000–200.000) |
-| Sensitivitas | 60–80% | 70–80% (konvensional) |
-| Spesifisitas | 85–95% | 90–95% |
-| Ketersediaan | Bisa di puskesmas, posyandu, PONED | Butuh laboratorium patologi |
-| Pelatihan | Relatif mudah, 3–5 hari pelatihan | Butuh pelatihan lebih lanjut |
+| Aspek        | IVA                                | Pap smear                                         |
+| ------------ | ---------------------------------- | ------------------------------------------------- |
+| Alat         | Spekulum + asam asetat 3–5%        | Spatel Ayre + sikat endoserviks + slide + alkohol |
+| Hasil        | Langsung (dalam 2–3 menit)         | Tertunda (laboratorium)                           |
+| Biaya        | Sangat murah (Rp 5.000–10.000)     | Lebih mahal (Rp 50.000–200.000)                   |
+| Sensitivitas | 60–80%                             | 70–80% (konvensional)                             |
+| Spesifisitas | 85–95%                             | 90–95%                                            |
+| Ketersediaan | Bisa di puskesmas, posyandu, PONED | Butuh laboratorium patologi                       |
+| Pelatihan    | Relatif mudah, 3–5 hari pelatihan  | Butuh pelatihan lebih lanjut                      |
 
 > [!tip] Di negara dengan sumber daya terbatas seperti Indonesia, IVA adalah pilihan strategis nasional — bukan karena lebih baik dari Pap smear, tapi karena **lebih mungkin sampai ke perempuan yang paling berisiko**: perempuan di desa, ibu rumah tangga dengan akses terbatas. WHO merekomendasikan IVA sebagai salah satu opsi skrining di negara dengan insidens tinggi.
 
@@ -97,20 +95,21 @@ Asam asetat 3–5% menyebabkan **koagulasi protein reversibel** pada sel dengan 
 
 ### Alat dan Bahan
 
-| Alat | Fungsi |
-|------|--------|
-| Spekulum steril (Cusco, ukuran sesuai pasien) | Mengekspos serviks |
-| Sarung tangan steril / DHP (dua pasang) | Perlindungan diri |
-| Lampu senter / lampu sorot dengan cahaya cukup | Penerangan — **kritis**, jangan remang |
-| Meja ginekologi atau tempat tidur datar | Posisi litotomi |
-| Kapas lidi / swab kapas steril (ayat) | Membersihkan sekret dan mengoles asam asetat |
-| **Larutan asam asetat 3–5%** | Bahan utama IVA — simpan dalam botol kaca tertutup |
-| Larutan NaCl 0,9% (jika perlu) | Membersihkan sekret berlebih |
-| Kertas catatan / RM format IVA (form S) | Dokumentasi — ada format khusus dari program |
-| Tempat sampah medis / bengkok | Pembuangan bekas pakai |
-| Botol semprot kecil (opsional) | Menyemprot asam asetat |
+| Alat                                           | Fungsi                                             |
+| ---------------------------------------------- | -------------------------------------------------- |
+| Spekulum steril (Cusco, ukuran sesuai pasien)  | Mengekspos serviks                                 |
+| Sarung tangan steril / DHP (dua pasang)        | Perlindungan diri                                  |
+| Lampu senter / lampu sorot dengan cahaya cukup | Penerangan — **kritis**, jangan remang             |
+| Meja ginekologi atau tempat tidur datar        | Posisi litotomi                                    |
+| Kapas lidi / swab kapas steril (ayat)          | Membersihkan sekret dan mengoles asam asetat       |
+| **Larutan asam asetat 3–5%**                   | Bahan utama IVA — simpan dalam botol kaca tertutup |
+| Larutan NaCl 0,9% (jika perlu)                 | Membersihkan sekret berlebih                       |
+| Kertas catatan / RM format IVA (form S)        | Dokumentasi — ada format khusus dari program       |
+| Tempat sampah medis / bengkok                  | Pembuangan bekas pakai                             |
+| Botol semprot kecil (opsional)                 | Menyemprot asam asetat                             |
 
 > [!warning] **Persyaratan Asam Asetat**
+>
 > - Konsentrasi yang benar: **3–5%** — jangan pakai asam asetat glasial (99%) atau cuka dapur yang tidak diketahui konsentrasinya
 > - Simpan di botol kaca gelap, tertutup rapat, jauh dari sinar matahari langsung
 > - Ganti setiap 1 bulan atau jika warna berubah — asam asetat menguap, konsentrasi menurun
@@ -166,6 +165,7 @@ Ini adalah **langkah paling penting** dari seluruh prosedur. Hasil IVA dikategor
 #### 1. IVA Negatif
 
 **Apa yang Anda lihat:**
+
 - Seluruh serviks tetap **merah muda merata** setelah aplikasi asam asetat
 - Tidak ada bercak putih (asetoputih) sama sekali
 - SCJ (squamocolumnar junction) mungkin terlihat, mungkin tidak — tidak apa-apa selama zona transformasi sudah diperiksa
@@ -177,43 +177,45 @@ Ini adalah **langkah paling penting** dari seluruh prosedur. Hasil IVA dikategor
 **Tindak lanjut:** Ulang skrining 5 tahun lagi (atau sesuai program).
 
 > [!tip] Bedakan Kista Nabothi dari IVA positif:
+>
 > - Kista Nabothi: putih/kuning, **bulat, menonjol, soliter atau multipel**, batas sangat tegas seperti butiran mutiara
 > - IVA positif (lesi displastik): putih, **datar atau sedikit timbul, tidak bulat sempurna**, bentuk irregular, di zona transformasi
 
 #### 2. IVA Positif
 
 **Apa yang Anda lihat:**
+
 - Muncul **bercak putih asetoputih** (acetowhite epithelium) di zona transformasi
 - Karakteristik lesi asetoputih displastik yang perlu Anda nilai:
 
-| Karakteristik | Lesi Jinak/Metaplastik | Lesi Displastik (IVA positif) |
-|--------------|------------------------|-------------------------------|
-| Intensitas putih | Tipis, putih-kabut | **Putih tegas**, opaque |
-| Batas | Kabur, tidak tegas | **Tegas**, jelas |
-| Bentuk | Geografis, irregular halus | Biasanya **berbatas tegas**, bentuk mengikuti SCJ |
-| Timbul | Datar | Bisa **sedikit timbul** (raised) |
-| Waktu hilang | Cepat (30–60 detik) | **Lebih lama** (1–3 menit) |
-| Lokasi | Di mana saja | **Di zona transformasi** atau berbatasan dengan SCJ |
+| Karakteristik    | Lesi Jinak/Metaplastik     | Lesi Displastik (IVA positif)                       |
+| ---------------- | -------------------------- | --------------------------------------------------- |
+| Intensitas putih | Tipis, putih-kabut         | **Putih tegas**, opaque                             |
+| Batas            | Kabur, tidak tegas         | **Tegas**, jelas                                    |
+| Bentuk           | Geografis, irregular halus | Biasanya **berbatas tegas**, bentuk mengikuti SCJ   |
+| Timbul           | Datar                      | Bisa **sedikit timbul** (raised)                    |
+| Waktu hilang     | Cepat (30–60 detik)        | **Lebih lama** (1–3 menit)                          |
+| Lokasi           | Di mana saja               | **Di zona transformasi** atau berbatasan dengan SCJ |
 
 **Grading sederhana untuk lapangan (field):**
 
-| Grade | Gambaran | Kecurigaan |
-|-------|----------|------------|
-| Positif (+) | Putih tipis, batas kurang tegas, hilang cepat | CIN 1 (ringan) — displasia ringan |
-| Positif (++) | Putih tegas, batas jelas, timbul, menetap >1 menit | CIN 2–3 (sedang–berat) |
+| Grade         | Gambaran                                                                | Kecurigaan                               |
+| ------------- | ----------------------------------------------------------------------- | ---------------------------------------- |
+| Positif (+)   | Putih tipis, batas kurang tegas, hilang cepat                           | CIN 1 (ringan) — displasia ringan        |
+| Positif (++)  | Putih tegas, batas jelas, timbul, menetap >1 menit                      | CIN 2–3 (sedang–berat)                   |
 | Positif (+++) | Putih sangat tegas, timbul jelas, mudah berdarah, vaskularitas abnormal | CIN 3 / karsinoma in situ / invasif dini |
 
 > [!warning] **IVA positif bukan diagnosis kanker.** Ini adalah hasil skrining yang menunjukkan adanya kemungkinan lesi pra-kanker. Konfirmasi membutuhkan kolposkopi dan biopsi (jika di RS) atau langsung dilakukan krioterapi/termokoagulasi (jika lesi memenuhi syarat di faskes primer).
 
 **Tindak lanjut berdasarkan hasil:**
 
-| Hasil | Tindak Lanjut |
-|-------|---------------|
-| IVA positif (lesi memenuhi syarat ablasi) | Krioterapi / termokoagulasi pada kunjungan yang sama (*single visit*) |
-| IVA positif (lesi tidak memenuhi syarat ablasi) | Rujuk ke RS untuk LLETZ / konisasi / kolposkopi |
-| IVA positif (hamil) | Tunda sampai 6 minggu pasca-persalinan — kecuali curiga kanker invasif |
-| IVA positif + usia di atas 60 tahun | Rujuk (kolposkopi + biopsi) — risiko keganasan lebih tinggi |
-| IVA positif + lesi mudah berdarah | Rujuk URGENT — curiga keganasan |
+| Hasil                                           | Tindak Lanjut                                                          |
+| ----------------------------------------------- | ---------------------------------------------------------------------- |
+| IVA positif (lesi memenuhi syarat ablasi)       | Krioterapi / termokoagulasi pada kunjungan yang sama (_single visit_)  |
+| IVA positif (lesi tidak memenuhi syarat ablasi) | Rujuk ke RS untuk LLETZ / konisasi / kolposkopi                        |
+| IVA positif (hamil)                             | Tunda sampai 6 minggu pasca-persalinan — kecuali curiga kanker invasif |
+| IVA positif + usia di atas 60 tahun             | Rujuk (kolposkopi + biopsi) — risiko keganasan lebih tinggi            |
+| IVA positif + lesi mudah berdarah               | Rujuk URGENT — curiga keganasan                                        |
 
 **Syarat ablasi (krioterapi/termokoagulasi) di faskes primer:**
 
@@ -227,6 +229,7 @@ Ini adalah **langkah paling penting** dari seluruh prosedur. Hasil IVA dikategor
 #### 3. IVA Curiga Kanker
 
 **Apa yang Anda lihat:**
+
 - Lesi eksofitik (pertumbuhan seperti kembang kol) atau ulkus/kawah
 - Lesi **sangat rapuh, mudah berdarah** saat disentuh ringan (contact bleeding)
 - Lesi asetoputih tegas dengan gambaran vaskular abnormal: mosaik, punctation, atypical vessels (pembuluh darah tidak teratur, putus-putus, koma)
@@ -237,6 +240,7 @@ Ini adalah **langkah paling penting** dari seluruh prosedur. Hasil IVA dikategor
 **Arti klinis:** Kecurigaan tinggi terhadap **karsinoma serviks invasif**.
 
 **Tindak lanjut:**
+
 1. **Jangan lakukan krioterapi** — ini bukan lesi pra-kanker
 2. **Jangan ambil biopsi di faskes primer** jika Anda tidak terlatih — biopsi bisa menyebabkan perdarahan hebat
 3. **Rujuk segera** ke RS rujukan (oncologi ginekologi)
@@ -307,17 +311,18 @@ Tanda tangan: ____
 
 ### Ringkasan Cepat Interpretasi IVA
 
-| Hasil | Gambaran | Tindakan |
-|-------|----------|----------|
-| **Negatif** | Serviks merah muda merata, tidak ada asetoputih | Skrining ulang 5 tahun |
-| **Positif (+)** | Putih tipis, batas kabur | Krioterapi atau rujuk |
-| **Positif (++)** | Putih tegas, batas jelas, timbul | Krioterapi atau rujuk |
-| **Positif (+++)** | Putih sangat tegas, vaskular abnormal, mudah berdarah | Rujuk — evaluasi lebih lanjut |
-| **Curiga kanker** | Lesi eksofitik/fungating, ulkus, perdarahan kontak positif, jaringan nekrotik | Rujuk SEGERA — biopsi |
+| Hasil             | Gambaran                                                                      | Tindakan                      |
+| ----------------- | ----------------------------------------------------------------------------- | ----------------------------- |
+| **Negatif**       | Serviks merah muda merata, tidak ada asetoputih                               | Skrining ulang 5 tahun        |
+| **Positif (+)**   | Putih tipis, batas kabur                                                      | Krioterapi atau rujuk         |
+| **Positif (++)**  | Putih tegas, batas jelas, timbul                                              | Krioterapi atau rujuk         |
+| **Positif (+++)** | Putih sangat tegas, vaskular abnormal, mudah berdarah                         | Rujuk — evaluasi lebih lanjut |
+| **Curiga kanker** | Lesi eksofitik/fungating, ulkus, perdarahan kontak positif, jaringan nekrotik | Rujuk SEGERA — biopsi         |
 
 ### Tanda Bahaya — Kapan Harus Waspada
 
 > [!warning] **Temuan yang Membutuhkan Rujukan Segera (Jangan Tunda):**
+>
 > 1. Lesi eksofitik (pertumbuhan seperti kembang kol) pada serviks → curiga karsinoma serviks
 > 2. Ulkus/kawah pada serviks yang mudah berdarah
 > 3. Perdarahan kontak positif (+) yang masif — setetes darah keluar saat disentuh ringan
@@ -328,6 +333,7 @@ Tanda tangan: ____
 > 8. Perdarahan hebat setelah aplikasi asam asetat (jarang, tapi bisa terjadi pada lesi rapuh)
 
 > [!warning] **Kapan Krioterapi HARUS DITUNDA:**
+>
 > - Lesi asetoputih tidak dapat terlihat seluruhnya (masuk ke kanalis)
 > - Lesi meliputi >75% permukaan serviks
 > - Pasien hamil
@@ -407,7 +413,7 @@ tahun        /            \
 
 ## Dipakai Untuk Penyakit Apa Saja
 
-*(akan diisi)*
+_(akan diisi)_
 
 Daftar awal penyakit/kondisi yang memerlukan atau memanfaatkan pemeriksaan IVA:
 
@@ -424,14 +430,14 @@ Daftar awal penyakit/kondisi yang memerlukan atau memanfaatkan pemeriksaan IVA:
 
 ## Referensi
 
-1. **Kementerian Kesehatan RI.** *Peraturan Menteri Kesehatan No. 29 Tahun 2022 tentang Penanggulangan Kanker Serviks.* Jakarta: Kemenkes RI; 2022.
-2. **World Health Organization.** *WHO Guideline for Screening and Treatment of Cervical Pre-cancer Lesions for Cervical Cancer Prevention.* 2nd ed. Geneva: WHO; 2021.
+1. **Kementerian Kesehatan RI.** _Peraturan Menteri Kesehatan No. 29 Tahun 2022 tentang Penanggulangan Kanker Serviks._ Jakarta: Kemenkes RI; 2022.
+2. **World Health Organization.** _WHO Guideline for Screening and Treatment of Cervical Pre-cancer Lesions for Cervical Cancer Prevention._ 2nd ed. Geneva: WHO; 2021.
 3. **Ilmu Kandungan Sarwono.** Edisi 4. Jakarta: PT Bina Pustaka Sarwono Prawirohardjo; 2020. Bab 33: Kanker Serviks.
-4. **POGI.** *Panduan Pelayanan Klinis (PPK) Obstetri dan Ginekologi.* Jakarta; 2022 — Bab Skrining Kanker Serviks.
-5. **Sankaranarayanan R, Wesley R.** *A Practical Manual on Visual Screening for Cervical Neoplasia.* Lyon: IARC Press; 2003.
+4. **POGI.** _Panduan Pelayanan Klinis (PPK) Obstetri dan Ginekologi._ Jakarta; 2022 — Bab Skrining Kanker Serviks.
+5. **Sankaranarayanan R, Wesley R.** _A Practical Manual on Visual Screening for Cervical Neoplasia._ Lyon: IARC Press; 2003.
 6. **Buku Acuan Modul Obgyn 2026.** Kementerian Kesehatan RI & PERGUNI/POGI.
-7. **Sankaranarayanan R, et al.** Visual inspection with acetic acid for cervical-cancer screening: test qualities in a primary-care setting. *Lancet.* 1999;353(9156):869-873.
-8. **Berkley J, et al.** VIA as a screening tool for cervical cancer in low-resource settings. *UpToDate.* Waltham, MA; 2025.
+7. **Sankaranarayanan R, et al.** Visual inspection with acetic acid for cervical-cancer screening: test qualities in a primary-care setting. _Lancet._ 1999;353(9156):869-873.
+8. **Berkley J, et al.** VIA as a screening tool for cervical cancer in low-resource settings. _UpToDate._ Waltham, MA; 2025.
 9. **Permenkes No. 71 Tahun 2015** tentang Penanggulangan Kanker Serviks dan Kanker Payudara.
 10. **Panduan Pelaksanaan Skrining Kanker Serviks dengan IVA.** Ditjen P2P Kementerian Kesehatan RI; 2018.
 

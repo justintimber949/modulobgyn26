@@ -1,30 +1,31 @@
 ---
 title: Operasi Caesar (Caesarean Section)
 tags:
-- keterampilan
-- persalinan
-- skdi-2
+  - keterampilan
+  - persalinan
+  - skdi-2
 level_kompetensi: 2
 kategori: persalinan
 nomor_modul: 70
 aliases:
-- Caesarean Section
-- SC (Sectio Caesarea)
-- Bedah Caesar
-- Operasi Caesar
-- operasi caesar
-- caesar
-- sectio caesarea
-- sc
-- bedah caesar
-- operasi sc
+  - Caesarean Section
+  - SC (Sectio Caesarea)
+  - Bedah Caesar
+  - Operasi Caesar
+  - operasi caesar
+  - caesar
+  - sectio caesarea
+  - sc
+  - bedah caesar
+  - operasi sc
 cssclasses:
-- buku-saku
+  - buku-saku
 ---
+
 -------|--------|
 | **Darurat (Emergency)** | Fetal distress, prolaps tali pusat, abrupsio plasenta, eklampsia berat, uterine rupture |
 | **Mendesak (Urgent)** | Partus tidak progresif (kala I/II), CPD, malpresentasi (bokong, transverse), KPD > 18 jam + infeksi |
-| **Elektif (Elective)** | SC sebelumnya (repeat), presentasi bokong (pilihan), plasenta previa, keinginan ibu (CDMR), keanuan janin makrosomia > 4500g (DM) / > 5000g (non-DM) |
+| **Elektif (Elective)** | SC sebelumnya (repeat), presentasi bokong (pilihan), plasenta previa, keinginan ibu (CDMR), dugaan janin makrosomia > 4500g (DM) / > 5000g (non-DM) |
 
 ## Persiapan
 
@@ -37,34 +38,40 @@ cssclasses:
 ## Teknik Standar (Pfannenstiel-Kerr / Joel-Cohen Modifikasi)
 
 ### 1. Insisi Kulit
+
 - **Pfannenstiel:** Kurva transversal 2-3 cm di atas simfisis pubis, mengikuti lipatan alami
 - **Joel-Cohen:** Insisi lurus transversal 3 cm di atas simfisis, lebih cepat, perdarahan lebih sedikit
 
 ### 2. Lapis-lapis Dinding Abdomen
-| Lapis | Teknik Buka | Teknik Tutup |
-|-------|-------------|--------------|
-| Kulit | Skalpel | Subcuticular / stapler |
-| Subkutan | Gunting/skalpel (blunt) | Continuous 3-0 (jika > 2 cm tebal) |
-| Fascia anterior (aponeurosis) | Skalpel tajam, tarik lateral | **Continuous 1-0/2-0 absorbable (PDS/Vicryl) — KUNCI kekuatan** |
-| Otot rektus abdominis | **Blunt dissection** (tarik lateral) | Tidak dijahit (hanya fascia) |
-| Peritoneum parietal | Tarik + gunting (blunt) | Tidak dijahit (peritoneal closure opsional, non-closure OK) |
+
+| Lapis                         | Teknik Buka                          | Teknik Tutup                                                    |
+| ----------------------------- | ------------------------------------ | --------------------------------------------------------------- |
+| Kulit                         | Skalpel                              | Subcuticular / stapler                                          |
+| Subkutan                      | Gunting/skalpel (blunt)              | Continuous 3-0 (jika > 2 cm tebal)                              |
+| Fascia anterior (aponeurosis) | Skalpel tajam, tarik lateral         | **Continuous 1-0/2-0 absorbable (PDS/Vicryl) — KUNCI kekuatan** |
+| Otot rektus abdominis         | **Blunt dissection** (tarik lateral) | Tidak dijahit (hanya fascia)                                    |
+| Peritoneum parietal           | Tarik + gunting (blunt)              | Tidak dijahit (peritoneal closure opsional, non-closure OK)     |
 
 ### 3. Uterus (Histerotomi)
+
 - **Insisi transversal bawah (Kerr / low transverse)** — standar, di segment bawah uterus (pars isthmica)
 - Ukuran: 8-10 cm, memanjang lateral jika butuh
 - **JANGAN insisi klasik (vertikal korpus)** kecuali: plasenta previa anterior, uterus bikornis, mioma korpus, kehamilan < 28 mg sangat prematur
 
 ### 4. Keluarkan Janin
+
 - Tangan masuk ke uterus, pegang kaki/bahu (jika bokong) atau kepala (jika kepal)
 - Keluarkan pelan, hindari ekstensi berlebihan kepala
 - **Jika plasenta anterior** — keluarin janin dulu, baru ambil plasenta
 - **Delayed cord clamping** 30-60 detik (kecuali asfiksia berat)
 
 ### 5. Pengeluaran Plasenta
+
 - **Kontrol traksi tali pusat** (Brandt-Andrews) + **fundal pressure** ringan
 - Jika plasenta previa / accreta — evaluasi terpisah
 
 ### 6. Revisi Uterus & Tutup Histerotomi
+
 - **Eksteriorisasi uterus** (keluarkan ke abdomen) ATAU revisi in situ (keduanya valid)
 - **Histerotomi 2 lapis (standar):**
   - Lapis 1: Continuous locking 1-0/2-0 (menggabungkan miometrium + endometrium, **JANGAN tembus ke kavitas uterus** — teknik unlocked/continuous non-locking lebih aman)
@@ -72,6 +79,7 @@ cssclasses:
 - **Lapis 3 (opsional):** Peritoneal flap / serosa (Parker-Kerr)
 
 ### 7. Tutup Abdomen (Balik urutan)
+
 - Peritoneum parietal: tidak dijahit (evidence-based)
 - Fascia anterior: **Continuous 1-0/2-0 PDS/Vicryl — WAJIB KUAT**
 - Subkutan: Jika > 2 cm tebal → continuous 3-0
@@ -84,14 +92,14 @@ cssclasses:
 
 ## Komplikasi
 
-| Intraoperatif | Pascaoperatif |
-|---------------|---------------|
-| Lusi usus / saluran kemih / ureter | Infeksi luka (SSI) 5-15% |
-| Perdarahan masif (PPH) | Endometritis |
-| Lusi janin (1-2%) | Hematoma luka / seroma |
-| Emboli amnion (jarang, fatal) | Dehiscense / eviscerasi |
-| Anestesi komplikasi | TVP / TEP |
-| **Ruptur uterus kehamilan berikutnya** (0,5-1% low transverse, 4-9% klasik) | Penyesalan / tokofobia |
+| Intraoperatif                                                               | Pascaoperatif            |
+| --------------------------------------------------------------------------- | ------------------------ |
+| Lusi usus / saluran kemih / ureter                                          | Infeksi luka (SSI) 5-15% |
+| Perdarahan masif (PPH)                                                      | Endometritis             |
+| Lusi janin (1-2%)                                                           | Hematoma luka / seroma   |
+| Emboli amnion (jarang, fatal)                                               | Dehiscense / eviscerasi  |
+| Anestesi komplikasi                                                         | TVP / TEP                |
+| **Ruptur uterus kehamilan berikutnya** (0,5-1% low transverse, 4-9% klasik) | Penyesalan / tokofobia   |
 
 ## Ringkasan untuk Dokter Umum (Sebagai Asisten)
 
@@ -105,11 +113,11 @@ cssclasses:
 
 ## Keterampilan Terkait
 
-- [[27-menolong-persalinan-fisiologis-apn]]
-- [[32-memperkirakan-kehilangan-darah]]
-- [[42-kompresi-bimanual]]
-- [[43-retensio-plasenta]]
-- [[45-perdarahan-postpartum]]
+- Menolong Persalinan Fisiologis Apn
+- Memperkirakan Kehilangan Darah
+- Kompresi Bimanual
+- Retensio Plasenta
+- Perdarahan Postpartum
 
 ## Referensi
 

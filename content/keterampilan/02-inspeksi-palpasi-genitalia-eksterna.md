@@ -1,25 +1,23 @@
 ---
 title: Inspeksi & Palpasi Genitalia Eksterna
 tags:
-- keterampilan
-- ginekologi-dasar
-- skdi-4a
+  - keterampilan
+  - ginekologi-dasar
+  - skdi-4a
 level_kompetensi: 4A
 kategori: ginekologi-dasar
 nomor_modul: 2
 aliases:
-- Pemeriksaan Genitalia Luar
-- Inspeksi Vulva
-- Palpasi Genitalia Eksterna
-- cek kelamin
-- periksa vagina
-- pemeriksaan genital
-- inspeksi vulva
+  - Pemeriksaan Genitalia Luar
+  - Inspeksi Vulva
+  - Palpasi Genitalia Eksterna
+  - cek kelamin
+  - periksa vagina
+  - pemeriksaan genital
+  - inspeksi vulva
 cssclasses:
-- buku-saku
+  - buku-saku
 ---
-
-
 
 # Inspeksi & Palpasi Genitalia Eksterna
 
@@ -28,7 +26,7 @@ cssclasses:
 
 ---
 
-*"Dok, saya sering gatal di daerah kemaluan dan keluar keputihan berbau."* — Keluhan yang sangat sering ditemui di puskesmas dan praktik sehari-hari. Sebelum kita berpikir tentang infeksi, kanker serviks, atau penyakit menular seksual, semuanya berawal dari satu langkah sederhana namun krusial: **inspeksi dan palpasi genitalia eksterna**. Pemeriksaan ini memberi kita petunjuk pertama yang sering kali sudah cukup untuk menegakkan diagnosis banding.
+_"Dok, saya sering gatal di daerah kemaluan dan keluar keputihan berbau."_ — Keluhan yang sangat sering ditemui di puskesmas dan praktik sehari-hari. Sebelum kita berpikir tentang infeksi, kanker serviks, atau penyakit menular seksual, semuanya berawal dari satu langkah sederhana namun krusial: **inspeksi dan palpasi genitalia eksterna**. Pemeriksaan ini memberi kita petunjuk pertama yang sering kali sudah cukup untuk menegakkan diagnosis banding.
 
 ---
 
@@ -52,14 +50,14 @@ Pemeriksaan genitalia eksterna bukan sekadar formalitas sebelum pasang spekulum.
 
 ### Persiapan Alat
 
-| Alat | Kegunaan |
-|------|----------|
-| Meja ginekologi / tempat tidur periksa | Posisikan pasien dengan nyaman |
-| Sarung tangan bersih (non-steril) | Prosedur ini bersih, bukan steril |
-| Kain penutup / drape | Menjaga privasi dan rasa aman pasien |
+| Alat                                                         | Kegunaan                                                     |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Meja ginekologi / tempat tidur periksa                       | Posisikan pasien dengan nyaman                               |
+| Sarung tangan bersih (non-steril)                            | Prosedur ini bersih, bukan steril                            |
+| Kain penutup / drape                                         | Menjaga privasi dan rasa aman pasien                         |
 | Sumber cahaya yang memadai (lampu senter atau lampu periksa) | Pencahayaan sangat penting — jangan periksa di ruangan gelap |
-| Bantal kecil atau pengganjal | Sebagai sandaran kepala pasien |
-| Spekulum (siapkan sebagai cadangan) | Untuk pemeriksaan lanjutan bila diperlukan |
+| Bantal kecil atau pengganjal                                 | Sebagai sandaran kepala pasien                               |
+| Spekulum (siapkan sebagai cadangan)                          | Untuk pemeriksaan lanjutan bila diperlukan                   |
 
 ### Persiapan Pasien
 
@@ -74,6 +72,7 @@ Pemeriksaan genitalia eksterna bukan sekadar formalitas sebelum pasang spekulum.
 5. **Lingkungan yang aman** — Pastikan pintu tertutup, tidak ada orang yang tidak berkepentingan, suhu ruangan nyaman, dan pendamping pasien diperbolehkan hadir jika pasien menginginkannya.
 
 > [!warning] Tanda Bahaya Sebelum Memulai
+>
 > - Jangan pernah memulai pemeriksaan jika pasien menolak atau tampak sangat cemas — hentikan dan diskusikan ulang.
 > - Jika ada perdarahan aktif yang banyak, hentikan prosedur dan nilai tanda vital terlebih dahulu.
 > - Jika pasien mengeluh nyeri hebat saat disentuh ringan di area vulva, curigai vulvodinia atau infeksi akut — lakukan pendekatan yang lebih hati-hati.
@@ -90,7 +89,7 @@ Mulailah dengan **inspeksi sistematis** — dari luar ke dalam, dari anterior ke
 
 - **Cara**: Perhatikan distribusi rambut pubis, ketebalan, dan teksturnya.
 - **Kenapa**: Distribusi rambut pubis yang abnormal (misalnya pola maskulin pada wanita dengan rambut pubis hingga umbilikus) bisa menjadi petunjuk gangguan hormonal seperti sindrom ovarium polikistik (PCOS). Rambut pubis yang sangat jarang atau tidak ada bisa menandakan defisiensi estrogen atau sindrom Turner.
-- **Yang dicari**: Infestasi kutu kemaluan (*Phthirus pubis*), lesi kulit, bekas luka, atau tanda-tanda iritasi akibat pencukuran.
+- **Yang dicari**: Infestasi kutu kemaluan (_Phthirus pubis_), lesi kulit, bekas luka, atau tanda-tanda iritasi akibat pencukuran.
 
 #### Langkah 2: Inspeksi Labia Mayora
 
@@ -109,7 +108,7 @@ Mulailah dengan **inspeksi sistematis** — dari luar ke dalam, dari anterior ke
 - **Cara**: Buka labia minora dengan lembut. Labia minora adalah lipatan mukosa di dalam labia mayora.
 - **Kenapa**: Labia minora adalah jaringan mukosa yang lebih tipis dan rentan terhadap iritasi, infeksi, dan lesi prakanker (VIN — Vulvar Intraepithelial Neoplasia).
 - **Yang dicari**:
-  - Lesi putih (*leukoplakia*) → bisa menandakan Lichen sclerosus atau VIN
+  - Lesi putih (_leukoplakia_) → bisa menandakan Lichen sclerosus atau VIN
   - Erosi dan fisura → sering pada infeksi jamur kronis
   - Adhesi labia → pada anak-anak (labial aglutinasi) atau pasca-menopause
   - Papiloma atau kondiloma
@@ -231,6 +230,7 @@ Setelah inspeksi selesai, lanjutkan dengan palpasi. Sarung tangan sudah terpasan
 ## Interpretasi Hasil / Tanda Bahaya
 
 > [!warning] Temuan yang Memerlukan Rujukan Segera
+>
 > 1. **Massa vulva yang menetap > 2 minggu** — curigai keganasan, terutama pada wanita usia >40 tahun dengan pruritus dan lesi yang tidak sembuh. **Rujuk ke obstetri-ginekologi untuk biopsi.**
 > 2. **Ulkus genital yang tidak nyeri dan soliter** — curigai sifilis primer (chancre). Lakukan serologi VDRL/TPHA. **Rujuk untuk terapi antibiotik.**
 > 3. **Lesi vesikuler multipel yang nyeri** — curigai herpes genitalis. Beri terapi antivirus (asiklovir) atau rujuk.
@@ -242,64 +242,56 @@ Setelah inspeksi selesai, lanjutkan dengan palpasi. Sarung tangan sudah terpasan
 
 ### Tabel Ringkasan Temuan Klinis
 
-| Temuan | Kemungkinan Diagnosis | Tindakan |
-|--------|----------------------|----------|
-| Ulkus soliter tidak nyeri | Sifilis primer | Serologi, rujuk |
-| Vesikel multipel nyeri | Herpes genitalis | Asiklovir |
-| Kutil verukosa | Kondiloma akuminata | Kauter/krioterapi/rujuk |
-| Massa nyeri di introitus posterior (unilateral) | Abses Bartholin | Insisi drainase |
-| Massa tidak nyeri di introitus posterior | Kista Bartholin | Observasi/rujuk jika besar |
-| Prolaps dinding anterior saat mengejan | Sistokel | Evaluasi urodinamik |
-| Prolaps dinding posterior saat mengejan | Rektokel | Rujuk jika simptomatik |
-| Pruritus + lesi putih erosif | Lichen sclerosus | Steroid topikal |
-| Discharge uretra | Uretritis | Kultur/test NAAT |
+| Temuan                                          | Kemungkinan Diagnosis | Tindakan                   |
+| ----------------------------------------------- | --------------------- | -------------------------- |
+| Ulkus soliter tidak nyeri                       | Sifilis primer        | Serologi, rujuk            |
+| Vesikel multipel nyeri                          | Herpes genitalis      | Asiklovir                  |
+| Kutil verukosa                                  | Kondiloma akuminata   | Kauter/krioterapi/rujuk    |
+| Massa nyeri di introitus posterior (unilateral) | Abses Bartholin       | Insisi drainase            |
+| Massa tidak nyeri di introitus posterior        | Kista Bartholin       | Observasi/rujuk jika besar |
+| Prolaps dinding anterior saat mengejan          | Sistokel              | Evaluasi urodinamik        |
+| Prolaps dinding posterior saat mengejan         | Rektokel              | Rujuk jika simptomatik     |
+| Pruritus + lesi putih erosif                    | Lichen sclerosus      | Steroid topikal            |
+| Discharge uretra                                | Uretritis             | Kultur/test NAAT           |
 
 ---
 
 ## Kesalahan yang Sering Terjadi
 
 > [!tip] Kesalahan Umum yang Harus Dihindari
-> 1. **Tidak menjelaskan prosedur ke pasien** — Pasien yang tidak mendapat penjelasan akan cemas, tegang, dan otot dasarnya tidak rileks. Pemeriksaan jadi lebih sulit dan menyakitkan. **Solusi**: Luangkan 1-2 menit untuk *informed consent* verbal yang baik.
 >
+> 1. **Tidak menjelaskan prosedur ke pasien** — Pasien yang tidak mendapat penjelasan akan cemas, tegang, dan otot dasarnya tidak rileks. Pemeriksaan jadi lebih sulit dan menyakitkan. **Solusi**: Luangkan 1-2 menit untuk _informed consent_ verbal yang baik.
 > 2. **Pencahayaan kurang** — Tanpa cahaya yang cukup, Anda akan melewatkan lesi kecil, perubahan warna mukosa, atau ulkus dini. **Solusi**: Selalu gunakan lampu periksa atau senter yang terang.
->
 > 3. **Terburu-buru** — Pemeriksaan yang terburu-buru menyebabkan banyak temuan terlewat. **Solusi**: Latih diri untuk memeriksa dengan urutan sistematis (mons → labia → klitoris → uretra → introitus → perineum → anus).
->
 > 4. **Tidak meminta pasien mengejan** — Prolaps derajat ringan hanya terlihat saat pasien mengejan. Tanpa langkah ini, Anda akan melewatkan sistokel, rektokel, dan prolaps uteri derajat I-II. **Solusi**: Selakhiri inspeksi dengan minta pasien mengejan.
->
 > 5. **Palpasi terlalu keras** — Kelenjar Bartholini dan Skene sangat sensitif. Palpasi kasar akan membuat pasien kesakitan dan menolak pemeriksaan lanjutan. **Solusi**: Gunakan tekanan ringan hingga sedang. Katakan pada pasien, "Beri tahu saya kalau sakit."
->
 > 6. **Melewatkan pemeriksaan kelenjar Bartholini** — Ini adalah langkah yang paling sering terlewat. Padahal abses atau kista Bartholini sangat umum ditemukan di praktik. **Solusi**: Jadikan palpasi jam 4 dan jam 8 sebagai kebiasaan otomatis setelah inspeksi.
->
 > 7. **Sarung tangan tidak diganti sebelum colok dubur** — Kalau Anda sudah memeriksa vagina lalu langsung colok dubur dengan sarung tangan yang sama, Anda membawa flora vagina ke rektum — ini tidak higienis dan meningkatkan risiko infeksi silang. **Solusi**: Ganti sarung tangan sebelum colok dubur.
->
 > 8. **Tidak mendokumentasikan temuan** — Catat semua temuan segera setelah pemeriksaan. Jika menunda, Anda akan lupa detail seperti ukuran lesi, lokasi, dan karakteristiknya. **Solusi**: Siapkan status/rekam medis sebelum memulai, dan isi segera.
->
 > 9. **Melakukan pemeriksaan saat pasien menstruasi deras** — Ini bukan kontraindikasi absolut, tapi darah akan mengaburkan pandangan. Pemeriksaan spekulum sebaiknya ditunda kalau tidak emergensi. **Solusi**: Tunda jika memungkinkan, atau catat keterbatasan dalam rekam medis.
->
 > 10. **Mengabaikan rasa malu pasien** — Pemeriksaan genitalia adalah prosedur yang sangat intim. Sikap dokter yang acuh, bicara kasar, atau tidak menjaga privasi bisa membuat pasien trauma. **Solusi**: Jaga pembicaraan, gunakan bahasa yang sopan, dan pastikan pintu tertutup rapat.
 
 ---
 
 ## Dipakai Untuk Penyakit Apa Saja
 
-*(Akan diisi)*
+_(Akan diisi)_
 
 ---
 
 ## Referensi
 
-1. Berek, J.S. & Novak, E. (2020). *Berek & Novak's Gynecology*. 16th Ed. Philadelphia: Wolters Kluwer. — Bab pemeriksaan panggul dan anatomi genitalia eksterna.
+1. Berek, J.S. & Novak, E. (2020). _Berek & Novak's Gynecology_. 16th Ed. Philadelphia: Wolters Kluwer. — Bab pemeriksaan panggul dan anatomi genitalia eksterna.
 
-2. Kusuma, F. & Pratama, A. (2021). *Buku Saku Pemeriksaan Ginekologi Dasar*. Jakarta: Penerbit FKUI.
+2. Kusuma, F. & Pratama, A. (2021). _Buku Saku Pemeriksaan Ginekologi Dasar_. Jakarta: Penerbit FKUI.
 
-3. WHO. (2021). *Guidelines for the Management of Symptomatic Sexually Transmitted Infections*. Geneva: World Health Organization.
+3. WHO. (2021). _Guidelines for the Management of Symptomatic Sexually Transmitted Infections_. Geneva: World Health Organization.
 
-4. Perkumpulan Obstetri dan Ginekologi Indonesia (POGI). (2023). *Panduan Pelayanan Ginekologi di Fasilitas Kesehatan Tingkat Primer*. Jakarta: POGI.
+4. Perkumpulan Obstetri dan Ginekologi Indonesia (POGI). (2023). _Panduan Pelayanan Ginekologi di Fasilitas Kesehatan Tingkat Primer_. Jakarta: POGI.
 
-5. Konsil Kedokteran Indonesia. (2020). *Standar Kompetensi Dokter Indonesia (SKDI) 2020*. Jakarta: KKI.
+5. Konsil Kedokteran Indonesia. (2020). _Standar Kompetensi Dokter Indonesia (SKDI) 2020_. Jakarta: KKI.
 
-6. Hoffman, B.L., et al. (2021). *Williams Gynecology*. 4th Ed. New York: McGraw Hill. — Chapter 1: Gynecologic Examination.
+6. Hoffman, B.L., et al. (2021). _Williams Gynecology_. 4th Ed. New York: McGraw Hill. — Chapter 1: Gynecologic Examination.
 
 > [!tip] Pesan untuk Dokter Junior
 > Pemeriksaan genitalia eksterna adalah cerminan dari bagaimana Anda akan melakukan seluruh pemeriksaan ginekologi: **sistematis, lembut, dan penuh empati**. Pasien yang merasa dihargai dan nyaman akan lebih kooperatif, dan Anda akan mendapatkan lebih banyak informasi klinis. Luangkan waktu. Jangan terburu-buru. Dan ingat — setiap pasien adalah guru.

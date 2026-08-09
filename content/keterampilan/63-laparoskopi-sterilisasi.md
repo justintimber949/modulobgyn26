@@ -1,23 +1,24 @@
 ---
 title: Laparoskopi Sterilisasi
 tags:
-- keterampilan
-- kb-kontrasepsi
-- skdi-2
+  - keterampilan
+  - kb-kontrasepsi
+  - skdi-2
 level_kompetensi: 2
 kategori: kb-kontrasepsi
 nomor_modul: 63
 aliases:
-- Laparoscopic Sterilization
-- Sterilisasi Tuba Laparoskopik
-- Tubal Ligation Laparoskopik
-- sterilisasi laparoskopik
-- tubal ligation
-- sterilisasi tuba
-- laparoscopic sterilization
+  - Laparoscopic Sterilization
+  - Sterilisasi Tuba Laparoskopik
+  - Tubal Ligation Laparoskopik
+  - sterilisasi laparoskopik
+  - tubal ligation
+  - sterilisasi tuba
+  - laparoscopic sterilization
 cssclasses:
-- buku-saku
+  - buku-saku
 ---
+
 -----|--------|------------|-----------|
 | **Bipolar coagulation** | Okoagulasi 3 cm segmen istmik | Cepat, efektif, hemat | Butuh alat bipolar |
 | **Filshie clips** | Klip titanium + silikon | Reversibilitas teoritis lebih baik | Butuh klip khusus |
@@ -36,12 +37,14 @@ cssclasses:
 ## Kontraindikasi
 
 **Absolut:**
+
 - Kehamilan saat ini
 - Infeksi pelvis aktif (PID)
 - Malignitas ginekologi tidak teratasi
 - Penolakan pasien setelah konseling
 
 **Relatif:**
+
 - Obesitas morbid (BMI > 40) — teknis sulit
 - Adhezi pelvis berat (pasca operasi/endometriosis)
 - Riwayat reaksi anestesi umum berat
@@ -63,6 +66,7 @@ cssclasses:
 ## Teknik Laparoskopi Sterilisasi (Bipolar Coagulation - paling umum)
 
 ### Langkah-langkah:
+
 1. Posisi lithotomy, kateterisasi kandung kemih
 2. Insisi infra-umbilikal (port kamera 10 mm) — open (Hasson) atau closed (Veress)
 3. Pneumoperitoneum CO2, tekanan 12-15 mmHg
@@ -86,16 +90,19 @@ cssclasses:
 ## Komplikasi
 
 **Intraoperatif:**
+
 - Lusi usus/ureter/pembuluh darah (port placement)
 - Perdarahan dari mesosalpinx
 - Hiperkapnia, emboli gas
 
 **Pascaoperatif:**
+
 - Nyeri bahu (referred pain dari diafragma — CO2 residual)
 - Infeksi luka port
 - Hernia port
 
 **Jangka panjang:**
+
 - **Kegagalan sterilisasi:** ~0,5% (1:200) — risiko kehamilan, **biasanya ektopik!**
 - Sindrom pasca-sterilisasi (kontroversial): dismenorea, menorrhagia, siklus tidak teratur
 - **Penyesalan:** 2-20% tergantung usia/paritas saat operasi
@@ -114,10 +121,10 @@ cssclasses:
 
 ## Keterampilan Terkait
 
-- [[59-laparoskopi-diagnostik]]
-- [[61-laparoskopi-terapeutik]]
-- [[11-insersi-ekstraksi-iud]]
-- [[12-insersi-ekstraksi-implan]]
+- Laparoskopi Diagnostik
+- Laparoskopi Terapeutik
+- [[12-insersi-ekstraksi-iud]
+- [[50-insersi-ekstraksi-implan]
 
 ## Referensi
 

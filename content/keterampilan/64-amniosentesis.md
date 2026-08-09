@@ -77,9 +77,9 @@ cssclasses:
 
 ## Keterampilan Terkait
 
-- [[65-chorionic-villus-sampling|Chorionic Villus Sampling]]
-- [[25-pemeriksaan-usg-obstetri|Pemeriksaan USG Obstetri]]
-- [[21-pemeriksaan-kehamilan-muda|Pemeriksaan Kehamilan Muda]]
+- Chorionic Villus Sampling
+- Pemeriksaan USG Obstetri
+- Pemeriksaan Kehamilan Muda
 
 ## Referensi
 

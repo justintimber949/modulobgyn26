@@ -1,35 +1,34 @@
 ---
 title: Palpasi Posisi Fundus
 tags:
-- keterampilan
-- persalinan
-- skdi-4a
+  - keterampilan
+  - persalinan
+  - skdi-4a
 level_kompetensi: 4A
 kategori: persalinan
 nomor_modul: 35
 aliases:
-- Palpasi Fundus Nifas
-- Pemeriksaan Involusi Uterus
-- palpasi fundus
-- cek involusi rahim
-- fundus nifas
-- palpasi posisi fundus
+  - Palpasi Fundus Nifas
+  - Pemeriksaan Involusi Uterus
+  - palpasi fundus
+  - cek involusi rahim
+  - fundus nifas
+  - palpasi posisi fundus
 cssclasses:
-- buku-saku
+  - buku-saku
 ---
-
 
 ## Kenapa Keterampilan Ini Berbeda dari Skill 31
 
-[[31-postpartum-pemeriksaan-fundus]] membahas **pengukuran TFU** — menyusuri dari simfisis ke atas dengan metline. Skill ini membahas **palpasi posisi fundus** — teknik palpasi dari epigastrium ke bawah untuk menentukan letak, bentuk, dan konsistensi fundus. Tanpa metline, tanpa tracing simfisis, dan bukan menilai deviasi lateral.
+Postpartum Pemeriksaan Fundus membahas **pengukuran TFU** — menyusuri dari simfisis ke atas dengan metline. Skill ini membahas **palpasi posisi fundus** — teknik palpasi dari epigastrium ke bawah untuk menentukan letak, bentuk, dan konsistensi fundus. Tanpa metline, tanpa tracing simfisis, dan bukan menilai deviasi lateral.
 
-| Skill 31 — TFU | Skill 35 — Palpasi Posisi |
-|---------------|---------------------------|
-| Mengukur tinggi (cm/jari) | Menentukan lokasi, bentuk, konsistensi |
-| Menyusuri simfisis → atas | Menyapuan dari epigastrium → bawah |
-| Parameter: tinggi | Parameter: posisi, bentuk, konsistensi, kontur |
-| Alat: metline | Alat: tangan (tepi ulnar + telapak) |
-| Fokus: involusi, Kala IV | Fokus: atonia, subinvolusi, perdarahan tersembunyi |
+| Skill 31 — TFU            | Skill 35 — Palpasi Posisi                          |
+| ------------------------- | -------------------------------------------------- |
+| Mengukur tinggi (cm/jari) | Menentukan lokasi, bentuk, konsistensi             |
+| Menyusuri simfisis → atas | Menyapuan dari epigastrium → bawah                 |
+| Parameter: tinggi         | Parameter: posisi, bentuk, konsistensi, kontur     |
+| Alat: metline             | Alat: tangan (tepi ulnar + telapak)                |
+| Fokus: involusi, Kala IV  | Fokus: atonia, subinvolusi, perdarahan tersembunyi |
 
 > [!tip] **Inti Keterampilan:** Gunakan sensasi taktil — bukan alat ukur. Tangan Anda merasakan di mana fundus berada, bagaimana konturnya, dan seberapa keras berkontraksi.
 
@@ -43,13 +42,13 @@ Segera setelah plasenta lahir: fundus setinggi pusat, midline, globular (seperti
 
 ### Struktur Teraba pada Palpasi
 
-| Struktur | Lokasi | Karakteristik Palpasi |
-|----------|--------|----------------------|
-| Fundus uteri | Abdomen bawah, di atas simfisis | Kubah bulat, batas tegas, keras |
-| Korpus uteri | Di bawah fundus | Massa silindris, kontinu |
-| Kandung kemih penuh | Anterior/superior uterus | Massa kistik, perkusi pekak, bergeser saat ditekan |
-| Bekuan darah intrauterin | Dalam kavum uteri | Uterus membesar, lembek meski dimasase |
-| Mioma uteri | Dinding uterus — segmental | Nodul keras, ireguler |
+| Struktur                 | Lokasi                          | Karakteristik Palpasi                              |
+| ------------------------ | ------------------------------- | -------------------------------------------------- |
+| Fundus uteri             | Abdomen bawah, di atas simfisis | Kubah bulat, batas tegas, keras                    |
+| Korpus uteri             | Di bawah fundus                 | Massa silindris, kontinu                           |
+| Kandung kemih penuh      | Anterior/superior uterus        | Massa kistik, perkusi pekak, bergeser saat ditekan |
+| Bekuan darah intrauterin | Dalam kavum uteri               | Uterus membesar, lembek meski dimasase             |
+| Mioma uteri              | Dinding uterus — segmental      | Nodul keras, ireguler                              |
 
 > [!warning] **Jangan Tertukar:** Kandung kemih kistik/fluctuant; fundus padat/keras. Kateterisasi adalah konfirmasi.
 
@@ -57,31 +56,31 @@ Segera setelah plasenta lahir: fundus setinggi pusat, midline, globular (seperti
 
 ## Indikasi
 
-| Indikasi | Kapan |
-|----------|-------|
-| Monitoring Kala IV rutin | Setiap 15' (jam I), 30' (jam II) |
-| Kecurigaan atonia | Perdarahan aktif > normal, fundus lembek |
-| Perdarahan tersembunyi | Syok (SI >0,9) dengan perdarahan tampak minimal |
-| Kecurigaan retensio sisa plasenta | Fundus masih tinggi >2 jam postpartum |
-| Kecurigaan subinvolusi | Fundus tidak turun sesuai jadwal (lihat [[31-postpartum-pemeriksaan-fundus]]) |
-| Nyeri abdomen postpartum | Fundus nyeri tekan → curigai infeksi/endometritis |
-| Pemeriksaan nifas sebelum pulang | Memastikan involusi sesuai hari postpartum |
+| Indikasi                          | Kapan                                                                  |
+| --------------------------------- | ---------------------------------------------------------------------- |
+| Monitoring Kala IV rutin          | Setiap 15' (jam I), 30' (jam II)                                       |
+| Kecurigaan atonia                 | Perdarahan aktif > normal, fundus lembek                               |
+| Perdarahan tersembunyi            | Syok (SI >0,9) dengan perdarahan tampak minimal                        |
+| Kecurigaan retensio sisa plasenta | Fundus masih tinggi >2 jam postpartum                                  |
+| Kecurigaan subinvolusi            | Fundus tidak turun sesuai jadwal (lihat Postpartum Pemeriksaan Fundus) |
+| Nyeri abdomen postpartum          | Fundus nyeri tekan → curigai infeksi/endometritis                      |
+| Pemeriksaan nifas sebelum pulang  | Memastikan involusi sesuai hari postpartum                             |
 
 ---
 
 ## Persiapan
 
-| Alat | Kegunaan |
-|------|----------|
-| Sarung tangan DTT/bersih | Palpasi abdomen |
-| Bantal kecil | Menopang lutut agar abdomen rileks |
-| Underpad/perlak | Melindungi tempat tidur |
+| Alat                     | Kegunaan                           |
+| ------------------------ | ---------------------------------- |
+| Sarung tangan DTT/bersih | Palpasi abdomen                    |
+| Bantal kecil             | Menopang lutut agar abdomen rileks |
+| Underpad/perlak          | Melindungi tempat tidur            |
 
 **Tidak perlu metline.** Palpasi posisi fundus hanya menggunakan tangan.
 
 1. **Informed consent** — "Bu, saya akan meraba perut Ibu untuk memastikan rahim di posisi yang benar."
 2. **Kosongkan kandung kemih** — faktor perancu nomor satu!
-3. **Posisi ibu** — *dorsal recumbent*, lutut sedikit ditekuk dengan bantal di bawah lutut.
+3. **Posisi ibu** — _dorsal recumbent_, lutut sedikit ditekuk dengan bantal di bawah lutut.
 4. **Buka area abdomen** — dari prosesus xifoideus hingga simfisis.
 5. **Cuci tangan + sarung tangan.**
 6. **Pemeriksa di sisi kanan pasien** — menghadap ke kepala pasien.
@@ -121,42 +120,42 @@ flowchart LR
 
 #### A. Lokasi Fundus
 
-| Cara Menilai | Normal | Abnormal |
-|-------------|--------|----------|
-| Bandingkan dengan pusat | Sepusar (0 jam), ↓1–2 jari (1–2 jam) | Sepusar >2 jam → retensio/atonia |
-| Sumbu lurus? | Sumbu lurus | Miring → kandung kemih penuh/adhesi |
+| Cara Menilai            | Normal                               | Abnormal                            |
+| ----------------------- | ------------------------------------ | ----------------------------------- |
+| Bandingkan dengan pusat | Sepusar (0 jam), ↓1–2 jari (1–2 jam) | Sepusar >2 jam → retensio/atonia    |
+| Sumbu lurus?            | Sumbu lurus                          | Miring → kandung kemih penuh/adhesi |
 
 #### B. Bentuk Fundus
 
-| Bentuk | Palpasi | Makna Klinis |
-|--------|---------|--------------|
-| **Globular** | Seperti bola tenis, batas tegas, cembung | Kontraksi baik — normal |
-| **Discoid** | Seperti piring, lebar, datar | Kontraksi belum optimal / atonia dini |
-| **Ireguler** | Permukaan tidak rata, tonjolan | Mioma uteri / bekuan darah intrauterin |
-| **Elongated** | Panjang, sempit | Adhesi pasca SC / uterus bikornis |
-| **Tidak teraba** | Tidak ada massa padat | Atonia total / inversio uteri / ruptur uteri |
+| Bentuk           | Palpasi                                  | Makna Klinis                                 |
+| ---------------- | ---------------------------------------- | -------------------------------------------- |
+| **Globular**     | Seperti bola tenis, batas tegas, cembung | Kontraksi baik — normal                      |
+| **Discoid**      | Seperti piring, lebar, datar             | Kontraksi belum optimal / atonia dini        |
+| **Ireguler**     | Permukaan tidak rata, tonjolan           | Mioma uteri / bekuan darah intrauterin       |
+| **Elongated**    | Panjang, sempit                          | Adhesi pasca SC / uterus bikornis            |
+| **Tidak teraba** | Tidak ada massa padat                    | Atonia total / inversio uteri / ruptur uteri |
 
 > [!danger] **Fundus Tidak Teraba = Emergensi!** Bila 0–2 jam postpartum fundus tidak teraba, pikirkan atonia total, inversio uteri, atau ruptur uteri. Segera palpasi vaginal untuk konfirmasi inversio.
 
 #### C. Konsistensi Fundus — Gunakan Tepi Ulnar
 
-| Konsistensi | Sensasi | Interpretasi |
-|-------------|---------|--------------|
-| **Keras (firm)** | Seperti dahi — tidak mudah cekung | Kontraksi baik |
-| **Kenyal (moderate)** | Seperti hidung — sedikit cekung | Kontraksi cukup — waspada |
-| **Lembek (boggy)** | Seperti dagu/spons — mudah cekung | **ATONIA UTERI** — risiko PPH! |
-| **Bergelombang** | Gelombang saat ditekan | Bekuan darah cair di kavum |
+| Konsistensi           | Sensasi                           | Interpretasi                   |
+| --------------------- | --------------------------------- | ------------------------------ |
+| **Keras (firm)**      | Seperti dahi — tidak mudah cekung | Kontraksi baik                 |
+| **Kenyal (moderate)** | Seperti hidung — sedikit cekung   | Kontraksi cukup — waspada      |
+| **Lembek (boggy)**    | Seperti dagu/spons — mudah cekung | **ATONIA UTERI** — risiko PPH! |
+| **Bergelombang**      | Gelombang saat ditekan            | Bekuan darah cair di kavum     |
 
-> [!danger] **Uterus Lembek = Atonia Uteri:** Tindakan segera → masase 5–10 putaran ringan + oksitosin 10 IU IM/IV + misoprostol 800 µg rektal jika tak membaik. Jika tetap atonia: [[42-kompresi-bimanual]] + rujuk.
+> [!danger] **Uterus Lembek = Atonia Uteri:** Tindakan segera → masase 5–10 putaran ringan + oksitosin 10 IU IM/IV + misoprostol 800 µg rektal jika tak membaik. Jika tetap atonia: Kompresi Bimanual + rujuk.
 
 #### D. Kontur dan Nyeri Tekan
 
-| Temuan | Interpretasi |
-|--------|-------------|
-| Tepi tegas, terpisah dari dinding abdomen | Normal |
-| Tepi tidak jelas | Edema / adhesi |
-| Batas lateral melebar | Kandung kemih penuh / bekuan intrauterin |
-| Nyeri tekan satu sisi | Parametritis / abses parametrial |
+| Temuan                                    | Interpretasi                             |
+| ----------------------------------------- | ---------------------------------------- |
+| Tepi tegas, terpisah dari dinding abdomen | Normal                                   |
+| Tepi tidak jelas                          | Edema / adhesi                           |
+| Batas lateral melebar                     | Kandung kemih penuh / bekuan intrauterin |
+| Nyeri tekan satu sisi                     | Parametritis / abses parametrial         |
 
 ### Langkah 4 — Hubungan dengan Kandung Kemih
 
@@ -175,16 +174,17 @@ flowchart LR
 
 Letakkan telapak tangan di fundus dan **diamkan 30–60 detik**:
 
-| Temuan | Makna |
-|--------|-------|
-| Mengeras → lembek bergantian | Kontraksi ritmik (normal Kala I–III) |
-| Tetap keras terus | Normal postpartum segera |
-| Tetap lembek terus | **Atonia uteri** |
+| Temuan                             | Makna                                                  |
+| ---------------------------------- | ------------------------------------------------------ |
+| Mengeras → lembek bergantian       | Kontraksi ritmik (normal Kala I–III)                   |
+| Tetap keras terus                  | Normal postpartum segera                               |
+| Tetap lembek terus                 | **Atonia uteri**                                       |
 | Mengeras saat ditekan, lalu lembek | Kontraksi hanya pada rangsangan → waspada atonia laten |
 
 ### Langkah 6 — Dokumentasi
 
 Template:
+
 ```
 Waktu: ____ (___ jam postpartum)
 Posisi: Midline / Bergeser ke kanan / Bergeser ke kiri
@@ -198,6 +198,7 @@ Kesan: Normal / Atonia / Subinvolusi / Curiga retensio
 ```
 
 **Contoh:**
+
 ```
 Waktu: 14.30 WIB (45 menit postpartum)
 Posisi: Midline. Tinggi: Sepusar. Bentuk: Globular.
@@ -212,31 +213,31 @@ Kesan: Normal — kontraksi baik.
 
 ### Posisi Fundus Normal Berdasarkan Waktu
 
-| Waktu | Posisi | Bentuk | Konsistensi |
-|-------|--------|--------|-------------|
-| 0 jam | Sepusar | Globular | Keras |
-| 1 jam | ↓1 jari | Globular | Keras |
-| 2 jam | ↓1–2 jari | Globular | Keras |
-| 6 jam | ↓2–3 jari | Globular–lonjong | Keras–kenyal |
-| 24 jam | ↓3–4 jari | Lonjong | Kenyal |
-| 3 hari | ↓5 jari | Lonjong | Kenyal |
-| 5–6 hari | ↓6 jari (= simfisis) | Lonjong-panjang | Kenyal |
-| 7–10 hari | Tidak teraba | — | — |
+| Waktu     | Posisi               | Bentuk           | Konsistensi  |
+| --------- | -------------------- | ---------------- | ------------ |
+| 0 jam     | Sepusar              | Globular         | Keras        |
+| 1 jam     | ↓1 jari              | Globular         | Keras        |
+| 2 jam     | ↓1–2 jari            | Globular         | Keras        |
+| 6 jam     | ↓2–3 jari            | Globular–lonjong | Keras–kenyal |
+| 24 jam    | ↓3–4 jari            | Lonjong          | Kenyal       |
+| 3 hari    | ↓5 jari              | Lonjong          | Kenyal       |
+| 5–6 hari  | ↓6 jari (= simfisis) | Lonjong-panjang  | Kenyal       |
+| 7–10 hari | Tidak teraba         | —                | —            |
 
-> [!info] Detail aturan "1 Jari Per Hari" ada di [[31-postpartum-pemeriksaan-fundus]].
+> [!info] Detail aturan "1 Jari Per Hari" ada di Postpartum Pemeriksaan Fundus.
 
 ### Temuan Abnormal
 
-| Temuan Palpasi | Curigai | Tindakan |
-|----------------|---------|----------|
-| Fundus lebih tinggi + lembek | Atonia uteri | Masase + oksitosin |
-| Fundus lebih tinggi + keras | Kandung kemih penuh | BAK/kateter → ulang |
-| Fundus lebih tinggi + kontraksi baik + perdarahan banyak | RPOC / bekuan intrauterin | USG → evakuasi |
-| Fundus tidak turun >3 hari | Subinvolusi | USG + evaluasi infeksi |
-| Fundus tidak teraba + perdarahan | Atonia total / inversio uteri | Kompresi bimanual + rujuk |
-| Fundus bergeser (setelah BAK) | Adhesi / massa adneksa | USG |
-| Fundus nyeri tekan + hangat | Endometritis | Antibiotik + kultur |
-| Fundus ireguler dengan tonjolan | Mioma uteri | USG |
+| Temuan Palpasi                                           | Curigai                       | Tindakan                  |
+| -------------------------------------------------------- | ----------------------------- | ------------------------- |
+| Fundus lebih tinggi + lembek                             | Atonia uteri                  | Masase + oksitosin        |
+| Fundus lebih tinggi + keras                              | Kandung kemih penuh           | BAK/kateter → ulang       |
+| Fundus lebih tinggi + kontraksi baik + perdarahan banyak | RPOC / bekuan intrauterin     | USG → evakuasi            |
+| Fundus tidak turun >3 hari                               | Subinvolusi                   | USG + evaluasi infeksi    |
+| Fundus tidak teraba + perdarahan                         | Atonia total / inversio uteri | Kompresi bimanual + rujuk |
+| Fundus bergeser (setelah BAK)                            | Adhesi / massa adneksa        | USG                       |
+| Fundus nyeri tekan + hangat                              | Endometritis                  | Antibiotik + kultur       |
+| Fundus ireguler dengan tonjolan                          | Mioma uteri                   | USG                       |
 
 ### Alur Interpretasi
 
@@ -257,28 +258,28 @@ flowchart TD
 
 ## Kesalahan yang Sering Terjadi
 
-| Kesalahan | Dampak | Pencegahan |
-|-----------|--------|------------|
-| Tidak periksa kandung kemih dulu | Posisi fundus salah | Evaluasi kandung kemih dulu |
-| Menyusuri dari simfisis (metode TFU) | Fokus ke tinggi, bukan posisi | Sapu dari epigastrium ke bawah |
-| Hanya ujung jari, bukan tepi ulnar | Tak rasakan kontur utuh | Gunakan telapak tangan penuh |
-| Menekan terlalu keras | Pasien tegang, palpasi tak akurat | Tekanan ringan-sedang, bertahap |
-| Tidak dokumentasi | Tak bisa bandingkan | Catat tiap kali |
-| Tak palpasi ulang setelah masase | Tak tahu efektivitas masase | Seluruh ulangi palpasi |
-| Fundus tak teraba dianggap normal (hari 0–1) | Missed atonia/inversio | Raba sampai simfisis |
-| Hanya fokus tinggi, abaikan bentuk+konsistensi | Informasi diagnostik hilang | Seluruh nilai ketiganya |
+| Kesalahan                                      | Dampak                            | Pencegahan                      |
+| ---------------------------------------------- | --------------------------------- | ------------------------------- |
+| Tidak periksa kandung kemih dulu               | Posisi fundus salah               | Evaluasi kandung kemih dulu     |
+| Menyusuri dari simfisis (metode TFU)           | Fokus ke tinggi, bukan posisi     | Sapu dari epigastrium ke bawah  |
+| Hanya ujung jari, bukan tepi ulnar             | Tak rasakan kontur utuh           | Gunakan telapak tangan penuh    |
+| Menekan terlalu keras                          | Pasien tegang, palpasi tak akurat | Tekanan ringan-sedang, bertahap |
+| Tidak dokumentasi                              | Tak bisa bandingkan               | Catat tiap kali                 |
+| Tak palpasi ulang setelah masase               | Tak tahu efektivitas masase       | Seluruh ulangi palpasi          |
+| Fundus tak teraba dianggap normal (hari 0–1)   | Missed atonia/inversio            | Raba sampai simfisis            |
+| Hanya fokus tinggi, abaikan bentuk+konsistensi | Informasi diagnostik hilang       | Seluruh nilai ketiganya         |
 
 ---
 
 ## Hubungan dengan Keterampilan Lain
 
-| Keterampilan | Hubungan |
-|-------------|----------|
-| [[31-postpartum-pemeriksaan-fundus]] | **Komplementer.** Skill 35 dulu (posisi), lalu skill 31 (tinggi). |
-| [[32-memperkirakan-kehilangan-darah]] | Palpasi posisi adalah langkah awal deteksi atonia → PPH. |
-| [[19-palpasi-leopold]] | Leopold I (fundal grip) adalah palpasi posisi fundus antepartum. |
-| [[42-kompresi-bimanual]] | Bila atonia tidak membaik setelah masase + obat. |
-| [[27-menolong-persalinan-fisiologis-apn]] | Dilakukan di Kala IV sebagai bagian APN. |
+| Keterampilan                       | Hubungan                                                          |
+| ---------------------------------- | ----------------------------------------------------------------- |
+| Postpartum Pemeriksaan Fundus      | **Komplementer.** Skill 35 dulu (posisi), lalu skill 31 (tinggi). |
+| Memperkirakan Kehilangan Darah     | Palpasi posisi adalah langkah awal deteksi atonia → PPH.          |
+| Palpasi Leopold                    | Leopold I (fundal grip) adalah palpasi posisi fundus antepartum.  |
+| Kompresi Bimanual                  | Bila atonia tidak membaik setelah masase + obat.                  |
+| Menolong Persalinan Fisiologis Apn | Dilakukan di Kala IV sebagai bagian APN.                          |
 
 ---
 

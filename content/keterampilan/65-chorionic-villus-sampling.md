@@ -1,23 +1,24 @@
 ---
 title: Chorionic Villus Sampling (CVS)
 tags:
-- keterampilan
-- antenatal
-- skdi-2
+  - keterampilan
+  - antenatal
+  - skdi-2
 level_kompetensi: 2
 kategori: antenatal
 nomor_modul: 65
 aliases:
-- CVS
-- Biopsis Korion
-- Pengambilan Sampel Jaringan Plasenta
-- cvs
-- chorionic villus sampling
-- biopsi korion
-- pengambilan jaringan plasenta
+  - CVS
+  - Biopsis Korion
+  - Pengambilan Sampel Jaringan Plasenta
+  - cvs
+  - chorionic villus sampling
+  - biopsi korion
+  - pengambilan jaringan plasenta
 cssclasses:
-- buku-saku
+  - buku-saku
 ---
+
 ----|-----|---------------|
 | **Usia kehamilan** | 10-13 mg (optimal 11-12) | 15-20 mg (optimal 16-18) |
 | **Jaringan diambil** | Korionik villi (plasenta) | Cairan amnion (sel janin) |
@@ -37,11 +38,13 @@ cssclasses:
 ## Kontraindikasi
 
 **Absolut:**
+
 - Pendarahan vagina aktif
 - Infeksi serviks/vagina aktif (servisitis, HSV aktif, gonore, klamidia)
 - Pasien menolak
 
 **Relatif:**
+
 - Mioma submukosa/servikal menghalangi jalur transcervikal
 - Uterus retrofleksi ekstrem (sulit transabdominal)
 - Plasenta previa / low-lying (transcervikal kontraindikasi)
@@ -59,12 +62,14 @@ cssclasses:
 ## Teknik
 
 ### A. Transabdominal (lebih umum sekarang)
+
 - Mirip amniosentesis, tapi jarum lebih pendek/tebal (18-20G)
 - Target: **plasenta** (bagian tebal, bukan membran)
 - Teknik: "needle aspiration" dengan sering 20 mL + plunger, atau gunting biopsy
 - USG real-time wajib — lihat ujung jarum di dalam plasenta
 
 ### B. Transcervikal (jarang sekarang)
+
 - Spekulum, tenakulum serviks
 - Kateter CVS (kateter plastik fleksibel dengan stylet) masuk via serviks ke plasenta bawah USG abdominal
 - Aspirasi dengan sering
@@ -75,11 +80,11 @@ cssclasses:
 
 ## Specimen Handling
 
-| Analisis | Volume/Metode | Media |
-|----------|---------------|-------|
-| Cariotipe / FISH / Microarray | 5-10 mg jaringan | Media transport (RPMI / AmnioMax) |
-| PCR mutasi spesifik (talasemia, CF, SMA) | 2-5 mg | Steril tube, beku -20°C |
-| Biokimia enzim | 10-20 mg | Media khusus (cek lab) |
+| Analisis                                 | Volume/Metode    | Media                             |
+| ---------------------------------------- | ---------------- | --------------------------------- |
+| Cariotipe / FISH / Microarray            | 5-10 mg jaringan | Media transport (RPMI / AmnioMax) |
+| PCR mutasi spesifik (talasemia, CF, SMA) | 2-5 mg           | Steril tube, beku -20°C           |
+| Biokimia enzim                           | 10-20 mg         | Media khusus (cek lab)            |
 
 ## Risiko
 
@@ -109,9 +114,9 @@ cssclasses:
 
 ## Keterampilan Terkait
 
-- [[64-amniosentesis]]
-- [[25-pemeriksaan-usg-obstetri]]
-- [[21-pemeriksaan-kehamilan-muda]]
+- Amniosentesis
+- Pemeriksaan Usg Obstetri
+- Pemeriksaan Kehamilan Muda
 
 ## Referensi
 

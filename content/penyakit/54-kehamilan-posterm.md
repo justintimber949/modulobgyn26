@@ -32,12 +32,12 @@ Ny. Sari, 28 tahun, G1P0A0, usia kehamilan 41+3 minggu (LMP & USG trimester 1 se
 
 ## Definisi
 
-| Terminologi | Usia Kehamilan |
-|-------------|----------------|
-| **Term (Cukup bulan)** | 37+0 - 41+6 minggu |
-| **Early Term** | 37+0 - 38+6 |
-| **Full Term** | 39+0 - 40+6 |
-| **Late Term** | **41+0 - 41+6** |
+| Terminologi                | Usia Kehamilan               |
+| -------------------------- | ---------------------------- |
+| **Term (Cukup bulan)**     | 37+0 - 41+6 minggu           |
+| **Early Term**             | 37+0 - 38+6                  |
+| **Full Term**              | 39+0 - 40+6                  |
+| **Late Term**              | **41+0 - 41+6**              |
 | **Post-term (Postmature)** | **≥ 42+0 minggu (294 hari)** |
 
 > **Post-term = ≥ 42 minggu** — definisi konsensus WHO/ACOG/POGI.
@@ -49,16 +49,16 @@ Ny. Sari, 28 tahun, G1P0A0, usia kehamilan 41+3 minggu (LMP & USG trimester 1 se
 - **USG trimester 1 (CRL) mengurangi diagnosis post-term palsu** dari 10-15% jadi 1-2%
 - Risiko naik **eksponensial setelah 41 minggu**
 
-| Komplikasi | Risiko Relatif (vs 40 mg) |
-|------------|---------------------------|
-| **Mortalitas perinatal** | 2-3× lipat di 42 mg, 4-6× di 43 mg |
-| **Makrosomia (> 4000g)** | 15-20% (vs 7-10% term) |
-| **Distosia bahu** | 2-3× |
-| **Meconium Aspiration Syndrome (MAS)** | 5-10% (vs 1-2% term) |
-| **Oligohidramnion / Placental insufficiency** | 10-15% |
-| **Kehamilan ganda / IUGR** | Risiko stillbirth ↑ |
-| **SC darurat** | 2× |
-| **Perdarahan postpartum** | Sedikit ↑ |
+| Komplikasi                                    | Risiko Relatif (vs 40 mg)          |
+| --------------------------------------------- | ---------------------------------- |
+| **Mortalitas perinatal**                      | 2-3× lipat di 42 mg, 4-6× di 43 mg |
+| **Makrosomia (> 4000g)**                      | 15-20% (vs 7-10% term)             |
+| **Distosia bahu**                             | 2-3×                               |
+| **Meconium Aspiration Syndrome (MAS)**        | 5-10% (vs 1-2% term)               |
+| **Oligohidramnion / Placental insufficiency** | 10-15%                             |
+| **Kehamilan ganda / IUGR**                    | Risiko stillbirth ↑                |
+| **SC darurat**                                | 2×                                 |
+| **Perdarahan postpartum**                     | Sedikit ↑                          |
 
 ## Etiologi (Kenapa Bisa Post-term?)
 
@@ -73,20 +73,21 @@ Ny. Sari, 28 tahun, G1P0A0, usia kehamilan 41+3 minggu (LMP & USG trimester 1 se
 ## Diagnosis & Penilaian (Antepartum Surveillance)
 
 ### 1. Penetapan Usia Kehamilan (KRUSIAL)
+
 - **Gold standard:** USG Trimester 1 (CRL 8-13 mg) — akurasi ± 3-5 hari
 - Jika tidak ada USG T1: LMP (jika siklus teratur 28 hari, ingat LMP, tidak KB hormonal 3 bln) ± 7-10 hari
 - **Jika dating ragu → kelola sebagai "post-term potensial" dengan monitoring ketat**
 
 ### 2. Monitoring Fetal Well-being (Mulai 41 mg, atau 40 mg jika risiko tinggi)
 
-| Modalitas | Frekuensi | Indikasi Abnormal → Aksi |
-|-----------|-----------|--------------------------|
-| **Kick Count (DFMC)** | Harian, 10 gerakan < 2 jam | < 10 gerakan 2 jam → NST/USG segera |
-| **NST (Non-Stress Test)** | 2×/minggu (41 mg) / harian (42 mg) | Non-reaktif / deselerasi → USG+BPP/SC |
-| **AFI (Amniotic Fluid Index)** | 1-2×/minggu | **AFI ≤ 5 cm (oligohidramnion) → INDUKSI/SC SEGERA** |
-| **Doppler UA (Umbilical Artery)** | 1×/minggu | AEDV/REV → SC SEGERA |
-| **BPP (Biophysical Profile)** | Jika NST non-reaktif / AFI borderline | BPP ≤ 4/10 → SC; 6/10 → ulang 24 jam / induksi |
-| **USG Pertumbuhan (EFW)** | 1-2×/minggu | Makrosomia > 4000-4500g → pertimbangkan SC |
+| Modalitas                         | Frekuensi                             | Indikasi Abnormal → Aksi                             |
+| --------------------------------- | ------------------------------------- | ---------------------------------------------------- |
+| **Kick Count (DFMC)**             | Harian, 10 gerakan < 2 jam            | < 10 gerakan 2 jam → NST/USG segera                  |
+| **NST (Non-Stress Test)**         | 2×/minggu (41 mg) / harian (42 mg)    | Non-reaktif / deselerasi → USG+BPP/SC                |
+| **AFI (Amniotic Fluid Index)**    | 1-2×/minggu                           | **AFI ≤ 5 cm (oligohidramnion) → INDUKSI/SC SEGERA** |
+| **Doppler UA (Umbilical Artery)** | 1×/minggu                             | AEDV/REV → SC SEGERA                                 |
+| **BPP (Biophysical Profile)**     | Jika NST non-reaktif / AFI borderline | BPP ≤ 4/10 → SC; 6/10 → ulang 24 jam / induksi       |
+| **USG Pertumbuhan (EFW)**         | 1-2×/minggu                           | Makrosomia > 4000-4500g → pertimbangkan SC           |
 
 > [!warning] Red Flag
 > **AFI ≤ 5 cm (Oligohidramnion) pada ≥ 41 mg** → **INDUKSI SEGERA / SC** — risiko kompresi tali pusat, MAS, asfiksia tinggi.
@@ -97,39 +98,45 @@ Ny. Sari, 28 tahun, G1P0A0, usia kehamilan 41+3 minggu (LMP & USG trimester 1 se
 ## Tata Laksana
 
 ### A. 41+0 - 41+6 Minggu (Late Term)
-| Strategi | Evidensi | Kapan Dipilih |
-|----------|----------|---------------|
-| **Induksi Persalinan (Direkomendasikan)** | **ARRIVE Trial, Cochrane, ACOG, POGI:** Induksi 41 mg **mengurangi stillbirth 50%, mengurangi SC, tidak naik MAS** | **Standar perawatan** — tawarkan ke semua ibu 41+0-41+3 |
-| **Expectant Management + Monitoring Ketat** | Bisa dipilih ibu yg informed consent, monitoring harian NST+AFI+Kick Count | Jika ibu menolak induksi, serviks sangat tidak matang (Bishop < 4), fasilitas induksi terbatas |
+
+| Strategi                                    | Evidensi                                                                                                           | Kapan Dipilih                                                                                  |
+| ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------- |
+| **Induksi Persalinan (Direkomendasikan)**   | **ARRIVE Trial, Cochrane, ACOG, POGI:** Induksi 41 mg **mengurangi stillbirth 50%, mengurangi SC, tidak naik MAS** | **Standar perawatan** — tawarkan ke semua ibu 41+0-41+3                                        |
+| **Expectant Management + Monitoring Ketat** | Bisa dipilih ibu yg informed consent, monitoring harian NST+AFI+Kick Count                                         | Jika ibu menolak induksi, serviks sangat tidak matang (Bishop < 4), fasilitas induksi terbatas |
 
 **Induksi 41 mg (Standar):**
+
 - **Serviks matang (Bishop ≥ 6):** Oksitosin augmentasi / ARM (amniotomi)
 - **Serviks tidak matang (Bishop < 6):** **Misoprostol 25 mcg PV 4-6 jam** (max 6 dosis/24 jam) **ATAU** Ballon kateter (Foley/Cook) 12-24 jam → lalu oksitosin
 - **Kontraindikasi misoprostol:** SC sebelumnya, uterine anomaly, multifetal, placenta previa, KPD > 18 jam
 
 ### B. ≥ 42+0 Minggu (Post-term)
+
 - **INDUKSI WAJIB** (tidak ada expectant management)
 - Jika induksi gagal / kontraindikasi → **SC**
 
 ### C. Khusus: Kehamilan Ganda / Komplikasi
+
 - **Dikori 1:** Induksi 37-38 mg (monokorionik) / 38-39 mg (dikori 2)
 - **Preeklampsia / IUGR / Oligohidramnion / Doppler abnormal:** Induksi/SC sesuai keparahan (bisa < 41 mg)
 
 ## Induksi Persalinan Post-term (Protokol Praktis)
 
 ### 1. Penilaian Bishop Score (Serviks Matang?)
-| Komponen | 0 | 1 | 2 | 3 |
-|----------|---|---|---|---|
-| Dilatasi (cm) | Tertutup | 1-2 | 3-4 | ≥ 5 |
-| Effacement (%) | 0-30 | 40-50 | 60-70 | ≥ 80 |
-| Station | -3 | -2 | -1, 0 | +1, +2 |
-| Konsistensi | Keras | Sedang | Lunak | - |
-| Posisi | Posterior | Mid | Anterior | - |
-| **Total ≥ 6 = Matang** | **< 6 = Tidak Matang** | | | |
+
+| Komponen               | 0                      | 1      | 2        | 3      |
+| ---------------------- | ---------------------- | ------ | -------- | ------ |
+| Dilatasi (cm)          | Tertutup               | 1-2    | 3-4      | ≥ 5    |
+| Effacement (%)         | 0-30                   | 40-50  | 60-70    | ≥ 80   |
+| Station                | -3                     | -2     | -1, 0    | +1, +2 |
+| Konsistensi            | Keras                  | Sedang | Lunak    | -      |
+| Posisi                 | Posterior              | Mid    | Anterior | -      |
+| **Total ≥ 6 = Matang** | **< 6 = Tidak Matang** |        |          |        |
 
 ### 2. Protokol Induksi (Pilih 1)
 
 **A. Serviks Matang (Bishop ≥ 6):**
+
 1. **ARM (Amniotomi)** jika KPD belum pecah + kepala terfiksasi (station ≥ 0)
 2. **Oksitosin IV:** Mulai 1-2 mU/min, naik 1-2 mU/min tiap 15-30 menit hingga kontraksi 3-4/10 menit, durasi 40-60 detik
 3. Monitoring: NST kontinu, IV line, oksitosin pump
@@ -145,6 +152,7 @@ Ny. Sari, 28 tahun, G1P0A0, usia kehamilan 41+3 minggu (LMP & USG trimester 1 se
 > **Pilihan pertama Indonesia (POGI):** **Misoprostol 25 mcg PV 4-6 jam** (efektif, murah, tersedia). **Jika kontraindikasi → Ballon Kateter.**
 
 ### 3. Kriteria Gagal Induksi → SC
+
 - **Fase Latent:** Tidak masuk fase aktif (dilatasi < 6 cm) setelah **12-18 jam** oksitosin adekuat (kontraksi 3-4/10 menit, adequate MVU > 200) + ARM
 - **Fase Aktif:** Dilatasi < 6 cm, **tidak progres ≥ 4 jam** oksitosin adekuat + ARM
 - **Fase 2:** Pengejanan ≥ 3 jam (primipara) / ≥ 2 jam (multipara) tanpa progres
@@ -153,13 +161,13 @@ Ny. Sari, 28 tahun, G1P0A0, usia kehamilan 41+3 minggu (LMP & USG trimester 1 se
 
 ## Pasca Persalinan Monitoring
 
-| Bayi Post-term / Late Term | Risiko Khusus | Tindakan |
-|----------------------------|---------------|----------|
-| **MAS (Meconium Aspiration)** | 5-10% | Suction mulut/hidung **SEBELUM** toraks lahir (jika mec spesifik), intubasi + suction trakea jika mec tebal / bayi tidak nangis / HR < 100 |
-| **Hipoglikemia** | Glikogen habis | Cek glukosa 1, 2, 3 jam — ASI dini < 1 jam |
-| **Hipokalemia / Hipomagnesemia** | Transfusi plasenta tua | Cek elektrolit jika gejala |
-| **Infeksi (Korioamnionitis)** | KPD lama | Cek CRP, PCT, kultur darah — antibiotik jika indikasi |
-| **Makrosomia** | Distosia bahu, laserasi | Evaluasi BB, cek glukosa, cek klavikula/brakius plexus |
+| Bayi Post-term / Late Term       | Risiko Khusus           | Tindakan                                                                                                                                   |
+| -------------------------------- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| **MAS (Meconium Aspiration)**    | 5-10%                   | Suction mulut/hidung **SEBELUM** toraks lahir (jika mec spesifik), intubasi + suction trakea jika mec tebal / bayi tidak nangis / HR < 100 |
+| **Hipoglikemia**                 | Glikogen habis          | Cek glukosa 1, 2, 3 jam — ASI dini < 1 jam                                                                                                 |
+| **Hipokalemia / Hipomagnesemia** | Transfusi plasenta tua  | Cek elektrolit jika gejala                                                                                                                 |
+| **Infeksi (Korioamnionitis)**    | KPD lama                | Cek CRP, PCT, kultur darah — antibiotik jika indikasi                                                                                      |
+| **Makrosomia**                   | Distosia bahu, laserasi | Evaluasi BB, cek glukosa, cek klavikula/brakius plexus                                                                                     |
 
 ## Ringkasan untuk Dokter Umum
 
@@ -175,15 +183,15 @@ Ny. Sari, 28 tahun, G1P0A0, usia kehamilan 41+3 minggu (LMP & USG trimester 1 se
 
 ## Keterampilan Terkait
 
-- [[18-inspeksi-abdomen-wanita-hamil]]
-- [[19-palpasi-leopold]]
-- [[20-mengidentifikasi-djj]]
-- [[21-pemeriksaan-kehamilan-muda]]
-- [[23-tes-kehamilan]]
-- [[25-pemeriksaan-usg-obstetri]]
-- [[53-induksi-kimiawi-persalinan]]
-- [[70-operasi-caesar]]
-- [[46-resusitasi-neonatal]]
+- Inspeksi Abdomen Wanita Hamil
+- Palpasi Leopold
+- Mengidentifikasi Djj
+- Pemeriksaan Kehamilan Muda
+- Tes Kehamilan
+- Pemeriksaan Usg Obstetri
+- Induksi Kimiawi Persalinan
+- Operasi Caesar
+- Resusitasi Neonatal
 
 ## Referensi
 

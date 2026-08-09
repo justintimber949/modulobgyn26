@@ -1,24 +1,25 @@
 ---
 title: Inseminasi Artifisial (IUI)
 tags:
-- keterampilan
-- ginekologi-dasar
-- skdi-1
+  - keterampilan
+  - ginekologi-dasar
+  - skdi-1
 level_kompetensi: 1
 kategori: ginekologi-dasar
 nomor_modul: 73
 aliases:
-- IUI (Intrauterine Insemination)
-- Inseminasi Intrauterin
-- Inseminasi Buatan
-- iui
-- inseminasi intrauterin
-- inseminasi buatan
-- inseminasi artifisial
-- intrauterine insemination
+  - IUI (Intrauterine Insemination)
+  - Inseminasi Intrauterin
+  - Inseminasi Buatan
+  - iui
+  - inseminasi intrauterin
+  - inseminasi buatan
+  - inseminasi artifisial
+  - intrauterine insemination
 cssclasses:
-- buku-saku
+  - buku-saku
 ---
+
 -------|-------------------|
 | **Faktor sperma (ringan-sedang)** | Oligozoospermia (count 5-20 jt/mL), astenozoospermia (motilitas 20-40%), teratozoospermia ringan |
 | **Faktor serviks** | Hostile cervical mucus, stenosis serviks, antisperm antibody |
@@ -30,12 +31,14 @@ cssclasses:
 ## Kontraindikasi
 
 **Absolut:**
+
 - Tuba **tidak paten bilateral** (HSG/laparoskopi)
 - Infeksi pelvis aktif (PID)
 - Kehamilan
 - Anomalia uterus mayor yang mencegah implantasi
 
 **Relatif:**
+
 - Usia ibu > 40 th (success rate sangat rendah → IVF lebih baik)
 - Endometriosis stadium III-IV
 - Oligozoospermia berat (< 5 jt/mL post-wash) → IVF/ICSI
@@ -44,33 +47,38 @@ cssclasses:
 ## Persiapan & Workflow Siklus IUI
 
 ### 1. Pra-Siklus (Workup)
+
 - **Ibu:** USG transvaginal baseline (anak, uterus, AFC), hormon (AMH, FSH, LH, E2, TSH, Prolaktin), HSG/laparoskopi (tuba), Pap smear
 - **Suami:** Spermogram (2×, jarak 2-4 minggu), HLA/screening infeksi (HIV, HBsAg, Anti-HCV, Sifilis) — **WAJIB** jika donor sperm
 
 ### 2. Protokol Stimulasi (Pilih 1)
-| Protokol | Obat | Dosis | Monitoring |
-|----------|------|-------|------------|
-| **Natural cycle** | Tidak ada | - | USG serial hari 10-12 |
-| **Letrozol** | Letrozol 2,5-5 mg | Hari 3-7 | USG hari 10-12 |
-| **Klomifen** | Ksitrat klomifen 50-100 mg | Hari 3-7 | USG hari 10-12 |
-| **Gonadotropin** | rFSH/hMG 75-150 IU | Hari 3-? | USG + E2 serial (risiko OHSS & multikelamin ↑) |
+
+| Protokol          | Obat                       | Dosis    | Monitoring                                     |
+| ----------------- | -------------------------- | -------- | ---------------------------------------------- |
+| **Natural cycle** | Tidak ada                  | -        | USG serial hari 10-12                          |
+| **Letrozol**      | Letrozol 2,5-5 mg          | Hari 3-7 | USG hari 10-12                                 |
+| **Klomifen**      | Ksitrat klomifen 50-100 mg | Hari 3-7 | USG hari 10-12                                 |
+| **Gonadotropin**  | rFSH/hMG 75-150 IU         | Hari 3-? | USG + E2 serial (risiko OHSS & multikelamin ↑) |
 
 > [!tip] Yang Sering Jadi Jebakan
 > **Letrozol sekarang preferred over klomifen** untuk IUI: efek endometrium lebih baik, risiko multikelamin lebih rendah, live birth rate lebih tinggi (RCT).
 
 ### 3. Trigger & Timing IUI
+
 - **Trigger:** hCG 5.000-10.000 IU IM/SC saat folikel dominan ≥ 18 mm (atau ≥ 2 folikel ≥ 16 mm)
 - **Waktu IUI:** **36-40 jam post-hCG** (optimal: 36 jam)
 - **Atau:** Deteksi LH surge alami (OPK) → IUI 24-36 jam setelah surge
 
 ### 4. Preparasi Sperma (Sperm Wash) — **KRUSIAL**
-| Metode | Prinsip | Cocok Untuk |
-|--------|---------|-------------|
-| **Swim-up** | Sperma motil berenang ke media overlay | Count normal, motilitas baik |
-| **Density gradient (Percoll/PureSperm)** | Sentrifugasi lapisan densitas berbeda | Count rendah, banyak debris/leukosit |
-| **Simple wash (centrifuge + resuspend)** | Cepat, tapi tidak selektif motilitas | Hanya jika tidak ada gradient |
+
+| Metode                                   | Prinsip                                | Cocok Untuk                          |
+| ---------------------------------------- | -------------------------------------- | ------------------------------------ |
+| **Swim-up**                              | Sperma motil berenang ke media overlay | Count normal, motilitas baik         |
+| **Density gradient (Percoll/PureSperm)** | Sentrifugasi lapisan densitas berbeda  | Count rendah, banyak debris/leukosit |
+| **Simple wash (centrifuge + resuspend)** | Cepat, tapi tidak selektif motilitas   | Hanya jika tidak ada gradient        |
 
 **Kriteria post-wash minimal untuk IUI:**
+
 - Total motile sperm (TMS) **≥ 5-10 juta** (ideal > 10 juta)
 - Motilitas progresif **≥ 40%**
 - Volume inseminat **0,3-0,5 mL** (maks 1 mL)
@@ -78,6 +86,7 @@ cssclasses:
 ### 5. Prosedur IUI (Hari IUI)
 
 **Langkah-langkah:**
+
 1. Pasien litotomi, henti BAK 30 menit (penuh sedikit membantu visualisasi serviks)
 2. Spekulum, visualisasi serviks, bersihkan serviks dengan NaCl 0,9% (JANGAN betadine/spermisida!)
 3. Kateter IUI (kateter lunak, mis. Wallace/CCD/Cooper) masukkan ke rongga uterus
@@ -90,25 +99,25 @@ cssclasses:
 
 ## Kriteria Keberhasilan & Prognosis
 
-| Faktor | Success Rate / Siklus |
-|--------|----------------------|
-| Unexplained, usia < 35, TMS > 10 jt | 15-20% |
-| Faktor sperma ringan, TMS 5-10 jt | 10-15% |
-| PCOS + letrozol, TMS > 10 jt | 12-18% |
-| Usia 35-37 | 10-12% |
-| Usia 38-40 | 5-8% |
-| > 40 | < 3% (IVF direkomendasikan) |
-| **Kumulatif 3-4 siklus** | **30-45%** (jika prognosis baik) |
+| Faktor                              | Success Rate / Siklus            |
+| ----------------------------------- | -------------------------------- |
+| Unexplained, usia < 35, TMS > 10 jt | 15-20%                           |
+| Faktor sperma ringan, TMS 5-10 jt   | 10-15%                           |
+| PCOS + letrozol, TMS > 10 jt        | 12-18%                           |
+| Usia 35-37                          | 10-12%                           |
+| Usia 38-40                          | 5-8%                             |
+| > 40                                | < 3% (IVF direkomendasikan)      |
+| **Kumulatif 3-4 siklus**            | **30-45%** (jika prognosis baik) |
 
 ## Komplikasi
 
-| Komplikasi | Frekuensi | Penanganan |
-|------------|-----------|------------|
-| **Kehamilan ganda** (twins+) | 8-15% (stimulasi gonadotropin > letrozol) | Monitoring folikel ketat, cancel jika > 3 folikel ≥ 16 mm |
-| **OHSS** | < 1% (letrozol/klomifen), 1-3% (gonadotropin) | Cancel trigger, freeze all, supportif |
-| **Infeksi (PID)** | < 0,5% | Screening infeksi dulu, teknik asepsis |
-| **Nyeri / kram** | 20-30% | NSAID PRN |
-| **Perdarahan implantasi** | 10-15% | Reassurance, bukan menstruasi |
+| Komplikasi                   | Frekuensi                                     | Penanganan                                                |
+| ---------------------------- | --------------------------------------------- | --------------------------------------------------------- |
+| **Kehamilan ganda** (twins+) | 8-15% (stimulasi gonadotropin > letrozol)     | Monitoring folikel ketat, cancel jika > 3 folikel ≥ 16 mm |
+| **OHSS**                     | < 1% (letrozol/klomifen), 1-3% (gonadotropin) | Cancel trigger, freeze all, supportif                     |
+| **Infeksi (PID)**            | < 0,5%                                        | Screening infeksi dulu, teknik asepsis                    |
+| **Nyeri / kram**             | 20-30%                                        | NSAID PRN                                                 |
+| **Perdarahan implantasi**    | 10-15%                                        | Reassurance, bukan menstruasi                             |
 
 ## Ringkasan untuk Dokter Umum
 
@@ -123,10 +132,10 @@ cssclasses:
 
 ## Keterampilan Terkait
 
-- [[48-uji-paska-koitus]]
-- [[15-identifikasi-kehamilan-risiko-tinggi]]
-- [[71-histerosalpingografi]]
-- [[72-peniupan-tuba-fallopi]]
+- [[48-uji-pasca-koitus]
+- Identifikasi Kehamilan Risiko Tinggi
+- Histerosalpingografi
+- Peniupan Tuba Fallopi
 
 ## Referensi
 

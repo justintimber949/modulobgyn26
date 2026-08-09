@@ -36,6 +36,7 @@ Aborsi inkomplit adalah kondisi setelah aborsi spontan di mana sebagian jaringan
 ## Etiologi
 
 Sama dengan aborsi spontan pada umumnya:
+
 - Kelainan kromosom pada janin (penyebab tersering trimester 1)
 - Anomali kongenital janin
 - Infeksi TORCH
@@ -50,12 +51,14 @@ Setelah sebagian jaringan konseptus keluar, sisa jaringan yang tertinggal menceg
 ## Diagnosis
 
 ### Kriteria Klinis
+
 1. Riwayat perdarahan dan nyeri kram pada kehamilan trimester 1
 2. Serviks terbuka
 3. Jaringan teraba di kanalis servikalis atau pervaginam
 4. Ukuran uterus lebih kecil dari usia kehamilan
 
 ### Pemeriksaan Penunjang
+
 - **USG:** menunjukkan sisa jaringan di dalam uterus (echogenic material di kavum uteri)
 - **Hemoglobin:** bisa rendah karena perdarahan
 - **Golongan darah dan crossmatch** jika perdarahan berat
@@ -66,40 +69,45 @@ Setelah sebagian jaringan konseptus keluar, sisa jaringan yang tertinggal menceg
 
 ## Diagnosis Banding
 
-| Kondisi | Pembeda |
-|---------|---------|
-| Mola hidatidosa | HCG sangat tinggi, uterus lebih besar dari UK, "snow storm" pada USG |
-| Kehamilan ektopik ruptur | Nyeri perut hebat, HCG rendah, adanya cairan bebas di pelvis |
-| Fibroid yang mengalami degenerasi | Riwayat mioma, tidak ada riwayat kehamilan |
-| Polip serviks | Tidak ada riwayat kehamilan, serviks normal |
+| Kondisi                           | Pembeda                                                              |
+| --------------------------------- | -------------------------------------------------------------------- |
+| Mola hidatidosa                   | HCG sangat tinggi, uterus lebih besar dari UK, "snow storm" pada USG |
+| Kehamilan ektopik ruptur          | Nyeri perut hebat, HCG rendah, adanya cairan bebas di pelvis         |
+| Fibroid yang mengalami degenerasi | Riwayat mioma, tidak ada riwayat kehamilan                           |
+| Polip serviks                     | Tidak ada riwayat kehamilan, serviks normal                          |
 
 ## Tatalaksana
 
 ### Level 3B — Pilihan Tatalaksana
 
 **Opsi 1: Ekspektasi (Observasi)**
+
 - Cocok untuk aborsi inkomplit dengan perdarahan sedikit
 - Berikan obat penghilang nyeri (parasetamol, ibuprofen)
 - Pantau perdarahan dan suhu
 - Kontrol ulang dalam 1-2 minggu
 
 **Opsi 2: Obat**
+
 - **Misoprostol 400-600 μg** sublingual/perorally
 - Bisa mengeluarkan sisa jaringan dalam 24-48 jam
 - Pantau perdarahan dan efek samping (mual, muntah, diare)
 
 **Opsi 3: Kuretase (Bedah)**
+
 - Diperlukan jika perdarahan banyak atau tidak berhenti
 - Atau jika ada tanda infeksi
 - Rujuk ke SpOG untuk kuretase
 
 ### Obat yang Diberikan
+
 - **Parasetamol 500 mg** 3× sehari untuk nyeri
 - **Ibuprofen 400 mg** 3× sehari (jika tidak ada kontraindikasi)
 - **Misoprostol 600 μg** sublingual satu kali (jika dipilih opsi obat)
 - **Antibiotik profilaksis** jika ada tanda infeksi: Amoksisilin 500 mg 3× sehari selama 5 hari
 
 ### Indikasi Rujuk
+
 - Perdarahan berat dan tidak berhenti
 - Tanda-tanda syok
 - Demam / tanda infeksi
@@ -141,10 +149,10 @@ Ny. Wati dengan perdarahan sedang dan serviks terbuka 2 cm diputuskan untuk dibe
 
 ## Keterampilan Terkait
 
-- [[26-pemeriksaan-obstetri]]
-- [[25-pemeriksaan-usg-obstetri]]
-- [[32-memperkirakan-kehilangan-darah]]
-- [[42-kompresi-bimanual]]
+- Pemeriksaan Obstetri
+- Pemeriksaan Usg Obstetri
+- Memperkirakan Kehilangan Darah
+- Kompresi Bimanual
 
 ## Referensi
 

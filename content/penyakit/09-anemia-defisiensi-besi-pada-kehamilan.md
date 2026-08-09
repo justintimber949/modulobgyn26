@@ -31,9 +31,9 @@ cssclasses:
 
 ## Vignette
 
-**Bu Susi, 28 tahun, G2P1A0, hamil 20 minggu** datang ke Poli Antenatal RSKH dengan keluhan: *"Dok, akhir-akhir ini saya cepat capek, pusing, dan kalau lihat makanan jadi mual. Padahal mual-mual awal kehamilan sudah berkurang setelah masuk trimester 2."*
+**Bu Susi, 28 tahun, G2P1A0, hamil 20 minggu** datang ke Poli Antenatal RSKH dengan keluhan: _"Dok, akhir-akhir ini saya cepat capek, pusing, dan kalau lihat makanan jadi mual. Padahal mual-mual awal kehamilan sudah berkurang setelah masuk trimester 2."_
 
-Pada trimester pertamanya, Bu Susi sempat mengalami perdarahan sedikit dan dirawat di puskesmas. Ia rutin minum tablet tambah darah yang diberikan bidan, tetapi sering lupa karena takut mual. Kini ia datang dengan keluhan lemas yang mengganggu aktivitas sehari-hari — bahkan merasa *"seperti mau pingsan"* saat bangun tidur.
+Pada trimester pertamanya, Bu Susi sempat mengalami perdarahan sedikit dan dirawat di puskesmas. Ia rutin minum tablet tambah darah yang diberikan bidan, tetapi sering lupa karena takut mual. Kini ia datang dengan keluhan lemas yang mengganggu aktivitas sehari-hari — bahkan merasa _"seperti mau pingsan"_ saat bangun tidur.
 
 Pemeriksaan fisik menunjukkan konjungtiva pucat, telapak tangan tampak pucat, dan hasil laboratorium: **Hb 8,6 gr/dL**, MCV 74 fL, MCH 24 pg, feritin serum 10 ng/mL. Tekanan darah 100/60 mmHg, nadi 92×/menit, pernapasan 20×/menit, suhu afebris. Berat badannya naik 3 kg dari awal kehamilan (masih dalam batas normal untuk usia kehamilan 20 minggu).
 
@@ -51,21 +51,21 @@ _Ini adalah gambaran klasik anemia defisiensi besi pada kehamilan — salah satu
 
 Berdasarkan konsensus WHO dan POGI, batas hemoglobin (Hb) yang digunakan:
 
-| Trimester | Batas Hb | Keterangan |
-|-----------|----------|------------|
-| **Trimester I** | **< 11 gr/dL** | Hemodilusi minimal |
-| **Trimester II** | **< 10,5 gr/dL** | Hemodilusi maksimal (puncak sekitar 28–32 minggu) |
-| **Trimester III** | **< 11 gr/dL** | Volume plasma stabil, kebutuhan besi tinggi |
+| Trimester         | Batas Hb         | Keterangan                                        |
+| ----------------- | ---------------- | ------------------------------------------------- |
+| **Trimester I**   | **< 11 gr/dL**   | Hemodilusi minimal                                |
+| **Trimester II**  | **< 10,5 gr/dL** | Hemodilusi maksimal (puncak sekitar 28–32 minggu) |
+| **Trimester III** | **< 11 gr/dL**   | Volume plasma stabil, kebutuhan besi tinggi       |
 
 > [!tip] **Jangan gunakan batas yang sama untuk semua trimester!** Banyak dokter menggunakan patokan 12 gr/dL untuk semua pasien — pada kehamilan, batas tersebut tidak valid karena hemodilusi fisiologis (peningkatan volume plasma hingga 50%) akan menurunkan konsentrasi Hb. Inilah sebabnya anemia pada kehamilan didefinisikan lebih rendah dari populasi tidak hamil.
 
 ### Derajat Anemia pada Kehamilan
 
-| Derajat | Kadar Hb (gr/dL) |
-|---------|------------------|
-| Ringan | 9 – < 11 (Trimester I/III) / 9 – < 10,5 (Trimester II) |
-| Sedang | 7 – < 9 |
-| Berat | < 7 |
+| Derajat | Kadar Hb (gr/dL)                                       |
+| ------- | ------------------------------------------------------ |
+| Ringan  | 9 – < 11 (Trimester I/III) / 9 – < 10,5 (Trimester II) |
+| Sedang  | 7 – < 9                                                |
+| Berat   | < 7                                                    |
 
 ---
 
@@ -88,13 +88,13 @@ Anemia pada kehamilan merupakan **masalah global** yang mempengaruhi sekitar 37�
 
 Pada kehamilan, kebutuhan besi meningkat drastis karena:
 
-| Faktor | Besi yang Dibutuhkan | Keterangan |
-|--------|---------------------|------------|
-| Peningkatan massa eritrosit | ~450 mg | Stimulasi eritropoiesis oleh eritropoietin |
-| Janin dan plasenta | ~300 mg | Besi ditransport secara aktif ke janin |
-| Kehilangan basal (feses, urin, keringat) | ~240 mg | Ekskresi normal tubuh |
-| Perdarahan saat persalinan | ~150–250 mg | Rata-rata kehilangan 500–800 mL darah |
-| **Total kebutuhan kehamilan** | **~1.000 mg** | Terutama di paruh kedua kehamilan! |
+| Faktor                                   | Besi yang Dibutuhkan | Keterangan                                 |
+| ---------------------------------------- | -------------------- | ------------------------------------------ |
+| Peningkatan massa eritrosit              | ~450 mg              | Stimulasi eritropoiesis oleh eritropoietin |
+| Janin dan plasenta                       | ~300 mg              | Besi ditransport secara aktif ke janin     |
+| Kehilangan basal (feses, urin, keringat) | ~240 mg              | Ekskresi normal tubuh                      |
+| Perdarahan saat persalinan               | ~150–250 mg          | Rata-rata kehilangan 500–800 mL darah      |
+| **Total kebutuhan kehamilan**            | **~1.000 mg**        | Terutama di paruh kedua kehamilan!         |
 
 Wanita dengan cadangan besi normal hanya memiliki simpanan sekitar 300–500 mg. Tanpa suplementasi, cadangan ini akan terkuras habis pada pertengahan kehamilan, dan defisiensi besi mulai terjadi.
 
@@ -104,7 +104,7 @@ Wanita dengan cadangan besi normal hanya memiliki simpanan sekitar 300–500 mg.
 2. **Perdarahan sebelum/selama hamil** — perdarahan haid berlebihan, perdarahan trimester awal, abortus, kehamilan ektopik
 3. **Jarak kehamilan pendek** — cadangan besi belum pulih dari kehamilan sebelumnya (< 2 tahun)
 4. **Multiparitas tinggi** — > 3 anak → cadangan besi terus terkuras
-5. **Infeksi kronis** — malaria, cacing tambang (*Ancylostoma duodenale*, *Necator americanus*), HIV
+5. **Infeksi kronis** — malaria, cacing tambang (_Ancylostoma duodenale_, _Necator americanus_), HIV
 6. **Gangguan absorpsi** — gastrektomi, penyakit celiac, inflammatory bowel disease
 7. **Kehamilan ganda** — kebutuhan besi 2× lipat
 8. ** Usia < 20 tahun** — kebutuhan besi juga untuk pertumbuhan ibu sendiri
@@ -118,14 +118,14 @@ Wanita dengan cadangan besi normal hanya memiliki simpanan sekitar 300–500 mg.
 
 Gejala anemia dapat bervariasi dari tanpa keluhan sama sekali (asimptomatik) hingga sangat berat:
 
-| Sistem | Gejala |
-|--------|--------|
-| **Umum** | Lemas, cepat lelah, lesu, *malaise* |
-| **Kardiovaskular** | Palpitasi, sesak napas saat aktivitas, takikardi, *near syncope* |
-| **Sistem saraf** | Pusing, sakit kepala, *lightheadedness*, sulit konsentrasi |
-| **Mulut dan kulit** | Pucat — konjungtiva, telapak tangan, kuku, mukosa mulut |
-| **Saluran cerna** | Mual, anoreksia, *pica* (keinginan makan benda aneh: es batu, tanah liat, tepung kanji — khas ADB) |
-| **Kuku** | Rapuh, mudah patah, *koilonychia* (kuku sendok) pada defisiensi kronis |
+| Sistem              | Gejala                                                                                             |
+| ------------------- | -------------------------------------------------------------------------------------------------- |
+| **Umum**            | Lemas, cepat lelah, lesu, _malaise_                                                                |
+| **Kardiovaskular**  | Palpitasi, sesak napas saat aktivitas, takikardi, _near syncope_                                   |
+| **Sistem saraf**    | Pusing, sakit kepala, _lightheadedness_, sulit konsentrasi                                         |
+| **Mulut dan kulit** | Pucat — konjungtiva, telapak tangan, kuku, mukosa mulut                                            |
+| **Saluran cerna**   | Mual, anoreksia, _pica_ (keinginan makan benda aneh: es batu, tanah liat, tepung kanji — khas ADB) |
+| **Kuku**            | Rapuh, mudah patah, _koilonychia_ (kuku sendok) pada defisiensi kronis                             |
 
 ### Poin Krusial Anamnesis
 
@@ -146,37 +146,37 @@ Gejala anemia dapat bervariasi dari tanpa keluhan sama sekali (asimptomatik) hin
 
 ### Pemeriksaan Fisik
 
-1. **[[01-px-fisik-umum-payudara|Pemeriksaan Fisik Umum]]** — tanda vital: takikardi, takipnea, hipotensi. Perhatikan warna konjungtiva (pucat?), telapak tangan, kuku, mukosa mulut. Auskultasi jantung: bising sistolik fungsional (*flow murmur*) pada anemia kronis.
-2. **[[21-pemeriksaan-kehamilan-muda|Pemeriksaan Kehamilan Muda / Palpasi Abdomen]]** — untuk memastikan usia kehamilan, taksiran berat janin, dan menyingkirkan kelainan janin sebagai penyebab keluhan.
+1. **Pemeriksaan Fisik Umum** — tanda vital: takikardi, takipnea, hipotensi. Perhatikan warna konjungtiva (pucat?), telapak tangan, kuku, mukosa mulut. Auskultasi jantung: bising sistolik fungsional (_flow murmur_) pada anemia kronis.
+2. **Pemeriksaan Kehamilan Muda / Palpasi Abdomen** — untuk memastikan usia kehamilan, taksiran berat janin, dan menyingkirkan kelainan janin sebagai penyebab keluhan.
 
 ### Pemeriksaan Penunjang
 
-| Pemeriksaan | Tujuan | Interpretasi untuk ADB |
-|-------------|--------|------------------------|
-| **Hb** | Skrining & diagnosis anemia | < 11 gr/dL (T1 & T3) / < 10,5 (T2) |
-| **Hematokrit (Ht)** | Konfirmasi | Ht < 33% (T1 & T3) / < 32% (T2) |
-| **MCV, MCH, MCHC** | Indeks eritrosit — menentukan tipe anemia | **MCV < 80 fL** (mikrositik), **MCH < 27 pg** (hipokromik) |
-| **RDW** | Variasi ukuran sel darah merah | **Meningkat** (anisositosis) — khas ADB, membantu bedakan dari talasemia |
-| **Feritin serum** | Cadangan besi | **< 30 ng/mL** → deplesi besi; **< 12 ng/mL** → defisiensi berat |
-| **TIC / TIBC (Total Iron Binding Capacity)** | Kapasitas ikat besi | **Meningkat** pada ADB |
-| **Iron serum** | Kadar besi dalam darah | **Menurun** |
-| **Transferrin saturation** | Saturasi transferin | **< 16%** |
-| **Hapelogi** | Elektroforesis Hb | **Eksklusi talasemia** — diagnosis banding tersering pada anemia mikrositik |
-| **Feses** | Skrining cacing tambang | Endemis di daerah tropis/Asia → korelasi dengan anemia |
-| **APLS darah tepi** | Gambaran morfologi eritrosit | Mikrositik hipokromik, anisositosis, poikilositosis |
+| Pemeriksaan                                  | Tujuan                                    | Interpretasi untuk ADB                                                      |
+| -------------------------------------------- | ----------------------------------------- | --------------------------------------------------------------------------- |
+| **Hb**                                       | Skrining & diagnosis anemia               | < 11 gr/dL (T1 & T3) / < 10,5 (T2)                                          |
+| **Hematokrit (Ht)**                          | Konfirmasi                                | Ht < 33% (T1 & T3) / < 32% (T2)                                             |
+| **MCV, MCH, MCHC**                           | Indeks eritrosit — menentukan tipe anemia | **MCV < 80 fL** (mikrositik), **MCH < 27 pg** (hipokromik)                  |
+| **RDW**                                      | Variasi ukuran sel darah merah            | **Meningkat** (anisositosis) — khas ADB, membantu bedakan dari talasemia    |
+| **Feritin serum**                            | Cadangan besi                             | **< 30 ng/mL** → deplesi besi; **< 12 ng/mL** → defisiensi berat            |
+| **TIC / TIBC (Total Iron Binding Capacity)** | Kapasitas ikat besi                       | **Meningkat** pada ADB                                                      |
+| **Iron serum**                               | Kadar besi dalam darah                    | **Menurun**                                                                 |
+| **Transferrin saturation**                   | Saturasi transferin                       | **< 16%**                                                                   |
+| **Hapelogi**                                 | Elektroforesis Hb                         | **Eksklusi talasemia** — diagnosis banding tersering pada anemia mikrositik |
+| **Feses**                                    | Skrining cacing tambang                   | Endemis di daerah tropis/Asia → korelasi dengan anemia                      |
+| **APLS darah tepi**                          | Gambaran morfologi eritrosit              | Mikrositik hipokromik, anisositosis, poikilositosis                         |
 
 ### Interpretasi Indeks Eritrosit: Mikrositik Hipokromik
 
 Ketika Anda menemukan anemia mikrositik hipokromik (MCV rendah, MCH rendah), **ada 3 kemungkinan** yang harus dibedakan:
 
-| Parameter | ADB | Talasemia minor | Anemia penyakit kronis |
-|-----------|-----|-----------------|----------------------|
-| **MCV** | ↓↓ (60–80 fL) | ↓↓↓ (< 65 fL sering) | Normal/↓ (80–100 fL) |
-| **RDW** | ↑↑ (meningkat) | Normal | Normal/↑ |
-| **Feritin** | ↓↓ | Normal/↑ | Normal/↑ |
-| **TIBC** | ↑↑ | Normal | ↓ |
-| **HbA₂** | Normal | **↑ (> 3,5%)** | Normal |
-| **Mentzer Index** (MCV/RBC) | **> 13** | **< 13** | — |
+| Parameter                   | ADB            | Talasemia minor      | Anemia penyakit kronis |
+| --------------------------- | -------------- | -------------------- | ---------------------- |
+| **MCV**                     | ↓↓ (60–80 fL)  | ↓↓↓ (< 65 fL sering) | Normal/↓ (80–100 fL)   |
+| **RDW**                     | ↑↑ (meningkat) | Normal               | Normal/↑               |
+| **Feritin**                 | ↓↓             | Normal/↑             | Normal/↑               |
+| **TIBC**                    | ↑↑             | Normal               | ↓                      |
+| **HbA₂**                    | Normal         | **↑ (> 3,5%)**       | Normal                 |
+| **Mentzer Index** (MCV/RBC) | **> 13**       | **< 13**             | —                      |
 
 > [!tip] **Mentzer Index** adalah kalkulator sederhana untuk membedakan ADB dari talasemia: **MCV ÷ jumlah eritrosit (dalam jutaan).** Nilai > 13 cenderung ADB, < 13 cenderung talasemia minor. Ini cara cepat di puskesmas tanpa perlu elektroforesis!
 
@@ -222,14 +222,14 @@ Ibu hamil dengan Hb rendah
 
 ### Diagnosis Banding
 
-| Diagnosis | Ciri Pembeda |
-|-----------|-------------|
-| **Anemia fisiologis kehamilan** (hemodilusi) | Hb 10–11 gr/dL, MCV & feritin **normal**, asimptomatik atau gejala ringan |
-| **Talasemia minor** | MCV sangat rendah (< 65 fL), RDW normal, feritin normal/meningkat, HbA₂ ↑ |
-| **Anemia penyakit kronis** | Feritin normal/↑, TIBC ↓, MCV normal, ada penyakit kronis (TB, HIV, autoimun) |
-| **Anemia defisiensi asam folat** | MCV ↑ (makrositik), folat serum ↓, kadar besi normal |
-| **Anemia aplastik** | Pansitopenia, sumsum tulang hiposeluler — sangat jarang |
-| **Hemoglobinopati** | Hb abnormal pada elektroforesis, riwayat keluarga positif |
+| Diagnosis                                    | Ciri Pembeda                                                                  |
+| -------------------------------------------- | ----------------------------------------------------------------------------- |
+| **Anemia fisiologis kehamilan** (hemodilusi) | Hb 10–11 gr/dL, MCV & feritin **normal**, asimptomatik atau gejala ringan     |
+| **Talasemia minor**                          | MCV sangat rendah (< 65 fL), RDW normal, feritin normal/meningkat, HbA₂ ↑     |
+| **Anemia penyakit kronis**                   | Feritin normal/↑, TIBC ↓, MCV normal, ada penyakit kronis (TB, HIV, autoimun) |
+| **Anemia defisiensi asam folat**             | MCV ↑ (makrositik), folat serum ↓, kadar besi normal                          |
+| **Anemia aplastik**                          | Pansitopenia, sumsum tulang hiposeluler — sangat jarang                       |
+| **Hemoglobinopati**                          | Hb abnormal pada elektroforesis, riwayat keluarga positif                     |
 
 ---
 
@@ -247,23 +247,23 @@ Ibu hamil dengan Hb rendah
 
 **Semua ibu hamil** harus mendapat suplementasi zat besi dan folat sebagai profilaksis. Pada ibu dengan ADB, dosis ditingkatkan ke terapeutik.
 
-| Regimen | Dosis | Keterangan |
-|---------|-------|------------|
-| **Profilaksis** (semua bumil) | Fe 60 mg + asam folat 400 mcg, 1×/hari | Dimulai sejak kunjungan ANC pertama |
-| **ADB ringan** (Hb 9–11) | **Fe elemental 60–200 mg/hari** + asam folat 400–1000 mcg/hari | Setara dengan 1–3 tablet Fe sulfat/glukonat/fumarat |
-| **ADB sedang** (Hb 7–9) | Fe elemental 200 mg/hari (2–3 tablet) + asam folat 1000 mcg/hari | Bagi dosis untuk mengurangi efek samping |
-| **ADB berat** (Hb < 7) | **Rujuk** — tatalaksana di RS: Fe IV atau transfusi PRC | Indikasi transfusi: Hb < 6–7 gr/dL atau anemia dengan gagal jantung |
+| Regimen                       | Dosis                                                            | Keterangan                                                          |
+| ----------------------------- | ---------------------------------------------------------------- | ------------------------------------------------------------------- |
+| **Profilaksis** (semua bumil) | Fe 60 mg + asam folat 400 mcg, 1×/hari                           | Dimulai sejak kunjungan ANC pertama                                 |
+| **ADB ringan** (Hb 9–11)      | **Fe elemental 60–200 mg/hari** + asam folat 400–1000 mcg/hari   | Setara dengan 1–3 tablet Fe sulfat/glukonat/fumarat                 |
+| **ADB sedang** (Hb 7–9)       | Fe elemental 200 mg/hari (2–3 tablet) + asam folat 1000 mcg/hari | Bagi dosis untuk mengurangi efek samping                            |
+| **ADB berat** (Hb < 7)        | **Rujuk** — tatalaksana di RS: Fe IV atau transfusi PRC          | Indikasi transfusi: Hb < 6–7 gr/dL atau anemia dengan gagal jantung |
 
 > [!warning] **Perhatian!** Pemberian besi dosis tinggi dapat menyebabkan efek samping gastrointestinal: mual, sembelit, feses hitam, kram perut. Bagi dosis menjadi 2–3×/hari dan berikan setelah makan untuk mengurangi iritasi lambung. Edukasi bahwa feses hitam adalah **normal** dan bukan tanda perdarahan.
 
 ### Bentuk-bentuk Suplemen Besi Oral
 
-| Senyawa | Kandungan Fe elemental | Dosis Tersedia |
-|---------|----------------------|----------------|
+| Senyawa                     | Kandungan Fe elemental  | Dosis Tersedia                               |
+| --------------------------- | ----------------------- | -------------------------------------------- |
 | **Ferrous sulfate** (FeSO₄) | 20% (200 mg → 40 mg Fe) | Tablet 200 mg (40 mg Fe) / 300 mg (60 mg Fe) |
-| **Ferrous fumarate** | 33% | Tablet 200 mg (66 mg Fe) |
-| **Ferrous gluconate** | 12% | Tablet 300 mg (36 mg Fe) |
-| **Iron polymaltose** | 50% | Drops / syrup (50 mg Fe/mL) |
+| **Ferrous fumarate**        | 33%                     | Tablet 200 mg (66 mg Fe)                     |
+| **Ferrous gluconate**       | 12%                     | Tablet 300 mg (36 mg Fe)                     |
+| **Iron polymaltose**        | 50%                     | Drops / syrup (50 mg Fe/mL)                  |
 
 > [!tip] **Pilih sediaan dengan kandungan Fe elemental tertinggi** (ferrous sulfate atau ferrous fumarate) dengan biaya paling murah. Iron polymaltose lebih mahal tetapi efek samping lebih kecil — bisa jadi pilihan pada pasien intoleran.
 
@@ -271,11 +271,11 @@ Ibu hamil dengan Hb rendah
 
 Asam folat sangat penting untuk eritropoiesis dan mencegah defek tabung saraf. Pada anemia, kebutuhan asam folat meningkat.
 
-| Indikasi | Dosis |
-|----------|-------|
-| Profilaksis semua bumil | **400 mcg/hari** |
-| ADB ringan-sedang | **400–1000 mcg/hari** |
-| Talasemia / anemia hemolitik | **5 mg/hari** |
+| Indikasi                     | Dosis                 |
+| ---------------------------- | --------------------- |
+| Profilaksis semua bumil      | **400 mcg/hari**      |
+| ADB ringan-sedang            | **400–1000 mcg/hari** |
+| Talasemia / anemia hemolitik | **5 mg/hari**         |
 
 ### Suplementasi pada Kehamilan Ganda
 
@@ -284,6 +284,7 @@ Ibu hamil dengan **kehamilan ganda** (kembar) membutuhkan suplementasi lebih tin
 ### Pemberian Zat Besi Parenteral (Intravena)
 
 **Indikasi:**
+
 - Intoleransi oral yang berat (mual hebat, gastritis, muntah)
 - Malabsorpsi (gastrektomi, IBD, penyakit celiac)
 - ADB berat yang membutuhkan koreksi cepat (Hb < 7 gr/dL di > 34 minggu)
@@ -302,6 +303,7 @@ Ibu hamil dengan **kehamilan ganda** (kembar) membutuhkan suplementasi lebih tin
 ### Transfusi Darah
 
 **Indikasi:**
+
 - Hb < 6 gr/dL pada trimester III mendekati persalinan
 - Anemia berat dengan gagal jantung / dekompensasi kordis
 - Perdarahan akut masif
@@ -311,11 +313,11 @@ Prinsip transfusi: berikan PRC (packed red cells) 1–2 unit, jangan kejar Hb no
 
 ### Tabel: Rekomendasi Berdasarkan Derajat Anemia
 
-| Derajat | Hb (gr/dL) | Tatalaksana | Monitoring |
-|---------|-------------|-------------|------------|
-| Ringan | 9 – < 11 (T1/T3) / 9 – < 10,5 (T2) | Fe oral 60–200 mg/hari + folat 400 mcg | Re-evaluasi Hb 4 minggu |
-| Sedang | 7 – < 9 | Fe oral 200 mg/hari + folat 1000 mcg | Re-evaluasi Hb 2 minggu |
-| Berat | < 7 | **Rujuk RS** — Fe IV atau transfusi | Hb 1 minggu / sesuai klinis |
+| Derajat | Hb (gr/dL)                         | Tatalaksana                            | Monitoring                  |
+| ------- | ---------------------------------- | -------------------------------------- | --------------------------- |
+| Ringan  | 9 – < 11 (T1/T3) / 9 – < 10,5 (T2) | Fe oral 60–200 mg/hari + folat 400 mcg | Re-evaluasi Hb 4 minggu     |
+| Sedang  | 7 – < 9                            | Fe oral 200 mg/hari + folat 1000 mcg   | Re-evaluasi Hb 2 minggu     |
+| Berat   | < 7                                | **Rujuk RS** — Fe IV atau transfusi    | Hb 1 minggu / sesuai klinis |
 
 ---
 
@@ -328,24 +330,25 @@ Ini adalah **masalah nomor satu** dalam tata laksana ADB. Penelitian di Indonesi
 **Kenapa tidak patuh?** — Mual, sembelit, lupa, rasa tidak enak di mulut, takut bayi besar, salah paham bahwa feses hitam adalah perdarahan.
 
 **Solusi yang bisa ditawarkan:**
+
 - Minum setelah makan malam (saat mual pagi sudah berlalu)
 - Bagi dosis: 1 tablet pagi + 1 tablet malam
 - Jika sembelit berat: tambah asupan serat, air putih 8 gelas/hari, atau beri pelunak feses
 - Jika intoleran FeSO₄: ganti ke ferrous fumarate, iron polymaltose, atau sediaan slow-release
 - **Edukasi bahwa feses hitam itu normal!**
 
-> [!tip] **Jebakan: Memberi tablet tambah darah tanpa edukasi efek samping.** Ibu hamil yang tidak diberi tahu bahwa feses akan hitam bisa panik dan berhenti minum karena mengira ada perdarahan saluran cerna. Selalu informasikan: *"Nanti tinja Ibu akan berwarna hitam seperti arang, itu normal efek obatnya, bukan perdarahan."*
+> [!tip] **Jebakan: Memberi tablet tambah darah tanpa edukasi efek samping.** Ibu hamil yang tidak diberi tahu bahwa feses akan hitam bisa panik dan berhenti minum karena mengira ada perdarahan saluran cerna. Selalu informasikan: _"Nanti tinja Ibu akan berwarna hitam seperti arang, itu normal efek obatnya, bukan perdarahan."_
 
 ### 2. Anjuran Diet
 
-| Jenis Makanan | Contoh | Zat Besi | Penyerapan |
-|---------------|--------|----------|------------|
-| **Sumber hewani** (heme iron) | Daging merah, hati ayam/sapi, ikan, telur | ~25% diserap | **Sangat baik** — absorpsi 15–35% |
-| **Sumber nabati** (non-heme iron) | Bayam, kangkung, brokoli, kacang-kacangan, tahu, tempe | ~75% dari total asupan | **Kurang baik** — absorpsi 2–20% |
-| **Peningkat absorpsi** | Vitamin C, jeruk, tomat, jambu, paprika | — | Tingkatkan absorpsi non-heme 2–6× |
-| **Penghambat absorpsi** | Teh, kopi, susu, suplemen kalsium, antasida | — | Hindari < 1 jam sebelum/sesudah minum Fe |
+| Jenis Makanan                     | Contoh                                                 | Zat Besi               | Penyerapan                               |
+| --------------------------------- | ------------------------------------------------------ | ---------------------- | ---------------------------------------- |
+| **Sumber hewani** (heme iron)     | Daging merah, hati ayam/sapi, ikan, telur              | ~25% diserap           | **Sangat baik** — absorpsi 15–35%        |
+| **Sumber nabati** (non-heme iron) | Bayam, kangkung, brokoli, kacang-kacangan, tahu, tempe | ~75% dari total asupan | **Kurang baik** — absorpsi 2–20%         |
+| **Peningkat absorpsi**            | Vitamin C, jeruk, tomat, jambu, paprika                | —                      | Tingkatkan absorpsi non-heme 2–6×        |
+| **Penghambat absorpsi**           | Teh, kopi, susu, suplemen kalsium, antasida            | —                      | Hindari < 1 jam sebelum/sesudah minum Fe |
 
-**Aturan praktis:** *"Makanlah sumber besi bersama vitamin C, dan jangan minum teh/kopi dalam satu jam sebelum atau sesudah minum tablet tambah darah."*
+**Aturan praktis:** _"Makanlah sumber besi bersama vitamin C, dan jangan minum teh/kopi dalam satu jam sebelum atau sesudah minum tablet tambah darah."_
 
 ### 3. Kapan Kontrol?
 
@@ -363,6 +366,7 @@ Ini adalah **masalah nomor satu** dalam tata laksana ADB. Penelitian di Indonesi
 Kementerian Kesehatan RI mewajibkan **TTD 90 tablet selama kehamilan** — minimal 1 tablet/hari sejak kunjungan ANC pertama. Sayangnya, cakupan dan kepatuhan masih rendah.
 
 **Strategi pencegahan pada wanita usia subur:**
+
 1. **Suplementasi mingguan** (Fe 60 mg + folat 400 mcg) di daerah endemis anemia
 2. **Fortifikasi pangan** — tepung terigu, beras, minyak goreng diperkaya zat besi
 3. **Edukasi gizi** — konsumsi sumber hewani, hindari makanan penghambat absorpsi
@@ -378,7 +382,7 @@ Anjurkan jarak kehamilan **≥ 2 tahun** untuk memulihkan cadangan besi. KB pasc
 
 > [!tip] **Jebakan #1 — Tidak membedakan anemia fisiologis dari ADB.** Hemodilusi kehamilan membuat Hb turun 0,5–1 gr/dL, terutama di trimester 2. Jangan terkecoh: cek MCV dan feritin. Anemia fisiologis punya MCV normal, feritin normal, dan tidak ada gejala. ADB punya MCV rendah dan feritin rendah.
 
-> [!tip] **Jebakan #2 — Memberi suplemen besi tapi tidak mengevaluasi kepatuhan.** *"Sudah saya kasih tablet tambah darah, Bu, ayo diminum."* — ini tidak cukup! Tanyakan langsung: *"Berapa tablet yang sudah Ibu minum minggu ini? Apakah ada mual? Apakah tinja hitam?"* Jika jawabannya ragu-ragu, kepatuhan mungkin bermasalah.
+> [!tip] **Jebakan #2 — Memberi suplemen besi tapi tidak mengevaluasi kepatuhan.** _"Sudah saya kasih tablet tambah darah, Bu, ayo diminum."_ — ini tidak cukup! Tanyakan langsung: _"Berapa tablet yang sudah Ibu minum minggu ini? Apakah ada mual? Apakah tinja hitam?"_ Jika jawabannya ragu-ragu, kepatuhan mungkin bermasalah.
 
 > [!tip] **Jebakan #3 — Lupa skrining talasemia pada anemia mikrositik yang tidak responsif.** Di Indonesia, talasemia carrier cukup tinggi (3–10% populasi). Jika Hb tidak naik setelah 4 minggu suplementasi adekuat, jangan terus tambah dosis Fe — cek HbA₂ dan elektroforesis.
 
@@ -388,7 +392,7 @@ Anjurkan jarak kehamilan **≥ 2 tahun** untuk memulihkan cadangan besi. KB pasc
 
 > [!tip] **Jebakan #6 — Tidak merujuk anemia berat.** Hb < 7 gr/dL pada kehamilan adalah **kegawatdaruratan obstetri**. Jangan coba-coba diterapi oral di fasilitas tanpa kemampuan transfusi. Rujuk segera ke RS dengan bank darah.
 
-> [!tip] **Jebakan #7 — Terlalu cepat menyimpulkan "anemia karena kurang gizi" tanpa mencari penyebab.** Perdarahan cacing tambang, malaria, perdarahan kronis (wasir, maag erosif), dan talasemia adalah diagnosis banding yang sering terlewat. Selalu tanya: *"Apakah ada riwayat cacingan? Apakah BAB berdarah? Apakah ada keluarga dengan anemia yang tidak sembuh-sembuh?"*
+> [!tip] **Jebakan #7 — Terlalu cepat menyimpulkan "anemia karena kurang gizi" tanpa mencari penyebab.** Perdarahan cacing tambang, malaria, perdarahan kronis (wasir, maag erosif), dan talasemia adalah diagnosis banding yang sering terlewat. Selalu tanya: _"Apakah ada riwayat cacingan? Apakah BAB berdarah? Apakah ada keluarga dengan anemia yang tidak sembuh-sembuh?"_
 
 ---
 
@@ -396,27 +400,30 @@ Anjurkan jarak kehamilan **≥ 2 tahun** untuk memulihkan cadangan besi. KB pasc
 
 **Bu Susi (28 tahun, G2P1A0, hamil 20 minggu)**
 
-| Pemeriksaan | Hasil | Interpretasi |
-|-------------|-------|-------------|
-| Hb | **8,6 gr/dL** | Anemia sedang (Hb 7–9) — trimester II, batas < 10,5 |
-| MCV | 74 fL | Mikrositik (< 80 fL) |
-| MCH | 24 pg | Hipokromik (< 27 pg) |
-| RDW | 16,5% | Meningkat — anisositosis |
-| Feritin | 10 ng/mL | **Defisiensi besi berat** (< 30 ng/mL) |
-| Mentzer Index | 74 / 4,2 = 17,6 | > 13 → ADB (bukan talasemia) |
-| Feses | Telur cacing (+) | Ada infeksi cacing tambahang |
+| Pemeriksaan   | Hasil            | Interpretasi                                        |
+| ------------- | ---------------- | --------------------------------------------------- |
+| Hb            | **8,6 gr/dL**    | Anemia sedang (Hb 7–9) — trimester II, batas < 10,5 |
+| MCV           | 74 fL            | Mikrositik (< 80 fL)                                |
+| MCH           | 24 pg            | Hipokromik (< 27 pg)                                |
+| RDW           | 16,5%            | Meningkat — anisositosis                            |
+| Feritin       | 10 ng/mL         | **Defisiensi besi berat** (< 30 ng/mL)              |
+| Mentzer Index | 74 / 4,2 = 17,6  | > 13 → ADB (bukan talasemia)                        |
+| Feses         | Telur cacing (+) | Ada infeksi cacing tambahang                        |
 
 **Mengapa Bu Susi anemia berat meski hamil 20 minggu?**
+
 1. **Perdarahan awal kehamilan** — menguras cadangan besi
 2. **Kepatuhan rendah** — sering lupa minum TTD karena takut mual
 3. **Infeksi cacing tambang** — kehilangan darah kronis dari saluran cerna
 4. **Riwayat jarak kehamilan** — anak pertama baru 18 bulan (jarak < 2 tahun)
 
 **Diagnosis:**
+
 - **Anemia defisiensi besi sedang pada kehamilan 20 minggu**
 - Infeksi cacing tambang (sebagai faktor presipitasi)
 
 **Terapi:**
+
 1. **Fe elemental 200 mg/hari** — Ferrous fumarate 1 tab (66 mg Fe) 3×/hari, diminum setelah makan
 2. **Asam folat 1000 mcg** (1 mg) 1×/hari
 3. **Obat cacing** — Albendazole 400 mg dosis tunggal (setelah trimester 1 — sudah aman di 20 minggu)
@@ -425,6 +432,7 @@ Anjurkan jarak kehamilan **≥ 2 tahun** untuk memulihkan cadangan besi. KB pasc
 6. **Kontrol 2 minggu**: periksa Hb ulang
 
 **Target:**
+
 - Kenaikan Hb **≥ 1 gr/dL dalam 2–4 minggu**
 - Bila tidak naik → feritin ulang → pertimbangkan Fe IV atau rujuk
 - Setelah Hb normal → lanjut Fe profilaksis 60 mg/hari sampai melahirkan
@@ -435,8 +443,8 @@ Anjurkan jarak kehamilan **≥ 2 tahun** untuk memulihkan cadangan besi. KB pasc
 
 ## Keterampilan Terkait
 
-- [[01-px-fisik-umum-payudara|Pemeriksaan Fisik Umum & Payudara]] — deteksi tanda anemia pada pemeriksaan fisik
-- [[21-pemeriksaan-kehamilan-muda|Pemeriksaan Kehamilan Muda]] — pemantauan kehamilan yang harus rutin menyertai tata laksana anemia
+- Pemeriksaan Fisik Umum & Payudara — deteksi tanda anemia pada pemeriksaan fisik
+- Pemeriksaan Kehamilan Muda — pemantauan kehamilan yang harus rutin menyertai tata laksana anemia
 
 ---
 
@@ -457,13 +465,13 @@ Anjurkan jarak kehamilan **≥ 2 tahun** untuk memulihkan cadangan besi. KB pasc
 
 ## Referensi
 
-1. **Kemenkes RI.** (2024). *Pedoman Nasional Pelayanan Kedokteran (PNPK) Tata Laksana Anemia Defisiensi Besi.* Jakarta: Kementerian Kesehatan RI.
-2. **POGI.** (2023). *Pedoman Diagnosis dan Tatalaksana Anemia pada Kehamilan.* Jakarta: Perkumpulan Obstetri dan Ginekologi Indonesia.
-3. **WHO.** (2024). *WHO Guideline on Daily Iron Supplementation in Pregnancy.* Geneva: World Health Organization.
-4. **Sarwono Prawirohardjo.** (2024). *Ilmu Kandungan.* Edisi 4. Jakarta: Yayasan Bina Pustaka Sarwono Prawirohardjo.
-5. **Riskesdas.** (2018). *Laporan Nasional Riskesdas 2018.* Badan Penelitian dan Pengembangan Kesehatan, Kemenkes RI.
-6. **Cunningham FG, et al.** (2022). *Williams Obstetrics.* 26th Edition. McGraw Hill.
-7. **Peña-Rosas JP, et al.** (2021). Daily oral iron supplementation during pregnancy. *Cochrane Database of Systematic Reviews.*
-8. **Mwangi MN, et al.** (2022). Iron deficiency anaemia in pregnancy. *The Lancet Global Health*; 10(3):e321–e322.
-9. **POGI.** (2024). *Rekomendasi POGI tentang Skrining dan Tatalaksana Anemia pada Ibu Hamil.* Jakarta: Perkumpulan Obstetri dan Ginekologi Indonesia.
-10. **Goonewardene M, et al.** (2021). Anaemia in pregnancy. *Journal of Obstetrics and Gynaecology*; 41(5):673–685.
+1. **Kemenkes RI.** (2024). _Pedoman Nasional Pelayanan Kedokteran (PNPK) Tata Laksana Anemia Defisiensi Besi._ Jakarta: Kementerian Kesehatan RI.
+2. **POGI.** (2023). _Pedoman Diagnosis dan Tatalaksana Anemia pada Kehamilan._ Jakarta: Perkumpulan Obstetri dan Ginekologi Indonesia.
+3. **WHO.** (2024). _WHO Guideline on Daily Iron Supplementation in Pregnancy._ Geneva: World Health Organization.
+4. **Sarwono Prawirohardjo.** (2024). _Ilmu Kandungan._ Edisi 4. Jakarta: Yayasan Bina Pustaka Sarwono Prawirohardjo.
+5. **Riskesdas.** (2018). _Laporan Nasional Riskesdas 2018._ Badan Penelitian dan Pengembangan Kesehatan, Kemenkes RI.
+6. **Cunningham FG, et al.** (2022). _Williams Obstetrics._ 26th Edition. McGraw Hill.
+7. **Peña-Rosas JP, et al.** (2021). Daily oral iron supplementation during pregnancy. _Cochrane Database of Systematic Reviews._
+8. **Mwangi MN, et al.** (2022). Iron deficiency anaemia in pregnancy. _The Lancet Global Health_; 10(3):e321–e322.
+9. **POGI.** (2024). _Rekomendasi POGI tentang Skrining dan Tatalaksana Anemia pada Ibu Hamil._ Jakarta: Perkumpulan Obstetri dan Ginekologi Indonesia.
+10. **Goonewardene M, et al.** (2021). Anaemia in pregnancy. _Journal of Obstetrics and Gynaecology_; 41(5):673–685.

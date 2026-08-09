@@ -28,7 +28,7 @@ cssclasses:
 
 Ny. Rina, 30 tahun, G2P1A1, usia kehamilan 10 minggu, datang ke UGD RSKH dengan keluhan perdarahan pervaginam sejak tadi pagi, berwarna merah segar, sekitar 2-3 pembalut penuh. Tidak ada nyeri kram yang hebat. Kehamilan kali ini memang sudah ditunggu-tunggu setelah keguguran tahun lalu. Ny. Rina sangat cemas kehilangan janinnya lagi.
 
-Pada [[26-pemeriksaan-obstetri]], serviks masih tertutup, ukuran uterus sesuai usia kehamilan. USG menunjukkan janin masih hidup dengan detak jantung positif.
+Pada Pemeriksaan Obstetri, serviks masih tertutup, ukuran uterus sesuai usia kehamilan. USG menunjukkan janin masih hidup dengan detak jantung positif.
 
 ## Definisi
 
@@ -58,11 +58,13 @@ Perdarahan terjadi karena separasi parsial villi korionik dari decidua basalis. 
 ## Diagnosis
 
 ### Kriteria
+
 1. Perdarahan pervaginam pada usia kehamilan < 20 minggu
 2. Serviks masih tertutup pada pemeriksaan VT
 3. USG menunjukkan janin masih hidup dengan cardiac activity
 
 ### Pemeriksaan Penunjang
+
 - **USG transvaginal:** evaluasi cardiac activity, ukuran gestasional, hematoma subkhorionik
 - **Beta-hCG serum:** serial pengukuran — pada kehamilan normal, seharusnya naik ≥ 66% dalam 48 jam
 - **Hemoglobin dan golongan darah**
@@ -72,16 +74,17 @@ Perdarahan terjadi karena separasi parsial villi korionik dari decidua basalis. 
 
 ## Diagnosis Banding
 
-| Kondisi | Pembeda |
-|---------|---------|
+| Kondisi           | Pembeda                                                 |
+| ----------------- | ------------------------------------------------------- |
 | Kehamilan ektopik | HCG plateau/turun, adanya mass pelvis, nyeri unilateral |
-| Polip serviks | Serviks normal, tidak ada tanda kehamilan pada USG |
-| Servisitis | Serviks merah, nyeri tekan, tidak ada perdarahan aktif |
-| Mola hidatidosa | uterus lebih besar dari ukuran, HCG sangat tinggi |
+| Polip serviks     | Serviks normal, tidak ada tanda kehamilan pada USG      |
+| Servisitis        | Serviks merah, nyeri tekan, tidak ada perdarahan aktif  |
+| Mola hidatidosa   | uterus lebih besar dari ukuran, HCG sangat tinggi       |
 
 ## Tatalaksana
 
 ### Level 3B
+
 1. **Bedrest relatif** — istirahat di rumah, hindari aktivitas berat
 2. **Hindari hubungan seksual** sampai perdarahan berhenti
 3. **Progesteron oral** (progesteron alamiah 200 mg/ malam) bisa dipertimbangkan — ada bukti progesteron membantu mempertahankan kehamilan pada riwayat perdarahan trimester 1
@@ -89,6 +92,7 @@ Perdarahan terjadi karena separasi parsial villi korionik dari decidua basalis. 
 5. **USG ulang** dalam 1-2 minggu untuk memastikan pertumbuhan janin
 
 ### Indikasi Rujuk
+
 - HCG tidak naik atau turun secara adekuat
 - USG tidak menunjukkan cardiac activity (blighted ovum)
 - Perdarahan makin berat
@@ -125,10 +129,10 @@ Ny. Rina mendapat progesteron oral dan bedrest relatif. HCG ulang 48 jam kemudia
 
 ## Keterampilan Terkait
 
-- [[26-pemeriksaan-obstetri]]
-- [[25-pemeriksaan-usg-obstetri]]
-- [[23-tes-kehamilan]]
-- [[21-pemeriksaan-kehamilan-muda]]
+- Pemeriksaan Obstetri
+- Pemeriksaan Usg Obstetri
+- Tes Kehamilan
+- Pemeriksaan Kehamilan Muda
 
 ## Referensi
 

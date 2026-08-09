@@ -1,25 +1,24 @@
 ---
 title: Permintaan Pemeriksaan USG Obgin
 tags:
-- keterampilan
-- antenatal
-- skdi-4a
+  - keterampilan
+  - antenatal
+  - skdi-4a
 level_kompetensi: 4A
 kategori: antenatal
 nomor_modul: 24
 aliases:
-- Rujukan USG
-- Indikasi USG Obgin
-- USG Kandungan
-- Pemeriksaan Ultrasonografi Obgin
-- rujuk usg
-- surat usg
-- indikasi usg
-- permintaan usg obgin
+  - Rujukan USG
+  - Indikasi USG Obgin
+  - USG Kandungan
+  - Pemeriksaan Ultrasonografi Obgin
+  - rujuk usg
+  - surat usg
+  - indikasi usg
+  - permintaan usg obgin
 cssclasses:
-- buku-saku
+  - buku-saku
 ---
-
 
 # Permintaan Pemeriksaan USG Obgin
 
@@ -28,7 +27,7 @@ cssclasses:
 
 ## Kenapa Keterampilan Ini Penting
 
-Bayangkan ini: **Rina, 28 tahun**, G1P0A0 datang ke puskesmas dengan usia kehamilan 10 minggu menurut HPHT. Ia mengeluh perdarahan sedikit warna cokelat sejak 2 hari lalu. Perutnya tidak nyeri. Anda curiga *threatened abortion* — tapi bagaimana Anda yakin bukan kehamilan ektopik terganggu (KET), missed abortion, atau hamil anggur? Anda tidak punya USG di puskesmas. Satu-satunya pilihan: **merujuk dengan informasi yang tepat** agar dokter di RS bisa langsung memeriksa tanpa harus mengulang anamnesis dari nol.
+Bayangkan ini: **Rina, 28 tahun**, G1P0A0 datang ke puskesmas dengan usia kehamilan 10 minggu menurut HPHT. Ia mengeluh perdarahan sedikit warna cokelat sejak 2 hari lalu. Perutnya tidak nyeri. Anda curiga _threatened abortion_ — tapi bagaimana Anda yakin bukan kehamilan ektopik terganggu (KET), missed abortion, atau hamil anggur? Anda tidak punya USG di puskesmas. Satu-satunya pilihan: **merujuk dengan informasi yang tepat** agar dokter di RS bisa langsung memeriksa tanpa harus mengulang anamnesis dari nol.
 
 Atau bayangkan **Sari, 34 tahun**, datang dengan benjolan di perut bagian bawah yang ia rasakan sejak 3 bulan. Pada palpasi bimanual Anda temukan massa adneksa ukuran sekitar 6 cm, mobile, batas tegas. Anda curiga kista ovarium. Apa USG yang tepat? Transabdominal atau transvaginal? Informasi apa yang harus ada di surat rujukan?
 
@@ -39,7 +38,7 @@ Keterampilan **meminta atau merujuk USG** bukan sekadar menulis "Mohon USG" di s
 3. **Informasi klinis apa yang harus disertakan?** — Agar dokter radiologi/obgyn di RS bisa langsung memberikan diagnosis yang tepat tanpa perlu menelepon Anda.
 4. **Kapan harus segera dirujuk?** — Tanda bahaya obstetri yang memerlukan USG segera.
 
-> [!warning] **Kesalahan fatal:** Menulis "Mohon USG" tanpa informasi klinis yang cukup. Surat rujukan yang baik menyelamatkan nyawa pasien — karena spesialis tidak bisa membaca pikiran Anda. Jika pasien datang dengan perdarahan kehamilan muda, tulis usia kehamilan, hasil pemeriksaan fisik, dan kecurigaan klinis Anda. Itu bisa membedakan antara *missed abortion* yang bisa dijadwalkan besok dan KET yang perlu operasi malam ini.
+> [!warning] **Kesalahan fatal:** Menulis "Mohon USG" tanpa informasi klinis yang cukup. Surat rujukan yang baik menyelamatkan nyawa pasien — karena spesialis tidak bisa membaca pikiran Anda. Jika pasien datang dengan perdarahan kehamilan muda, tulis usia kehamilan, hasil pemeriksaan fisik, dan kecurigaan klinis Anda. Itu bisa membedakan antara _missed abortion_ yang bisa dijadwalkan besok dan KET yang perlu operasi malam ini.
 
 ## Persiapan
 
@@ -47,17 +46,17 @@ Keterampilan **meminta atau merujuk USG** bukan sekadar menulis "Mohon USG" di s
 
 Sebelum menulis surat rujukan USG, Anda harus sudah mengumpulkan data berikut melalui anamnesis dan pemeriksaan fisik:
 
-| Data | Contoh |
-|------|--------|
-| **Identitas pasien** | Nama, usia, alamat — pastikan benar |
-| **Keluhan utama** | "Perdarahan pervaginam sejak 2 hari" atau "Teraba benjolan di perut bagian bawah" |
-| **Riwayat obstetri (bila hamil)** | G-P-A, HPHT, TP, usia kehamilan, riwayat kehamilan sebelumnya |
-| **Riwayat haid (bila tidak hamil)** | Siklus, HPHT, keluhan siklus |
-| **Riwayat kontrasepsi** | KB hormonal? IUD? |
-| **Tanda vital** | TD, nadi, RR, suhu — penting untuk triase kegawatdaruratan |
-| **Temuan pemeriksaan fisik/femeriksaan obstetri** | Leopold, DJJ, TBJ jika hamil; palpasi bimanual jika ginekologi |
-| **Hasil laboratorium yang sudah ada** | β-hCG urin/serum, Hb, golongan darah |
-| **Kecurigaan klinis (diagnosis kerja)** | "Suspek missed abortion" atau "Curiga kista ovarium dekstra" |
+| Data                                              | Contoh                                                                            |
+| ------------------------------------------------- | --------------------------------------------------------------------------------- |
+| **Identitas pasien**                              | Nama, usia, alamat — pastikan benar                                               |
+| **Keluhan utama**                                 | "Perdarahan pervaginam sejak 2 hari" atau "Teraba benjolan di perut bagian bawah" |
+| **Riwayat obstetri (bila hamil)**                 | G-P-A, HPHT, TP, usia kehamilan, riwayat kehamilan sebelumnya                     |
+| **Riwayat haid (bila tidak hamil)**               | Siklus, HPHT, keluhan siklus                                                      |
+| **Riwayat kontrasepsi**                           | KB hormonal? IUD?                                                                 |
+| **Tanda vital**                                   | TD, nadi, RR, suhu — penting untuk triase kegawatdaruratan                        |
+| **Temuan pemeriksaan fisik/femeriksaan obstetri** | Leopold, DJJ, TBJ jika hamil; palpasi bimanual jika ginekologi                    |
+| **Hasil laboratorium yang sudah ada**             | β-hCG urin/serum, Hb, golongan darah                                              |
+| **Kecurigaan klinis (diagnosis kerja)**           | "Suspek missed abortion" atau "Curiga kista ovarium dekstra"                      |
 
 ### Surat Rujukan / Permintaan USG yang Baik
 
@@ -73,16 +72,17 @@ Surat rujukan atau formulir permintaan USG harus berisi:
    - "Ada/tidaknya cairan bebas di kavum Douglas (KET?)"
 5. **Kontak dokter pengirim** — nama terang dan nomor telepon untuk diskusi kasus.
 
-> [!tip] Buat template surat rujukan USG yang bisa diisi cepat. Simpan di meja praktik atau di ponsel Anda sebagai *saved note*. Contoh:
-> ---
-> *Mohon pemeriksaan USG Obgin*
-> *Pasien: [nama], [usia] tahun, [G-P-A]*
-> *UK [minggu] — HPHT [tanggal]*
-> *Keluhan: [perdarahan/nyeri/dll] sejak [hari]*
-> *Pemeriksaan: TD [angka], Leopold/DJJ [temuan], VT [temuan]*
-> *Diskus iagnosis: [curiga ...]*
-> *Pertanyaan: [1. konfirmasi DJJ? 2. letak plasenta?]*
-> *Pengirim: dr. [nama], Puskesmas [nama], HP [nomor]*
+> ## [!tip] Buat template surat rujukan USG yang bisa diisi cepat. Simpan di meja praktik atau di ponsel Anda sebagai _saved note_. Contoh:
+>
+> _Mohon pemeriksaan USG Obgin_
+> _Pasien: [nama], [usia] tahun, [G-P-A]_
+> _UK [minggu] — HPHT [tanggal]_
+> _Keluhan: [perdarahan/nyeri/dll] sejak [hari]_
+> _Pemeriksaan: TD [angka], Leopold/DJJ [temuan], VT [temuan]_
+> _Diskus iagnosis: [curiga ...]_
+> _Pertanyaan: [1. konfirmasi DJJ? 2. letak plasenta?]_
+> _Pengirim: dr. [nama], Puskesmas [nama], HP [nomor]_
+>
 > ---
 
 ## Langkah-Langkah
@@ -95,60 +95,60 @@ USG obstetri dan ginekologi memiliki indikasi yang luas. Berikut pembagiannya:
 
 **Trimester I (0–13 minggu):**
 
-| Indikasi | Tujuan |
-|----------|--------|
-| Konfirmasi kehamilan | Bila β-hCG positif, tapi belum ada konfirmasi USG dari puskesmas |
-| Perdarahan awal kehamilan | Membedakan abortus iminens, missed abortion, KET, mola hidatidosa |
-| Nyeri perut bawah pada kehamilan muda | Menyingkirkan KET — **kegawatdaruratan** |
-| Taksasi usia kehamilan | Bila HPHT tidak pasti atau siklus tidak teratur — ukur CRL (Crown-Rump Length) |
-| Hamil dengan IUD in situ | Pastikan letak IUD di luar kavum amnion |
-| Riwayat KET sebelumnya | Skrining lokasi kehamilan sejak 6-7 minggu |
-| Hamil setelah fertilisasi in vitro (FIV) | Pastikan jumlah kantung dan lokasi implantasi |
-| Dugaan hamil ganda | Misalnya perut terlalu besar untuk usia kehamilan |
+| Indikasi                                 | Tujuan                                                                         |
+| ---------------------------------------- | ------------------------------------------------------------------------------ |
+| Konfirmasi kehamilan                     | Bila β-hCG positif, tapi belum ada konfirmasi USG dari puskesmas               |
+| Perdarahan awal kehamilan                | Membedakan abortus iminens, missed abortion, KET, mola hidatidosa              |
+| Nyeri perut bawah pada kehamilan muda    | Menyingkirkan KET — **kegawatdaruratan**                                       |
+| Taksasi usia kehamilan                   | Bila HPHT tidak pasti atau siklus tidak teratur — ukur CRL (Crown-Rump Length) |
+| Hamil dengan IUD in situ                 | Pastikan letak IUD di luar kavum amnion                                        |
+| Riwayat KET sebelumnya                   | Skrining lokasi kehamilan sejak 6-7 minggu                                     |
+| Hamil setelah fertilisasi in vitro (FIV) | Pastikan jumlah kantung dan lokasi implantasi                                  |
+| Dugaan hamil ganda                       | Misalnya perut terlalu besar untuk usia kehamilan                              |
 
 > [!warning] **Nyeri perut bawah + perdarahan + haid terlambat** pada wanita usia reproduksi: **KET adalah diagnosis yang harus disingkirkan SEBELUM** pasien pulang. β-hCG negatif menyingkirkan kehamilan, tapi jika β-hCG positif dan USG belum bisa dilakukan, pasien harus diobservasi atau dirujuk ke RS. Jangan berikan obat analgesik kuat pada nyeri perut bawah tanpa diagnosis pasti pada wanita reproduktif — risiko menutupi tanda syok KET yang ruptur!
 
 **Trimester II (14–27 minggu):**
 
-| Indikasi | Tujuan |
-|----------|--------|
-| Skrining anomali janin (USG anatomi) | Idealnya 18–22 minggu — deteksi kelainan struktur mayor |
-| Letak plasenta | Curiga plasenta previa bila ada perdarahan trimester II tanpa nyeri |
-| Pertumbuhan janin | Bila TFU tidak sesuai usia kehamilan — ukur BPD, FL, AC, HC → taksir berat janin (TBJ) |
-| Jumlah cairan ketuban | Polihidramnion / oligohidramnion |
-| Determinan jenis kelamin | Atas indikasi medis (misal riwayat kelainan terkait seks) |
-| Prosedur invasif | Panduan untuk amniosentesis atau CVS |
+| Indikasi                             | Tujuan                                                                                 |
+| ------------------------------------ | -------------------------------------------------------------------------------------- |
+| Skrining anomali janin (USG anatomi) | Idealnya 18–22 minggu — deteksi kelainan struktur mayor                                |
+| Letak plasenta                       | Curiga plasenta previa bila ada perdarahan trimester II tanpa nyeri                    |
+| Pertumbuhan janin                    | Bila TFU tidak sesuai usia kehamilan — ukur BPD, FL, AC, HC → taksir berat janin (TBJ) |
+| Jumlah cairan ketuban                | Polihidramnion / oligohidramnion                                                       |
+| Determinan jenis kelamin             | Atas indikasi medis (misal riwayat kelainan terkait seks)                              |
+| Prosedur invasif                     | Panduan untuk amniosentesis atau CVS                                                   |
 
 > [!tip] **Screening anomali (USG anatomi 18–22 minggu)** adalah kesempatan terbaik untuk mendeteksi kelainan kongenital mayor. Jika fasilitas Anda tidak memiliki kemampuan USG di puskesmas, pastikan setiap ibu hamil dirujuk **setidaknya satu kali** di rentang usia ini ke dokter spesialis obgyn atau radiologi. Ini adalah **standar pelayanan antenatal**.
 
 **Trimester III (28–40 minggu):**
 
-| Indikasi | Tujuan |
-|----------|--------|
-| Letak janin | Presentasi kepala / sungsang / lintang menjelang persalinan |
-| Plasenta previa | Perdarahan trimester III tanpa nyeri — evaluasi ulang lokasi plasenta |
-| Pertumbuhan janin | Dugaan IUGR atau makrosomia |
-| Jumlah cairan ketuban | AFI (Amniotic Fluid Index) — abnormal pada postdate, KPD, IUGR |
-| Skor Manning (BPS) | Kesejahteraan janin — gerakan, tonus, pernapasan, cairan |
-| Kehamilan post-term | Evaluasi kesejahteraan janin setelah ≥41 minggu |
-| Dugaan solusio plasenta | Nyeri perut hebat + perdarahan + uterus tegang |
-| Gawat janin (non-reassuring FHR) | Evaluasi dengan BPS atau Doppler |
-| Presentasi ganda | Sebelum persalinan — posisi janin A dan B |
+| Indikasi                         | Tujuan                                                                |
+| -------------------------------- | --------------------------------------------------------------------- |
+| Letak janin                      | Presentasi kepala / sungsang / lintang menjelang persalinan           |
+| Plasenta previa                  | Perdarahan trimester III tanpa nyeri — evaluasi ulang lokasi plasenta |
+| Pertumbuhan janin                | Dugaan IUGR atau makrosomia                                           |
+| Jumlah cairan ketuban            | AFI (Amniotic Fluid Index) — abnormal pada postdate, KPD, IUGR        |
+| Skor Manning (BPS)               | Kesejahteraan janin — gerakan, tonus, pernapasan, cairan              |
+| Kehamilan post-term              | Evaluasi kesejahteraan janin setelah ≥41 minggu                       |
+| Dugaan solusio plasenta          | Nyeri perut hebat + perdarahan + uterus tegang                        |
+| Gawat janin (non-reassuring FHR) | Evaluasi dengan BPS atau Doppler                                      |
+| Presentasi ganda                 | Sebelum persalinan — posisi janin A dan B                             |
 
 #### Indikasi USG Ginekologi (Non-Hamil / Non-Obstetri)
 
-| Indikasi | Tujuan |
-|----------|--------|
-| Massa adneksa / massa pelvik | Kista ovarium, kistadenoma, tumor ovarium |
-| Perdarahan uterus abnormal (AUB/PUB) | Ukur endometrium, cari mioma submukosa, polip endometrium |
-| Amenore dengan etiologi ovarium | Ukur volume ovarium (PCOS), cari kista |
-| Infertilitas | Monitoring folikel, tebal endometrium, ada/tidaknya mioma |
-| Diskonfort pelvik / nyeri panggul | Abses tubo-ovarian, kista hemoragik, PID |
-| Skrining keganasan ginekologi | Endometrium tebal mencurigakan pada wanita menopause |
-| Evaluasi IUD letak abnormal | Pastikan IUD intrakavum / perforasi? |
-| Pasca operasi ginekologi | Perdarahan pasca histerektomi/ooforektomi, abses panggul |
-| Prosedur invasif | Panduan untuk aspirasi kista, biopsi endometrium |
-| Dugaan kehamilan ektopik (sudah disebut) | Massa adneksa + kavum uteri kosong + cairan bebas |
+| Indikasi                                 | Tujuan                                                    |
+| ---------------------------------------- | --------------------------------------------------------- |
+| Massa adneksa / massa pelvik             | Kista ovarium, kistadenoma, tumor ovarium                 |
+| Perdarahan uterus abnormal (AUB/PUB)     | Ukur endometrium, cari mioma submukosa, polip endometrium |
+| Amenore dengan etiologi ovarium          | Ukur volume ovarium (PCOS), cari kista                    |
+| Infertilitas                             | Monitoring folikel, tebal endometrium, ada/tidaknya mioma |
+| Diskonfort pelvik / nyeri panggul        | Abses tubo-ovarian, kista hemoragik, PID                  |
+| Skrining keganasan ginekologi            | Endometrium tebal mencurigakan pada wanita menopause      |
+| Evaluasi IUD letak abnormal              | Pastikan IUD intrakavum / perforasi?                      |
+| Pasca operasi ginekologi                 | Perdarahan pasca histerektomi/ooforektomi, abses panggul  |
+| Prosedur invasif                         | Panduan untuk aspirasi kista, biopsi endometrium          |
+| Dugaan kehamilan ektopik (sudah disebut) | Massa adneksa + kavum uteri kosong + cairan bebas         |
 
 > [!warning] Pasien menopause dengan perdarahan pervaginam: ukur tebal endometrium dengan USG transvaginal. Jika endometrium >5 mm, lakukan biopsi endometrium untuk menyingkirkan karsinoma endometrium. Jangan hanya memberikan hormon tanpa diagnosis!
 >
@@ -158,19 +158,19 @@ USG obstetri dan ginekologi memiliki indikasi yang luas. Berikut pembagiannya:
 
 Perbedaan utama USG transabdominal (TA) dan transvaginal (TV):
 
-| Parameter | USG Transabdominal (TA) | USG Transvaginal (TV) |
-|-----------|------------------------|----------------------|
-| **Probe** | Konveks 3,5–5 MHz — di atas dinding perut | Endovaginal 5–9 MHz — dalam vagina |
-| **Resolusi** | Lebih rendah — gambar kurang detail | **Lebih tinggi** — detail anatomi lebih jelas |
-| **Kebutuhan kandung kemih penuh** | **WAJIB** — kandung kemih penuh sebagai "jendela akustik" untuk mendorong usus | Tidak perlu — bahkan lebih baik jika kandung kemih kosong |
-| **Kenyamanan pasien** | Minimal invasif, privasi lebih terjaga | Perlu *informed consent*, posisi litotomi |
-| **Kehamilan muda** | Kurang akurat di bawah 10 minggu | Jauh lebih akurat — bisa mendeteksi kantung gestasi sejak 5 minggu, FHR 6 minggu |
-| **Kehamilan ≥12 minggu** | Pilihan utama — janin sudah cukup besar dan lebih dari pelvis | Kurang nyaman dan terbatas untuk melihat janin utuh |
-| **Massa di luar pelvis** | Lebih baik untuk massa yang besar atau di abdomen atas | Hanya untuk lesi intra-pelvis (tidak bisa di atas simfisis >12 cm) |
-| **Deteksi KET** | Kurang sensitif | **Baku emas** — visualisasi tuba dan ovarium lebih baik |
-| **Penilaian endometrium** | Terbatas — hanya tebal, tidak detail | Sangat baik — tebal hingga lapisan endometrium |
-| **Plasenta previa** | Trimester III: baik | Hati-hati — hindari jika plasenta previa sudah dikonfirmasi TA (perdarahan) |
-| **Folikel ovarium** | Terbatas | Sangat baik untuk monitoring folikel dan ovarium |
+| Parameter                         | USG Transabdominal (TA)                                                        | USG Transvaginal (TV)                                                            |
+| --------------------------------- | ------------------------------------------------------------------------------ | -------------------------------------------------------------------------------- |
+| **Probe**                         | Konveks 3,5–5 MHz — di atas dinding perut                                      | Endovaginal 5–9 MHz — dalam vagina                                               |
+| **Resolusi**                      | Lebih rendah — gambar kurang detail                                            | **Lebih tinggi** — detail anatomi lebih jelas                                    |
+| **Kebutuhan kandung kemih penuh** | **WAJIB** — kandung kemih penuh sebagai "jendela akustik" untuk mendorong usus | Tidak perlu — bahkan lebih baik jika kandung kemih kosong                        |
+| **Kenyamanan pasien**             | Minimal invasif, privasi lebih terjaga                                         | Perlu _informed consent_, posisi litotomi                                        |
+| **Kehamilan muda**                | Kurang akurat di bawah 10 minggu                                               | Jauh lebih akurat — bisa mendeteksi kantung gestasi sejak 5 minggu, FHR 6 minggu |
+| **Kehamilan ≥12 minggu**          | Pilihan utama — janin sudah cukup besar dan lebih dari pelvis                  | Kurang nyaman dan terbatas untuk melihat janin utuh                              |
+| **Massa di luar pelvis**          | Lebih baik untuk massa yang besar atau di abdomen atas                         | Hanya untuk lesi intra-pelvis (tidak bisa di atas simfisis >12 cm)               |
+| **Deteksi KET**                   | Kurang sensitif                                                                | **Baku emas** — visualisasi tuba dan ovarium lebih baik                          |
+| **Penilaian endometrium**         | Terbatas — hanya tebal, tidak detail                                           | Sangat baik — tebal hingga lapisan endometrium                                   |
+| **Plasenta previa**               | Trimester III: baik                                                            | Hati-hati — hindari jika plasenta previa sudah dikonfirmasi TA (perdarahan)      |
+| **Folikel ovarium**               | Terbatas                                                                       | Sangat baik untuk monitoring folikel dan ovarium                                 |
 
 #### Panduan Memilih Jenis USG
 
@@ -268,8 +268,9 @@ Sebelum pasien berangkat ke RS untuk USG, sampaikan:
 4. **Prioritas kegawatdaruratan:** Jika pasien dengan perdarahan aktif / syok / nyeri hebat — ini **kegawatdaruratan obstetri**. Rujuk ke IGD RS, bukan hanya ke poliklinik USG.
 
 > [!tip] **Tips komunikasi dengan pasien:**
-> - *"USG transvaginal seperti memasukkan pembalut aplikator — tidak sakit, bunyi probe lebih panjang dan kecil."* Gunakan analogi sederhana.
-> - *"Ini gel yang dingin di perut, nanti akan digerakkan probe-nya. Tidak akan sakit."* (untuk USG TA)
+>
+> - _"USG transvaginal seperti memasukkan pembalut aplikator — tidak sakit, bunyi probe lebih panjang dan kecil."_ Gunakan analogi sederhana.
+> - _"Ini gel yang dingin di perut, nanti akan digerakkan probe-nya. Tidak akan sakit."_ (untuk USG TA)
 > - Jangan katakan "Saya curiga kanker" — katakan "Kita lihat dulu dengan USG, kalau ada yang mencurigakan akan dilakukan pemeriksaan lebih lanjut."
 
 ## Interpretasi Hasil / Tanda Bahaya
@@ -280,51 +281,51 @@ Anda mungkin tidak melakukan sendiri USG, tapi Anda **wajib bisa membaca laporan
 
 #### Temuan USG Obstetri
 
-| Temuan | Interpretasi | Tindak Lanjut |
-|--------|-------------|---------------|
-| Kantung gestasi (+) intrauterin, usia 5–6 minggu | Kehamilan intrauterin normal pada awal | Lanjutkan ANC, ulang USG 2 minggu bila perlu |
-| Kantung gestasi kosong >25 mm (anembryonic) | *Missed abortion* / *blighted ovum* | Rujuk ke obgyn — tata laksana: ekspektatif / medikamentosa / kuret |
-| Janin tanpa DJJ pada UK >7 minggu dengan CRL >7 mm | *Missed abortion* | Rujuk obgyn — evakuasi |
-| Kantung gestasi kosong + massa di adneksa + cairan bebas | **KET — kegawatdaruratan** | **Rujuk URGENT ke IGD RS** — laparoskopi / salpingektomi |
-| Kantung gestasi terlihat di uterus, tapi bentuk tidak normal/bercabang | Suspek mola hidatidosa parsial | Rujuk obgyn — evaluasi β-hCG serial, kuretase |
-| Gambaran *snowstorm* / vesikel multipel dalam uterus | **Mola hidatidosa** (hamil anggur) | Rujuk obgyn — kuretase, β-hCG serial, pantau keganasan (GTT) |
-| Plasenta menutupi OUI (ostium uteri internum) | Plasenta previa totalis / partialis | Rujuk — rawat, persiapan SC, waspada perdarahan |
-| Air fluid level di retroplasenta + janin gawat | **Solusio plasenta** | **Rujuk URGENT — SC emergensi** |
-| Oligohidramnion (AFI <5 cm) | IUGR / KPD / kelainan ginjal janin | Rujuk obgyn — manajemen antenatal ketat |
-| Polihidramnion (AFI >25 cm) | DM gestasional / atresia esofagus / anensefali / hamil ganda | Rujuk obgyn — cari etiologi |
-| IUGR (EFW <10th percentile) | Insufisiensi plasenta | Rujuk obgyn — tata laksana: monitoring, induksi |
-| Plasenta letak rendah menjelang aterm | Biasanya sudah naik, tapi jika masih <2 cm dari OUI → plasenta previa | Pastikan dengan USG TV (hati-hati) — rencanakan SC |
+| Temuan                                                                 | Interpretasi                                                          | Tindak Lanjut                                                      |
+| ---------------------------------------------------------------------- | --------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| Kantung gestasi (+) intrauterin, usia 5–6 minggu                       | Kehamilan intrauterin normal pada awal                                | Lanjutkan ANC, ulang USG 2 minggu bila perlu                       |
+| Kantung gestasi kosong >25 mm (anembryonic)                            | _Missed abortion_ / _blighted ovum_                                   | Rujuk ke obgyn — tata laksana: ekspektatif / medikamentosa / kuret |
+| Janin tanpa DJJ pada UK >7 minggu dengan CRL >7 mm                     | _Missed abortion_                                                     | Rujuk obgyn — evakuasi                                             |
+| Kantung gestasi kosong + massa di adneksa + cairan bebas               | **KET — kegawatdaruratan**                                            | **Rujuk URGENT ke IGD RS** — laparoskopi / salpingektomi           |
+| Kantung gestasi terlihat di uterus, tapi bentuk tidak normal/bercabang | Suspek mola hidatidosa parsial                                        | Rujuk obgyn — evaluasi β-hCG serial, kuretase                      |
+| Gambaran _snowstorm_ / vesikel multipel dalam uterus                   | **Mola hidatidosa** (hamil anggur)                                    | Rujuk obgyn — kuretase, β-hCG serial, pantau keganasan (GTT)       |
+| Plasenta menutupi OUI (ostium uteri internum)                          | Plasenta previa totalis / partialis                                   | Rujuk — rawat, persiapan SC, waspada perdarahan                    |
+| Air fluid level di retroplasenta + janin gawat                         | **Solusio plasenta**                                                  | **Rujuk URGENT — SC emergensi**                                    |
+| Oligohidramnion (AFI <5 cm)                                            | IUGR / KPD / kelainan ginjal janin                                    | Rujuk obgyn — manajemen antenatal ketat                            |
+| Polihidramnion (AFI >25 cm)                                            | DM gestasional / atresia esofagus / anensefali / hamil ganda          | Rujuk obgyn — cari etiologi                                        |
+| IUGR (EFW <10th percentile)                                            | Insufisiensi plasenta                                                 | Rujuk obgyn — tata laksana: monitoring, induksi                    |
+| Plasenta letak rendah menjelang aterm                                  | Biasanya sudah naik, tapi jika masih <2 cm dari OUI → plasenta previa | Pastikan dengan USG TV (hati-hati) — rencanakan SC                 |
 
 > [!warning] **Jangan terlambat merujuk KET!** Trias klasik: amenore + nyeri perut bawah + perdarahan pervaginam. USG TV menunjukkan: uterus kosong + massa adneksa + cairan bebas di kavum Douglas. Tapi pasien bisa datang dengan gejala minimal. **β-hCG positif + kavum uteri kosong pada USG TV = curiga KET sampai terbukti bukan.**
 
 #### Temuan USG Ginekologi
 
-| Temuan | Interpretasi | Tindak Lanjut |
-|--------|-------------|---------------|
-| Kista ovarium sederhana <5 cm, dinding tipis, anechoic | Kista fisiologis / fungsional | Observasi, ulang USG 2-3 siklus → biasanya regresi |
-| Kista >5 cm, dinding tebal, septa, komponen solid/papiler, asites | Curiga **keganasan ovarium** (kistadenoma / karsinoma) | **Rujuk obgyn onkologi** — CA-125, CT/MRI, laparotomi |
-| Endometrioma — kista dengan *ground-glass appearance*, homogen | Endometrioma / kista endometriosis | Rujuk obgyn — laparoskopi / manajemen medikamentosa |
-| Kista dengan pola dinding irregular, *papillary projection* | Curiosa keganasan | Rujuk obgyn — evaluasi onkologi lebih lanjut |
-| Endometrium >5 mm pada pascamenopause | Karsinoma endometrium sampai terbukti lain | **Rujuk obgyn** — biopsi endometrium / histeroskopi |
-| Endometrium tebal, inhomogen, *fluid-filled* pada wanita menopause | Piometra / karsinoma endometrium | Rujuk obgyn — drainase / biopsi |
-| Mioma uteri — massa hipoekoik, sirkumskrip, sering multiple | Leiomioma | Rujuk bila simptomatik: perdarahan hebat, nyeri, infertilitas, kompresi |
-| *String of pearls sign* — ovarium multifolikel (+ ≥12 folikel 2-9 mm) | PCOS | Korelasi klinis + laboratorium — Rotterdam criteria |
-| Cairan bebas di kavum Douglas (bukan fisiologis) dalam jumlah banyak | Perdarahan intra-abdomen / ruptur kista / infeksi PID | Evaluasi klinis, rujuk bila perlu |
+| Temuan                                                                | Interpretasi                                           | Tindak Lanjut                                                           |
+| --------------------------------------------------------------------- | ------------------------------------------------------ | ----------------------------------------------------------------------- |
+| Kista ovarium sederhana <5 cm, dinding tipis, anechoic                | Kista fisiologis / fungsional                          | Observasi, ulang USG 2-3 siklus → biasanya regresi                      |
+| Kista >5 cm, dinding tebal, septa, komponen solid/papiler, asites     | Curiga **keganasan ovarium** (kistadenoma / karsinoma) | **Rujuk obgyn onkologi** — CA-125, CT/MRI, laparotomi                   |
+| Endometrioma — kista dengan _ground-glass appearance_, homogen        | Endometrioma / kista endometriosis                     | Rujuk obgyn — laparoskopi / manajemen medikamentosa                     |
+| Kista dengan pola dinding irregular, _papillary projection_           | Curiosa keganasan                                      | Rujuk obgyn — evaluasi onkologi lebih lanjut                            |
+| Endometrium >5 mm pada pascamenopause                                 | Karsinoma endometrium sampai terbukti lain             | **Rujuk obgyn** — biopsi endometrium / histeroskopi                     |
+| Endometrium tebal, inhomogen, _fluid-filled_ pada wanita menopause    | Piometra / karsinoma endometrium                       | Rujuk obgyn — drainase / biopsi                                         |
+| Mioma uteri — massa hipoekoik, sirkumskrip, sering multiple           | Leiomioma                                              | Rujuk bila simptomatik: perdarahan hebat, nyeri, infertilitas, kompresi |
+| _String of pearls sign_ — ovarium multifolikel (+ ≥12 folikel 2-9 mm) | PCOS                                                   | Korelasi klinis + laboratorium — Rotterdam criteria                     |
+| Cairan bebas di kavum Douglas (bukan fisiologis) dalam jumlah banyak  | Perdarahan intra-abdomen / ruptur kista / infeksi PID  | Evaluasi klinis, rujuk bila perlu                                       |
 
 > [!tip] **Jangan panik pada setiap kista!** Kista ovarium sederhana <5 cm pada wanita reproduktif sangat sering (fungsional). Kebanyakan menghilang dalam 2–3 siklus. Suruh pasien kontrol setelah haid bulan depan. Jika menetap atau membesar, baru rujuk ke obgyn.
 
 ### Tanda Bahaya USG — Kapan Harus Segera Dirujuk ke IGD BUKAN ke Poli
 
-| Temuan USG | Tindakan |
-|-----------|----------|
-| KET (kehamilan ektopik terganggu) | Rujuk **URGENT** ke IGD — jangan kirim ke poli |
-| Solusio plasenta | Rujuk **URGENT** ke IGD — SC emergensi |
-| Perdarahan plasenta previa aktif | Rujuk **URGENT** ke IGD — rawat, SC bila stabil |
-| Ruptur kista ovarium dengan syok | Rujuk **URGENT** ke IGD — resusitasi + operasi |
-| Torsi ovarium (warna Doppler negatif + nyeri akut) | Rujuk **URGENT** ke IGD |
+| Temuan USG                                                    | Tindakan                                              |
+| ------------------------------------------------------------- | ----------------------------------------------------- |
+| KET (kehamilan ektopik terganggu)                             | Rujuk **URGENT** ke IGD — jangan kirim ke poli        |
+| Solusio plasenta                                              | Rujuk **URGENT** ke IGD — SC emergensi                |
+| Perdarahan plasenta previa aktif                              | Rujuk **URGENT** ke IGD — rawat, SC bila stabil       |
+| Ruptur kista ovarium dengan syok                              | Rujuk **URGENT** ke IGD — resusitasi + operasi        |
+| Torsi ovarium (warna Doppler negatif + nyeri akut)            | Rujuk **URGENT** ke IGD                               |
 | Massa dengan ascites masif (curiga ca ovarium stadium lanjut) | Rujuk ke obgyn onkologi — **segera, bukan emergensi** |
-| Mola hidatidosa dengan perdarahan aktif | Rujuk **URGENT** — kuretase |
-| Janin gawat dengan BPS ≤4 | Rujuk **URGENT** ke IGD — SC emergensi |
+| Mola hidatidosa dengan perdarahan aktif                       | Rujuk **URGENT** — kuretase                           |
+| Janin gawat dengan BPS ≤4                                     | Rujuk **URGENT** ke IGD — SC emergensi                |
 
 ## Kesalahan yang Sering Terjadi
 
@@ -346,7 +347,7 @@ Anda mungkin tidak melakukan sendiri USG, tapi Anda **wajib bisa membaca laporan
 
 ## Dipakai Untuk Penyakit Apa Saja
 
-*(akan diisi)*
+_(akan diisi)_
 
 ## Referensi
 
@@ -359,7 +360,7 @@ Anda mungkin tidak melakukan sendiri USG, tapi Anda **wajib bisa membaca laporan
 7. **WHO Recommendations on Antenatal Care for a Positive Pregnancy Experience.** Geneva: WHO; 2016 (updated 2023).
 8. **AIUM (American Institute of Ultrasound in Medicine).** Practice Parameter for the Performance of Standard Diagnostic Obstetric Ultrasound Examinations. 2023.
 9. **NICE Guideline NG133.** Antenatal Care. London: NICE; 2023.
-10. **Brown DL, et al.** A Practical Approach to Vaginal Ultrasound. *Radiographics.* 2021;41(2):E43-E56.
+10. **Brown DL, et al.** A Practical Approach to Vaginal Ultrasound. _Radiographics._ 2021;41(2):E43-E56.
 
 ---
 

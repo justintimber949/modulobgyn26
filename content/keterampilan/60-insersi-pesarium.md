@@ -1,23 +1,24 @@
 ---
 title: Insersi Pesarium
 tags:
-- keterampilan
-- ginekologi-dasar
-- skdi-2
+  - keterampilan
+  - ginekologi-dasar
+  - skdi-2
 level_kompetensi: 2
 kategori: ginekologi-dasar
 nomor_modul: 60
 aliases:
-- Pessary Insertion
-- Pemasangan Pesarium
-- Pesarium untuk Prolaps
-- pasang pesarium
-- pessary insertion
-- pesarium untuk prolaps
-- pemasangan pesarium
+  - Pessary Insertion
+  - Pemasangan Pesarium
+  - Pesarium untuk Prolaps
+  - pasang pesarium
+  - pessary insertion
+  - pesarium untuk prolaps
+  - pemasangan pesarium
 cssclasses:
-- buku-saku
+  - buku-saku
 ---
+
 ----|--------|----------|------------|
 | **Ring (Ring pesarium)** | Cincin datar | Prolaps uterus derajat 1-2, sistokel | Mudah dipasang, nyaman |
 | **Ring dengan dukungan (Ring with support)** | Cincin + horizontal bar | Prolaps uterus derajat 2-3, sistokel | Dukungan lebih baik |
@@ -37,12 +38,14 @@ cssclasses:
 ## Kontraindikasi
 
 **Absolut:**
+
 - Infeksi vagina/serviks aktif (vaginitis, servisitis, PID)
 - Perdarahan vagina tidak jelas penyebabnya
 - Alergi bahan pesarium (silikon, latex, getah)
 - Prolaps dengan ulserasi serviks/vagina yang terinfeksi
 
 **Relatif:**
+
 - Non-komplian pada follow-up
 - Penyakit kulit vagina (lichen sclerosus)
 - Radiasi pelvis previously
@@ -57,17 +60,18 @@ cssclasses:
 ## Teknik Pemasangan (Ring dengan Dukungan - paling umum)
 
 ### Langkah-langkah:
+
 1. Pasien posisi litotomi, lampu baik
 2. Pasang spekulum (grave/pederson), visualisasikan serviks
-4. Ukur diameter vagina: jari telunjuk + kelingking masuk ke fornix posterior → jari kelingking ke posterior fornix, jari telunjuk ke anterior fornix → ukur jarak
-5. Pilih pesarium ukuran 1-2 cm lebih besar dari ukuran jari
-6. Lumasi pesarium dengan KY jelly
-7. Lipat pesarium (bisa dilipat seperti "8" untuk ring) atau tekan untuk cube
-8. Masukkan ke vagina — arahkan ke posterior fornix dulu, lalu dorong ke anterior
-9. Pastikan posisi benar: ring duduk di retropubic area (di belakang simfisis), tidak menekan uretra
-10. Cek dengan jari — pastikan tidak nyeri, tidak ada tekanan uretra
-11. Minta pasien berdiri, batuk, tekanan abdominal → cek apakah pesarium lepas
-12. Keluarkan spekulum, cek lagi posisi
+3. Ukur diameter vagina: jari telunjuk + kelingking masuk ke fornix posterior → jari kelingking ke posterior fornix, jari telunjuk ke anterior fornix → ukur jarak
+4. Pilih pesarium ukuran 1-2 cm lebih besar dari ukuran jari
+5. Lumasi pesarium dengan KY jelly
+6. Lipat pesarium (bisa dilipat seperti "8" untuk ring) atau tekan untuk cube
+7. Masukkan ke vagina — arahkan ke posterior fornix dulu, lalu dorong ke anterior
+8. Pastikan posisi benar: ring duduk di retropubic area (di belakang simfisis), tidak menekan uretra
+9. Cek dengan jari — pastikan tidak nyeri, tidak ada tekanan uretra
+10. Minta pasien berdiri, batuk, tekanan abdominal → cek apakah pesarium lepas
+11. Keluarkan spekulum, cek lagi posisi
 
 > [!warning] Red Flag
 > Jika pasien merasa nyeri saat duduk/berdiri, atau ada gejala retensi urine (sering buang air kecil tapi sedikit, perut membesar) — **KELUARKAN PESARIUM SEGERA!** Ini bisa menandakan kompresi uretra.
@@ -103,9 +107,9 @@ cssclasses:
 
 ## Keterampilan Terkait
 
-- [[24-prolaps-uterus-sistokel-rektokel]]
-- [[02-inspeksi-palpasi-genitalia-eksterna]]
-- [[04-pemeriksaan-bimanual]]
+- Prolaps Uterus Sistokel Rektokel
+- Inspeksi Palpasi Genitalia Eksterna
+- Pemeriksaan Bimanual
 
 ## Referensi
 

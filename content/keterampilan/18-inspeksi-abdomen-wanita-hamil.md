@@ -1,24 +1,23 @@
 ---
 title: Inspeksi Abdomen Wanita Hamil
 tags:
-- keterampilan
-- antenatal
-- skdi-4a
+  - keterampilan
+  - antenatal
+  - skdi-4a
 level_kompetensi: 4A
 kategori: antenatal
 nomor_modul: 18
 aliases:
-- Pemeriksaan Abdomen Ibu Hamil
-- Inspeksi Visual Abdomen Kehamilan
-- Pemeriksaan Luar Abdomen
-- cek perut hamil
-- inspeksi abdomen
-- periksa perut ibu hamil
-- pemeriksaan abdomen
+  - Pemeriksaan Abdomen Ibu Hamil
+  - Inspeksi Visual Abdomen Kehamilan
+  - Pemeriksaan Luar Abdomen
+  - cek perut hamil
+  - inspeksi abdomen
+  - periksa perut ibu hamil
+  - pemeriksaan abdomen
 cssclasses:
-- buku-saku
+  - buku-saku
 ---
-
 
 # Inspeksi Abdomen Wanita Hamil
 
@@ -41,15 +40,15 @@ Inspeksi abdomen bukan sekadar "melihat" — ini rekaan klinis yang dimulai dari
 
 ### Alat dan Bahan
 
-| Alat | Fungsi |
-|------|--------|
-| Pita ukur (metlin) | Pengukuran TFU dan lingkar perut — **setelah** inspeksi |
-| Stetoskop Laennec / Dopler | Auskultasi DJJ (langkah berikutnya) |
-| Stetoskop biasa + tensimeter | Tanda vital ibu |
-| Bantal/guling kecil | Penyangga kepala saat pasien berbaring |
-| Sarung tangan bersih | Palpasi Leopold — tapi proses inspeksi bisa tanpa sarung tangan |
-| Handuk atau kain penutup | Privasi — dada bagian bawah dan paha tertutup |
-| Penlight / senter kecil | Inspeksi striae, linea nigra, jaringan parut |
+| Alat                         | Fungsi                                                          |
+| ---------------------------- | --------------------------------------------------------------- |
+| Pita ukur (metlin)           | Pengukuran TFU dan lingkar perut — **setelah** inspeksi         |
+| Stetoskop Laennec / Dopler   | Auskultasi DJJ (langkah berikutnya)                             |
+| Stetoskop biasa + tensimeter | Tanda vital ibu                                                 |
+| Bantal/guling kecil          | Penyangga kepala saat pasien berbaring                          |
+| Sarung tangan bersih         | Palpasi Leopold — tapi proses inspeksi bisa tanpa sarung tangan |
+| Handuk atau kain penutup     | Privasi — dada bagian bawah dan paha tertutup                   |
+| Penlight / senter kecil      | Inspeksi striae, linea nigra, jaringan parut                    |
 
 > [!tip] Jangan pernah memulai inspeksi di ruangan dengan pencahayaan redup. Striae rubra, linea nigra, atau skar operasi bisa terlewat. Minta bantuan asisten untuk mengatur lampu dari samping — pencahayaan tangensial paling baik untuk melihat kontur dan retraksi.
 
@@ -97,7 +96,7 @@ Mulai dari area suprapubik ke arah fundus, lalu ke samping. Amati:
 - **Skar pasca-seksio sesarea (SC)** — biasanya insisi Pfannenstiel (melintang, 2-3 cm di atas simfisis pubis, sepanjang garis rambut pubis). Kadang insisi midline (vertikal, dari pusat ke simfisis) pada operasi emergensi.
 - **Skar lain**: laparoskopi (trocar scars di umbilikus, hipogastrium kanan/kiri), herniorafi, atau luka trauma.
 - **Yang Anda cari**: kemerahan menandakan infeksi, drainase (seroma, abses), dehisensi. Skar tebal, hipertrofis, atau keloid bisa mengganggu palpasi karena nyeri.
-- **Pada ibu hamil yang sudah SC sebelumnya**, skar Pfannenstiel perlu dinilai apakah ada nyeri atau tonjolan yang mencurigakan *niche* defek skar atau impending rupture — terutama jika pasien melahirkan pervaginam setelah SC (VBAC).
+- **Pada ibu hamil yang sudah SC sebelumnya**, skar Pfannenstiel perlu dinilai apakah ada nyeri atau tonjolan yang mencurigakan _niche_ defek skar atau impending rupture — terutama jika pasien melahirkan pervaginam setelah SC (VBAC).
 
 > [!warning] Skar SC yang teraba nyeri tekan, menonjol, atau disertai nyeri perut bawah dan perdarahan pervaginam menjelang atau dalam persalinan → **waspadai rupture uteri**. Rujuk segera.
 
@@ -111,12 +110,12 @@ Mulai dari area suprapubik ke arah fundus, lalu ke samping. Amati:
 
 **Evaluasi dari samping (lateral view) dulu:**
 
-| Bentuk Abdomen | Predileksi Klinis |
-|----------------|-------------------|
-| **Oval/lonjong memanjang** (longitudinal) | Letak memanjang — normal pada kehamilan aterm |
-| **Bulat/globular** | Gemeli, polihidramnion, makrosomia, atau ibu obesitas |
-| **Flat** (< usia kehamilan) | Oligohidramnion, IUGR, atau kesalahan perhitungan usia kehamilan |
-| **Pyriform (seperti buah pir)** | Kehamilan letak sungsang dengan kepala di fundus |
+| Bentuk Abdomen                              | Predileksi Klinis                                                                            |
+| ------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| **Oval/lonjong memanjang** (longitudinal)   | Letak memanjang — normal pada kehamilan aterm                                                |
+| **Bulat/globular**                          | Gemeli, polihidramnion, makrosomia, atau ibu obesitas                                        |
+| **Flat** (< usia kehamilan)                 | Oligohidramnion, IUGR, atau kesalahan perhitungan usia kehamilan                             |
+| **Pyriform (seperti buah pir)**             | Kehamilan letak sungsang dengan kepala di fundus                                             |
 | **Abdomen menggantung (pendulous abdomen)** | Multipara dengan dinding perut kendur, gemeli, atau hidramnion — fundus jatuh ke depan bawah |
 
 **Evaluasi dari depan (anterior view):**
@@ -146,7 +145,7 @@ Mulai dari area suprapubik ke arah fundus, lalu ke samping. Amati:
 - Pada kehamilan aterm, kontraksi Braxton-Hicks (kontraksi palsu) tampak sebagai pengencangan uterus yang tidak teratur, tidak nyeri, pendek, dan tidak berlanjut.
 - **His persalinan** tampak sebagai kontraksi teratur — fundus mengeras dan tampak naik (ballooning), perut menjadi tegang di satu area, lalu mengendur.
 - **Inspeksi saat his**: uterus terlihat seperti 'menggembung' ke depan dan ke atas, dinding perut tampak kencang, pasien tampak menahan napas. Catat frekuensi, durasi, intensitas.
-- **Tetanic contraction** (kontraksi terus-menerus tanpa relaksasi) — tidak terlihat fase relaksasi. Curiga abruptio plasenta. Tanda bahaya! Perut tampak kaku seperti papan (*board-like abdomen*), nyeri, dan janin biasanya sudah mengalami gawat janin.
+- **Tetanic contraction** (kontraksi terus-menerus tanpa relaksasi) — tidak terlihat fase relaksasi. Curiga abruptio plasenta. Tanda bahaya! Perut tampak kaku seperti papan (_board-like abdomen_), nyeri, dan janin biasanya sudah mengalami gawat janin.
 
 > [!warning] **Uterus yang tidak pernah kendur (tetanik) + perdarahan pervaginam + nyeri perut hebat → abruptio plasenta.** Ini adalah kegawatdaruratan obstetri. Jangan tunda — rujuk segera untuk terminasi kehamilan.
 
@@ -200,20 +199,20 @@ Ingat urutannya: inspeksi → Leopold I (fundus) → Leopold II (samping) → Le
 
 ### Temuan Abnormal — Kapan Waspada
 
-| Temuan Inspeksi | Kecurigaan | Tindakan |
-|-----------------|-----------|----------|
-| Abdomen sangat besar, globular, sulit melihat tonjongan janin | Gemeli, polihidramnion, makrosomia | Lakukan USG untuk konfirmasi dan tatalaksana sesuai |
-| Abdomen kecil/< usia kehamilan | IUGR, oligohidramnion, salah UK | Rujuk untuk USG serial, evaluasi pertumbuhan janin |
-| Perut asimetris, menonjol ke satu sisi | Letak lintang, sungsang (bokong di satu sisi) | Konfirmasi dengan Leopold dan USG |
-| Tidak ada gerakan janin dalam 5 menit | Gawat janin, IUFD | Auskultasi DJJ segera — jika tidak ada, rujuk USG |
-| Kontraksi tetanik, perut kaku | Abruptio plasenta | Rujuk **segera** untuk terminasi |
-| Abdomen menggantung (pendulous) | Multipara, gemeli, hidramnion | Evaluasi dengan Leopold dan USG |
-| Diastasis recti jelas terlihat | Diastasis recti abdominis | Tidak perlu terapi pada kehamilan — evaluasi pasca-persalinan |
-| Skar SC dengan kemerahan, nyeri, drainase | Infeksi luka operasi | Antibiotik + perawatan luka |
-| Striae rubra sangat lebar dan banyak | Peregangan berlebihan — gemeli, polihidramnion | Evaluasi lebih lanjut |
-| Akantosis nigrikans di perut | DM gestasional, resistensi insulin | Tes toleransi glukosa |
-| Venektasia caput medusae | Hipertensi portal / sirosis | Rujuk internis |
-| Edema vulva + hipertensi | Preeklamsia berat | Tensi ulang, cek proteinuria, tatalaksana preeklamsia |
+| Temuan Inspeksi                                               | Kecurigaan                                     | Tindakan                                                      |
+| ------------------------------------------------------------- | ---------------------------------------------- | ------------------------------------------------------------- |
+| Abdomen sangat besar, globular, sulit melihat tonjongan janin | Gemeli, polihidramnion, makrosomia             | Lakukan USG untuk konfirmasi dan tatalaksana sesuai           |
+| Abdomen kecil/< usia kehamilan                                | IUGR, oligohidramnion, salah UK                | Rujuk untuk USG serial, evaluasi pertumbuhan janin            |
+| Perut asimetris, menonjol ke satu sisi                        | Letak lintang, sungsang (bokong di satu sisi)  | Konfirmasi dengan Leopold dan USG                             |
+| Tidak ada gerakan janin dalam 5 menit                         | Gawat janin, IUFD                              | Auskultasi DJJ segera — jika tidak ada, rujuk USG             |
+| Kontraksi tetanik, perut kaku                                 | Abruptio plasenta                              | Rujuk **segera** untuk terminasi                              |
+| Abdomen menggantung (pendulous)                               | Multipara, gemeli, hidramnion                  | Evaluasi dengan Leopold dan USG                               |
+| Diastasis recti jelas terlihat                                | Diastasis recti abdominis                      | Tidak perlu terapi pada kehamilan — evaluasi pasca-persalinan |
+| Skar SC dengan kemerahan, nyeri, drainase                     | Infeksi luka operasi                           | Antibiotik + perawatan luka                                   |
+| Striae rubra sangat lebar dan banyak                          | Peregangan berlebihan — gemeli, polihidramnion | Evaluasi lebih lanjut                                         |
+| Akantosis nigrikans di perut                                  | DM gestasional, resistensi insulin             | Tes toleransi glukosa                                         |
+| Venektasia caput medusae                                      | Hipertensi portal / sirosis                    | Rujuk internis                                                |
+| Edema vulva + hipertensi                                      | Preeklamsia berat                              | Tensi ulang, cek proteinuria, tatalaksana preeklamsia         |
 
 ### Temuan pada Pasien Gemeli
 
@@ -252,18 +251,18 @@ Ingat urutannya: inspeksi → Leopold I (fundus) → Leopold II (samping) → Le
 
 ## Dipakai Untuk Penyakit Apa Saja
 
-*(akan diisi)*
+_(akan diisi)_
 
 ## Referensi
 
 1. **Ilmu Kandungan Sarwono.** Edisi 4. Jakarta: PT Bina Pustaka Sarwono Prawirohardjo; 2020. Bab 5: Pemeriksaan Antenatal.
 2. **Buku Acuan Modul Obgyn 2026.** Kementerian Kesehatan RI & PERGUNI/POGI.
-3. **Cunningham FG, et al.** *Williams Obstetrics.* 26th ed. New York: McGraw-Hill; 2022. Chapter 10: Prenatal Care — The Abdominal Examination.
+3. **Cunningham FG, et al.** _Williams Obstetrics._ 26th ed. New York: McGraw-Hill; 2022. Chapter 10: Prenatal Care — The Abdominal Examination.
 4. **POGI. Panduan Pelayanan Klinis (PPK) Obstetri dan Ginekologi.** Jakarta; 2022.
 5. **Permenkes No. 21 Tahun 2021** tentang Pelayanan Kesehatan Ibu dan Anak.
 6. **Buku KIA (Kesehatan Ibu dan Anak).** Kemkes RI; 2024.
-7. **Hermiyati S, dkk.** *Buku Ajar Asuhan Kebidanan Kehamilan.* Jakarta: EGC; 2021.
-8. **Wibowo B, dkk.** Akurasi Palpasi Leopold dan Inspeksi Abdomen dalam Penentuan Letak Janin. *Jurnal Obstetri Indonesia.* 2023;7(2):88-94.
+7. **Hermiyati S, dkk.** _Buku Ajar Asuhan Kebidanan Kehamilan._ Jakarta: EGC; 2021.
+8. **Wibowo B, dkk.** Akurasi Palpasi Leopold dan Inspeksi Abdomen dalam Penentuan Letak Janin. _Jurnal Obstetri Indonesia._ 2023;7(2):88-94.
 
 ---
 

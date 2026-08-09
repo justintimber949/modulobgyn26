@@ -25,13 +25,13 @@ cssclasses:
 # Endometritis Nifas
 
 > [!info] Level Kompetensi SKDI: 3B
-> Dokter umum harus mampu **mendiagnosis** endometritis nifas — termasuk melakukan [[31-postpartum-pemeriksaan-fundus|pemeriksaan fundus uteri]] untuk menilai subinvolusi, [[43-menilai-lochia|menilai karakter lochia]] (warna, jumlah, bau), dan melakukan pemeriksaan fisik umum untuk menilai tanda infeksi sistemik — serta **melakukan tatalaksana awal berupa antibiotik empiris dan edukasi** di bawah supervisi SpOG di RSKH. Bila ditemukan tanda abses pelvis, septikemia, atau tidak responsif terhadap antibiotik lini pertama dalam 48 jam, dokter umum harus segera **merujuk ke SpOG** untuk tatalaksana definitif.
+> Dokter umum harus mampu **mendiagnosis** endometritis nifas — termasuk melakukan pemeriksaan fundus uteri untuk menilai subinvolusi, menilai karakter lochia (warna, jumlah, bau), dan melakukan pemeriksaan fisik umum untuk menilai tanda infeksi sistemik — serta **melakukan tatalaksana awal berupa antibiotik empiris dan edukasi** di bawah supervisi SpOG di RSKH. Bila ditemukan tanda abses pelvis, septikemia, atau tidak responsif terhadap antibiotik lini pertama dalam 48 jam, dokter umum harus segera **merujuk ke SpOG** untuk tatalaksana definitif.
 
 ---
 
 ## Vignette
 
-**Ny. Rina, 24 tahun, G1P1A0**, datang ke Poli Nifas RSKH pada hari ke-5 postpartum dengan keluhan: *"Dok, badan saya panas sejak tiga hari lalu. Perut bagian bawah sakit terus — terasa mules seperti mau haid tapi lebih sakit. Saya juga lihat keputihan saya berbau... agak anyir, Dok."*
+**Ny. Rina, 24 tahun, G1P1A0**, datang ke Poli Nifas RSKH pada hari ke-5 postpartum dengan keluhan: _"Dok, badan saya panas sejak tiga hari lalu. Perut bagian bawah sakit terus — terasa mules seperti mau haid tapi lebih sakit. Saya juga lihat keputihan saya berbau... agak anyir, Dok."_
 
 Riwayat persalinan: Ny. Rina melahirkan anak pertamanya secara **seksio sesarea emergensi** atas indikasi **partus macet** setelah 14 jam kala I dan 2 jam kala II. Ketuban sudah pecah 10 jam sebelum operasi. Operasi berlangsung ±1 jam, perdarahan ±600 mL.
 
@@ -42,7 +42,7 @@ Sejak pulang ke rumah pada hari ke-3 postpartum, Ny. Rina mengeluh:
 - **Lochia** — berwarna merah kecoklatan, agak encer, berbau **amis/anyir** yang menusuk
 - **Lemas** — nafsu makan turun, minum berkurang, tidak kuat menyusui
 
-Pada pemeriksaan: TD 100/60 mmHg, nadi 100×/menit, napas 22×/menit, suhu **38,8°C**. Fundus uteri teraba setinggi **3 jari di bawah pusat** — seharusnya pada hari ke-5 sudah setinggi pertengahan pusat-simfisis (lihat [[31-postpartum-pemeriksaan-fundus]]). Uterus teraba lembek, nyeri tekan pada palpasi fundus dan kedua parametrium. [[43-menilai-lochia|Lochia rubra]] masih banyak, berbau tidak sedap.
+Pada pemeriksaan: TD 100/60 mmHg, nadi 100×/menit, napas 22×/menit, suhu **38,8°C**. Fundus uteri teraba setinggi **3 jari di bawah pusat** — seharusnya pada hari ke-5 sudah setinggi pertengahan pusat-simfisis (lihat Postpartum Pemeriksaan Fundus). Uterus teraba lembek, nyeri tekan pada palpasi fundus dan kedua parametrium. Lochia rubra masih banyak, berbau tidak sedap.
 
 Pasien tampak sakit sedang, muka pucat, bibir kering (tanda dehidrasi). Luka SC tampak kering, tidak ada eritema atau pus.
 
@@ -59,24 +59,24 @@ Endometritis nifas merupakan penyebab tersering **demam nifas** (puerperal pyrex
 
 ### Istilah Terkait
 
-| Istilah | Definisi |
-|---------|----------|
+| Istilah                             | Definisi                                                                                                            |
+| ----------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
 | **Demam nifas (puerperal pyrexia)** | Suhu ≥ 38°C dalam 24 jam pertama atau ≥ 37,5°C pada hari ke-2 hingga ke-10 postpartum, diukur minimal 4 kali sehari |
-| **Infeksi nifas** | Infeksi bakteri pada saluran genital yang terjadi dalam 6 minggu postpartum |
-| **Endomiometritis** | Peradangan yang meluas ke lapisan otot uterus |
-| **Parametritis** | Peradangan pada jaringan ikat parametrium |
-| **Peritonitis pelvis** | Peradangan pada peritoneum rongga pelvis — komplikasi serius endometritis |
+| **Infeksi nifas**                   | Infeksi bakteri pada saluran genital yang terjadi dalam 6 minggu postpartum                                         |
+| **Endomiometritis**                 | Peradangan yang meluas ke lapisan otot uterus                                                                       |
+| **Parametritis**                    | Peradangan pada jaringan ikat parametrium                                                                           |
+| **Peritonitis pelvis**              | Peradangan pada peritoneum rongga pelvis — komplikasi serius endometritis                                           |
 
 ---
 
 ## Epidemiologi
 
-| Angka Kejadian | Insidens |
-|----------------|----------|
-| **Pasca persalinan pervaginam** | 1–3% |
-| **Pasca SC elektif** (sebelum ketuban pecah) | 5–15% |
-| **Pasca SC emergensi** (setelah ketuban pecah / partus lama) | 30–50% |
-| **Indonesia** | Diperkirakan 5–15% pada seluruh persalinan; angka pasti sulit karena banyak pasien tidak terdeteksi |
+| Angka Kejadian                                               | Insidens                                                                                            |
+| ------------------------------------------------------------ | --------------------------------------------------------------------------------------------------- |
+| **Pasca persalinan pervaginam**                              | 1–3%                                                                                                |
+| **Pasca SC elektif** (sebelum ketuban pecah)                 | 5–15%                                                                                               |
+| **Pasca SC emergensi** (setelah ketuban pecah / partus lama) | 30–50%                                                                                              |
+| **Indonesia**                                                | Diperkirakan 5–15% pada seluruh persalinan; angka pasti sulit karena banyak pasien tidak terdeteksi |
 
 ### Mengapa Ini Penting
 
@@ -93,36 +93,37 @@ Endometritis nifas adalah infeksi **polimikroba** — disebabkan oleh campuran b
 
 ### Patogen Tersering
 
-| Kelompok | Patogen | Frekuensi |
-|----------|---------|-----------|
-| **Aerob Gram positif** | *Streptococcus agalactiae* (Group B Streptococcus), *Enterococcus faecalis*, *Streptococcus viridans* | 30–50% |
-| **Aerob Gram negatif** | *Escherichia coli*, *Klebsiella pneumoniae*, *Proteus mirabilis* | 20–40% |
-| **Anaerob** | *Bacteroides fragilis*, *Peptostreptococcus*, *Prevotella bivia*, *Clostridium perfringens* | 20–50% |
-| **Lain-lain** | *Staphylococcus aureus*, *Chlamydia trachomatis*, *Mycoplasma hominis*, *Ureaplasma urealyticum* | 5–15% |
+| Kelompok               | Patogen                                                                                               | Frekuensi |
+| ---------------------- | ----------------------------------------------------------------------------------------------------- | --------- |
+| **Aerob Gram positif** | _Streptococcus agalactiae_ (Group B Streptococcus), _Enterococcus faecalis_, _Streptococcus viridans_ | 30–50%    |
+| **Aerob Gram negatif** | _Escherichia coli_, _Klebsiella pneumoniae_, _Proteus mirabilis_                                      | 20–40%    |
+| **Anaerob**            | _Bacteroides fragilis_, _Peptostreptococcus_, _Prevotella bivia_, _Clostridium perfringens_           | 20–50%    |
+| **Lain-lain**          | _Staphylococcus aureus_, _Chlamydia trachomatis_, _Mycoplasma hominis_, _Ureaplasma urealyticum_      | 5–15%     |
 
 > [!tip] **Pola Kuman Berbeda Menurut Jenis Persalinan**
-> - **Pasca pervaginam**: lebih sering *Group B Streptococcus*, *E. coli*, *Bacteroides* — ascending dari vagina
-> - **Pasca SC**: lebih sering *S. aureus* (dari kulit), *Enterococcus* (dari saluran kemih), dan anaerob dari kontaminasi intraoperatif
+>
+> - **Pasca pervaginam**: lebih sering _Group B Streptococcus_, _E. coli_, _Bacteroides_ — ascending dari vagina
+> - **Pasca SC**: lebih sering _S. aureus_ (dari kulit), _Enterococcus_ (dari saluran kemih), dan anaerob dari kontaminasi intraoperatif
 > - **Pasca ketuban pecah lama**: dominasi Gram negatif dan anaerob
 
 ### Faktor Risiko
 
-| Faktor Risiko | Mekanisme |
-|---------------|-----------|
-| **Seksio sesarea** (terutama emergensi) | Faktor risiko **paling kuat** — risiko 5–30× dibanding pervaginam. Kontaminasi intraoperatif + jaringan devitalisasi insisi |
-| **Ketuban pecah lama** (KPD ≥ 18–24 jam) | Hilangnya barier mekanis serviks → bakteri naik ke kavum uteri — risiko meningkat gradual setiap jam |
-| **Partus lama / Kala II memanjang** | Trauma jaringan + manipulasi intrauterin berulang → port d'entrée bakteri |
-| **Pemeriksaan dalam berulang** (≥ 5 kali) | Setiap PD mengintroduksi bakteri dari vagina ke kanalis servikalis dan kavum uteri |
-| **Manipulasi intrauterin** (manual plasenta, versi ekstraksi) | Trauma + kontaminasi langsung kavum uteri |
-| **Korioamnionitis** | Infeksi sudah ada sebelum persalinan → lanjut menjadi endometritis pasca persalinan |
-| **Retensi sisa plasenta / selaput** | Jaringan nekrotik menjadi media tumbuh bakteri — menghambat kontraksi dan involusi |
-| **Anemia** (Hb < 9 g/dL) | Hipoksia jaringan → penurunan oksigenasi luka insisi → gangguan fagositosis dan imunitas lokal |
-| **Malnutrisi / status gizi buruk** | Imunitas seluler dan humoral terganggu |
-| **Obesitas** | Perfusi jaringan lemak rendah → penyembuhan luka lambat; imunitas terganggu |
-| **Diabetes melitus** | Hiperglikemia → gangguan kemotaksis neutrofil dan fagositosis |
-| **Koloni GBS (+) pada vagina** | *Streptococcus agalactiae* dapat naik dan menginfeksi kavum uteri |
-| **Hygiene postpartum buruk** | Pembersihan tidak adekuat → kontaminasi perineum → ascending infection. Lihat [[37-mengajarkan-hygiene]] untuk edukasi pencegahan |
-| **Sosioekonomi rendah** | Akses terbatas ke layanan kesehatan, kebersihan suboptimal, dan keterlambatan mencari pertolongan |
+| Faktor Risiko                                                 | Mekanisme                                                                                                                   |
+| ------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| **Seksio sesarea** (terutama emergensi)                       | Faktor risiko **paling kuat** — risiko 5–30× dibanding pervaginam. Kontaminasi intraoperatif + jaringan devitalisasi insisi |
+| **Ketuban pecah lama** (KPD ≥ 18–24 jam)                      | Hilangnya barier mekanis serviks → bakteri naik ke kavum uteri — risiko meningkat gradual setiap jam                        |
+| **Partus lama / Kala II memanjang**                           | Trauma jaringan + manipulasi intrauterin berulang → port d'entrée bakteri                                                   |
+| **Pemeriksaan dalam berulang** (≥ 5 kali)                     | Setiap PD mengintroduksi bakteri dari vagina ke kanalis servikalis dan kavum uteri                                          |
+| **Manipulasi intrauterin** (manual plasenta, versi ekstraksi) | Trauma + kontaminasi langsung kavum uteri                                                                                   |
+| **Korioamnionitis**                                           | Infeksi sudah ada sebelum persalinan → lanjut menjadi endometritis pasca persalinan                                         |
+| **Retensi sisa plasenta / selaput**                           | Jaringan nekrotik menjadi media tumbuh bakteri — menghambat kontraksi dan involusi                                          |
+| **Anemia** (Hb < 9 g/dL)                                      | Hipoksia jaringan → penurunan oksigenasi luka insisi → gangguan fagositosis dan imunitas lokal                              |
+| **Malnutrisi / status gizi buruk**                            | Imunitas seluler dan humoral terganggu                                                                                      |
+| **Obesitas**                                                  | Perfusi jaringan lemak rendah → penyembuhan luka lambat; imunitas terganggu                                                 |
+| **Diabetes melitus**                                          | Hiperglikemia → gangguan kemotaksis neutrofil dan fagositosis                                                               |
+| **Koloni GBS (+) pada vagina**                                | _Streptococcus agalactiae_ dapat naik dan menginfeksi kavum uteri                                                           |
+| **Hygiene postpartum buruk**                                  | Pembersihan tidak adekuat → kontaminasi perineum → ascending infection. Lihat Mengajarkan Hygiene untuk edukasi pencegahan  |
+| **Sosioekonomi rendah**                                       | Akses terbatas ke layanan kesehatan, kebersihan suboptimal, dan keterlambatan mencari pertolongan                           |
 
 > [!warning] **Faktor Risiko Tersering Yang Terabaikan**
 > Dalam praktik, faktor risiko yang paling sering **terlupakan** adalah **retensi sisa plasenta/selaput** (pasien dipulangkan dengan kavum uteri belum bersih) dan **anemia pada ibu nifas**. Keduanya mudah dideteksi — USG postpartum untuk sisa plasenta dan cek Hb sebelum pulang. **Jangan pulangkan pasien dengan Hb < 9 g/dL tanpa koreksi!**
@@ -175,7 +176,7 @@ Dinding uterus: desidua + miometrium
 **Konsep Kunci:** Setelah plasenta lepas, permukaan endometrium adalah **luka terbuka** yang sangat vaskular. Dalam beberapa jam, kavum uteri steril segera terkontaminasi flora vagina. Jika mekanisme pertahanan lokal (kontraksi uterus, aliran lochia, imunitas jaringan) adekuat, kontaminasi dapat dibersihkan. Namun jika ada faktor risiko (KPD, sisa plasenta, jaringan mati), bakteri berkembang biak tak terkendali → invasi desidua dan miometrium → endometritis.
 
 > [!tip] **"Open Wound Concept" — Luka Terbuka di Dalam Rahim**
-> Bayangkan kavum uteri postpartum sebagai **luka terbuka seluas telapak tangan** — tempat implantasi plasenta. Luka ini harus **bersih dan berkontraksi baik** untuk sembuh. Jika lochia tidak dapat mengalir bebas (karena retensi atau kontraksi lemah), bakteri akan berkembang biak di dalam luka tertutup — inilah yang disebut **endometritis**. Edukasi hygiene yang baik (lihat [[37-mengajarkan-hygiene]]) dan pantau involusi rutin adalah kunci pencegahan.
+> Bayangkan kavum uteri postpartum sebagai **luka terbuka seluas telapak tangan** — tempat implantasi plasenta. Luka ini harus **bersih dan berkontraksi baik** untuk sembuh. Jika lochia tidak dapat mengalir bebas (karena retensi atau kontraksi lemah), bakteri akan berkembang biak di dalam luka tertutup — inilah yang disebut **endometritis**. Edukasi hygiene yang baik (lihat Mengajarkan Hygiene) dan pantau involusi rutin adalah kunci pencegahan.
 
 ---
 
@@ -183,21 +184,21 @@ Dinding uterus: desidua + miometrium
 
 Trias klasik endometritis nifas: **demam + nyeri perut bawah + lochia abnormal**.
 
-| Gejala | Deskripsi |
-|--------|-----------|
-| **[!] Demam** | Onset hari ke-3 sampai ke-5 postpartum. Suhu 38–40°C, sering menggigil. Pola: naik-turun, lebih tinggi menjelang sore/malam. Demam > 38°C pada 2 hari berturut-turut sangat sugestif endometritis |
-| **[!] Nyeri perut bawah** | Nyeri tumpuk (suprapubik) terus-menerus, memberat saat bergerak atau ditekan. Bisa menjalar ke pinggang atau pinggul. Sebagian ibu mengira ini "mules biasa" — padahal mules postpartum fisiologis bersifat hilang timbul dan berkurang dalam 2–3 hari |
-| **[!] Lochia abnormal** | Volume bisa bertambah atau berkurang tidak normal. Warna: merah kecoklatan lebih lama dari normal. Bau: **amis, anyir, atau busuk** — berbeda dari lochia normal yang berbau like blood (amis ringan). Konsistensi bisa lebih encer |
-| **Lemah / lemas** | Akibat infeksi sistemik + dehidrasi sekunder |
-| **Nafsu makan turun** | Akibat demam dan nyeri |
-| **Laktasi menurun** | Produksi ASI berkurang karena demam, dehidrasi, dan nyeri — bayi jadi rewel |
-| **Mual / muntah** | Pada kasus berat — tanda penyebaran infeksi intraabdomen |
-| **Perdarahan postpartum sekunder** | Darah segar keluar di luar dugaan — curigai retensi sisa + endometritis |
+| Gejala                             | Deskripsi                                                                                                                                                                                                                                              |
+| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **[!] Demam**                      | Onset hari ke-3 sampai ke-5 postpartum. Suhu 38–40°C, sering menggigil. Pola: naik-turun, lebih tinggi menjelang sore/malam. Demam > 38°C pada 2 hari berturut-turut sangat sugestif endometritis                                                      |
+| **[!] Nyeri perut bawah**          | Nyeri tumpuk (suprapubik) terus-menerus, memberat saat bergerak atau ditekan. Bisa menjalar ke pinggang atau pinggul. Sebagian ibu mengira ini "mules biasa" — padahal mules postpartum fisiologis bersifat hilang timbul dan berkurang dalam 2–3 hari |
+| **[!] Lochia abnormal**            | Volume bisa bertambah atau berkurang tidak normal. Warna: merah kecoklatan lebih lama dari normal. Bau: **amis, anyir, atau busuk** — berbeda dari lochia normal yang berbau like blood (amis ringan). Konsistensi bisa lebih encer                    |
+| **Lemah / lemas**                  | Akibat infeksi sistemik + dehidrasi sekunder                                                                                                                                                                                                           |
+| **Nafsu makan turun**              | Akibat demam dan nyeri                                                                                                                                                                                                                                 |
+| **Laktasi menurun**                | Produksi ASI berkurang karena demam, dehidrasi, dan nyeri — bayi jadi rewel                                                                                                                                                                            |
+| **Mual / muntah**                  | Pada kasus berat — tanda penyebaran infeksi intraabdomen                                                                                                                                                                                               |
+| **Perdarahan postpartum sekunder** | Darah segar keluar di luar dugaan — curigai retensi sisa + endometritis                                                                                                                                                                                |
 
 ### Poin Krusial Anamnesis
 
 1. **Kapan demam mulai?** — onset dalam 24 jam pertama → curiga korioamnionitis yang tidak sembuh; onset hari ke-3–5 → klasik endometritis nifas
-2. **Karakter lochia** — warna, jumlah, bau, gumpalan. Tanyakan pada pasien: *"Apakah cairan yang keluar berbau seperti biasa atau ada bau lain?"*
+2. **Karakter lochia** — warna, jumlah, bau, gumpalan. Tanyakan pada pasien: _"Apakah cairan yang keluar berbau seperti biasa atau ada bau lain?"_
 3. **Riwayat persalinan** — SC atau pervaginam? KPD? Partus lama? PD berulang? Episiotomi? Manual plasenta?
 4. **Riwayat infeksi intrapartum** — demam saat persalinan? Korioamnionitis?
 5. **Riwayat anemia** — Hb sebelum dan setelah persalinan? Riwayat transfusi?
@@ -206,7 +207,7 @@ Trias klasik endometritis nifas: **demam + nyeri perut bawah + lochia abnormal**
 8. **Gejala saluran kemih / traktus respiratorius** — untuk diagnosis banding (ISK, pneumonia)
 
 > [!tip] **Bedakan Mules Nifas vs Endometritis**
-> Banyak ibu mengira nyeri endometritis adalah "mules biasa". Tanyakan: *"Apakah rasa mules ini sama dengan beberapa hari lalu? Apakah berkurang dengan istirahat? Apakah bertambah saat BAK atau duduk?"* Mules fisiologis: hilang timbul, berkurang hari ke-3. Endometritis: nyeri terus-menerus, memberat, tidak hilang dengan istirahat.
+> Banyak ibu mengira nyeri endometritis adalah "mules biasa". Tanyakan: _"Apakah rasa mules ini sama dengan beberapa hari lalu? Apakah berkurang dengan istirahat? Apakah bertambah saat BAK atau duduk?"_ Mules fisiologis: hilang timbul, berkurang hari ke-3. Endometritis: nyeri terus-menerus, memberat, tidak hilang dengan istirahat.
 
 ---
 
@@ -214,67 +215,67 @@ Trias klasik endometritis nifas: **demam + nyeri perut bawah + lochia abnormal**
 
 ### Langkah 1 — Tanda Vital & Penilaian Umum
 
-| Parameter | Temuan | Interpretasi |
-|-----------|--------|--------------|
-| **Suhu** | ≥ 38°C | Demam nifas — penyebab tersering endometritis |
-| **Nadi** | Takikardia (> 90×/menit) | Respons sistemik terhadap infeksi / dehidrasi |
-| **TD** | Normal atau hipotensi ringan | Jika hipotensi berat → curiga sepsis / syok septik |
-| **Napas** | Takipnea > 24×/menit | Asidosis metabolik / respons demam / emboli septik |
-| **Kesadaran** | Gelisah atau somnolen (bila sepsis) | Sepsis serebral |
-| **Kulit / mukosa** | Kering, turgor menurun | Dehidrasi sekunder |
+| Parameter          | Temuan                              | Interpretasi                                       |
+| ------------------ | ----------------------------------- | -------------------------------------------------- |
+| **Suhu**           | ≥ 38°C                              | Demam nifas — penyebab tersering endometritis      |
+| **Nadi**           | Takikardia (> 90×/menit)            | Respons sistemik terhadap infeksi / dehidrasi      |
+| **TD**             | Normal atau hipotensi ringan        | Jika hipotensi berat → curiga sepsis / syok septik |
+| **Napas**          | Takipnea > 24×/menit                | Asidosis metabolik / respons demam / emboli septik |
+| **Kesadaran**      | Gelisah atau somnolen (bila sepsis) | Sepsis serebral                                    |
+| **Kulit / mukosa** | Kering, turgor menurun              | Dehidrasi sekunder                                 |
 
 ### Langkah 2 — Pemeriksaan Abdomen
 
-| Pemeriksaan | Temuan | Interpretasi |
-|-------------|--------|--------------|
-| **Inspeksi** | Distensi abdomen ringan-sedang, peristaltik menurun | Iritasi peritoneal ringan |
-| **Palpasi** | Nyeri tekan suprapubik dan kedua regio iliaka | Peradangan uterus dan parametrium |
-| **[[31-postpartum-pemeriksaan-fundus|Palpasi fundus uteri]]** | Fundus teraba lebih tinggi dari seharusnya — **subinvolusi uteri** (misal: hari ke-5 TFU masih 3 jari di bawah pusat, seharusnya setinggi pertengahan pusat-simfisis). Nyeri tekan fundus (+) | Involusi terhambat oleh infeksi — uterus tidak berkontraksi optimal |
-| **Nyeri goyang portio** (+) | Pada palpasi parametrium | Iritasi parametrium — tanda perluasan infeksi |
+| Pemeriksaan                   | Temuan                                                                                                                                                                                        | Interpretasi                                                        |
+| ----------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| **Inspeksi**                  | Distensi abdomen ringan-sedang, peristaltik menurun                                                                                                                                           | Iritasi peritoneal ringan                                           |
+| **Palpasi**                   | Nyeri tekan suprapubik dan kedua regio iliaka                                                                                                                                                 | Peradangan uterus dan parametrium                                   |
+| \*\* Palpasi fundus uteri\*\* | Fundus teraba lebih tinggi dari seharusnya — **subinvolusi uteri** (misal: hari ke-5 TFU masih 3 jari di bawah pusat, seharusnya setinggi pertengahan pusat-simfisis). Nyeri tekan fundus (+) | Involusi terhambat oleh infeksi — uterus tidak berkontraksi optimal |
+| **Nyeri goyang portio** (+)   | Pada palpasi parametrium                                                                                                                                                                      | Iritasi parametrium — tanda perluasan infeksi                       |
 
-### Langkah 3 — Penilaian Lochia ([[43-menilai-lochia]])
+### Langkah 3 — Penilaian Lochia (Menilai Lochia)
 
-| Parameter | Normal (Fisiologis) | Endometritis |
-|-----------|-------------------|--------------|
-| **Warna** | Rubra (hari 1–3) → serosa (hari 4–10) → alba (hari 11–42) | Rubra menetap lebih lama / kecoklatan kotor |
-| **Volume** | Berkurang bertahap | Bisa meningkat (bila sisa) atau berkurang (bila tersumbat) |
-| **Bau** | Seperti darah (amis ringan) | **Berbau busuk** (fetid) — khas, menusuk |
-| **Konsistensi** | Kental sedang | Encer / lebih cair |
-| **Partikel** | Gumpalan kecil | Bisa disertai jaringan nekrotik |
+| Parameter       | Normal (Fisiologis)                                       | Endometritis                                               |
+| --------------- | --------------------------------------------------------- | ---------------------------------------------------------- |
+| **Warna**       | Rubra (hari 1–3) → serosa (hari 4–10) → alba (hari 11–42) | Rubra menetap lebih lama / kecoklatan kotor                |
+| **Volume**      | Berkurang bertahap                                        | Bisa meningkat (bila sisa) atau berkurang (bila tersumbat) |
+| **Bau**         | Seperti darah (amis ringan)                               | **Berbau busuk** (fetid) — khas, menusuk                   |
+| **Konsistensi** | Kental sedang                                             | Encer / lebih cair                                         |
+| **Partikel**    | Gumpalan kecil                                            | Bisa disertai jaringan nekrotik                            |
 
 ### Langkah 4 — Pemeriksaan Inspekulo & Bimanual
 
-| Pemeriksaan | Temuan |
-|-------------|--------|
-| **Inspekulo** | Lochia purulen keluar dari OUE (orificium uteri externum); serviks mungkin terbuka (±1 jari). Lakukan swab endoserviks untuk kultur |
-| **Bimanual** | Uterus membesar, nyeri tekan (+), konsistensi lembek. Nyeri pada parametrium. Nyeri goyang portio (+). Pada parametritis → teraba massa parametrium yang nyeri |
+| Pemeriksaan   | Temuan                                                                                                                                                         |
+| ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Inspekulo** | Lochia purulen keluar dari OUE (orificium uteri externum); serviks mungkin terbuka (±1 jari). Lakukan swab endoserviks untuk kultur                            |
+| **Bimanual**  | Uterus membesar, nyeri tekan (+), konsistensi lembek. Nyeri pada parametrium. Nyeri goyang portio (+). Pada parametritis → teraba massa parametrium yang nyeri |
 
 ### Pemeriksaan Luka Operasi (Pasca SC)
 
-| Temuan | Interpretasi |
-|--------|--------------|
-| Luka SC kering, tidak eritema, tidak pus | Infeksi terbatas di kavum uteri |
-| Luka SC eritema, pus atau selulitis | **Surgical site infection (SSI)** — bisa berdiri sendiri atau bersamaan dengan endometritis |
-| Drainase purulen dari luka | Buka luka, kultur, debridemen → rujuk SpOG |
+| Temuan                                   | Interpretasi                                                                                |
+| ---------------------------------------- | ------------------------------------------------------------------------------------------- |
+| Luka SC kering, tidak eritema, tidak pus | Infeksi terbatas di kavum uteri                                                             |
+| Luka SC eritema, pus atau selulitis      | **Surgical site infection (SSI)** — bisa berdiri sendiri atau bersamaan dengan endometritis |
+| Drainase purulen dari luka               | Buka luka, kultur, debridemen → rujuk SpOG                                                  |
 
 > [!warning] **Jangan Fokus Hanya pada Luka SC!**
-> Pada pasien pasca-SC dengan demam, dokter sering hanya memeriksa luka SC dan menyimpulkan *"luka bersih, pasti ISK"*. Padahal sumber infeksi tersering **bukan luka SC**, melainkan **kavum uteri** — endometritis. **Selalu palpasi fundus dan nilai lochia**, bukan hanya lihat luka operasi!
+> Pada pasien pasca-SC dengan demam, dokter sering hanya memeriksa luka SC dan menyimpulkan _"luka bersih, pasti ISK"_. Padahal sumber infeksi tersering **bukan luka SC**, melainkan **kavum uteri** — endometritis. **Selalu palpasi fundus dan nilai lochia**, bukan hanya lihat luka operasi!
 
 ---
 
 ## Pemeriksaan Penunjang
 
-| Pemeriksaan | Indikasi | Temuan Kunci |
-|-------------|----------|--------------|
-| **Darah lengkap** | Semua kasus — serial jika perlu | Leukositosis (↑ neutrofil) dengan shift to the left; anemia (Hb turun); trombosit — jika turun curiga sepsis |
-| **CRP** | Menilai respons inflamasi | ↑ > 10 mg/dL — infeksi aktif; serial CRP untuk monitor respons terapi |
-| **Prokalsitonin (PCT)** | Membedakan infeksi bakteri vs non-bakteri; skrining sepsis | ↑ > 0,5 ng/mL sugestif infeksi bakteri; > 2 ng/mL → sepsis bakterial |
-| **Kultur darah** | Demam tinggi ≥ 39°C, menggigil, curiga sepsis | Positif pada 20–30% kasus — ambil 2 set (aerob + anaerob) dari 2 lokasi |
-| **Kultur lochia / swab endoserviks** | Gagal terapi lini pertama dalam 48 jam | Hasil ± 3–5 hari; panduan antibiotik definitif. Kontroversial karena sering terkontaminasi flora vagina |
-| **USG pelvis** ([[25-pemeriksaan-usg-obstetri]]) | **Semua kasus** — untuk menilai kavum uteri | Sisa plasenta/selaput (massa ekhogenik); cairan bebas di kavum Douglas; abses pelvis atau massa parametrium (phlegmon); subinvolusi uteri |
-| **Urinalisis + kultur urin** | Diagnosis banding ISK | Leukosituria atau nitrit (+) → infeksi saluran kemih. Kultur urin untuk konfirmasi |
-| **Foto toraks** | Curiga emboli septik paru atau ARDS | Infiltrat difus, nodul septik, efusi pleura |
-| **CT scan / MRI pelvis** | Kasus kompleks — curiga abses dalam, tromboflebitis pelvis septik | Abses tubo-ovarium, trombus vena ovarium, flegmon parametrium |
+| Pemeriksaan                               | Indikasi                                                          | Temuan Kunci                                                                                                                              |
+| ----------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| **Darah lengkap**                         | Semua kasus — serial jika perlu                                   | Leukositosis (↑ neutrofil) dengan shift to the left; anemia (Hb turun); trombosit — jika turun curiga sepsis                              |
+| **CRP**                                   | Menilai respons inflamasi                                         | ↑ > 10 mg/dL — infeksi aktif; serial CRP untuk monitor respons terapi                                                                     |
+| **Prokalsitonin (PCT)**                   | Membedakan infeksi bakteri vs non-bakteri; skrining sepsis        | ↑ > 0,5 ng/mL sugestif infeksi bakteri; > 2 ng/mL → sepsis bakterial                                                                      |
+| **Kultur darah**                          | Demam tinggi ≥ 39°C, menggigil, curiga sepsis                     | Positif pada 20–30% kasus — ambil 2 set (aerob + anaerob) dari 2 lokasi                                                                   |
+| **Kultur lochia / swab endoserviks**      | Gagal terapi lini pertama dalam 48 jam                            | Hasil ± 3–5 hari; panduan antibiotik definitif. Kontroversial karena sering terkontaminasi flora vagina                                   |
+| **USG pelvis** (Pemeriksaan Usg Obstetri) | **Semua kasus** — untuk menilai kavum uteri                       | Sisa plasenta/selaput (massa ekhogenik); cairan bebas di kavum Douglas; abses pelvis atau massa parametrium (phlegmon); subinvolusi uteri |
+| **Urinalisis + kultur urin**              | Diagnosis banding ISK                                             | Leukosituria atau nitrit (+) → infeksi saluran kemih. Kultur urin untuk konfirmasi                                                        |
+| **Foto toraks**                           | Curiga emboli septik paru atau ARDS                               | Infiltrat difus, nodul septik, efusi pleura                                                                                               |
+| **CT scan / MRI pelvis**                  | Kasus kompleks — curiga abses dalam, tromboflebitis pelvis septik | Abses tubo-ovarium, trombus vena ovarium, flegmon parametrium                                                                             |
 
 > [!warning] **Pemeriksaan yang Sering Terlupakan — USG Postpartum**
 > Pada setiap pasien dengan demam nifas, lakukan **USG pelvis** untuk mengevaluasi sisa plasenta atau selaput. **Sisa produk konsepsi adalah "batu loncatan" untuk infeksi** — tanpa evakuasi, antibiotik saja tidak akan menyembuhkan. USG juga dapat mendeteksi abses pelvis yang memerlukan drainase.
@@ -294,18 +295,18 @@ Diagnosis endometritis nifas **terutama klinis** — tidak memerlukan konfirmasi
 
 ### Diagnosis Banding
 
-| Diagnosis | Ciri Pembeda Kunci |
-|-----------|-------------------|
-| **Endometritis nifas** | Trias demam + nyeri perut bawah + lochia berbau. Subinvolusi uteri |
-| **Infeksi saluran kemih** | Disuria, frekuensi, urgensi. Nyeri suprapubik tanpa nyeri fundus. Urinalisis (+) leukosit/nitrit. **Lochia normal** |
-| **Mastitis** | Nyeri payudara unilateral, eritema, demam. **Tidak ada nyeri perut atau lochia abnormal** |
-| **Infeksi luka operasi (SSI)** | Eritema, pus, atau dehiscence pada luka SC/episiotomi. Bisa bersamaan dengan endometritis |
-| **Tromboflebitis pelvis septik** | Demam hilang-timbul (picket fence pattern) yang menetap > 48–72 jam meski antibiotik adekuat. Nyeri pinggul. CT scan: trombus di vena ovarium. **Lochia bisa normal** |
-| **Abses pelvis** | Massa nyeri pada parametrium. Demam tinggi menetap. USG/CT konfirmasi kavitas abses |
-| **Pneumonia** | Batuk, sesak napas, sputum purulen. Foto toraks: konsolidasi/efusi |
-| **Emboli cairan ketuban / emboli paru** | Onset akut, sesak napas mendadak, sianosis. Tidak ada demam awal. EKG dan foto toraks khas |
-| **Demam fisiologis postpartum** | Demam < 38°C, hilang dalam 24 jam, tidak ada nyeri perut, lochia normal. Sering akibat dehidrasi atau efek hormon |
-| **ISK / pielonefritis** | Nyeri pinggang (costovertebral angle tenderness), demam tinggi, mual/muntah. Kultur urin (+) |
+| Diagnosis                               | Ciri Pembeda Kunci                                                                                                                                                    |
+| --------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Endometritis nifas**                  | Trias demam + nyeri perut bawah + lochia berbau. Subinvolusi uteri                                                                                                    |
+| **Infeksi saluran kemih**               | Disuria, frekuensi, urgensi. Nyeri suprapubik tanpa nyeri fundus. Urinalisis (+) leukosit/nitrit. **Lochia normal**                                                   |
+| **Mastitis**                            | Nyeri payudara unilateral, eritema, demam. **Tidak ada nyeri perut atau lochia abnormal**                                                                             |
+| **Infeksi luka operasi (SSI)**          | Eritema, pus, atau dehiscence pada luka SC/episiotomi. Bisa bersamaan dengan endometritis                                                                             |
+| **Tromboflebitis pelvis septik**        | Demam hilang-timbul (picket fence pattern) yang menetap > 48–72 jam meski antibiotik adekuat. Nyeri pinggul. CT scan: trombus di vena ovarium. **Lochia bisa normal** |
+| **Abses pelvis**                        | Massa nyeri pada parametrium. Demam tinggi menetap. USG/CT konfirmasi kavitas abses                                                                                   |
+| **Pneumonia**                           | Batuk, sesak napas, sputum purulen. Foto toraks: konsolidasi/efusi                                                                                                    |
+| **Emboli cairan ketuban / emboli paru** | Onset akut, sesak napas mendadak, sianosis. Tidak ada demam awal. EKG dan foto toraks khas                                                                            |
+| **Demam fisiologis postpartum**         | Demam < 38°C, hilang dalam 24 jam, tidak ada nyeri perut, lochia normal. Sering akibat dehidrasi atau efek hormon                                                     |
+| **ISK / pielonefritis**                 | Nyeri pinggang (costovertebral angle tenderness), demam tinggi, mual/muntah. Kultur urin (+)                                                                          |
 
 > [!warning] **Jebakan Diagnosis — Jangan Langsung Diagnosis ISK!**
 > Pasien nifas dengan demam dan nyeri perut bawah dianggap ISK dan diberi antibiotik spektrum sempit. Padahal setelah diperiksa lebih lanjut, lochia berbau dan USG menunjukkan sisa plasenta. **Angka misdiagnosis endometritis sebagai ISK cukup tinggi.** Bedakan: ISK → disuria + nyeri suprapubik tanpa nyeri fundus + lochia normal. Endometritis → lochia berbau + nyeri tekan fundus + subinvolusi.
@@ -322,17 +323,17 @@ Diagnosis endometritis nifas **terutama klinis** — tidak memerlukan konfirmasi
 1. **Antibiotik empiris broad spectrum** — segera setelah diagnosis ditegakkan
 2. **Koreksi faktor risiko** — koreksi anemia, evakuasi sisa plasenta/selaput
 3. **Terapi suportif** — cairan IV, antipiretik, nutrisi adekuat
-4. **Edukasi** — [[37-mengajarkan-hygiene]] genital, cukup minum, istirahat
+4. **Edukasi** — Mengajarkan Hygiene genital, cukup minum, istirahat
 
 ### 1. Antibiotik Empiris
 
 **Regimen 1 — Pilihan Pertama (Ampisilin + Gentamisin + Metronidazol)**
 
-| Antibiotik | Dosis | Rute | Interval |
-|------------|-------|------|----------|
-| **Ampisilin** | 2 g | IV | Setiap 6 jam |
-| **Gentamisin** | 5 mg/kgBB | IV | Setiap 24 jam (dosis tunggal) |
-| **Metronidazol** | 500 mg | IV | Setiap 8 jam |
+| Antibiotik       | Dosis     | Rute | Interval                      |
+| ---------------- | --------- | ---- | ----------------------------- |
+| **Ampisilin**    | 2 g       | IV   | Setiap 6 jam                  |
+| **Gentamisin**   | 5 mg/kgBB | IV   | Setiap 24 jam (dosis tunggal) |
+| **Metronidazol** | 500 mg    | IV   | Setiap 8 jam                  |
 
 - **Mencakup:** Gram positif (Streptokokus, Enterokokus), Gram negatif (E. coli), dan anaerob (Bacteroides)
 - **Durasi:** Minimal 48 jam setelah pasien afebris dan gejala membaik. Total 7–10 hari
@@ -343,97 +344,98 @@ Diagnosis endometritis nifas **terutama klinis** — tidak memerlukan konfirmasi
 
 **Regimen 2 — Alternatif (Jika alergi atau ketersediaan terbatas)**
 
-| Antibiotik | Dosis | Rute | Interval |
-|------------|-------|------|----------|
-| **Sefotaksim atau Seftriakson** | 1–2 g | IV | Setiap 8 jam (sefotaksim) / setiap 24 jam (seftriakson) |
-| **+ Metronidazol** | 500 mg | IV | Setiap 8 jam |
-| Atau **Klindamisin** + **Gentamisin** | 900 mg + 5 mg/kgBB | IV | Setiap 8 jam / setiap 24 jam |
+| Antibiotik                            | Dosis              | Rute | Interval                                                |
+| ------------------------------------- | ------------------ | ---- | ------------------------------------------------------- |
+| **Sefotaksim atau Seftriakson**       | 1–2 g              | IV   | Setiap 8 jam (sefotaksim) / setiap 24 jam (seftriakson) |
+| **+ Metronidazol**                    | 500 mg             | IV   | Setiap 8 jam                                            |
+| Atau **Klindamisin** + **Gentamisin** | 900 mg + 5 mg/kgBB | IV   | Setiap 8 jam / setiap 24 jam                            |
 
 **Regimen 3 — Jika Curiga MRSA (Riwayat kolonisasi, infeksi luka operasi purulen)**
 
-| Antibiotik | Dosis | Rute | Interval |
-|------------|-------|------|----------|
-| **Vankomisin** | 15–20 mg/kgBB | IV | Setiap 8–12 jam (sesuai kadar) |
-| **+ Piperasilin-tazobaktam** | 4,5 g | IV | Setiap 6 jam |
-| Atau **+ Meropenem** | 1 g | IV | Setiap 8 jam |
+| Antibiotik                   | Dosis         | Rute | Interval                       |
+| ---------------------------- | ------------- | ---- | ------------------------------ |
+| **Vankomisin**               | 15–20 mg/kgBB | IV   | Setiap 8–12 jam (sesuai kadar) |
+| **+ Piperasilin-tazobaktam** | 4,5 g         | IV   | Setiap 6 jam                   |
+| Atau **+ Meropenem**         | 1 g           | IV   | Setiap 8 jam                   |
 
-| Situasi | Antibiotik Pilihan | Lama Terapi |
-|---------|-------------------|-------------|
-| **Endometritis ringan-sedang** (tanpa sepsis, pervaginam) | Ampisilin 2 g IV/6 jam + Gentamisin 5 mg/kg IV/24 jam + Metronidazol 500 mg IV/8 jam | 7–10 hari (IV 48 jam afebris → oral) |
-| **Endometritis pasca SC** (risiko lebih berat) | Regimen yang sama atau sefalosporin generasi 3 + metronidazol | 7–10 hari |
-| **Endometritis dengan sepsis** | Konsul SpOG + intensivis. Piperasilin-tazobaktam atau meropenem | ≥ 10–14 hari |
-| **Gagal terapi 48 jam** | Evaluasi: USG (sisa? abses?), kultur darah, kultur lochia. Ganti antibiotik sesuai pola kuman | Sesuai hasil kultur |
+| Situasi                                                   | Antibiotik Pilihan                                                                            | Lama Terapi                          |
+| --------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ------------------------------------ |
+| **Endometritis ringan-sedang** (tanpa sepsis, pervaginam) | Ampisilin 2 g IV/6 jam + Gentamisin 5 mg/kg IV/24 jam + Metronidazol 500 mg IV/8 jam          | 7–10 hari (IV 48 jam afebris → oral) |
+| **Endometritis pasca SC** (risiko lebih berat)            | Regimen yang sama atau sefalosporin generasi 3 + metronidazol                                 | 7–10 hari                            |
+| **Endometritis dengan sepsis**                            | Konsul SpOG + intensivis. Piperasilin-tazobaktam atau meropenem                               | ≥ 10–14 hari                         |
+| **Gagal terapi 48 jam**                                   | Evaluasi: USG (sisa? abses?), kultur darah, kultur lochia. Ganti antibiotik sesuai pola kuman | Sesuai hasil kultur                  |
 
 > [!warning] **Gagal Terapi 48 Jam — Evaluasi Ulang!**
 > Jika demam tidak turun dalam 48 jam terapi antibiotik adekuat:
+>
 > 1. **Evaluasi ulang diagnosis** — apakah ada abses pelvis? tromboflebitis? sisa plasenta?
 > 2. **USG pelvis** — cari abses atau sisa produk konsepsi
 > 3. **Kultur darah + kultur lochia** — cari resistensi antibiotik
-> 4. **Pertimbangkan tromboflebitis pelvis septik** — demam *picket fence* + CT scan vena ovarium
+> 4. **Pertimbangkan tromboflebitis pelvis septik** — demam _picket fence_ + CT scan vena ovarium
 > 5. **Ganti antibiotik** — perluas spektrum (piperasilin-tazobaktam, meropenem, tambah vankomisin)
-> **Jangan hanya "tunggu dan lihat"** — 48 jam adalah batas aman. Lewati itu, risiko sepsis meningkat!
+>    **Jangan hanya "tunggu dan lihat"** — 48 jam adalah batas aman. Lewati itu, risiko sepsis meningkat!
 
 ### 2. Terapi Suportif
 
-| Tindakan | Detail |
-|----------|--------|
-| **Cairan IV** | RL atau NaCl 0,9% — koreksi dehidrasi. Target: produksi urin > 30 mL/jam |
-| **Antipiretik** | Parasetamol 500–1.000 mg oral/IV tiap 6 jam jika demam > 38,5°C |
-| **Nutrisi adekuat** | Makan sedikit tapi sering. Anjurkan tinggi protein untuk perbaikan jaringan |
-| **Mobilisasi dini** | Bantu pasien duduk dan berjalan — mempercepat involusi dan aliran lochia |
-| **Pantau involusi** | [[31-postpartum-pemeriksaan-fundus|Pantau TFU]] setiap 24 jam — turunnya TFU menandakan perbaikan |
-| **Pantau lochia** | [[43-menilai-lochia]] setiap hari — perbaikan warna dan bau adalah tanda respons terapi |
+| Tindakan            | Detail                                                                           |
+| ------------------- | -------------------------------------------------------------------------------- |
+| **Cairan IV**       | RL atau NaCl 0,9% — koreksi dehidrasi. Target: produksi urin > 30 mL/jam         |
+| **Antipiretik**     | Parasetamol 500–1.000 mg oral/IV tiap 6 jam jika demam > 38,5°C                  |
+| **Nutrisi adekuat** | Makan sedikit tapi sering. Anjurkan tinggi protein untuk perbaikan jaringan      |
+| **Mobilisasi dini** | Bantu pasien duduk dan berjalan — mempercepat involusi dan aliran lochia         |
+| **Pantau involusi** | Pantau TFU setiap 24 jam — turunnya TFU menandakan perbaikan                     |
+| **Pantau lochia**   | Menilai Lochia setiap hari — perbaikan warna dan bau adalah tanda respons terapi |
 
 ### 3. Tatalaksana Faktor Risiko
 
-| Temuan | Tindakan |
-|--------|----------|
-| **Sisa plasenta/selaput** (USG positif) | Evakuasi: kuretase oleh SpOG setelah stabil. Antibiotik dilanjutkan |
-| **Anemia** (Hb < 9 g/dL) | Transfusi PRC jika hemodinamik tidak stabil atau Hb < 7 g/dL. Suplementasi Fe pada Hb 7–9 g/dL |
-| **Dehidrasi** | Bolus cairan IV + dorong minum |
-| **DM / hiperglikemia** | Kontrol gula darah ketat (target < 180 mg/dL) — hiperglikemia memperburuk infeksi |
-| **Laktasi terganggu** | Bantu pompa ASI atau susui dari payudara sehat. Dorong tetap menyusui — ASI tidak terkontaminasi |
+| Temuan                                  | Tindakan                                                                                         |
+| --------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| **Sisa plasenta/selaput** (USG positif) | Evakuasi: kuretase oleh SpOG setelah stabil. Antibiotik dilanjutkan                              |
+| **Anemia** (Hb < 9 g/dL)                | Transfusi PRC jika hemodinamik tidak stabil atau Hb < 7 g/dL. Suplementasi Fe pada Hb 7–9 g/dL   |
+| **Dehidrasi**                           | Bolus cairan IV + dorong minum                                                                   |
+| **DM / hiperglikemia**                  | Kontrol gula darah ketat (target < 180 mg/dL) — hiperglikemia memperburuk infeksi                |
+| **Laktasi terganggu**                   | Bantu pompa ASI atau susui dari payudara sehat. Dorong tetap menyusui — ASI tidak terkontaminasi |
 
-### 4. Edukasi Pasien ([[37-mengajarkan-hygiene]])
+### 4. Edukasi Pasien (Mengajarkan Hygiene)
 
-| Edukasi | Rincian |
-|---------|---------|
+| Edukasi                | Rincian                                                                                                                                                                                 |
+| ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Kebersihan genital** | Ganti pembalut setiap 3–4 jam. Bersihkan dari depan ke belakang setelah BAK/BAB. Keringkan daerah perineum dengan handuk bersih. Jangan gunakan air dalam baskom (berisiko kontaminasi) |
-| **Cukup minum** | Minimal 8 gelas/hari — membantu menurunkan demam dan memperbaiki produksi ASI |
-| **Istirahat** | Tidur cukup — jangan begadang merawat bayi sendirian. Minta bantuan suami/keluarga |
-| **Nutrisi** | Makan tinggi protein (telur, ikan, tahu, tempe, ayam) dan sayur |
-| **Tanda bahaya** | Kembali jika: demam naik lagi, perdarahan aktif, nyeri perut bertambah, luka operasi bernanah, sesak napas |
-| **ASI tetap aman** | Edukasi bahwa ASI tetap aman — bakteri tidak masuk ke ASI. Menyusui justru membantu involusi uteri melalui pelepasan oksitosin |
+| **Cukup minum**        | Minimal 8 gelas/hari — membantu menurunkan demam dan memperbaiki produksi ASI                                                                                                           |
+| **Istirahat**          | Tidur cukup — jangan begadang merawat bayi sendirian. Minta bantuan suami/keluarga                                                                                                      |
+| **Nutrisi**            | Makan tinggi protein (telur, ikan, tahu, tempe, ayam) dan sayur                                                                                                                         |
+| **Tanda bahaya**       | Kembali jika: demam naik lagi, perdarahan aktif, nyeri perut bertambah, luka operasi bernanah, sesak napas                                                                              |
+| **ASI tetap aman**     | Edukasi bahwa ASI tetap aman — bakteri tidak masuk ke ASI. Menyusui justru membantu involusi uteri melalui pelepasan oksitosin                                                          |
 
 ### 5. Indikasi Rujuk ke SpOG
 
-| Indikasi | Alasan |
-|----------|--------|
-| **Demam tinggi ≥ 39°C dengan menggigil** | Curiga sepsis — butuh tatalaksana intensif |
-| **Tidak responsif terhadap antibiotik 48 jam** | Kemungkinan abses, sisa plasenta, atau kuman resisten |
-| **Tanda sepsis / syok septik** | Hipotensi, takikardia, oliguria, penurunan kesadaran — butuh ICU |
-| **Abses pelvis / massa parametrium** | Butuh drainase (aspirasi atau laparotomi) oleh SpOG |
-| **Sisa plasenta / selaput** | Butuh kuretase di OK |
-| **Tromboflebitis pelvis septik** | Butuh antikoagulan + antibiotik jangka panjang di bawah SpOG |
-| **Peritonitis / sepsis abdomen** | Butuh laparotomi eksplorasi + drainase |
-| **Syok septik** | Butuh ICU + tatalaksana multidisiplin |
+| Indikasi                                       | Alasan                                                           |
+| ---------------------------------------------- | ---------------------------------------------------------------- |
+| **Demam tinggi ≥ 39°C dengan menggigil**       | Curiga sepsis — butuh tatalaksana intensif                       |
+| **Tidak responsif terhadap antibiotik 48 jam** | Kemungkinan abses, sisa plasenta, atau kuman resisten            |
+| **Tanda sepsis / syok septik**                 | Hipotensi, takikardia, oliguria, penurunan kesadaran — butuh ICU |
+| **Abses pelvis / massa parametrium**           | Butuh drainase (aspirasi atau laparotomi) oleh SpOG              |
+| **Sisa plasenta / selaput**                    | Butuh kuretase di OK                                             |
+| **Tromboflebitis pelvis septik**               | Butuh antikoagulan + antibiotik jangka panjang di bawah SpOG     |
+| **Peritonitis / sepsis abdomen**               | Butuh laparotomi eksplorasi + drainase                           |
+| **Syok septik**                                | Butuh ICU + tatalaksana multidisiplin                            |
 
 ---
 
 ## Komplikasi
 
-| Komplikasi | Mekanisme | Penanganan |
-|------------|-----------|------------|
-| **Abses pelvis** | Infeksi terlokalisasi di kavum Douglasi atau parametrium | Drainase (aspirasi atau laparotomi) + antibiotik |
-| **Peritonitis pelvis / umum** | Perluasan infeksi melalui tuba atau limfatik ke peritoneum | Laparotomi, drainase, antibiotik IV dosis tinggi |
-| **Sepsis / syok septik** | Bakteri dan toksin masuk sirkulasi sistemik → vasodilatasi, hipoperfusi organ | ICU, antibiotik IV, vasopresor, koreksi organ failure |
-| **Tromboflebitis pelvis septik** | Infeksi meluas ke dinding vena ovarium → trombosis septik | Antikoagulan (heparin) + antibiotik jangka panjang (14–21 hari) |
-| **Emboli septik paru** | Trombus septik lepas ke sirkulasi pulmonal → abses paru, efusi pleura | Antikoagulan, antibiotik, drainase jika abses paru |
-| **Sindrom syok toksik streptokokal** | Toksin *Streptococcus pyogenes* → syok + kegagalan multi-organ | ICU, antibiotik + imunoglobulin IV, eksplorasi bedah |
-| **Subinvolusi uteri** | Infeksi menghambat kontraksi miometrium → uterus tetap besar | Antibiotik + koreksi faktor risiko. Biasanya reversibel |
-| **Perdarahan postpartum sekunder** | Subinvolusi + sisa plasenta → perdarahan > 500 mL setelah 24 jam | Antibiotik + kuretase evakuasi |
-| **Infertilitas sekunder** | Kerusakan tuba (Pembentukan sinekie / hidrosalping) | Diagnosis histerosalpingografi — rujuk SpOG untuk fertilitas |
-| **Kematian ibu** | Sepsis berat yang tidak tertangani → kematian | **Pencegahan lebih baik dari pengobatan** |
+| Komplikasi                           | Mekanisme                                                                     | Penanganan                                                      |
+| ------------------------------------ | ----------------------------------------------------------------------------- | --------------------------------------------------------------- |
+| **Abses pelvis**                     | Infeksi terlokalisasi di kavum Douglasi atau parametrium                      | Drainase (aspirasi atau laparotomi) + antibiotik                |
+| **Peritonitis pelvis / umum**        | Perluasan infeksi melalui tuba atau limfatik ke peritoneum                    | Laparotomi, drainase, antibiotik IV dosis tinggi                |
+| **Sepsis / syok septik**             | Bakteri dan toksin masuk sirkulasi sistemik → vasodilatasi, hipoperfusi organ | ICU, antibiotik IV, vasopresor, koreksi organ failure           |
+| **Tromboflebitis pelvis septik**     | Infeksi meluas ke dinding vena ovarium → trombosis septik                     | Antikoagulan (heparin) + antibiotik jangka panjang (14–21 hari) |
+| **Emboli septik paru**               | Trombus septik lepas ke sirkulasi pulmonal → abses paru, efusi pleura         | Antikoagulan, antibiotik, drainase jika abses paru              |
+| **Sindrom syok toksik streptokokal** | Toksin _Streptococcus pyogenes_ → syok + kegagalan multi-organ                | ICU, antibiotik + imunoglobulin IV, eksplorasi bedah            |
+| **Subinvolusi uteri**                | Infeksi menghambat kontraksi miometrium → uterus tetap besar                  | Antibiotik + koreksi faktor risiko. Biasanya reversibel         |
+| **Perdarahan postpartum sekunder**   | Subinvolusi + sisa plasenta → perdarahan > 500 mL setelah 24 jam              | Antibiotik + kuretase evakuasi                                  |
+| **Infertilitas sekunder**            | Kerusakan tuba (Pembentukan sinekie / hidrosalping)                           | Diagnosis histerosalpingografi — rujuk SpOG untuk fertilitas    |
+| **Kematian ibu**                     | Sepsis berat yang tidak tertangani → kematian                                 | **Pencegahan lebih baik dari pengobatan**                       |
 
 > [!warning] **Tromboflebitis Pelvis Septik — Silent Killer**
 > Komplikasi yang sering terlewat. Ciri khas: demam **picket fence pattern** (naik-turun ekstrem, menggigil hebat kemudian demam turun drastis) yang menetap meski sudah mendapat antibiotik adekuat selama 48–72 jam. Terapi: antikoagulan (heparin) + antibiotik. **Jika demam tidak turun setelah 48 jam antibiotik — curigai tromboflebitis!** CT scan vena ovarium untuk konfirmasi.
@@ -442,15 +444,15 @@ Diagnosis endometritis nifas **terutama klinis** — tidak memerlukan konfirmasi
 
 ## Prognosis
 
-| Aspek | Prognosis |
-|-------|-----------|
-| **Diagnosis dini + terapi adekuat** | Sangat baik — sembuh sempurna tanpa sekuele pada > 90% kasus |
-| **Keterlambatan terapi** | Risiko komplikasi meningkat: abses (15–30%), sepsis (5–10%), tromboflebitis (1–2%) |
-| **Endometritis ringan pasca pervaginam** | Sembuh dengan antibiotik 7 hari, prognosis excellent |
-| **Endometritis pasca SC** | Prognosis baik dengan terapi adekuat — tetapi risiko relaps dan komplikasi lebih tinggi |
-| **Dengan abses pelvis** | Prognosis baik setelah drainase — tetapi risiko perlengketan tuba (infertilitas sekunder pada 10–15%) |
-| **Dengan sepsis / syok septik** | Prognosis serius — mortalitas 10–30% tergantung kecepatan intervensi |
-| **Fertilitas** | Baik — tidak mempengaruhi fertilitas jika tidak ada komplikasi tuba. Risiko perlengketan pada kasus dengan abses atau peritonitis |
+| Aspek                                    | Prognosis                                                                                                                         |
+| ---------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| **Diagnosis dini + terapi adekuat**      | Sangat baik — sembuh sempurna tanpa sekuele pada > 90% kasus                                                                      |
+| **Keterlambatan terapi**                 | Risiko komplikasi meningkat: abses (15–30%), sepsis (5–10%), tromboflebitis (1–2%)                                                |
+| **Endometritis ringan pasca pervaginam** | Sembuh dengan antibiotik 7 hari, prognosis excellent                                                                              |
+| **Endometritis pasca SC**                | Prognosis baik dengan terapi adekuat — tetapi risiko relaps dan komplikasi lebih tinggi                                           |
+| **Dengan abses pelvis**                  | Prognosis baik setelah drainase — tetapi risiko perlengketan tuba (infertilitas sekunder pada 10–15%)                             |
+| **Dengan sepsis / syok septik**          | Prognosis serius — mortalitas 10–30% tergantung kecepatan intervensi                                                              |
+| **Fertilitas**                           | Baik — tidak mempengaruhi fertilitas jika tidak ada komplikasi tuba. Risiko perlengketan pada kasus dengan abses atau peritonitis |
 
 ---
 
@@ -470,7 +472,7 @@ Diagnosis endometritis nifas **terutama klinis** — tidak memerlukan konfirmasi
 
 7. **Menyuruh pasien berhenti menyusui karena takut infeksi menular ke bayi.** ASI tetap aman. Menyusui merangsang pelepasan oksitosin → kontraksi uterus → involusi lebih cepat. **Edukasi bahwa ASI tidak mengandung bakteri — menyusui justru membantu penyembuhan.**
 
-8. **Lupa memberikan edukasi hygiene postpartum.** Kebersihan genital yang buruk adalah faktor risiko yang bisa dimodifikasi. Ajarkan pasien cara membersihkan daerah kewanitaan yang benar, ganti pembalut rutin, dan jaga perineum tetap kering. Lihat [[37-mengajarkan-hygiene]] untuk panduan edukasi terstruktur.
+8. **Lupa memberikan edukasi hygiene postpartum.** Kebersihan genital yang buruk adalah faktor risiko yang bisa dimodifikasi. Ajarkan pasien cara membersihkan daerah kewanitaan yang benar, ganti pembalut rutin, dan jaga perineum tetap kering. Lihat Mengajarkan Hygiene untuk panduan edukasi terstruktur.
 
 9. **Menganggap subinvolusi uteri sebagai hal yang tidak penting.** Involusi yang lambat adalah **tanda objektif** bahwa infeksi belum terkontrol. Pantau TFU setiap hari — jika tidak turun sesuai jadwal, curigai terapi belum adekuat.
 
@@ -491,23 +493,23 @@ Diagnosis endometritis nifas **terutama klinis** — tidak memerlukan konfirmasi
 
 ### Pencegahan Primer (Sebelum Infeksi)
 
-| Tindakan | Evidence | Implementasi |
-|----------|----------|--------------|
-| **Antibiotik profilaksis pada SC** | **Standar emas** — sefazolin 1–2 g IV 30–60 menit sebelum insisi — menurunkan insidens endometritis pasca SC hingga 60–70% | Wajib pada semua SC — emergensi maupun elektif |
-| **Antibiotik profilaksis pada KPD** | Ampisilin 2 g IV + eritromisin 250 mg IV tiap 6 jam jika KPD > 18 jam | Mengurangi risiko korioamnionitis → endometritis |
-| **Cuci tangan dan antiseptik** | Standar prosedur saat persalinan dan pemeriksaan dalam | **Cuci tangan setiap kali sebelum dan sesudah PD!** |
-| **Batasi PD** | Semakin sering PD, semakin tinggi risiko infeksi. PD hanya jika ada indikasi | Maksimal 5–6 PD selama persalinan jika tidak ada indikasi khusus |
-| **Sterilisasi alat** | Alat persalinan dan operasi harus steril | Standar CSSD rumah sakit |
-| **Hygiene ibu** | Edukasi antenatal tentang kebersihan genital dan perineum | Lihat [[37-mengajarkan-hygiene]] |
+| Tindakan                            | Evidence                                                                                                                   | Implementasi                                                     |
+| ----------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| **Antibiotik profilaksis pada SC**  | **Standar emas** — sefazolin 1–2 g IV 30–60 menit sebelum insisi — menurunkan insidens endometritis pasca SC hingga 60–70% | Wajib pada semua SC — emergensi maupun elektif                   |
+| **Antibiotik profilaksis pada KPD** | Ampisilin 2 g IV + eritromisin 250 mg IV tiap 6 jam jika KPD > 18 jam                                                      | Mengurangi risiko korioamnionitis → endometritis                 |
+| **Cuci tangan dan antiseptik**      | Standar prosedur saat persalinan dan pemeriksaan dalam                                                                     | **Cuci tangan setiap kali sebelum dan sesudah PD!**              |
+| **Batasi PD**                       | Semakin sering PD, semakin tinggi risiko infeksi. PD hanya jika ada indikasi                                               | Maksimal 5–6 PD selama persalinan jika tidak ada indikasi khusus |
+| **Sterilisasi alat**                | Alat persalinan dan operasi harus steril                                                                                   | Standar CSSD rumah sakit                                         |
+| **Hygiene ibu**                     | Edukasi antenatal tentang kebersihan genital dan perineum                                                                  | Lihat Mengajarkan Hygiene                                        |
 
 ### Pencegahan Sekunder (Deteksi Dini)
 
-| Tindakan | Rincian |
-|----------|---------|
-| **[[31-postpartum-pemeriksaan-fundus|Pantau involusi uteri rutin]]** | Setiap hari selama rawat — TFU harus turun ±1–2 cm per hari. Jika tidak turun → curigai subinvolusi |
-| **[[43-menilai-lochia]] setiap hari** | Pantau warna, jumlah, dan bau. Jika berbau busuk → curigai endometritis |
-| **Skrining anemia** | Cek Hb postpartum. Anemia berat → koreksi sebelum pulang |
-| **Edukasi tanda bahaya** | Ajarkan pasien dan keluarga: demam, nyeri perut, lochia berbau. Kembali segera jika muncul |
+| Tindakan                             | Rincian                                                                                             |
+| ------------------------------------ | --------------------------------------------------------------------------------------------------- |
+| \*\* Pantau involusi uteri rutin\*\* | Setiap hari selama rawat — TFU harus turun ±1–2 cm per hari. Jika tidak turun → curigai subinvolusi |
+| **Menilai Lochia setiap hari**       | Pantau warna, jumlah, dan bau. Jika berbau busuk → curigai endometritis                             |
+| **Skrining anemia**                  | Cek Hb postpartum. Anemia berat → koreksi sebelum pulang                                            |
+| **Edukasi tanda bahaya**             | Ajarkan pasien dan keluarga: demam, nyeri perut, lochia berbau. Kembali segera jika muncul          |
 
 ### Pencegahan Tersier (Mencegah Komplikasi)
 
@@ -529,14 +531,14 @@ Diagnosis endometritis nifas **terutama klinis** — tidak memerlukan konfirmasi
 - **Keluhan:** Demam 38,8°C sejak hari ke-3, nyeri perut bawah terus-menerus, lochia berbau anyir
 - **Pemeriksaan:** TD 100/60, nadi 100×/menit, suhu 38,8°C. Fundus setinggi 3 jari di bawah pusat (subinvolusi), nyeri tekan fundus (+). Lochia rubra banyak, berbau busuk. Luka SC kering.
 
-| Pemeriksaan | Hasil |
-|-------------|-------|
-| Darah lengkap | Hb 9,1 g/dL, leukosit 16.800/µL (↑ neutrofil 82%), trombosit 280.000/µL |
-| CRP | 45 mg/dL (↑↑) |
-| Prokalsitonin | 1,2 ng/mL |
-| USG pelvis | Kavum uteri: tampak cairan ekhogenik + gumpalan kecil (curiga sisa selaput/sisa produk konsepsi minimal). Tidak ada abses. Tidak ada cairan bebas |
-| Kultur darah | Belum ada hasil (1 set aerob + 1 set anaerob sudah diambil) |
-| Kultur lochia | Belum ada hasil (swab endoserviks diambil) |
+| Pemeriksaan   | Hasil                                                                                                                                             |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Darah lengkap | Hb 9,1 g/dL, leukosit 16.800/µL (↑ neutrofil 82%), trombosit 280.000/µL                                                                           |
+| CRP           | 45 mg/dL (↑↑)                                                                                                                                     |
+| Prokalsitonin | 1,2 ng/mL                                                                                                                                         |
+| USG pelvis    | Kavum uteri: tampak cairan ekhogenik + gumpalan kecil (curiga sisa selaput/sisa produk konsepsi minimal). Tidak ada abses. Tidak ada cairan bebas |
+| Kultur darah  | Belum ada hasil (1 set aerob + 1 set anaerob sudah diambil)                                                                                       |
+| Kultur lochia | Belum ada hasil (swab endoserviks diambil)                                                                                                        |
 
 **Diagnosis:** Endometritis nifas pasca SC dengan subinvolusi uteri — diduga terkait sisa selaput.
 
@@ -550,22 +552,22 @@ Diagnosis endometritis nifas **terutama klinis** — tidak memerlukan konfirmasi
 3. **Antipiretik:** Parasetamol 1 g IV tiap 6 jam jika demam > 38,5°C
 4. **Konsul SpOG** — untuk evaluasi sisa selaput: disepakati terapi konservatif dengan antibiotik dulu, USG ulang 48 jam
 5. **Edukasi:**
-   - [[37-mengajarkan-hygiene]] — kebersihan genital, ganti pembalut rutin, laporkan perubahan lochia
+   - Mengajarkan Hygiene — kebersihan genital, ganti pembalut rutin, laporkan perubahan lochia
    - Anjurkan menyusui tetap dilanjutkan
-   - Pantau TFU setiap 24 jam ([[31-postpartum-pemeriksaan-fundus]])
-   - Pantau lochia setiap hari ([[43-menilai-lochia]])
+   - Pantau TFU setiap 24 jam (Postpartum Pemeriksaan Fundus)
+   - Pantau lochia setiap hari (Menilai Lochia)
 
 **Perjalanan:**
 
-| Hari ke- | Suhu | TFU | Lochia | Keterangan |
-|----------|------|-----|--------|------------|
-| 5 (hari masuk) | 38,8°C | 3 jari di bawah pusat | Rubra banyak, berbau | Awal terapi |
-| 6 | 38,3°C | 3 jari | Masih berbau | Respons awal |
-| 7 | 37,6°C | 4 jari | Berkurang, bau berkurang | Perbaikan |
-| 8 | 37,2°C | 5 jari | Serosa, bau normal | Konversi oral: amoksisilin-klavulanat 3×625 mg + metronidazol 3×500 mg × 5 hari |
-| 9 | 36,8°C | Pertengahan | Serosa | Pasien diizinkan pulang |
+| Hari ke-       | Suhu   | TFU                   | Lochia                   | Keterangan                                                                      |
+| -------------- | ------ | --------------------- | ------------------------ | ------------------------------------------------------------------------------- |
+| 5 (hari masuk) | 38,8°C | 3 jari di bawah pusat | Rubra banyak, berbau     | Awal terapi                                                                     |
+| 6              | 38,3°C | 3 jari                | Masih berbau             | Respons awal                                                                    |
+| 7              | 37,6°C | 4 jari                | Berkurang, bau berkurang | Perbaikan                                                                       |
+| 8              | 37,2°C | 5 jari                | Serosa, bau normal       | Konversi oral: amoksisilin-klavulanat 3×625 mg + metronidazol 3×500 mg × 5 hari |
+| 9              | 36,8°C | Pertengahan           | Serosa                   | Pasien diizinkan pulang                                                         |
 
-**Hasil kultur (hari ke-10):** *Escherichia coli* dan *Bacteroides fragilis* — sensitif terhadap ampisilin + metronidazol. Konfirmasi bahwa regimen empiris sudah tepat.
+**Hasil kultur (hari ke-10):** _Escherichia coli_ dan _Bacteroides fragilis_ — sensitif terhadap ampisilin + metronidazol. Konfirmasi bahwa regimen empiris sudah tepat.
 
 Pasien kontrol 2 minggu kemudian: TFU sudah tidak teraba di atas simfisis, lochia alba, tidak demam. Pasien dianjurkan kontrol 6 minggu postpartum untuk evaluasi akhir dan skrining kesehatan mental.
 
@@ -573,20 +575,20 @@ Pasien kontrol 2 minggu kemudian: TFU sudah tidak teraba di atas simfisis, lochi
 
 ## Keterampilan Terkait
 
-- [[31-postpartum-pemeriksaan-fundus]] — pemantauan involusi uteri setiap hari untuk deteksi subinvolusi
-- [[43-menilai-lochia]] — penilaian karakter lochia untuk deteksi dini endometritis
-- [[37-mengajarkan-hygiene]] — edukasi kebersihan genital sebagai pencegahan infeksi nifas
-- [[25-pemeriksaan-usg-obstetri]] — USG pelvis untuk deteksi sisa produk konsepsi dan abses
-- [[40-perawatan-luka-operasi-caesar]] — perawatan luka SC untuk mencegah SSI
+- Postpartum Pemeriksaan Fundus — pemantauan involusi uteri setiap hari untuk deteksi subinvolusi
+- Menilai Lochia — penilaian karakter lochia untuk deteksi dini endometritis
+- Mengajarkan Hygiene — edukasi kebersihan genital sebagai pencegahan infeksi nifas
+- Pemeriksaan Usg Obstetri — USG pelvis untuk deteksi sisa produk konsepsi dan abses
+- Perawatan Luka Operasi Caesar — perawatan luka SC untuk mencegah SSI
 
 ---
 
 ## Referensi
 
-1. **Kemenkes RI.** (2024). *Pedoman Nasional Pelayanan Kedokteran (PNPK) Tata Laksana Infeksi Nifas.* Jakarta: Kementerian Kesehatan RI.
-2. **POGI.** (2023). *Pedoman Diagnosis dan Tatalaksana Infeksi Puerperalis.* Jakarta: Perkumpulan Obstetri dan Ginekologi Indonesia.
-3. **World Health Organization.** (2024). *WHO Recommendations for Prevention and Treatment of Maternal Peripartum Infections.* Geneva: WHO.
-4. **Sarwono Prawirohardjo.** (2024). *Ilmu Kebidanan.* Edisi 4. Jakarta: Yayasan Bina Pustaka Sarwono Prawirohardjo.
-5. **ACOG Practice Bulletin No. 199.** (2023). *Use of Prophylactic Antibiotics in Labor and Delivery.* Obstetrics & Gynecology, 131(6): e154-e167.
-6. **Mackeen AD, et al.** (2023). Antibiotic regimens for postpartum endometritis. *Cochrane Database of Systematic Reviews*, Issue 6. Art. No.: CD001067.
-7. **Meaney-Delman D, et al.** (2022). Postpartum Endometritis: Diagnosis and Management. *American Family Physician*, 106(5): 542-549.
+1. **Kemenkes RI.** (2024). _Pedoman Nasional Pelayanan Kedokteran (PNPK) Tata Laksana Infeksi Nifas._ Jakarta: Kementerian Kesehatan RI.
+2. **POGI.** (2023). _Pedoman Diagnosis dan Tatalaksana Infeksi Puerperalis._ Jakarta: Perkumpulan Obstetri dan Ginekologi Indonesia.
+3. **World Health Organization.** (2024). _WHO Recommendations for Prevention and Treatment of Maternal Peripartum Infections._ Geneva: WHO.
+4. **Sarwono Prawirohardjo.** (2024). _Ilmu Kebidanan._ Edisi 4. Jakarta: Yayasan Bina Pustaka Sarwono Prawirohardjo.
+5. **ACOG Practice Bulletin No. 199.** (2023). _Use of Prophylactic Antibiotics in Labor and Delivery._ Obstetrics & Gynecology, 131(6): e154-e167.
+6. **Mackeen AD, et al.** (2023). Antibiotic regimens for postpartum endometritis. _Cochrane Database of Systematic Reviews_, Issue 6. Art. No.: CD001067.
+7. **Meaney-Delman D, et al.** (2022). Postpartum Endometritis: Diagnosis and Management. _American Family Physician_, 106(5): 542-549.

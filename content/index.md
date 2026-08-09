@@ -15,6 +15,7 @@ cssclasses:
 > Buku saku digital ini berisi **97 modul Penyakit** dan **73 modul Keterampilan** sesuai **Modul Kepaniteraan Klinik Obgyn 2026** (Bab II: Daftar Modul & Bab V: Materi). Disusun untuk mahasiswa KOAS Stase Bedah & Obstetri-Ginekologi guna mempersiapkan ujian kompetensi (SKDI) dan bekal praktik di Puskesmas/RS Dasar.
 >
 > **Struktur Level Kompetensi SKDI:**
+>
 > - **Level 4A** = Dokter umum wajib mahir mendiagnosis DAN tuntas menangani sendiri (mandiri di akhir stase)
 > - **Level 3A/3B** = Mendiagnosis + tatalaksana awal/stabilisasi, lalu rujuk (3A elektif, 3B kegawatan)
 > - **Level 2** = Mengenali/menyadari, lakukan apa yang bisa sebelum rujuk, rujuk ke siapa
@@ -34,6 +35,7 @@ cssclasses:
 ## 📚 Penyakit (97 modul) {#penyakit}
 
 ### Infeksi Menular Seksual (6)
+
 - [[01-sindrom-duh-genital|Sindrom Duh Genital]] (Level 4A, #1)
 - [[02-isk-bawah|Infeksi Saluran Kemih Bagian Bawah]] (Level 4A, #2)
 - [[03-vulvitis|Vulvitis]] (Level 4A, #3)
@@ -42,6 +44,7 @@ cssclasses:
 - [[06-salpingitis|Salpingitis]] (Level 3A, #6)
 
 ### Obstetri (41)
+
 - [[07-kehamilan-normal|Kehamilan Normal]] (Level 4A, #7)
 - [[08-aborsi-spontan-komplit|Aborsi Spontan Komplit]] (Level 4A, #8)
 - [[09-anemia-defisiensi-besi-pada-kehamilan|Anemia Defisiensi Besi pada Kehamilan]] (Level 4A, #9)
@@ -89,6 +92,7 @@ cssclasses:
 - [[75-kehamilan-ektopik|Kehamilan Ektopik]] (Level 2, #75)
 
 ### Nifas & Kehamilan Abnormal (11)
+
 - [[11-abses-folikel-rambut|Abses Folikel Rambut/Kelenjar Sebasea]] (Level 4A, #11)
 - [[12-mastitis|Mastitis]] (Level 4A, #12)
 - [[13-cracked-nipple|Cracked Nipple]] (Level 4A, #13)
@@ -102,6 +106,7 @@ cssclasses:
 - [[25-infertilitas|Infertilitas]] (Level 3A, #25)
 
 ### Ginekologi & Onkologi (22)
+
 - [[26-baby-blues-postpartum-depression|Baby Blues / Postpartum Depression]] (Level 3A, #26)
 - [[27-servisitis|Servisitis]] (Level 3A, #27)
 - [[28-penyakit-radang-panggul|Penyakit Radang Panggul (PID)]] (Level 3A, #28)
@@ -120,13 +125,14 @@ cssclasses:
 - [[82-karsinoma-payudara|Karsinoma Payudara]] (Level 2, #82)
 - [[92-karsinoma-endometrium|Karsinoma Endometrium]] (Level 1, #92)
 - [[93-karsinoma-ovarium|Karsinoma Ovarium]] (Level 1, #93)
-- [[94a-koriokarsinoma|Koriokarsinoma (Choriocarcinoma)]] (Level 1, #94a)
-- [[94b-adenomiosis|Adenomiosis]] (Level 1, #94b)
-- [[94c-mioma|Mioma Uteri (Leiomyoma)]] (Level 1, #94c)
-- [[95-tumor-filoides|Tumor Filoides]] (Level 1, #95)
-- [[96-penyakit-paget-payudara|Penyakit Paget Payudara]] (Level 1, #96)
+- [[94-koriokarsinoma|Koriokarsinoma (Choriocarcinoma)]] (Level 1, #94)
+- [[95-adenomiosis|Adenomiosis]] (Level 1, #95)
+- [[96-mioma|Mioma Uteri (Leiomyoma)]] (Level 1, #96)
+- [[97-tumor-filoides|Tumor Filoides]] (Level 1, #97)
+- [[98-penyakit-paget-payudara|Penyakit Paget Payudara]] (Level 1, #98)
 
 ### Payudara & Andrologi (5)
+
 - [[79-inflamasi-abses-payudara|Inflamasi & Abses Payudara]] (Level 2, #79)
 - [[80-fibrokista-payudara|Fibrokista Payudara]] (Level 2, #80)
 - [[81-fibroadenoma|Fibroadenoma Mammae]] (Level 2, #81)
@@ -135,14 +141,17 @@ cssclasses:
 - [[85-gangguan-ejakulasi|Gangguan Ejakulasi]] (Level 2, #85)
 
 ### Kongenital (2)
+
 - [[86-malformasi-kongenital-uterus|Malformasi Kongenital Uterus (Anomali Muller)]] (Level 1, #86)
 - [[87-malformasi-kongenital-umum|Malformasi Kongenital Umum]] (Level 1, #87)
 
 ### Prolaps (2)
+
 - [[88-kistokel|Sistokel (Cystocele)]] (Level 1, #88)
 - [[89-rektokel|Rektokel (Rectocele)]] (Level 1, #89)
 
 ### Hiperplasia & PCOS (2)
+
 - [[90-hiperplasia-endometrium|Hiperplasia Endometrium]] (Level 1, #90)
 - [[91-polikistik-ovarium|Polikistik Ovarium (PCOS)]] (Level 1, #91)
 
@@ -151,6 +160,7 @@ cssclasses:
 ## 🛠️ Keterampilan (73 modul) {#keterampilan}
 
 ### Antenatal (15)
+
 - [[15-identifikasi-kehamilan-risiko-tinggi|Identifikasi Kehamilan Risiko Tinggi]] (Level 4A, #15)
 - [[16-konseling-prakonsepsi|Konseling Prakonsepsi]] (Level 4A, #16)
 - [[17-pelayanan-perawatan-antenatal|Pelayanan Perawatan Antenatal]] (Level 4A, #17)
@@ -168,6 +178,7 @@ cssclasses:
 - [[69-pengambilan-darah-fetus|Pengambilan Darah Fetus (Cordocentesis)]] (Level 2, #69)
 
 ### Ginekologi Dasar (23)
+
 - [[01-px-fisik-umum-payudara|Pemeriksaan Fisik Umum & Payudara]] (Level 4A, #1)
 - [[02-inspeksi-palpasi-genitalia-eksterna|Inspeksi & Palpasi Genitalia Eksterna]] (Level 4A, #2)
 - [[03-pemeriksaan-spekulum|Pemeriksaan Spekulum]] (Level 4A, #3)
@@ -193,6 +204,7 @@ cssclasses:
 - [[73-inseminasi-artifisial|Inseminasi Artifisial (IUI)]] (Level 1, #73)
 
 ### KB & Kontrasepsi (6)
+
 - [[11-konseling-kontrasepsi|Konseling Kontrasepsi]] (Level 4A, #11)
 - [[12-insersi-ekstraksi-iud|Insersi & Ekstraksi IUD]] (Level 4A, #12)
 - [[13-suntik-kb|Suntik KB]] (Level 4A, #13)
@@ -201,6 +213,7 @@ cssclasses:
 - [[63-laparoskopi-sterilisasi|Laparoskopi Sterilisasi]] (Level 2, #63)
 
 ### Persalinan (29)
+
 - [[26-pemeriksaan-obstetri|Pemeriksaan Obstetri]] (Level 4A, #26)
 - [[27-menolong-persalinan-fisiologis-apn|Menolong Persalinan Fisiologis (APN)]] (Level 4A, #27)
 - [[28-amniotomi|Amniotomi]] (Level 4A, #28)
@@ -236,30 +249,35 @@ cssclasses:
 ## 📊 Berdasarkan Level Kompetensi {#level-kompetensi}
 
 ### Level 4A — Wajib Mahir Mandiri (44 Penyakit + 44 Keterampilan)
+
 > Target: **Bisa diagnosis & tuntas sendiri** di akhir stase KOAS
 
 **Penyakit Level 4A:** 1-14, 7, 8, 9, 10, 11, 12, 13, 14  
 **Keterampilan Level 4A:** 1-14, 15-25, 26-43, 41
 
 ### Level 3A — Diagnosis + Tatalaksana Awal Elektif (14 Penyakit + 13 Keterampilan)
+
 > Target: **Diagnosis + stabilisasi + rujuk elektif**
 
 **Penyakit Level 3A:** 15-29  
 **Keterampilan Level 3:** 44-49, 51
 
 ### Level 3B — Diagnosis + Stabilisasi Kegawatan + Rujuk Segera (19 Penyakit + 7 Keterampilan)
+
 > Target: **Diagnosis + stabilisasi kegawatan + rujuk darurat**
 
 **Penyakit Level 3B:** 30-48  
 **Keterampilan Level 3:** 52-57
 
 ### Level 2 — Kenali + Tindakan Awal + Rujuk (35 Penyakit + 11 Keterampilan)
+
 > Target: **Mengenali, lakukan yang bisa, rujuk ke spesialis**
 
 **Penyakit Level 2:** 49-68, 75, 82, 83, 84, 85  
 **Keterampilan Level 2:** 58-63, 64-70
 
 ### Level 1 — Hanya Kenali & Rujuk Segera (11 Penyakit + 3 Keterampilan)
+
 > Target: **Hanya mengenali & segera rujuk**
 
 **Penyakit Level 1:** 73, 74, 76, 77, 78, 86, 87, 88, 89, 90, 91, 92, 93, 94a, 94b, 94c, 95, 96  
@@ -280,15 +298,17 @@ cssclasses:
 ## 📝 Catatan Penting
 
 > [!tip] **Konvensi Penamaan File**
+>
 > - Format: `NN-slug-singkat.md` (NN = nomor modul asli dari modul 2026)
 > - Nomor **TIDAK** direnumber ulang — stay true to source
-> - Modul 94 dipecah jadi 3 file: `94a-koriokarsinoma`, `94b-adenomiosis`, `94c-mioma`
+> - Modul 94-96: file ginekologi onkologi (penomoran linear): `94-koriokarsinoma`, `95-adenomiosis`, `96-mioma`
 
 > [!warning] **Red Flag — Jangan Lewatkan**
+>
 > - File **MASTERPLAN.md** (root folder) = dokumen kerja internal, jangan publish ke Quartz
 > - Folder note `penyakit/penyakit.md` & `keterampilan/keterampilan.md` = landing page kategori
 > - Semua file pakai **YAML frontmatter** lengkap + **Wikilink** cross-reference
 
 ---
 
-*Generated from MASTERPLAN.md — last updated: 2026*
+_Generated from MASTERPLAN.md — last updated: 2026_

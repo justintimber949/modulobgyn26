@@ -127,7 +127,7 @@ Sering disebabkan oleh **ektasia duktus** — pelebaran duktus laktiferus yang d
 
 ## Pemeriksaan Fisik
 
-Langkah sistematis pemeriksaan payudara mengacu pada [[01-px-fisik-umum-payudara|Pemeriksaan Fisik Umum & Payudara]]:
+Langkah sistematis pemeriksaan payudara mengacu pada Pemeriksaan Fisik Umum & Payudara:
 
 ### Inspeksi (Posisi Duduk — tangan di samping, di atas kepala, dan di pinggang)
 
@@ -301,7 +301,7 @@ Jika sudah terbentuk abses → terapi definitif adalah **drainase**:
 - **Paracetamol 500 mg** tiap 6 jam jika demam/nyeri
 - **Edukasi:** perbaiki posisi menyusui (bayi dimulai dari payudara kanan), kompres hangat sebelum menyusui, kompres dingin setelahnya
 - **Janji kontrol** 48 jam — jika demam tak turun → USG ulang + kultur ASI
-- Rujuk ke **konselor laktasi** ([[36-manajemen-laktasi|Manajemen Laktasi]]) untuk perbaikan teknik menyusui
+- Rujuk ke **konselor laktasi** (Manajemen Laktasi) untuk perbaikan teknik menyusui
 
 **Hasil:** Hari ke-3 demam turun, eritema berkurang. Pasien menyelesaikan antibiotik 7 hari dan pulih total. Bayi tetap mendapat ASI eksklusif.
 
@@ -342,7 +342,7 @@ Strategi pencegahan yang efektif berfokus pada **perbaikan teknik menyusui**:
 7. **Istirahat cukup** — kelelahan menurunkan imunitas dan meningkatkan risiko mastitis
 8. **Edukasi antenatal** — pelajari teknik menyusui sejak hamil melalui kelas ibu hamil
 
-Liputan lebih lengkap tentang hal ini ada di [[36-manajemen-laktasi|Manajemen Laktasi & Pemeriksaan Payudara]].
+Liputan lebih lengkap tentang hal ini ada di Manajemen Laktasi & Pemeriksaan Payudara.
 
 ---
 
@@ -350,7 +350,7 @@ Liputan lebih lengkap tentang hal ini ada di [[36-manajemen-laktasi|Manajemen La
 
 Mengingat mastitis bisa menyerupai Ca mamae — terutama pada non-laktasional — **deteksi dini sangat penting**. Ajarkan setiap pasien untuk melakukan:
 
-- **[[41-sadari|SADARI]]** — Pemeriksaan Payudara Sendiri setiap bulan (hari ke-7 sampai ke-10 siklus haid)
+- **SADARI** — Pemeriksaan Payudara Sendiri setiap bulan (hari ke-7 sampai ke-10 siklus haid)
 - Sadari perubahan bentuk, benjolan baru, duh puting, atau kulit _peau d'orange_
 - Pada ibu menyusui: jika ada benjolan yang **tidak hilang setelah mastitis sembuh** → rujuk untuk mamografi/USG
 
@@ -358,9 +358,9 @@ Mengingat mastitis bisa menyerupai Ca mamae — terutama pada non-laktasional �
 
 ## Keterampilan Terkait
 
-- [[01-px-fisik-umum-payudara|Pemeriksaan Fisik Umum & Payudara]] — fondasi pemeriksaan payudara sistematis
-- [[36-manajemen-laktasi|Manajemen Laktasi]] — teknik menyusui yang benar, pijat oksitosin, penanganan puting lecet
-- [[41-sadari|SADARI]] — edukasi dan demonstrasi pemeriksaan payudara sendiri
+- Pemeriksaan Fisik Umum & Payudara — fondasi pemeriksaan payudara sistematis
+- Manajemen Laktasi — teknik menyusui yang benar, pijat oksitosin, penanganan puting lecet
+- SADARI — edukasi dan demonstrasi pemeriksaan payudara sendiri
 
 ---
 

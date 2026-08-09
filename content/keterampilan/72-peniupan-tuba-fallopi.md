@@ -69,9 +69,9 @@ cssclasses:
 
 ## Keterampilan Terkait
 
-- [[71-histerosalpingografi|Histerosalpingografi (HSG)]]
-- [[73-inseminasi-artifisial|Inseminasi Artifisial]]
-- [[48-uji-pasca-koitus|Uji Pasca-Koitus]]
+- Histerosalpingografi (HSG)
+- Inseminasi Artifisial
+- Uji Pasca-Koitus
 
 ## Referensi
 

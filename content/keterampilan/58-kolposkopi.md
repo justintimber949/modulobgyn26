@@ -50,9 +50,9 @@ cssclasses:
 
 ## Keterampilan Terkait
 
-- [[06-melakukan-paps-smear|Pap Smear]]
-- [[07-pemeriksaan-iva|Pemeriksaan IVA]]
-- [[49-electro-cryocoagulation-cervix|Elektro/Krioterapi Serviks]]
+- Pap Smear
+- Pemeriksaan IVA
+- Elektro/Krioterapi Serviks
 
 ## Referensi
 

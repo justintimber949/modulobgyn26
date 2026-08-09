@@ -69,10 +69,10 @@ cssclasses:
 
 ## Keterampilan Terkait
 
-- [[64-amniosentesis|Amniosentesis]]
-- [[65-chorionic-villus-sampling|Chorionic Villus Sampling]]
-- [[25-pemeriksaan-usg-obstetri|Pemeriksaan USG Obstetri]]
-- [[40-hipoksia-janin|Hipoksia Janin]]
+- Amniosentesis
+- Chorionic Villus Sampling
+- Pemeriksaan USG Obstetri
+- Hipoksia Janin
 
 ## Referensi
 

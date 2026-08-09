@@ -1,24 +1,23 @@
 ---
 title: Laparoskopi Terapeutik
 tags:
-- keterampilan
-- ginekologi-dasar
-- skdi-2
+  - keterampilan
+  - ginekologi-dasar
+  - skdi-2
 level_kompetensi: 2
 kategori: ginekologi-dasar
 nomor_modul: 61
 aliases:
-- Therapeutic Laparoscopy
-- Laparoskopi Operatif
-- Operative Laparoscopy
-- laparoskopi operatif
-- therapeutic laparoscopy
-- operasi laparoskopi
-- laparoskopi terapeutik
+  - Therapeutic Laparoscopy
+  - Laparoskopi Operatif
+  - Operative Laparoscopy
+  - laparoskopi operatif
+  - therapeutic laparoscopy
+  - operasi laparoskopi
+  - laparoskopi terapeutik
 cssclasses:
-- buku-saku
+  - buku-saku
 ---
-
 
 > [!info] Level Kompetensi SKDI: 2
 > Dilakukan oleh SpOG. Dokter umum memahami indikasi, jenis prosedur, dan komplikasi.
@@ -41,13 +40,14 @@ Laparoskopi terapeutik adalah prosedur bedah minimal invasif yang dilakukan mela
 4. **Adhezi pelvis** — adhesiolisis untuk infertilitas/nyeri chronis
 5. **Mioma uteri (subserosa/pedunkelated)** — miomektomi laparoskopik
 6. **Histerektomi laparoskopik** (LAVH, TLH)
-6. **Sterilisasi tuba** — bipolar coagulation, klip, ring
-7. **Ovarian drilling** untuk PCOS
-8. **Pembedahan prolaps** — sakrokolpopeksi
+7. **Sterilisasi tuba** — bipolar coagulation, klip, ring
+8. **Ovarian drilling** untuk PCOS
+9. **Pembedahan prolaps** — sakrokolpopeksi
 
 ## Persiapan
 
 Sama dengan laparoskopi diagnostik + tambahan:
+
 - **Alat khusus:** electrocautery (monopolar/bipolar), harmonic scalpel, stapler, endobag, morcellator, suturing device
 - **Darah** — crossmatch 2 unit jika risiko perdarahan (mioma, endometriosis berat)
 - **Konsultan** — urologi/bedah digestive jika risiko lusi usus/ureter
@@ -55,11 +55,13 @@ Sama dengan laparoskopi diagnostik + tambahan:
 ## Teknik Dasar Prosedur Umum
 
 ### 1. Salpingostomi / Salpingektomi (Ektopik)
+
 - Identifikasi tube, evaluasi kerusakan
 - Salpingostomi: insisi linear di antimesometrik sisi ampula, keluarkan jaringan gestasional, biarkan luka sekunder (tanpa jahitan)
 - Salpingektomi: koagulasi pembuluh mesosalpinx, potong tube, ambil dalam endobag
 
 ### 2. Kistektomi Ovarium
+
 - Identifikasi kista, pisahkan dari jaringan ovarium normal
 - Gunakan endobag untuk mencegah seeding (terutama dermoid/endometrioma)
 - Enukleasi kista dari korteks ovarium
@@ -67,11 +69,13 @@ Sama dengan laparoskopi diagnostik + tambahan:
 - Tutup korteks ovarium dengan sutur absorbable (opsional)
 
 ### 3. Adhesiolisis
+
 - Pisahkan adhezi dengan gunting/bipolar/harmonic
 - Prinsip: mulai dari area tipis, hindari lusi organ
 - Evaluasi kelangsungan tube (chromopertubation) pasca adhesiolisis
 
 ### 4. Endometriosis Surgery
+
 - Eksisi lesi (lebih baik dari ablas untuk recurrence)
 - Ovarian endometrioma: stripping korteks
 - Deep infiltrating endometriosis (DIE): butuh tim multidisciplin
@@ -82,6 +86,7 @@ Sama dengan laparoskopi diagnostik + tambahan:
 ## Komplikasi
 
 **Intraoperatif:**
+
 - Lusi usus (0,5-1%)
 - Lusi ureter (0,1-0,3%)
 - Perdarahan dari pembuluh epigastric inferior / uterus / ovarium
@@ -89,6 +94,7 @@ Sama dengan laparoskopi diagnostik + tambahan:
 - Hiperkapnia
 
 **Pasca operatif:**
+
 - Infeksi luka port
 - Hernia port
 - Adhezi baru (recurrence)
@@ -97,6 +103,7 @@ Sama dengan laparoskopi diagnostik + tambahan:
 ## Konversi ke Laparotomi
 
 Indikasi konversi:
+
 - Visibilitas buruk (adhezi berat, obesitas)
 - Perdarahan tidak terkendali (> 500-1000 mL)
 - Lusi organ yang butuh perbaikan kompleks
@@ -117,9 +124,9 @@ Indikasi konversi:
 
 ## Keterampilan Terkait
 
-- [[59-laparoskopi-diagnostik]]
-- [[63-laparoskopi-sterilisasi]]
-- [[70-operasi-caesar]]
+- Laparoskopi Diagnostik
+- Laparoskopi Sterilisasi
+- Operasi Caesar
 
 ## Referensi
 

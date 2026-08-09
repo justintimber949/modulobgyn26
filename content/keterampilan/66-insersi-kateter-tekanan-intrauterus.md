@@ -64,9 +64,9 @@ cssclasses:
 
 ## Keterampilan Terkait
 
-- [[32-memperkirakan-kehilangan-darah|Memperkirakan Kehilangan Darah]]
-- [[27-menolong-persalinan-fisiologis-apn|Menolong Persalinan Fisiologis APN]]
-- [[53-induksi-kimiawi-persalinan|Induksi Kimiawi Persalinan]]
+- Memperkirakan Kehilangan Darah
+- Menolong Persalinan Fisiologis APN
+- Induksi Kimiawi Persalinan
 
 ## Referensi
 

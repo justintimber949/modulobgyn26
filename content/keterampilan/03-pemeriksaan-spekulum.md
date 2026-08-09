@@ -1,25 +1,23 @@
 ---
 title: Pemeriksaan Spekulum
 tags:
-- keterampilan
-- ginekologi-dasar
-- skdi-4a
+  - keterampilan
+  - ginekologi-dasar
+  - skdi-4a
 level_kompetensi: 4A
 kategori: ginekologi-dasar
 nomor_modul: 3
 aliases:
-- Inspeksi Vagina & Serviks
-- Pasang Spekulum
-- Pemeriksaan Spekulum Vagina
-- cek serviks
-- pemeriksaan spekulum
-- inspeksi vagina
-- pasang spekulum
+  - Inspeksi Vagina & Serviks
+  - Pasang Spekulum
+  - Pemeriksaan Spekulum Vagina
+  - cek serviks
+  - pemeriksaan spekulum
+  - inspeksi vagina
+  - pasang spekulum
 cssclasses:
-- buku-saku
+  - buku-saku
 ---
-
-
 
 # Pemeriksaan Spekulum
 
@@ -82,20 +80,20 @@ Ada tiga jenis utama yang akan Anda jumpai di lahan praktik:
 
 Siapkan semua alat _sebelum_ mulai. Jangan sampai Anda sudah setengah jalan baru nyari-nyari lidi swab.
 
-| Alat | Fungsi |
-|---|---|
-| Spekulum steril (pilih ukuran sesuai pasien) | Membuka vagina dan mengekspos serviks |
-| Sarung tangan steril/DHP (dua pasang) | Perlindungan diri |
-| Lampu senter / lampu sorot dengan cahaya cukup | Penerangan — _vital_, jangan remang-remang |
-| Meja ginekologi atau tempat tidur datar | Posisi litotomi |
-| Lap bersih atau doek | Menutupi area yang tidak diperiksa |
-| Swab kapas steril dan lidi swab (ayat) | Membersihkan sekret dan mengambil sampel |
-| Lubrikan (pelumas) berbasis air / NaCl 0,9% | Melicinkan spekulum |
-| Dakron swab (jika Pap smear) | Mengambil sampel sitologi |
-| Spatel Ayre / sikat endoserviks (jika Pap smear) | Alat pengambilan Pap smear |
-| Tempat sampah medis / bengkok | Pembuangan bekas pakai |
-| Kertas catatan / RM | Dokumentasi temuan |
-| Larutan KOH 10% dan NaCl 0,9% + objek gelas | Pemeriksaan whiff test / preparat basah (jika perlu) |
+| Alat                                             | Fungsi                                               |
+| ------------------------------------------------ | ---------------------------------------------------- |
+| Spekulum steril (pilih ukuran sesuai pasien)     | Membuka vagina dan mengekspos serviks                |
+| Sarung tangan steril/DHP (dua pasang)            | Perlindungan diri                                    |
+| Lampu senter / lampu sorot dengan cahaya cukup   | Penerangan — _vital_, jangan remang-remang           |
+| Meja ginekologi atau tempat tidur datar          | Posisi litotomi                                      |
+| Lap bersih atau doek                             | Menutupi area yang tidak diperiksa                   |
+| Swab kapas steril dan lidi swab (ayat)           | Membersihkan sekret dan mengambil sampel             |
+| Lubrikan (pelumas) berbasis air / NaCl 0,9%      | Melicinkan spekulum                                  |
+| Dakron swab (jika Pap smear)                     | Mengambil sampel sitologi                            |
+| Spatel Ayre / sikat endoserviks (jika Pap smear) | Alat pengambilan Pap smear                           |
+| Tempat sampah medis / bengkok                    | Pembuangan bekas pakai                               |
+| Kertas catatan / RM                              | Dokumentasi temuan                                   |
+| Larutan KOH 10% dan NaCl 0,9% + objek gelas      | Pemeriksaan whiff test / preparat basah (jika perlu) |
 
 > [!warning] Jangan pernah pakai jeli K-Y atau lubrikan berbasis minyak (seperti vaselin) — bisa mengkontaminasi sampel sitologi dan mengganggu interpretasi Pap smear. Gunakan lubrikan berbasis air secukupnya, atau NaCl steril jika akan ambil Pap smear.
 
@@ -147,6 +145,7 @@ Sebelum menyentuh spekulum, lihat dulu area eksternal. Dokter junior sering terb
 10. Pastikan cahaya cukup — atur ulang lampu sorot jika perlu
 
 > [!warning] Tanda Bahaya Selama Pemasangan
+>
 > - Nyeri hebat saat memasukkan spekulum: curigai vaginismus, stenosis vagina, infeksi akut (vaginitis purulen), atau atrofi berat — hentikan, evaluasi ulang, jangan paksa
 > - Perdarahan aktif setelah buka spekulum: bisa dari serviks yang rapuh (ektropion, karsinoma), polik, atau trauma iatrogenik — catat sumbernya, abortus iminens jika pasien hamil
 > - Vasovagal syncope: pucat, keringat dingin, pusing — pasien bisa pingsan. Turunkan kepala, angkat kaki, beri amonia, hentikan prosedur
@@ -156,6 +155,7 @@ Sebelum menyentuh spekulum, lihat dulu area eksternal. Dokter junior sering terb
 Sistematis — jangan hanya lihat "apa yang menonjol". Pakai urutan berikut:
 
 **Dinding Vagina**
+
 - Warna: merah muda normal → kemerahan (vaginitis), pucat (atrofi menopause)
 - Rugae: ada/kabur — rugae menghilang pada atrofi atau setelah menopause
 - Lesi: ulkus, kondiloma, kista, fistula, jaringan granulasi (pasca-episiotomi)
@@ -163,6 +163,7 @@ Sistematis — jangan hanya lihat "apa yang menonjol". Pakai urutan berikut:
 - Prolaps: dinding anterior (sistokel), dinding posterior (rektokel), kubah vagina (pasca-histerektomi)
 
 **Serviks (Portio)**
+
 - Warna: merah muda homogen vs. kemerahan di sekitar ostium (ektropion/ektopi)
 - Bentuk dan ukuran: normal vs. hipertrofi (elongasi serviks)
 - Ostium uteri eksternum: bulat (nullipara), celah melintang (multipara), stellata (pasca-partus dengan laserasi), keluar sekret / darah dari dalam kanalis
@@ -179,6 +180,7 @@ Sistematis — jangan hanya lihat "apa yang menonjol". Pakai urutan berikut:
 - Mobilitas: serviks yang normal dapat digerakkan sedikit tanpa nyeri — nyeri goyang (chandelier sign) menandakan infeksi panggul (PID)
 
 **Forniks**
+
 - Perhatikan kubah vagina di sekeliling serviks
 - Nyeri tekan pada forniks posterior + serviks goyang → PID sampai terbukti bukan
 
@@ -204,19 +206,20 @@ Ini adalah tujuan kunjungan pasien dalam banyak kasus. Kerjakan dalam urutan yan
 
 ### Sekret Vagina — Panduan Cepat
 
-| Tampilan | Warna | Bau | pH | Kemungkinan |
-|---|---|---|---|---|
-| Normal, putih susu | Putih jernih | Tidak amis | 3.8–4.5 | Fisiologis, fase luteal/kehamilan |
-| Kental, putih seperti tahu pecah | Putih | Asam (ragi) | <4.5 | Kandidiasis vaginalis |
-| Kuning kehijauan, berbusa | Kuning/hijau | Amis | >5.0 | Trikomoniasis |
-| Abu-abu tipis homogen | Abu-abu putih | Amis (fishy) + KOH (+)** | >4.5 | Bacterial vaginosis (Clue cells+) |
-| Purulen, mukopurulen | Kuning | Tidak khas | >4.5 | Servisitis (gonore/klamidia) |
+| Tampilan                         | Warna         | Bau                        | pH      | Kemungkinan                       |
+| -------------------------------- | ------------- | -------------------------- | ------- | --------------------------------- |
+| Normal, putih susu               | Putih jernih  | Tidak amis                 | 3.8–4.5 | Fisiologis, fase luteal/kehamilan |
+| Kental, putih seperti tahu pecah | Putih         | Asam (ragi)                | <4.5    | Kandidiasis vaginalis             |
+| Kuning kehijauan, berbusa        | Kuning/hijau  | Amis                       | >5.0    | Trikomoniasis                     |
+| Abu-abu tipis homogen            | Abu-abu putih | Amis (fishy) + KOH (+)\*\* | >4.5    | Bacterial vaginosis (Clue cells+) |
+| Purulen, mukopurulen             | Kuning        | Tidak khas                 | >4.5    | Servisitis (gonore/klamidia)      |
 
-**Whiff test positif: bau amis makin kuat setelah ditetesi KOH 10%
+\*\*Whiff test positif: bau amis makin kuat setelah ditetesi KOH 10%
 
 ### Temuan pada Serviks yang Perlu Diwaspadai
 
 > [!warning] Temuan Merah pada Serviks — Perlu Rujukan Segera
+>
 > - Lesi eksofitik, rapuh, mudah berdarah → curigai **karsinoma serviks**
 > - Perdarahan kontak positif → lakukan Pap smear, rujuk jika ditemukan sel atipikal
 > - Serviks goyang nyeri + demam + nyeri perut bawah → curigai **Penyakit Radang Panggul (PID)**
@@ -234,6 +237,7 @@ Ini adalah tujuan kunjungan pasien dalam banyak kasus. Kerjakan dalam urutan yan
 ## Kesalahan yang Sering Terjadi
 
 > [!tip] Kesalahan Umum & Cara Menghindarinya
+>
 > 1. **Memasukkan spekulum tanpa inspeksi vulva dulu** — lewatkan temuan penting. Biasakan: lihat dulu, baru masuk.
 > 2. **Memasukkan blade dengan sudut terlalu ke atas (anterior)** — membentur uretra atau klitoris, pasien menjerit. Sudut awal 45° ke bawah mengikuti dinding posterior vagina.
 > 3. **Membuka spekulum terlalu cepat/lebar sebelum serviks terlihat** — blade bisa menjepit dinding vagina. Buka perlahan, tarik keluar sedikit sambil dibuka.

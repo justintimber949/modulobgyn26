@@ -1,25 +1,24 @@
 ---
 title: Ketuban Pecah Dini (KPD)
 tags:
-- penyakit
-- obstetri
-- skdi-3a
+  - penyakit
+  - obstetri
+  - skdi-3a
 level_kompetensi: 3A
 kategori: obstetri
 nomor_modul: 18
 aliases:
-- PROM
-- Premature Rupture of Membranes
-- KPD
-- Pecah Ketuban Sebelum Waktunya
-- ketuban pecah sebelum waktunya
-- kpd
-- prom
-- air ketuban keluar dulu
+  - PROM
+  - Premature Rupture of Membranes
+  - KPD
+  - Pecah Ketuban Sebelum Waktunya
+  - ketuban pecah sebelum waktunya
+  - kpd
+  - prom
+  - air ketuban keluar dulu
 cssclasses:
-- buku-saku
+  - buku-saku
 ---
-
 
 # Ketuban Pecah Dini (KPD)
 
@@ -30,7 +29,7 @@ cssclasses:
 
 ## Vignette
 
-**Ny. Sari, 27 tahun, G1P0A0, hamil 38 minggu** datang ke Poli Ibu Hamil RSKH ditemani suaminya dengan keluhan: *"Dok, tadi pagi tiba-tiba keluar air bening dari jalan lahir. Sekarang masih keluar sedikit-sedikit, celana saya basah terus. Saya rasa bukan kencing, soalnya tidak bisa ditahan."*
+**Ny. Sari, 27 tahun, G1P0A0, hamil 38 minggu** datang ke Poli Ibu Hamil RSKH ditemani suaminya dengan keluhan: _"Dok, tadi pagi tiba-tiba keluar air bening dari jalan lahir. Sekarang masih keluar sedikit-sedikit, celana saya basah terus. Saya rasa bukan kencing, soalnya tidak bisa ditahan."_
 
 Ia mengaku air ketuban keluar sekitar 4 jam yang lalu saat ia baru bangun tidur. Tidak ada darah, lendir, atau warna kehijauan. Kontraksi belum teratur, dan ia masih merasakan gerakan janin seperti biasa — sekitar 10 kali dalam 2 jam terakhir. Ia tidak demam, tidak nyeri perut, dan tidak ada perdarahan.
 
@@ -42,18 +41,18 @@ Pasien seperti Ny. Sari adalah gambaran khas presentasi KPD aterm yang Anda temu
 
 ## Definisi
 
-**Ketuban Pecah Dini (KPD)** atau *Premature Rupture of Membranes (PROM)* adalah pecahnya selaput ketuban (amnion dan korion) sebelum dimulainya persalinan, pada usia kehamilan berapa pun.
+**Ketuban Pecah Dini (KPD)** atau _Premature Rupture of Membranes (PROM)_ adalah pecahnya selaput ketuban (amnion dan korion) sebelum dimulainya persalinan, pada usia kehamilan berapa pun.
 
 Berdasarkan usia kehamilan, KPD dibagi menjadi dua:
 
-| Jenis | Usia Kehamilan | Sinonim |
-|------|----------------|---------|
-| **KPD aterm** (*term PROM*) | ≥ 37 minggu | Ketuban pecah dini cukup bulan |
-| **KPD preterm** (*preterm PROM* / PPROM) | < 37 minggu | Ketuban pecah dini kurang bulan |
+| Jenis                                    | Usia Kehamilan | Sinonim                         |
+| ---------------------------------------- | -------------- | ------------------------------- |
+| **KPD aterm** (_term PROM_)              | ≥ 37 minggu    | Ketuban pecah dini cukup bulan  |
+| **KPD preterm** (_preterm PROM_ / PPROM) | < 37 minggu    | Ketuban pecah dini kurang bulan |
 
 KPD preterm lebih berbahaya karena dikaitkan dengan prematuritas, sindrom distress respirasi neonatus, dan risiko infeksi asenden yang lebih tinggi. Semakin muda usia kehamilan saat KPD terjadi, semakin besar tantangan tatalaksana.
 
-> [!tip] **Istilah KPD digunakan untuk semua usia kehamilan.** Bedakan dalam dokumentasi Anda: *"KPD preterm 34 minggu"* vs *"KPD aterm 39 minggu"* — kedua kondisi ini memiliki tatalaksana yang sangat berbeda. KPD aterm → induksi. KPD preterm → observasi + pencegatan + kortikosteroid (sambil menunggu maturasi paru).
+> [!tip] **Istilah KPD digunakan untuk semua usia kehamilan.** Bedakan dalam dokumentasi Anda: _"KPD preterm 34 minggu"_ vs _"KPD aterm 39 minggu"_ — kedua kondisi ini memiliki tatalaksana yang sangat berbeda. KPD aterm → induksi. KPD preterm → observasi + pencegatan + kortikosteroid (sambil menunggu maturasi paru).
 
 ---
 
@@ -61,11 +60,11 @@ KPD preterm lebih berbahaya karena dikaitkan dengan prematuritas, sindrom distre
 
 KPD terjadi pada sekitar **8–10% dari seluruh kehamilan**. Insidensinya bervariasi:
 
-| Subpopulasi | Insidensi |
-|-------------|-----------|
-| Seluruh kehamilan | 8–10% |
-| Kehamilan aterm | ~8% |
-| Kehamilan preterm | ~3% |
+| Subpopulasi                                     | Insidensi               |
+| ----------------------------------------------- | ----------------------- |
+| Seluruh kehamilan                               | 8–10%                   |
+| Kehamilan aterm                                 | ~8%                     |
+| Kehamilan preterm                               | ~3%                     |
 | Kehamilan preterm dengan riwayat KPD sebelumnya | 15–20% (risiko rekuren) |
 
 **Mengapa KPD penting?** Komplikasi utama yang harus dicegah:
@@ -90,20 +89,20 @@ Selaput ketuban normal memiliki kekuatan tarik yang luar biasa. Pecahnya ketuban
 
 ### Faktor Risiko KPD
 
-| Faktor Risiko | Mekanisme |
-|--------------|-----------|
-| **Infeksi genital** ( bakterial vaginosis, *Chlamydia*, *Neisseria gonorrhoeae*, *Streptococcus agalactiae* / GBS) | Infeksi asenden → aktivasi enzim kolagenase/protease → melemahkan membran ketuban |
-| **Merokok** | Stres oksidatif → apoptosis sel membran |
-| **Riwayat KPD sebelumnya** | Faktor genetik (kelemahan kolagen membran) |
-| **Perdarahan antepartum** (solusio plasenta, plasenta previa) | Hematoma retroplasenta → iritasi membran → pecah |
-| **Polihidramnion** | Distensi uterus berlebihan |
-| **Kehamilan ganda** (kembar) | Distensi uterus berlebihan + risiko preterm |
-| **Serviks inkompeten** | Shortening serviks → infeksi asenden |
-| **Prosedur invasif** (amnisentesis, serklage, CVS) | Trauma mekanik pada membran |
-| **Indeks massa tubuh rendah** (IMT < 19,8) | Kelemahan jaringan ikat membran |
-| **Defisiensi vitamin C / tembaga** | Sintesis kolagen terganggu |
+| Faktor Risiko                                                                                                      | Mekanisme                                                                         |
+| ------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------- |
+| **Infeksi genital** ( bakterial vaginosis, _Chlamydia_, _Neisseria gonorrhoeae_, _Streptococcus agalactiae_ / GBS) | Infeksi asenden → aktivasi enzim kolagenase/protease → melemahkan membran ketuban |
+| **Merokok**                                                                                                        | Stres oksidatif → apoptosis sel membran                                           |
+| **Riwayat KPD sebelumnya**                                                                                         | Faktor genetik (kelemahan kolagen membran)                                        |
+| **Perdarahan antepartum** (solusio plasenta, plasenta previa)                                                      | Hematoma retroplasenta → iritasi membran → pecah                                  |
+| **Polihidramnion**                                                                                                 | Distensi uterus berlebihan                                                        |
+| **Kehamilan ganda** (kembar)                                                                                       | Distensi uterus berlebihan + risiko preterm                                       |
+| **Serviks inkompeten**                                                                                             | Shortening serviks → infeksi asenden                                              |
+| **Prosedur invasif** (amnisentesis, serklage, CVS)                                                                 | Trauma mekanik pada membran                                                       |
+| **Indeks massa tubuh rendah** (IMT < 19,8)                                                                         | Kelemahan jaringan ikat membran                                                   |
+| **Defisiensi vitamin C / tembaga**                                                                                 | Sintesis kolagen terganggu                                                        |
 
-> [!tip] **Dari semua faktor risiko, infeksi genital adalah yang paling sering ditemukan dan paling bisa dimodifikasi.** Bakterial vaginosis meningkatkan risiko KPD preterm 2–3 kali lipat. Pada anamnesis, tanyakan: *"Apakah ada keputihan yang berbau, gatal, atau warna kehijauan sebelum ketuban pecah?"* — Jika ya, curi infeksi sebagai etiologi.
+> [!tip] **Dari semua faktor risiko, infeksi genital adalah yang paling sering ditemukan dan paling bisa dimodifikasi.** Bakterial vaginosis meningkatkan risiko KPD preterm 2–3 kali lipat. Pada anamnesis, tanyakan: _"Apakah ada keputihan yang berbau, gatal, atau warna kehijauan sebelum ketuban pecah?"_ — Jika ya, curi infeksi sebagai etiologi.
 
 ---
 
@@ -136,15 +135,16 @@ Diagnosis KPD ditegakkan melalui tiga pilar: **anamnesis, inspeksi dengan tes kl
 
 ### Pemeriksaan Fisik
 
-#### 1. [[18-inspeksi-abdomen-wanita-hamil|Inspeksi Abdomen Wanita Hamil]]
+#### 1. Inspeksi Abdomen Wanita Hamil
 
 Perhatikan:
+
 - Bentuk dan kontur abdomen — apakah sesuai usia kehamilan?
 - Apakah tampak gerakan janin?
 - Kontraksi uterus (apakah ada his? frekuensi?)
 - Nyeri tekan abdomen
 
-#### 2. [[26-pemeriksaan-obstetri|Pemeriksaan Obstetri]]
+#### 2. Pemeriksaan Obstetri
 
 - **Tinggi fundus uteri (TFU):** Sesuaikan dengan usia kehamilan. Pada KPD dengan oligohidramnion berat, TFU mungkin lebih kecil dari usia kehamilan.
 - **Palpasi Leopold:** Tentukan letak, posisi, dan presentasi janin — penting untuk menilai risiko prolaps tali pusat.
@@ -168,14 +168,14 @@ Dengan spekulum steril, amati:
 
 Gunakan kertas Nitrazin (pH indicator strip) untuk memeriksa pH cairan vagina.
 
-| Bahan Cairan | pH | pH Nitrazin |
-|-------------|----|-------------|
-| Air ketuban (normal) | **7,0–7,5** (basa/alkalis) | **Biru/hijau-biru** → Positif |
-| Urine | 5,5–6,5 (asam) | Kuning → Negatif |
-| Cairan vagina normal / leukorea | 4,5–5,5 (asam) | Kuning → Negatif |
-| Darah | 7,3–7,4 (basa) | Biru → **Positif palsu** |
-| Infeksi vagina (bakterial vaginosis) | > 5,5 (kurang asam) | Hijau → **Positif palsu** |
-| Semen | 7,2–8,0 (basa) | Biru → **Positif palsu** |
+| Bahan Cairan                         | pH                         | pH Nitrazin                   |
+| ------------------------------------ | -------------------------- | ----------------------------- |
+| Air ketuban (normal)                 | **7,0–7,5** (basa/alkalis) | **Biru/hijau-biru** → Positif |
+| Urine                                | 5,5–6,5 (asam)             | Kuning → Negatif              |
+| Cairan vagina normal / leukorea      | 4,5–5,5 (asam)             | Kuning → Negatif              |
+| Darah                                | 7,3–7,4 (basa)             | Biru → **Positif palsu**      |
+| Infeksi vagina (bakterial vaginosis) | > 5,5 (kurang asam)        | Hijau → **Positif palsu**     |
+| Semen                                | 7,2–8,0 (basa)             | Biru → **Positif palsu**      |
 
 > [!warning] **Keterbatasan tes Nitrazin:** Pada infeksi vagina (bakterial vaginosis, trikomoniasis), pH vagina dapat naik > 6,0 sehingga memberikan positif palsu. Darah dan semen juga memberikan positif palsu. **Jangan andalkan Nitrazin saja** — kombinasikan dengan tes pakis (ferning) dan anamnesis!
 
@@ -183,13 +183,13 @@ Gunakan kertas Nitrazin (pH indicator strip) untuk memeriksa pH cairan vagina.
 
 Ambil sampel cairan dari forniks posterior menggunakan swab steril, oleskan tipis pada gelas objek, biarkan kering udara (jangan difiksasi dengan panas), lalu amati di bawah mikroskop perbesaran rendah (10×).
 
-Air ketuban yang mengandung kristal NaCl dan protein akan membentuk **pola seperti daun pakis (fern pattern)** atau cabang pohon (*arborization*) saat kering. Ini adalah tes sitologis yang cukup spesifik.
+Air ketuban yang mengandung kristal NaCl dan protein akan membentuk **pola seperti daun pakis (fern pattern)** atau cabang pohon (_arborization_) saat kering. Ini adalah tes sitologis yang cukup spesifik.
 
-| Hasil | Interpretasi |
-|-------|-------------|
-| **Pakis (ferning) positif** — pola dendritik bercabang seperti pakis | Air ketuban: KPD **konfirmasi** |
-| **Pakis negatif** — tidak ada pola | Kemungkinan bukan air ketuban |
-| **Pakis samar / kristal tidak sempurna** | Cairan bercampur lendir serviks atau darah; bila curiga tinggi, ulangi dengan sampel baru |
+| Hasil                                                                | Interpretasi                                                                              |
+| -------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| **Pakis (ferning) positif** — pola dendritik bercabang seperti pakis | Air ketuban: KPD **konfirmasi**                                                           |
+| **Pakis negatif** — tidak ada pola                                   | Kemungkinan bukan air ketuban                                                             |
+| **Pakis samar / kristal tidak sempurna**                             | Cairan bercampur lendir serviks atau darah; bila curiga tinggi, ulangi dengan sampel baru |
 
 > [!tip] **Kombinasi tes Nitrazin positif + tes pakis positif = KPD terkonfirmasi.** Jika salah satu negatif, lakukan pooling test dan observasi ulang dalam 2–4 jam. Jika keduanya negatif tetapi klinis sangat curiga, konfirmasi dengan pemeriksaan penunjang.
 
@@ -199,7 +199,7 @@ Setelah memasukkan spekulum steril, amati apakah cairan terkumpul di forniks pos
 
 ### Pemeriksaan Penunjang
 
-#### 1. [[25-pemeriksaan-usg-obstetri|Pemeriksaan USG Obstetri]]
+#### 1. Pemeriksaan USG Obstetri
 
 USG obstetri sangat membantu untuk:
 
@@ -211,34 +211,34 @@ USG obstetri sangat membantu untuk:
 
 #### 2. Pemeriksaan Laboratorium
 
-| Pemeriksaan | Tujuan | Interpretasi |
-|-------------|--------|-------------|
-| **Darah rutin (Hb, leukosit, hitung jenis)** | Skrining infeksi | Leukositosis, neutrofilia → curiga infeksi/korioamnionitis |
-| **C-reactive protein (CRP)** | Marka inflamasi | CRP > 1–2 mg/dL → curiga infeksi/korioamnionitis |
-| **Prokalsitonin** | Marka inflamasi | Nilai diagnostik tambahan, lebih spesifik untuk infeksi bakteri |
-| **Kultur vagina-rektal / swab GBS** | Skrining *Streptococcus agalactiae* (GBS) | GBS positif → profilaksis intrapartum dengan antibiotik |
-| **Kultur cairan amnion (bila amniosentesis dilakukan)** | Deteksi infeksi definitif | Pertumbuhan kuman → korioamnionitis definitif |
+| Pemeriksaan                                             | Tujuan                                    | Interpretasi                                                    |
+| ------------------------------------------------------- | ----------------------------------------- | --------------------------------------------------------------- |
+| **Darah rutin (Hb, leukosit, hitung jenis)**            | Skrining infeksi                          | Leukositosis, neutrofilia → curiga infeksi/korioamnionitis      |
+| **C-reactive protein (CRP)**                            | Marka inflamasi                           | CRP > 1–2 mg/dL → curiga infeksi/korioamnionitis                |
+| **Prokalsitonin**                                       | Marka inflamasi                           | Nilai diagnostik tambahan, lebih spesifik untuk infeksi bakteri |
+| **Kultur vagina-rektal / swab GBS**                     | Skrining _Streptococcus agalactiae_ (GBS) | GBS positif → profilaksis intrapartum dengan antibiotik         |
+| **Kultur cairan amnion (bila amniosentesis dilakukan)** | Deteksi infeksi definitif                 | Pertumbuhan kuman → korioamnionitis definitif                   |
 
 #### 3. Tes Tambahan (Bila Diagnosis Meragukan)
 
-| Tes | Metode | Keterangan |
-|----|--------|------------|
-| **IGFBP-1 (Actim PROM test)** | Deteksi Insulin-like Growth Factor Binding Protein-1 dalam cairan vagina | **Sensitifitas > 95%**, lini kedua bila tes konvensional meragukan |
-| **PAMG-1 (AmniSure test)** | Deteksi Placental Alpha-Microglobulin-1 dalam cairan vagina | **Sensitifitas 98–99%**, sangat akurat, hasil dalam 5–10 menit |
-| **Alpha-fetoprotein (AFP)** | Deteksi AFP dalam cairan vagina | Digunakan terbatas — sudah jarang dipakai |
+| Tes                                                   | Metode                                                                            | Keterangan                                                                      |
+| ----------------------------------------------------- | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| **IGFBP-1 (Actim PROM test)**                         | Deteksi Insulin-like Growth Factor Binding Protein-1 dalam cairan vagina          | **Sensitifitas > 95%**, lini kedua bila tes konvensional meragukan              |
+| **PAMG-1 (AmniSure test)**                            | Deteksi Placental Alpha-Microglobulin-1 dalam cairan vagina                       | **Sensitifitas 98–99%**, sangat akurat, hasil dalam 5–10 menit                  |
+| **Alpha-fetoprotein (AFP)**                           | Deteksi AFP dalam cairan vagina                                                   | Digunakan terbatas — sudah jarang dipakai                                       |
 | **Indigo carmine / Evans blue instilasi intraamnion** | Pewarna steril disuntikkan ke dalam rongga amnion → pantau kebocoran lewat vagina | **Gold standard** invasif — hanya untuk kasus sangat meragukan di pusat rujukan |
 
 > [!tip] **Pendekatan diagnostik bertahap:** Mulai dengan yang paling sederhana: (1) anamnesis, (2) pemeriksaan spekulum steril + tes pakis + Nitrazin. Bila masih meragukan, lanjutkan USG untuk melihat AFI. Bila semua masih meragukan dan klinis tetap curiga, gunakan Actim PROM atau AmniSure. Hanya pada kasus ekstrem dilakukan amniosentesis atau instilasi pewarna.
 
 ### Diagnosis Banding
 
-| Diagnosis | Cara Membedakan |
-|-----------|----------------|
-| **Urine (inkontinensia/stres urin)** | Bisa ditahan; tidak bertambah saat batuk/mengejan; Nitrazin negatif (pH asam); tes pakis negatif; kreatinin dan urea (+) pada urinalisis |
-| **Leukorea fisiologis / keputihan normal** | Kental, putih susu, tidak encer; pH asam; Nitrazin negatif; tes pakis negatif |
-| **Bacterial vaginosis** | Cairan encer abu-abu, bau amis, pH > 4,5; Nitrazin **positif palsu**; tes pakis negatif; clue cell (+); whiff test (+) |
-| **Cairan lendir serviks / bloody show** | Lendir kental bercampur darah, pH asam; pool negatif; tes pakis negatif |
-| **Cairan peritoneum (ascites — jarang)** | Hanya pada kasus fistula peritoneovaginal; sangat jarang |
+| Diagnosis                                  | Cara Membedakan                                                                                                                          |
+| ------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| **Urine (inkontinensia/stres urin)**       | Bisa ditahan; tidak bertambah saat batuk/mengejan; Nitrazin negatif (pH asam); tes pakis negatif; kreatinin dan urea (+) pada urinalisis |
+| **Leukorea fisiologis / keputihan normal** | Kental, putih susu, tidak encer; pH asam; Nitrazin negatif; tes pakis negatif                                                            |
+| **Bacterial vaginosis**                    | Cairan encer abu-abu, bau amis, pH > 4,5; Nitrazin **positif palsu**; tes pakis negatif; clue cell (+); whiff test (+)                   |
+| **Cairan lendir serviks / bloody show**    | Lendir kental bercampur darah, pH asam; pool negatif; tes pakis negatif                                                                  |
+| **Cairan peritoneum (ascites — jarang)**   | Hanya pada kasus fistula peritoneovaginal; sangat jarang                                                                                 |
 
 ---
 
@@ -250,13 +250,13 @@ Tatalaksana KPD bergantung pada **usia kehamilan** dan **ada/tidaknya infeksi**.
 
 Pada KPD aterm, risiko morbiditas maternal dan neonatal lebih rendah. Risiko korioamnionitis meningkat seiring bertambahnya durasi KPD. Oleh karena itu, **induksi persalinan segera adalah pilihan utama**.
 
-| Faktor | Rekomendasi |
-|--------|-------------|
-| **Usia kehamilan** | ≥ 37 minggu |
-| **Tidak ada kontraindikasi** | Induksi persalinan segera |
-| **Waktu dari pecah ketuban** | Jika < 12 jam dan belum inpartu → induksi |
-| **Jika sudah inpartu**** | Pantau kemajuan persalinan + profilaksis antibiotik GBS |
-| **Jika KPD > 12–18 jam** | Berikan antibiotik profilaksis intrapartum + induksi/akselerasi |
+| Faktor                       | Rekomendasi                                                     |
+| ---------------------------- | --------------------------------------------------------------- |
+| **Usia kehamilan**           | ≥ 37 minggu                                                     |
+| **Tidak ada kontraindikasi** | Induksi persalinan segera                                       |
+| **Waktu dari pecah ketuban** | Jika < 12 jam dan belum inpartu → induksi                       |
+| **Jika sudah inpartu\*\***   | Pantau kemajuan persalinan + profilaksis antibiotik GBS         |
+| **Jika KPD > 12–18 jam**     | Berikan antibiotik profilaksis intrapartum + induksi/akselerasi |
 
 #### Langkah-langkah KPD Aterm
 
@@ -264,7 +264,7 @@ Pada KPD aterm, risiko morbiditas maternal dan neonatal lebih rendah. Risiko kor
 2. **Tentukan status GBS** — kultur vagina-rektal atau rektal swab
 3. **Evaluasi serviks** — Bishop score (dengan spekulum, jangan VT sebelum siap induksi)
 4. **Induksi persalinan** — sesuai Bishop score:
-   - **Bishop favorable (≥ 6):** Lakukan [[28-amniotomi|amniotomi]] + oksitosin bila perlu
+   - **Bishop favorable (≥ 6):** Lakukan amniotomi + oksitosin bila perlu
    - **Bishop unfavorable (< 6):** Matangkan serviks dengan prostaglandin (misoprostol / dinoprostone / PGE2), lalu amniotomi + oksitosin
 5. **Profilaksis GBS** — berikan antibiotik intrapartum jika:
    - Kultur GBS positif
@@ -343,12 +343,12 @@ Konfirmasi KPD (anamnesis + spekulum + tes Nitrazin + tes pakis + USG)
 
 ### C. Profilaksis Antibiotik untuk GBS
 
-| Situasi | Rekomendasi |
-|---------|-------------|
-| Kultur GBS positif | Berikan **Ampisilin 2 gram IV, lalu 1 gram IV setiap 4 jam** sampai persalinan |
-| Status GBS tidak diketahui + faktor risiko (KPD ≥ 18 jam, demam, preterm) | Sama seperti di atas |
-| Kultur GBS negatif | Tidak perlu profilaksis GBS |
-| Alergi penisilin | Klindamisin 900 mg IV setiap 8 jam (jika isolat sensitif) atau Sefazolin 2 gram IV lalu 1 gram setiap 8 jam |
+| Situasi                                                                   | Rekomendasi                                                                                                 |
+| ------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| Kultur GBS positif                                                        | Berikan **Ampisilin 2 gram IV, lalu 1 gram IV setiap 4 jam** sampai persalinan                              |
+| Status GBS tidak diketahui + faktor risiko (KPD ≥ 18 jam, demam, preterm) | Sama seperti di atas                                                                                        |
+| Kultur GBS negatif                                                        | Tidak perlu profilaksis GBS                                                                                 |
+| Alergi penisilin                                                          | Klindamisin 900 mg IV setiap 8 jam (jika isolat sensitif) atau Sefazolin 2 gram IV lalu 1 gram setiap 8 jam |
 
 ---
 
@@ -358,20 +358,21 @@ Konfirmasi KPD (anamnesis + spekulum + tes Nitrazin + tes pakis + USG)
 
 Infeksi pada selaput ketuban dan cairan amnion. Ini adalah **komplikasi paling serius** dari KPD — memerlukan deteksi dini dan tatalaksana agresif.
 
-| Tanda dan Gejala | Pemeriksaan Penunjang |
-|-----------------|----------------------|
-| Demam ibu ≥ 38°C | Leukositosis (> 15.000/µL) |
-| Takikardia janin (> 160 bpm) | CRP meningkat (> 2 mg/dL) |
-| Nyeri tekan uterus | Kultur cairan amnion positif (bila amniosentesis) |
-| Cairan vagina berbau busuk | Prokalsitonin meningkat |
-| Takikardia maternal | Biakan darah (blood culture) |
-| Leukorea purulen | |
+| Tanda dan Gejala             | Pemeriksaan Penunjang                             |
+| ---------------------------- | ------------------------------------------------- |
+| Demam ibu ≥ 38°C             | Leukositosis (> 15.000/µL)                        |
+| Takikardia janin (> 160 bpm) | CRP meningkat (> 2 mg/dL)                         |
+| Nyeri tekan uterus           | Kultur cairan amnion positif (bila amniosentesis) |
+| Cairan vagina berbau busuk   | Prokalsitonin meningkat                           |
+| Takikardia maternal          | Biakan darah (blood culture)                      |
+| Leukorea purulen             |                                                   |
 
 > [!warning] **Diagnosis korioamnionitis adalah KLINIS — jangan menunggu kultur!** Jika ibu demam dan ada dua tanda lain (takikardi janin, nyeri uterus, leukositosis, cairan berbau), diagnosis sudah dapat ditegakkan. Jangan tunda terminasi kehamilan. Komplikasi lanjutan: sepsis neonatorum, pneumonia neonatal, endometritis postpartum, dan sepsis maternal.
 
 ### 2. Prolaps Tali Pusat
 
 Terjadi pada 0,3–0,6% kasus KPD, terutama pada:
+
 - Presentasi bukan kepala (sungsang, lintang)
 - KPD preterm dengan presentasi tinggi
 - Polihidramnion
@@ -382,6 +383,7 @@ Terjadi pada 0,3–0,6% kasus KPD, terutama pada:
 ### 3. Oligohidramnion
 
 Penurunan volume cairan amnion dapat menyebabkan:
+
 - Kompresi tali pusat → variabel deselerasi DJJ
 - Hipoplasia paru (pada KPD preterm < 24 minggu dengan oligohidramnion berat > 2 minggu)
 - Deformitas ekstremitas janin
@@ -399,14 +401,14 @@ Terjadi pada 1–5% neonatus dari ibu KPD. Faktor risiko: PPROM, korioamnionitis
 
 ## Prognosis
 
-| Jenis KPD | Prognosis | Catatan |
-|-----------|-----------|---------|
-| **KPD aterm** (> 37 mg) | **Sangat baik** | Risiko rendah, induksi → persalinan → luaran ibu dan bayi baik |
-| **KPD preterm laten (34–36 mg)** | **Baik** | Dengan kortikosteroid prepartum, luaran neonatal membaik |
-| **PPROM 28–33 mg** | **Sedang** | Risiko RDS neonatus, sepsis, perdarahan intraventrikular |
-| **PPROM 24–27 mg** | **Hati-hati** | Risiko tinggi komplikasi prematuritas; butuh NICU |
-| **PPROM < 24 mg** | **Buruk — prognosis neonatal sangat serius** | Risiko hipoplasia paru, deformitas, kematian neonatal tinggi; konseling maternal yang intensif |
-| **KPD dengan korioamnionitis** | **Serius** | Risiko sepsis maternal dan neonatal |
+| Jenis KPD                        | Prognosis                                    | Catatan                                                                                        |
+| -------------------------------- | -------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| **KPD aterm** (> 37 mg)          | **Sangat baik**                              | Risiko rendah, induksi → persalinan → luaran ibu dan bayi baik                                 |
+| **KPD preterm laten (34–36 mg)** | **Baik**                                     | Dengan kortikosteroid prepartum, luaran neonatal membaik                                       |
+| **PPROM 28–33 mg**               | **Sedang**                                   | Risiko RDS neonatus, sepsis, perdarahan intraventrikular                                       |
+| **PPROM 24–27 mg**               | **Hati-hati**                                | Risiko tinggi komplikasi prematuritas; butuh NICU                                              |
+| **PPROM < 24 mg**                | **Buruk — prognosis neonatal sangat serius** | Risiko hipoplasia paru, deformitas, kematian neonatal tinggi; konseling maternal yang intensif |
+| **KPD dengan korioamnionitis**   | **Serius**                                   | Risiko sepsis maternal dan neonatal                                                            |
 
 ---
 
@@ -416,15 +418,15 @@ Terjadi pada 1–5% neonatus dari ibu KPD. Faktor risiko: PPROM, korioamnionitis
 
 Pasien yang telah didiagnosis KPD (terutama preterm) harus diedukasi untuk kembali segera jika:
 
-| Tanda Bahaya | Yang Harus Dilakukan |
-|-------------|---------------------|
-| Demam | Segera ke IGD |
-| Nyeri perut hebat | Segera ke IGD |
-| Perdarahan pervaginam | Segera ke IGD |
-| Gerakan janin berkurang | Segera ke IGD |
-| Kontraksi teratur dan nyeri | Segera ke IGD — kemungkinan inpartu |
-| Cairan berbau atau berwarna kehijauan | Segera ke IGD |
-| Ada bagian janin atau tali pusat teraba di vagina | **DARURAT — segera ke RS!** |
+| Tanda Bahaya                                      | Yang Harus Dilakukan                |
+| ------------------------------------------------- | ----------------------------------- |
+| Demam                                             | Segera ke IGD                       |
+| Nyeri perut hebat                                 | Segera ke IGD                       |
+| Perdarahan pervaginam                             | Segera ke IGD                       |
+| Gerakan janin berkurang                           | Segera ke IGD                       |
+| Kontraksi teratur dan nyeri                       | Segera ke IGD — kemungkinan inpartu |
+| Cairan berbau atau berwarna kehijauan             | Segera ke IGD                       |
+| Ada bagian janin atau tali pusat teraba di vagina | **DARURAT — segera ke RS!**         |
 
 ### Aktivitas
 
@@ -436,7 +438,7 @@ Pasien yang telah didiagnosis KPD (terutama preterm) harus diedukasi untuk kemba
 
 ---
 
-## Hal yang Tidak Boleh Dilakukan (*Don'ts*)
+## Hal yang Tidak Boleh Dilakukan (_Don'ts_)
 
 1. ❌ **Jangan** melakukan pemeriksaan dalam (VT) untuk mendiagnosis KPD — pemeriksaan spekulum steril sudah cukup dan lebih aman. VT meningkatkan risiko infeksi asenden.
 2. ❌ **Jangan** hanya mengandalkan tes Nitrazin — selalu kombinasikan dengan tes pakis dan anamnesis. Positif palsu sering terjadi.
@@ -470,11 +472,11 @@ Pasien yang telah didiagnosis KPD (terutama preterm) harus diedukasi untuk kemba
 
 ## Keterampilan Terkait
 
-- [[18-inspeksi-abdomen-wanita-hamil|Inspeksi Abdomen Wanita Hamil]] — mengamati tanda-tanda distensi, kontraksi, dan gerakan janin
-- [[26-pemeriksaan-obstetri|Pemeriksaan Obstetri]] — keseluruhan rangkaian pemeriksaan ibu hamil termasuk penilaian DJJ dan kontraksi
-- [[22-pemeriksaan-pelvimetri-klinis|Pemeriksaan Pelvimetri Klinis]] — menilai kapasitas panggul untuk persalinan pervaginam, penting sebelum memutuskan induksi
-- [[25-pemeriksaan-usg-obstetri|Pemeriksaan USG Obstetri]] — menilai AFI, presentasi, usia kehamilan, dan kesejahteraan janin
-- [[28-amniotomi|Amniotomi]] — tindakan memasukkan alat untuk memecahkan ketuban (dalam konteks induksi persalinan; pahami kapan tindakan ini dilakukan dan kontraindikasinya)
+- Inspeksi Abdomen Wanita Hamil — mengamati tanda-tanda distensi, kontraksi, dan gerakan janin
+- Pemeriksaan Obstetri — keseluruhan rangkaian pemeriksaan ibu hamil termasuk penilaian DJJ dan kontraksi
+- Pemeriksaan Pelvimetri Klinis — menilai kapasitas panggul untuk persalinan pervaginam, penting sebelum memutuskan induksi
+- Pemeriksaan USG Obstetri — menilai AFI, presentasi, usia kehamilan, dan kesejahteraan janin
+- Amniotomi — tindakan memasukkan alat untuk memecahkan ketuban (dalam konteks induksi persalinan; pahami kapan tindakan ini dilakukan dan kontraindikasinya)
 
 ---
 
@@ -508,13 +510,13 @@ Pasien yang telah didiagnosis KPD (terutama preterm) harus diedukasi untuk kemba
 
 ## Referensi
 
-1. **POGI.** (2023). *Pedoman Nasional Pelayanan Kedokteran: Ketuban Pecah Dini.* Jakarta: Perkumpulan Obstetri dan Ginekologi Indonesia.
-2. **Sarwono Prawirohardjo.** (2024). *Ilmu Kandungan.* Edisi 4. Jakarta: Yayasan Bina Pustaka Sarwono Prawirohardjo.
-3. **Cunningham FG, et al.** (2022). *Williams Obstetrics.* 26th Edition. McGraw Hill. — Bab 24: Abnormal Labor; Bab 33: Premature Rupture of Membranes.
-4. **ACOG.** (2020). Practice Bulletin No. 217: Prelabor Rupture of Membranes. *Obstetrics & Gynecology*; 135(3): e80–e97.
-5. **Kemenkes RI.** (2021). *Pedoman Nasional Pelayanan Kedokteran (PNPK) Penanganan Ketuban Pecah Dini.* Jakarta: Kementerian Kesehatan RI.
-6. **Mercer BM, et al.** (2023). Preterm Premature Rupture of the Membranes: Current Approaches to Evaluation and Management. *Obstetrics & Gynecology Clinics*; 50(1): 107–124.
-7. **Kenyon S, et al.** (2001). Broad-spectrum antibiotics for preterm, prelabour rupture of fetal membranes: the ORACLE I randomised trial. *The Lancet*; 357(9261): 979–988.
-8. **Roberts D, et al.** (2017). Antenatal corticosteroids for accelerating fetal lung maturation for women at risk of preterm birth. *Cochrane Database of Systematic Reviews*; (3): CD004454.
-9. **WHO.** (2023). *WHO Recommendations on Interventions for Women with Preterm Prelabour Rupture of Membranes.* Geneva: World Health Organization.
-10. **NICE.** (2023). *Preterm labour and birth.* NICE Guideline NG25. London: National Institute for Health and Care Excellence.
+1. **POGI.** (2023). _Pedoman Nasional Pelayanan Kedokteran: Ketuban Pecah Dini._ Jakarta: Perkumpulan Obstetri dan Ginekologi Indonesia.
+2. **Sarwono Prawirohardjo.** (2024). _Ilmu Kandungan._ Edisi 4. Jakarta: Yayasan Bina Pustaka Sarwono Prawirohardjo.
+3. **Cunningham FG, et al.** (2022). _Williams Obstetrics._ 26th Edition. McGraw Hill. — Bab 24: Abnormal Labor; Bab 33: Premature Rupture of Membranes.
+4. **ACOG.** (2020). Practice Bulletin No. 217: Prelabor Rupture of Membranes. _Obstetrics & Gynecology_; 135(3): e80–e97.
+5. **Kemenkes RI.** (2021). _Pedoman Nasional Pelayanan Kedokteran (PNPK) Penanganan Ketuban Pecah Dini._ Jakarta: Kementerian Kesehatan RI.
+6. **Mercer BM, et al.** (2023). Preterm Premature Rupture of the Membranes: Current Approaches to Evaluation and Management. _Obstetrics & Gynecology Clinics_; 50(1): 107–124.
+7. **Kenyon S, et al.** (2001). Broad-spectrum antibiotics for preterm, prelabour rupture of fetal membranes: the ORACLE I randomised trial. _The Lancet_; 357(9261): 979–988.
+8. **Roberts D, et al.** (2017). Antenatal corticosteroids for accelerating fetal lung maturation for women at risk of preterm birth. _Cochrane Database of Systematic Reviews_; (3): CD004454.
+9. **WHO.** (2023). _WHO Recommendations on Interventions for Women with Preterm Prelabour Rupture of Membranes._ Geneva: World Health Organization.
+10. **NICE.** (2023). _Preterm labour and birth._ NICE Guideline NG25. London: National Institute for Health and Care Excellence.

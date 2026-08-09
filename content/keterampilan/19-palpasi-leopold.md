@@ -1,27 +1,25 @@
 ---
 title: Palpasi Leopold
 tags:
-- keterampilan
-- antenatal
-- skdi-4a
+  - keterampilan
+  - antenatal
+  - skdi-4a
 level_kompetensi: 4A
 kategori: antenatal
 nomor_modul: 19
 aliases:
-- Manuver Leopold
-- Palpasi Tinggi Fundus
-- Leopold Maneuver
-- Palpasi Abdomen Ibu Hamil
-- palpasi leopold
-- cek janin
-- palpasi fundus
-- manuver leopold
-- leopold maneuver
+  - Manuver Leopold
+  - Palpasi Tinggi Fundus
+  - Leopold Maneuver
+  - Palpasi Abdomen Ibu Hamil
+  - palpasi leopold
+  - cek janin
+  - palpasi fundus
+  - manuver leopold
+  - leopold maneuver
 cssclasses:
-- buku-saku
+  - buku-saku
 ---
-
-
 
 # Palpasi Leopold
 
@@ -40,14 +38,14 @@ Seorang perempuan G1P0A0 usia 22 tahun datang ke RSKH (Rumah Sakit Khusus Hewan)
 
 Palpasi Leopold adalah **teknik palpasi abdomen sistematis** pada ibu hamil trimester II–III yang memberikan informasi vital tentang:
 
-| Informasi | Kegunaan Klinis |
-|-----------|----------------|
-| **Tinggi fundus uteri (TFU)** | Taksiran usia kehamilan, deteksi IUGR, makrosomia, molahidatidosa |
-| **Letak / situs janin** | Longitudinal atau melintang — menentukan arah sumbu janin |
-| **Punggung janin (dorso)** | Lokasi auskultasi DJJ, prediksi posisi persalinan |
-| **Presentasi** | Kepala, bokong (sungsang), atau bahu — tentukan rujukan / SC |
-| **Engagement** | Seberapa jauh bagian terbawah masuk PAP — prediksi kemajuan persalinan |
-| **Taksiran Berat Janin (TBJ)** | Rumus Johnson-Toshach atau Dare — skrining makrosomia / BBLR |
+| Informasi                      | Kegunaan Klinis                                                        |
+| ------------------------------ | ---------------------------------------------------------------------- |
+| **Tinggi fundus uteri (TFU)**  | Taksiran usia kehamilan, deteksi IUGR, makrosomia, molahidatidosa      |
+| **Letak / situs janin**        | Longitudinal atau melintang — menentukan arah sumbu janin              |
+| **Punggung janin (dorso)**     | Lokasi auskultasi DJJ, prediksi posisi persalinan                      |
+| **Presentasi**                 | Kepala, bokong (sungsang), atau bahu — tentukan rujukan / SC           |
+| **Engagement**                 | Seberapa jauh bagian terbawah masuk PAP — prediksi kemajuan persalinan |
+| **Taksiran Berat Janin (TBJ)** | Rumus Johnson-Toshach atau Dare — skrining makrosomia / BBLR           |
 
 Palpasi Leopold **tidak digantikan USG** — di banyak fasilitas terbatas, Leopold adalah satu-satunya alat untuk menentukan presentasi secara akurat. Bahkan dengan USG, Leopold tetap memberikan konfirmasi taktil yang cepat tanpa alat.
 
@@ -55,15 +53,15 @@ Palpasi Leopold **tidak digantikan USG** — di banyak fasilitas terbatas, Leopo
 
 ## Indikasi
 
-| Indikasi | Keterangan |
-|----------|-----------|
-| ANC rutin trimester II–III | Evaluasi pertumbuhan dan posisi janin |
-| Usia kehamilan ≥ 20 minggu | Fundus sudah mencapai setinggi umbilikus |
-| Kecurigaan IUGR / makrosomia | TFU tidak sesuai usia kehamilan |
-| Kecurigaan letak abnormal | Sungsang, lintang, atau oblique |
-| Inpartu / kala I | Evaluasi engagement dan kemajuan persalinan |
+| Indikasi                                  | Keterangan                                            |
+| ----------------------------------------- | ----------------------------------------------------- |
+| ANC rutin trimester II–III                | Evaluasi pertumbuhan dan posisi janin                 |
+| Usia kehamilan ≥ 20 minggu                | Fundus sudah mencapai setinggi umbilikus              |
+| Kecurigaan IUGR / makrosomia              | TFU tidak sesuai usia kehamilan                       |
+| Kecurigaan letak abnormal                 | Sungsang, lintang, atau oblique                       |
+| Inpartu / kala I                          | Evaluasi engagement dan kemajuan persalinan           |
 | Sebelum rujukan ke fasilitas lebih tinggi | Tentukan indikasi rujukan (sungsang, PEB, perdarahan) |
-| Sebelum seksio sesarea | Konfirmasi presentasi dan posisi janin |
+| Sebelum seksio sesarea                    | Konfirmasi presentasi dan posisi janin                |
 
 ## Kontraindikasi
 
@@ -96,12 +94,12 @@ Palpasi Leopold **tidak digantikan USG** — di banyak fasilitas terbatas, Leopo
 
 ### Persiapan Alat
 
-| Alat | Kegunaan |
-|------|----------|
-| Meteran / pita ukur (non-elastis) | Mengukur TFU (McDonald's measure) |
-| Stetoskop monoaural / Doppler | Auskultasi DJJ setelah Leopold |
-| Bantal kecil | Nyaman untuk kepala pasien |
-| Selimut | Menutupi bagian tubuh yang tidak diperiksa |
+| Alat                              | Kegunaan                                   |
+| --------------------------------- | ------------------------------------------ |
+| Meteran / pita ukur (non-elastis) | Mengukur TFU (McDonald's measure)          |
+| Stetoskop monoaural / Doppler     | Auskultasi DJJ setelah Leopold             |
+| Bantal kecil                      | Nyaman untuk kepala pasien                 |
+| Selimut                           | Menutupi bagian tubuh yang tidak diperiksa |
 
 ---
 
@@ -132,23 +130,24 @@ Palpasi Leopold **tidak digantikan USG** — di banyak fasilitas terbatas, Leopo
 
 **Tabel Tinggi Fundus Sesuai Usia Kehamilan**
 
-| Usia Gestasi (minggu) | TFU (cm) — Rerata | Tinggi Fundus (landmark anatomi) |
-|:---------------------:|:-----------------:|:---------------------------------|
-| 12 | — | Setinggi simfisis pubis (tidak teraba di atas simpisis) |
-| 16 | — | Antara simfisis dan umbilikus |
-| 20 | 20 ± 2 | Setinggi umbilikus (pusar) |
-| 22 | 22 ± 2 | 2 cm di atas umbilikus |
-| 24 | 24 ± 2 | Setinggi umbilikus + 4 cm |
-| 26 | 26 ± 2 | Pertengahan pusar–prosesus xifoideus |
-| 28 | 28 ± 2 | 3 jari di atas pusar / ¼—⅓ jarak pusar–xifoideus |
-| 30 | 30 ± 2 | ½ jarak pusar–xifoideus |
-| 32 | 32 ± 2 | ⅔ jarak pusar–xifoideus |
-| 34 | 34 ± 2 | 3 jari di bawah prosesus xifoideus |
-| 36 | 36 ± 2 | Setinggi prosesus xifoideus (ujung tulang dada) |
-| 38 | 38 ± 2 | Mulai turun (lightening) — 2 jari di bawah xifoideus |
-| 40 | 40 ± 2 | ½–⅔ jarak pusar–xifoideus (lebih rendah dari 36 mg) |
+| Usia Gestasi (minggu) | TFU (cm) — Rerata | Tinggi Fundus (landmark anatomi)                        |
+| :-------------------: | :---------------: | :------------------------------------------------------ |
+|          12           |         —         | Setinggi simfisis pubis (tidak teraba di atas simpisis) |
+|          16           |         —         | Antara simfisis dan umbilikus                           |
+|          20           |      20 ± 2       | Setinggi umbilikus (pusar)                              |
+|          22           |      22 ± 2       | 2 cm di atas umbilikus                                  |
+|          24           |      24 ± 2       | Setinggi umbilikus + 4 cm                               |
+|          26           |      26 ± 2       | Pertengahan pusar–prosesus xifoideus                    |
+|          28           |      28 ± 2       | 3 jari di atas pusar / ¼—⅓ jarak pusar–xifoideus        |
+|          30           |      30 ± 2       | ½ jarak pusar–xifoideus                                 |
+|          32           |      32 ± 2       | ⅔ jarak pusar–xifoideus                                 |
+|          34           |      34 ± 2       | 3 jari di bawah prosesus xifoideus                      |
+|          36           |      36 ± 2       | Setinggi prosesus xifoideus (ujung tulang dada)         |
+|          38           |      38 ± 2       | Mulai turun (lightening) — 2 jari di bawah xifoideus    |
+|          40           |      40 ± 2       | ½–⅔ jarak pusar–xifoideus (lebih rendah dari 36 mg)     |
 
 > [!warning] Tanda Bahaya — TFU Tidak Sesuai Usia Gestasi
+>
 > - **TFU lebih kecil dari usia gestasi (> 2 cm di bawah)** → curiga IUGR, oligohidramnion, kesalahan HPHT, atau janin mati dalam kandungan
 > - **TFU lebih besar dari usia gestasi (> 2 cm di atas)** → curiga makrosomia, polihidramnion, molahidatidosa (pada TM I–II), kehamilan ganda, atau kesalahan HPHT
 > - **TFU tidak bertambah dalam 2 kunjungan berturut-turut** → growth restriction → evaluasi dengan USG
@@ -164,12 +163,12 @@ Setelah mengukur TFU:
 
 **Interpretasi Palpasi Fundus:**
 
-| Teraba di Fundus | Artinya |
-|------------------|---------|
-| **Bola besar, keras, bulat, padat (ballotable)** | Kepala — letak **presentsasi kepala** (punggung janin di sisi lain) |
-| **Bola besar, lunak, kurang padat, bentuk ireguler (tidak ballotable)** | Bokong — letak **presentasi sungsang** (kepala di bawah) |
-| **Kosong / tidak ada bagian padat** | Letak **lintang** (transverse lie) — kepala dan bokong di samping |
-| **Teraba dua bagian besar** | Curiga kehamilan ganda |
+| Teraba di Fundus                                                        | Artinya                                                             |
+| ----------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| **Bola besar, keras, bulat, padat (ballotable)**                        | Kepala — letak **presentsasi kepala** (punggung janin di sisi lain) |
+| **Bola besar, lunak, kurang padat, bentuk ireguler (tidak ballotable)** | Bokong — letak **presentasi sungsang** (kepala di bawah)            |
+| **Kosong / tidak ada bagian padat**                                     | Letak **lintang** (transverse lie) — kepala dan bokong di samping   |
+| **Teraba dua bagian besar**                                             | Curiga kehamilan ganda                                              |
 
 ---
 
@@ -184,26 +183,27 @@ Setelah mengukur TFU:
 
 **Interpretasi:**
 
-| Teraba | Berarti |
-|--------|---------|
-| **Tahanan padat, rata, panjang, seperti papan** — tidak mudah bergerak | **Punggung janin (dorso)** — lokasi auskultasi DJJ optimal |
-| **Bagian-bagian kecil, tonjolan, mudah bergerak (ballotable)** | **Ekstremitas (lengan + kaki)** — bagian kecil janin |
-| **Punggung teraba di kiri** | Posisi janin: **dorso kiri** (PUK / PKK tergantung presentasi) |
-| **Punggung teraba di kanan** | Posisi janin: **dorso kanan** (PUD / PKD) |
-| **Punggung teraba di anterior** | Posisi janin: **dorso anterior** — biasanya lebih mudah dipalpasi |
-| **Punggung sulit teraba / kosong di kedua sisi** | Curiga **letak lintang** atau punggung janin posterior (sulit dipalpasi) |
+| Teraba                                                                 | Berarti                                                                  |
+| ---------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| **Tahanan padat, rata, panjang, seperti papan** — tidak mudah bergerak | **Punggung janin (dorso)** — lokasi auskultasi DJJ optimal               |
+| **Bagian-bagian kecil, tonjolan, mudah bergerak (ballotable)**         | **Ekstremitas (lengan + kaki)** — bagian kecil janin                     |
+| **Punggung teraba di kiri**                                            | Posisi janin: **dorso kiri** (PUK / PKK tergantung presentasi)           |
+| **Punggung teraba di kanan**                                           | Posisi janin: **dorso kanan** (PUD / PKD)                                |
+| **Punggung teraba di anterior**                                        | Posisi janin: **dorso anterior** — biasanya lebih mudah dipalpasi        |
+| **Punggung sulit teraba / kosong di kedua sisi**                       | Curiga **letak lintang** atau punggung janin posterior (sulit dipalpasi) |
 
 > [!tip] Punggung Anterior vs Posterior
+>
 > - **Dorso anterior**: Palpasi punggung sangat jelas — tahanan padat rata di satu sisi. DJJ mudah terdengar.
 > - **Dorso posterior**: Palpasi punggung lebih sulit — bagian kecil lebih dominan. Punggung "tersembunyi" di posterior. DJJ lebih redup.
 
 Pada langkah ini juga tentukan **situs / letak janin**:
 
-| Letak (Situs) | Deskripsi |
-|---------------|-----------|
-| **Longitudinal (memanjang)** | Sumbu panjang janin sejajar ibu — normal |
-| **Melintang (transverse)** | Sumbu janin tegak lurus ibu (⊥) — indikasi SC |
-| **Oblique (miring)** | Sumbu janin miring — sementara, biasanya menjadi longitudinal saat partus |
+| Letak (Situs)                | Deskripsi                                                                 |
+| ---------------------------- | ------------------------------------------------------------------------- |
+| **Longitudinal (memanjang)** | Sumbu panjang janin sejajar ibu — normal                                  |
+| **Melintang (transverse)**   | Sumbu janin tegak lurus ibu (⊥) — indikasi SC                             |
+| **Oblique (miring)**         | Sumbu janin miring — sementara, biasanya menjadi longitudinal saat partus |
 
 ---
 
@@ -220,22 +220,22 @@ Pada langkah ini juga tentukan **situs / letak janin**:
 
 **Interpretasi:**
 
-| Teraba di SBR | Presentasi | Ballotement |
-|---------------|------------|-------------|
-| **Bola keras, bulat, padat, dengan sulkus (cekungan) di samping** | **Presentasi kepala** | Jelas — memantul seperti bola biliar |
-| **Bola lunak, ireguler, tidak ada tulang keras yang jelas, teraba agak lebar** | **Presentasi bokong (sungsang)** | Kurang jelas — tidak memantul |
-| **Tidak ada bagian padat di SBR — teraba kosong** | **Letak lintang** — bahu/ekstremitas yang jadi bagian terbawah | Tidak ada |
-| **Teraba dua bagian bersamaan (kepala + bokong)** | Presentasi majemuk (compound presentation) — kepala + tangan | — |
+| Teraba di SBR                                                                  | Presentasi                                                     | Ballotement                          |
+| ------------------------------------------------------------------------------ | -------------------------------------------------------------- | ------------------------------------ |
+| **Bola keras, bulat, padat, dengan sulkus (cekungan) di samping**              | **Presentasi kepala**                                          | Jelas — memantul seperti bola biliar |
+| **Bola lunak, ireguler, tidak ada tulang keras yang jelas, teraba agak lebar** | **Presentasi bokong (sungsang)**                               | Kurang jelas — tidak memantul        |
+| **Tidak ada bagian padat di SBR — teraba kosong**                              | **Letak lintang** — bahu/ekstremitas yang jadi bagian terbawah | Tidak ada                            |
+| **Teraba dua bagian bersamaan (kepala + bokong)**                              | Presentasi majemuk (compound presentation) — kepala + tangan   | —                                    |
 
 **Pembagian Presentasi:**
 
-| Presentasi | Frekuensi | Risiko |
-|------------|-----------|--------|
-| **Kepala (vertex)** | ± 96% | Normal |
-| **Bokong (sungsang / breech)** | ± 3–4% | Prolaps tali pusat, trauma lahir, SC |
-| **Bahu (shoulder / lintang)** | < 1% | Tidak bisa lahir pervaginam → SC |
-| **Muka (face)** | < 1% | Partus lama, edema muka |
-| **Dahi (brow)** | < 0,5% | Partus macet → SC |
+| Presentasi                     | Frekuensi | Risiko                               |
+| ------------------------------ | --------- | ------------------------------------ |
+| **Kepala (vertex)**            | ± 96%     | Normal                               |
+| **Bokong (sungsang / breech)** | ± 3–4%    | Prolaps tali pusat, trauma lahir, SC |
+| **Bahu (shoulder / lintang)**  | < 1%      | Tidak bisa lahir pervaginam → SC     |
+| **Muka (face)**                | < 1%      | Partus lama, edema muka              |
+| **Dahi (brow)**                | < 0,5%    | Partus macet → SC                    |
 
 ---
 
@@ -252,23 +252,24 @@ Pada langkah ini juga tentukan **situs / letak janin**:
 
 **Interpretasi Engagement:**
 
-| Temuan | Interpretasi |
-|--------|--------------|
-| **Kepala sudah masuk — kedua tangan tidak bisa dirapatkan (divergen)** | Kepala sudah **engaged** (masuk PAP), Hodge I–II |
+| Temuan                                                                    | Interpretasi                                       |
+| ------------------------------------------------------------------------- | -------------------------------------------------- |
+| **Kepala sudah masuk — kedua tangan tidak bisa dirapatkan (divergen)**    | Kepala sudah **engaged** (masuk PAP), Hodge I–II   |
 | **Kepala belum masuk — jari bisa dirapatkan (konvergen) di bawah kepala** | Kepala masih **floating / mobile** (belum engaged) |
-| **Kepala sebagian masuk — 1–2 jari masuk antara kepala dan simfisis** | Sebagian masuk — Hodge II |
-| **Kepala sudah masuk dalam — 0 jari, kepala teraba di bawah simfisis** | Engaged, Hodge III–IV |
+| **Kepala sebagian masuk — 1–2 jari masuk antara kepala dan simfisis**     | Sebagian masuk — Hodge II                          |
+| **Kepala sudah masuk dalam — 0 jari, kepala teraba di bawah simfisis**    | Engaged, Hodge III–IV                              |
 
 **Sistem Hodge (Stasiun dalam sentimeter):**
 
-| Hodge | Penjelasan | Simpisis–Kepala |
-|-------|-----------|-----------------|
-| Hodge I | Kepala masih di atas PAP (masuk sebagian) | 3–4 jari |
-| Hodge II | Bagian terbawah sudah sejajar PAP (engaged) | 2 jari |
-| Hodge III | Kepala sudah di bawah spina iskiadika (+1 — +3) | < 1 jari |
-| Hodge IV | Kepala sudah di dasar panggul, siap lahir | 0 jari |
+| Hodge     | Penjelasan                                      | Simpisis–Kepala |
+| --------- | ----------------------------------------------- | --------------- |
+| Hodge I   | Kepala masih di atas PAP (masuk sebagian)       | 3–4 jari        |
+| Hodge II  | Bagian terbawah sudah sejajar PAP (engaged)     | 2 jari          |
+| Hodge III | Kepala sudah di bawah spina iskiadika (+1 — +3) | < 1 jari        |
+| Hodge IV  | Kepala sudah di dasar panggul, siap lahir       | 0 jari          |
 
 > [!tip] Engagement pada Primigravida vs Multigravida
+>
 > - **Primigravida**: Kepala sudah engaged (masuk PAP) mulai usia kehamilan 36–38 minggu. Jika menjelang 40 minggu kepala masih floating, pikirkan CPD (Cephalo-Pelvic Disproportion).
 > - **Multigravida**: Kepala baru engaged setelah persalinan dimulai. Floating pada 40 mg adalah normal.
 
@@ -280,11 +281,11 @@ Setelah semua langkah Leopold selesai, hitung TBJ menggunakan rumus:
 
 > **TBJ (gram) = (TFU — n) × 155**
 
-| Posisi Kepala | n | Keterangan |
-|--------------|---|------------|
-| Kepala belum masuk PAP (floating) | 12 | TFU dalam cm |
-| Kepala sudah engaged (station 0) | 11 | |
-| Kepala sudah masuk dalam (station +1) | 10 | |
+| Posisi Kepala                         | n   | Keterangan   |
+| ------------------------------------- | --- | ------------ |
+| Kepala belum masuk PAP (floating)     | 12  | TFU dalam cm |
+| Kepala sudah engaged (station 0)      | 11  |              |
+| Kepala sudah masuk dalam (station +1) | 10  |              |
 
 **Rumus Dare (alternatif, tidak perlu koreksi engagement):**
 
@@ -303,13 +304,13 @@ Setelah seluruh palpasi Leopold selesai, lakukan auskultasi DJJ:
 2. Tempatkan stetoskop di **lokasi punggung janin** yang sudah diidentifikasi pada Leopold II.
 3. Lokasi spesifik berdasarkan presentasi dan posisi:
 
-| Posisi | Lokasi DJJ Paling Jelas |
-|--------|------------------------|
-| Presentasi kepala, dorso kiri | Kuadran kiri bawah perut ibu |
-| Presentasi kepala, dorso kanan | Kuadran kanan bawah perut ibu |
-| Presentasi sungsang, dorso kiri | Kuadran kiri atas perut ibu (setinggi umbilikus) |
-| Presentasi sungsang, dorso kanan | Kuadran kanan atas perut ibu |
-| Letak lintang | Varies — DJJ di daerah umbilikus |
+| Posisi                           | Lokasi DJJ Paling Jelas                          |
+| -------------------------------- | ------------------------------------------------ |
+| Presentasi kepala, dorso kiri    | Kuadran kiri bawah perut ibu                     |
+| Presentasi kepala, dorso kanan   | Kuadran kanan bawah perut ibu                    |
+| Presentasi sungsang, dorso kiri  | Kuadran kiri atas perut ibu (setinggi umbilikus) |
+| Presentasi sungsang, dorso kanan | Kuadran kanan atas perut ibu                     |
+| Letak lintang                    | Varies — DJJ di daerah umbilikus                 |
 
 **Nilai DJJ normal:** 120–160 denyut per menit (dpm). Teratur.
 
@@ -330,14 +331,14 @@ Contoh lengkap:
 
 ### Klasifikasi Posisi Janin
 
-| Presentasi | Posisi Punggung | Akronim | Arti |
-|-----------|----------------|---------|------|
-| Kepala (vertex) | Kiri depan | PUK | Presentasi Uterus Kiri |
-| Kepala (vertex) | Kanan depan | PUD | Presentasi Uterus Dextra |
-| Kepala (vertex) | Kiri belakang | PKK | Presentasi Kepala Kiri |
-| Kepala (vertex) | Kanan belakang | PKD | Presentasi Kepala Kanan |
-| Bokong (sungsang) | Kiri depan | SUK | Sungsang Uterus Kiri |
-| Bokong (sungsang) | Kanan depan | SUD | Sungsang Uterus Dextra |
+| Presentasi        | Posisi Punggung | Akronim | Arti                     |
+| ----------------- | --------------- | ------- | ------------------------ |
+| Kepala (vertex)   | Kiri depan      | PUK     | Presentasi Uterus Kiri   |
+| Kepala (vertex)   | Kanan depan     | PUD     | Presentasi Uterus Dextra |
+| Kepala (vertex)   | Kiri belakang   | PKK     | Presentasi Kepala Kiri   |
+| Kepala (vertex)   | Kanan belakang  | PKD     | Presentasi Kepala Kanan  |
+| Bokong (sungsang) | Kiri depan      | SUK     | Sungsang Uterus Kiri     |
+| Bokong (sungsang) | Kanan depan     | SUD     | Sungsang Uterus Dextra   |
 
 ---
 
@@ -404,15 +405,15 @@ Contoh lengkap:
 
 > [!warning] Temuan yang Memerlukan Tindakan Segera
 
-| Temuan Leopold | Curigai | Tindakan |
-|---------------|---------|----------|
-| TFU jauh lebih besar dari usia gestasi | Makrosomia, polihidramnion, kehamilan ganda | USG, tes toleransi glukosa, rujuk |
-| TFU jauh lebih kecil dari usia gestasi | IUGR, oligohidramnion, KPD, janin mati | USG, evaluasi growth, rujuk |
-| Presentasi sungsang pada aterm (≥ 36 mg) | Sungsang | Coba ECV (hanya oleh obgyn) atau rencanakan SC |
-| Letak lintang pada aterm | Lintang — tidak bisa lahir pervaginam | Rujuk SC |
-| Kepala masih floating pada primigravida aterm (≥ 39 mg) | CPD (Cephalo-Pelvic Disproportion) | Evaluasi panggul, USG, rujuk |
-| DJJ < 120 atau > 160 dpm | Fetal distress / gawat janin | Miringkan pasien ke kiri, O2, rujuk emergensi |
-| Nyeri hebat saat palpasi | Abruptio plasenta, kontraksi patologis | Evaluasi lebih lanjut, jangan paksa palpasi |
+| Temuan Leopold                                          | Curigai                                     | Tindakan                                       |
+| ------------------------------------------------------- | ------------------------------------------- | ---------------------------------------------- |
+| TFU jauh lebih besar dari usia gestasi                  | Makrosomia, polihidramnion, kehamilan ganda | USG, tes toleransi glukosa, rujuk              |
+| TFU jauh lebih kecil dari usia gestasi                  | IUGR, oligohidramnion, KPD, janin mati      | USG, evaluasi growth, rujuk                    |
+| Presentasi sungsang pada aterm (≥ 36 mg)                | Sungsang                                    | Coba ECV (hanya oleh obgyn) atau rencanakan SC |
+| Letak lintang pada aterm                                | Lintang — tidak bisa lahir pervaginam       | Rujuk SC                                       |
+| Kepala masih floating pada primigravida aterm (≥ 39 mg) | CPD (Cephalo-Pelvic Disproportion)          | Evaluasi panggul, USG, rujuk                   |
+| DJJ < 120 atau > 160 dpm                                | Fetal distress / gawat janin                | Miringkan pasien ke kiri, O2, rujuk emergensi  |
+| Nyeri hebat saat palpasi                                | Abruptio plasenta, kontraksi patologis      | Evaluasi lebih lanjut, jangan paksa palpasi    |
 
 ---
 
@@ -420,18 +421,18 @@ Contoh lengkap:
 
 > [!tip] Kesalahan Umum Palpasi Leopold
 
-| No | Kesalahan | Akibat | Perbaikan |
-|----|-----------|--------|-----------|
-| 1 | Tidak minta pasien BAK dulu | TFU overestimated, palpasi tidak nyaman | Verbal: "Tolong BAK dulu ya, Bu" |
-| 2 | Mengukur TFU dari pusar ke fundus | Hasil salah — harus dari simfisis ke fundus | Pasang meteran di tepi atas simfisis pubis |
-| 3 | Menggunakan meteran elastis | Hasil tidak akurat (elastis meregang) | Gunakan pita ukur non-elastis |
-| 4 | Tangan dingin saat palpasi | Pasien tegang → defens muskuler | Hangatkan tangan dengan gesekan atau air hangat |
-| 5 | Terlalu cepat, tidak sistematis | Temuan terlewat (misal: lupa Leopold II) | Ikuti urutan I→II→III→IV selalu |
-| 6 | Palpasi Leopold III & IV dari arah samping | Engagement sulit dinilai akurat | Berdiri menghadap kaki pasien |
-| 7 | Mengandalkan satu temuan saja | Posisi janin bisa misinterpretasi (misal: fundus teraba keras = kepala, padahal sungsang) | Korelasi semua langkah: I, II, III, IV |
-| 8 | Tidak korelasi TFU dengan data HPHT | Usia kehamilan salah — interpretasi Leopold bias | Periksa ulang HPHT, korelasikan dengan TFU |
-| 9 | Tidak dokumentasi | Tidak ada rekam medicolegal | Catat semua temuan Leopold termasuk DJJ dan TBJ |
-| 10 | Tidak auskultasi DJJ setelah palpasi | DJJ abnormal terlewat | Wajib auskultasi setelah Leopold |
+| No  | Kesalahan                                  | Akibat                                                                                    | Perbaikan                                       |
+| --- | ------------------------------------------ | ----------------------------------------------------------------------------------------- | ----------------------------------------------- |
+| 1   | Tidak minta pasien BAK dulu                | TFU overestimated, palpasi tidak nyaman                                                   | Verbal: "Tolong BAK dulu ya, Bu"                |
+| 2   | Mengukur TFU dari pusar ke fundus          | Hasil salah — harus dari simfisis ke fundus                                               | Pasang meteran di tepi atas simfisis pubis      |
+| 3   | Menggunakan meteran elastis                | Hasil tidak akurat (elastis meregang)                                                     | Gunakan pita ukur non-elastis                   |
+| 4   | Tangan dingin saat palpasi                 | Pasien tegang → defens muskuler                                                           | Hangatkan tangan dengan gesekan atau air hangat |
+| 5   | Terlalu cepat, tidak sistematis            | Temuan terlewat (misal: lupa Leopold II)                                                  | Ikuti urutan I→II→III→IV selalu                 |
+| 6   | Palpasi Leopold III & IV dari arah samping | Engagement sulit dinilai akurat                                                           | Berdiri menghadap kaki pasien                   |
+| 7   | Mengandalkan satu temuan saja              | Posisi janin bisa misinterpretasi (misal: fundus teraba keras = kepala, padahal sungsang) | Korelasi semua langkah: I, II, III, IV          |
+| 8   | Tidak korelasi TFU dengan data HPHT        | Usia kehamilan salah — interpretasi Leopold bias                                          | Periksa ulang HPHT, korelasikan dengan TFU      |
+| 9   | Tidak dokumentasi                          | Tidak ada rekam medicolegal                                                               | Catat semua temuan Leopold termasuk DJJ dan TBJ |
+| 10  | Tidak auskultasi DJJ setelah palpasi       | DJJ abnormal terlewat                                                                     | Wajib auskultasi setelah Leopold                |
 
 ---
 
@@ -440,6 +441,7 @@ Contoh lengkap:
 Format dokumentasi standar untuk rekam medis:
 
 > **Palpasi Abdomen (Leopold):**
+>
 > - TFU: ... cm (setinggi ... / ... jari di ... prosesus xifoideus / umbilikus)
 > - Leopold I: di fundus teraba ... (kepala / bokong / kosong)
 > - Leopold II: punggung janin di sisi ... (kiri / kanan / anterior / posterior), bagian kecil janin di sisi ...
@@ -484,13 +486,13 @@ Format dokumentasi standar untuk rekam medis:
 
 ## Referensi
 
-1. Cunningham, F.G., et al. (2022). *Williams Obstetrics*. 26th Ed. McGraw-Hill.
-2. Prawirohardjo, S. (2019). *Ilmu Kandungan*. Ed. 4. Jakarta: Bina Pustaka.
-3. Prawirohardjo, S. (2020). *Ilmu Kebidanan*. Ed. 5. Jakarta: Bina Pustaka.
-4. Oxorn, H. (2021). *Ilmu Kebidanan: Patologi dan Fisiologi Persalinan*. Yayasan Bina Pustaka.
+1. Cunningham, F.G., et al. (2022). _Williams Obstetrics_. 26th Ed. McGraw-Hill.
+2. Prawirohardjo, S. (2019). _Ilmu Kandungan_. Ed. 4. Jakarta: Bina Pustaka.
+3. Prawirohardjo, S. (2020). _Ilmu Kebidanan_. Ed. 5. Jakarta: Bina Pustaka.
+4. Oxorn, H. (2021). _Ilmu Kebidanan: Patologi dan Fisiologi Persalinan_. Yayasan Bina Pustaka.
 5. SKDI (Standar Kompetensi Dokter Indonesia). 2021. Kemenkes RI.
-6. World Health Organization. (2023). *WHO Antenatal Care Guidelines*. Geneva: WHO.
-7. McDonald, M.F. (2020). "Measurement of Fundal Height as a Screening Test for Fetal Growth Restriction." *Am J Obstet Gynecol*. 222(4): 345.e1-345.e8.
-8. Johnson, R.W. & Toshach, C.E. (2019). "Estimation of Fetal Weight Using Fundal Height." *J Reprod Med*. 64(3): 121-126.
-9. Kemenkes RI. (2021). *Pedoman Pelayanan Antenatal Terpadu*. Ed. 3. Jakarta: Kemenkes.
-10. Gabbe, S.G., et al. (2021). *Obstetrics: Normal and Problem Pregnancies*. 8th Ed. Elsevier.
+6. World Health Organization. (2023). _WHO Antenatal Care Guidelines_. Geneva: WHO.
+7. McDonald, M.F. (2020). "Measurement of Fundal Height as a Screening Test for Fetal Growth Restriction." _Am J Obstet Gynecol_. 222(4): 345.e1-345.e8.
+8. Johnson, R.W. & Toshach, C.E. (2019). "Estimation of Fetal Weight Using Fundal Height." _J Reprod Med_. 64(3): 121-126.
+9. Kemenkes RI. (2021). _Pedoman Pelayanan Antenatal Terpadu_. Ed. 3. Jakarta: Kemenkes.
+10. Gabbe, S.G., et al. (2021). _Obstetrics: Normal and Problem Pregnancies_. 8th Ed. Elsevier.

@@ -32,51 +32,54 @@ Ny. Wati, 35 tahun, G4P3A0, usia kehamilan 32 minggu. Datang ke IGD RSKH dengan 
 
 **Plasenta Previa** = plasenta yang **menutupi sebagian atau seluruh os serviks internal** (internal cervical os).
 
-| Tipe | Definisi | Jarak Tepi Plasenta ke Os (USG TV) |
-|------|----------|-----------------------------------|
-| **Previa Totalis** | Menutupi os penuh | 0 cm (menutupi) |
-| **Previa Parsial** | Menutupi os sebagian | 0 cm (menutupi sebagian) |
-| **Marginal Previa** | Tepi plasenta di tepi os | **0 - 2 cm** (tidak menutupi, tapi dekat) |
+| Tipe                   | Definisi                     | Jarak Tepi Plasenta ke Os (USG TV)             |
+| ---------------------- | ---------------------------- | ---------------------------------------------- |
+| **Previa Totalis**     | Menutupi os penuh            | 0 cm (menutupi)                                |
+| **Previa Parsial**     | Menutupi os sebagian         | 0 cm (menutupi sebagian)                       |
+| **Marginal Previa**    | Tepi plasenta di tepi os     | **0 - 2 cm** (tidak menutupi, tapi dekat)      |
 | **Low-lying Placenta** | Dekat os tapi tidak marginal | **> 2 cm** (normal jika > 2 cm di trimester 3) |
 
 > **Catatan:** Di trimester 2, "low-lying" umum (plasenta migrasi ke atas seiring uterus membesar). **Diagnosis pasti plasenta previa dibuat ≥ 32 minggu** (atau ≥ 36 mg untuk low-lying).
 
 ## Epidemiologi & Faktor Risiko
 
-| Faktor Risiko | OR / Risiko |
-|---------------|-------------|
-| **SC sebelumnya** | 2-5× (naik dengan jumlah SC: 1x=2×, 2x=4×, 3x=8×, ≥4x=16×) |
-| **Kuretase / Aborsi / Histerektomi subtotal** | 2-3× |
-| **Usia ibu ≥ 35 th** | 1,5-2× |
-| **Multipara (paritas ≥ 3)** | 2× |
-| **Kehamilan ganda** | 2× |
-| **IVF / ART** | 3-6× |
-| **Rokok / Kokain** | 1,5-2× |
-| **Plasenta previa kehamilan sebelumnya** | 4-8% recurrence |
+| Faktor Risiko                                 | OR / Risiko                                                |
+| --------------------------------------------- | ---------------------------------------------------------- |
+| **SC sebelumnya**                             | 2-5× (naik dengan jumlah SC: 1x=2×, 2x=4×, 3x=8×, ≥4x=16×) |
+| **Kuretase / Aborsi / Histerektomi subtotal** | 2-3×                                                       |
+| **Usia ibu ≥ 35 th**                          | 1,5-2×                                                     |
+| **Multipara (paritas ≥ 3)**                   | 2×                                                         |
+| **Kehamilan ganda**                           | 2×                                                         |
+| **IVF / ART**                                 | 3-6×                                                       |
+| **Rokok / Kokain**                            | 1,5-2×                                                     |
+| **Plasenta previa kehamilan sebelumnya**      | 4-8% recurrence                                            |
 
 ## Gejala & Tanda
 
-| Gejala | Karakteristik |
-|--------|---------------|
+| Gejala                | Karakteristik                                                                                                              |
+| --------------------- | -------------------------------------------------------------------------------------------------------------------------- |
 | **Perdarahan vagina** | **Merah segar, tidak nyeri (painless), intermittent**, sering malam hari / postkoital / setelah straining / pemeriksaan VT |
-| **Kontraksi** | Bisa ikut / tidak (irritabilitas uterus) |
-| **Presentasi janin** | Sering abnormal (bokong, transverse) — karena plasenta blokeng engagement |
-| **Tanda shock** | Jika perdarahan masif (hipotensi, takikardi, oliguria) |
+| **Kontraksi**         | Bisa ikut / tidak (irritabilitas uterus)                                                                                   |
+| **Presentasi janin**  | Sering abnormal (bokong, transverse) — karena plasenta blokeng engagement                                                  |
+| **Tanda shock**       | Jika perdarahan masif (hipotensi, takikardi, oliguria)                                                                     |
 
 > **Klasik:** "Painless vaginal bleeding trimester 3" — tapi 10-20% bisa nyeri jika kontraksi ikut.
 
 ## Diagnosis
 
 ### 1. USG Transvaginal (Gold Standard)
+
 - **Akurasi > 95%** untuk previa / low-lying
-- Prosedur: *Empty bladder* → probe transvaginal → ukur jarak **tepi plasenta ke internal os** (cm)
+- Prosedur: _Empty bladder_ → probe transvaginal → ukur jarak **tepi plasenta ke internal os** (cm)
 - **Jika plasenta posterior & janin anterior** → bisa USG transabdominal + transperineal (translabial)
 
 ### 2. USG Transabdominal (Screening)
+
 - Sensitivitas ~ 85% (bisa false positive jika bladder penuh / plasenta posterior)
 - **Bladder harus penuh** untuk transabdominal, **kosong** untuk transvaginal
 
 ### 3. **LARANGAN MUTLAK: PEMERIKSAAN VT DIGITAL / SPEKULUM** pada perdarahan trimester 3 sebelum exclude previa!
+
 - Bisa memicu perdarahan masif, maternal & fetal demise
 - **Hanya USG** untuk diagnosis
 
@@ -87,41 +90,45 @@ Ny. Wati, 35 tahun, G4P3A0, usia kehamilan 32 minggu. Datang ke IGD RSKH dengan 
 ## Tata Laksana
 
 ### A. Antepartum (Rawat Inap / Monitoring)
-| UK & Kondisi | Strategi |
-|--------------|----------|
-| **< 34 mg, perdarahan ringan/berhenti, maternal & fetal stabil** | **Expectant management** rawat inap: Betametason 12 mg IM 2× 24j (jika < 34+6), MgSO4 neuroproteksi (jika < 32 mg), antihipertensi jika perlu, **hindari VT**, pelan activity, KB pellet/ring jika indikasi tokolisis (kontroversial), darah crossmatch 2-4 unit siap |
-| **34-36+6 mg, stabil** | Betametason (jika belum), **SC elektif 36+0 - 37+0 mg** (ACOG/POGI) — balance prematuritas vs perdarahan risiko |
-| **≥ 37 mg** | **SC elektif segera** (37-38 mg) — tidak ada alasan tunda |
-| **Perdarahan berat / maternal tidak stabil / janin distress (UK berapa pun)** | **SC DARURAT SEGERA** — oksitosin 20 IU IV, ergometrin 0,2 mg IM/IV, misoprostol 400-600 mcg PR, traneksam acid 1 g IV, transfusi darah 1:1:1, kompresi bimanual, tamponade balloon, ligasi arteri, histerektomi jika gagal |
+
+| UK & Kondisi                                                                  | Strategi                                                                                                                                                                                                                                                              |
+| ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **< 34 mg, perdarahan ringan/berhenti, maternal & fetal stabil**              | **Expectant management** rawat inap: Betametason 12 mg IM 2× 24j (jika < 34+6), MgSO4 neuroproteksi (jika < 32 mg), antihipertensi jika perlu, **hindari VT**, pelan activity, KB pellet/ring jika indikasi tokolisis (kontroversial), darah crossmatch 2-4 unit siap |
+| **34-36+6 mg, stabil**                                                        | Betametason (jika belum), **SC elektif 36+0 - 37+0 mg** (ACOG/POGI) — balance prematuritas vs perdarahan risiko                                                                                                                                                       |
+| **≥ 37 mg**                                                                   | **SC elektif segera** (37-38 mg) — tidak ada alasan tunda                                                                                                                                                                                                             |
+| **Perdarahan berat / maternal tidak stabil / janin distress (UK berapa pun)** | **SC DARURAT SEGERA** — oksitosin 20 IU IV, ergometrin 0,2 mg IM/IV, misoprostol 400-600 mcg PR, traneksam acid 1 g IV, transfusi darah 1:1:1, kompresi bimanual, tamponade balloon, ligasi arteri, histerektomi jika gagal                                           |
 
 ### B. Persiapan SC (Plasenta Previa = Risiko PPH Tinggi)
+
 1. **Darah:** Crossmatch **4-6 unit PRC + 4 unit FFP + 1 pool trombosit + 10 unit kriopresipitat** (Massive Transfusion Protocol siap)
 2. **Tim:** SpOG senior, Anestesi senior, Neonatologi, Bank darah, Bedah umum (standby histerektomi)
 3. **Anestesi:** Spinal (jika Hb > 10, trombosit > 100k, koagulasi normal) / Epidural (jika sudah pasang) / Umum (jika perdarahan aktif / koagulopati / darurat)
 4. **Insisi:** Pfannenstiel / Joel-Cohen — **hindari insisi melalui plasenta** (jika previa anterior, insisi di atas plasenta / fundal hysterotomy / klasik vertikal)
 5. **Pengeluaran bayi:** Cepat, hindari tekanan pada plasenta
-6. **Plasenta:** **JANGAN DIAMBIL MANUAL** jika previa totalis/parsial anterior — risiko perdarahan masif dari *placental bed*. **Opsi:**
+6. **Plasenta:** **JANGAN DIAMBIL MANUAL** jika previa totalis/parsial anterior — risiko perdarahan masif dari _placental bed_. **Opsi:**
    - **Histerektomi profilik** (jika ibu tidak ingin anak / β-hCG tinggi / perdarahan tidak terkendali)
    - **Leave placenta in situ** (konservatif: misoprostol/MTX/arteri embolization) — hanya di pusat tertinggi
    - **Pengambilan manual hati-hati** + tamponade balloon + ligasi arteri uterus bilateral
 
 ### C. Komplikasi Khusus SC Previa
-| Komplikasi | Pencegahan / Penanganan |
-|------------|-------------------------|
-| **Perdarahan masif (PPH)** | Darah siap, oksitosin infus, ergometrin, traneksam acid, kompresi bimanual, tamponade balloon (Bakri/Sengstaken), ligasi arti uterus/ovarium/hipogastric, histerektomi |
+
+| Komplikasi                          | Pencegahan / Penanganan                                                                                                                                                                    |
+| ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Perdarahan masif (PPH)**          | Darah siap, oksitosin infus, ergometrin, traneksam acid, kompresi bimanual, tamponade balloon (Bakri/Sengstaken), ligasi arti uterus/ovarium/hipogastric, histerektomi                     |
 | **Plasenta Accreta Spectrum (PAS)** | **Screening USG antenatal:** loss of clear zone, lacunae, bladder wall interruption, hypervascularitas. Jika PAS diduga → **histerektomi profilik rencana** / konservatif di pusat rujukan |
-| **Lusi saluran kemih / ureter** | Identifikasi ureter pre-op (stent ureter jika PAS), hati-hati diseksi vesikovaginal |
-| **Infeksi** | Antibiotik profilaksis sefazolin 2 g IV + metronidazol 500 mg IV |
+| **Lusi saluran kemih / ureter**     | Identifikasi ureter pre-op (stent ureter jika PAS), hati-hati diseksi vesikovaginal                                                                                                        |
+| **Infeksi**                         | Antibiotik profilaksis sefazolin 2 g IV + metronidazol 500 mg IV                                                                                                                           |
 
 ## Plasenta Accreta Spectrum (PAS) — Komplikasi Previa + SC Sebelumnya
 
-| Stadium | Definisi | Risiko pada Previa + SC |
-|---------|----------|-------------------------|
-| **Accreta** | Korial villi melekat ke miometrium (tidak ada decidua basalis) | 3% (previa + 1 SC) → 40% (previa + 3 SC) |
-| **Increta** | Invasi ke miometrium | |
-| **Percreta** | Menembus serosa / ke organ lain (kandung kemih) | |
+| Stadium      | Definisi                                                       | Risiko pada Previa + SC                  |
+| ------------ | -------------------------------------------------------------- | ---------------------------------------- |
+| **Accreta**  | Korial villi melekat ke miometrium (tidak ada decidua basalis) | 3% (previa + 1 SC) → 40% (previa + 3 SC) |
+| **Increta**  | Invasi ke miometrium                                           |                                          |
+| **Percreta** | Menembus serosa / ke organ lain (kandung kemih)                |                                          |
 
 > **Screening USG PAS (jika Previa + SC sebelumnya):**
+>
 > - Loss of "clear zone" (hypoechoic zone antara plasenta & miometrium)
 > - **Lacunae** (ruang vascular dalam plasenta, lake-like)
 > - **Bladder wall interruption** / vascularitas abnormal ke kandung kemih
@@ -147,12 +154,12 @@ Ny. Wati, 35 tahun, G4P3A0, usia kehamilan 32 minggu. Datang ke IGD RSKH dengan 
 
 ## Keterampilan Terkait
 
-- [[25-pemeriksaan-usg-obstetri]]
-- [[70-operasi-caesar]]
-- [[32-memperkirakan-kehilangan-darah]]
-- [[42-kompresi-bimanual]]
-- [[47-resusitasi-cairan-ibu]]
-- [[45-perdarahan-postpartum]]
+- Pemeriksaan Usg Obstetri
+- Operasi Caesar
+- Memperkirakan Kehilangan Darah
+- Kompresi Bimanual
+- Resusitasi Cairan Ibu
+- Perdarahan Postpartum
 
 ## Referensi
 

@@ -1,28 +1,26 @@
 ---
 title: Anestesi Lokal di Perineum
 tags:
-- keterampilan
-- persalinan
-- skdi-4a
+  - keterampilan
+  - persalinan
+  - skdi-4a
 level_kompetensi: 4A
 kategori: persalinan
 nomor_modul: 29
 aliases:
-- Anestesi Perineum
-- Lidokain Perineum
-- Blok Perineum
-- Anestesi Lokal Episiotomi
-- Pudendal Block
-- suntik perineum
-- anestesi perineum
-- lidokain perineum
-- blok perineum
-- anestesi lokal episiotomi
+  - Anestesi Perineum
+  - Lidokain Perineum
+  - Blok Perineum
+  - Anestesi Lokal Episiotomi
+  - Pudendal Block
+  - suntik perineum
+  - anestesi perineum
+  - lidokain perineum
+  - blok perineum
+  - anestesi lokal episiotomi
 cssclasses:
-- buku-saku
+  - buku-saku
 ---
-
-
 
 # Anestesi Lokal di Perineum
 
@@ -33,9 +31,9 @@ cssclasses:
 
 ## Kenapa Keterampilan Ini Penting
 
-Anestesi lokal perineum adalah **prasyarat** untuk [[30-episiotomi]] dan penjahitan laserasi perineum pasca persalinan. Tanpa anestesi adekuat, ibu kesakitan, mengejan tidak sinkron, risiko robekan spontan membesar, dan jahitan menjadi sulit. Ibu yang tenang = jaringan tidak tertarik = hasil jahitan lebih baik = penyembuhan lebih cepat.
+Anestesi lokal perineum adalah **prasyarat** untuk Episiotomi dan penjahitan laserasi perineum pasca persalinan. Tanpa anestesi adekuat, ibu kesakitan, mengejan tidak sinkron, risiko robekan spontan membesar, dan jahitan menjadi sulit. Ibu yang tenang = jaringan tidak tertarik = hasil jahitan lebih baik = penyembuhan lebih cepat.
 
-Keterampilan ini bagian integral dari [[27-menolong-persalinan-fisiologis-apn]], terutama pada primigravida, janin besar, perineum kaku, atau persalinan dengan vakum/forceps.
+Keterampilan ini bagian integral dari Menolong Persalinan Fisiologis Apn, terutama pada primigravida, janin besar, perineum kaku, atau persalinan dengan vakum/forceps.
 
 ---
 
@@ -44,6 +42,7 @@ Keterampilan ini bagian integral dari [[27-menolong-persalinan-fisiologis-apn]],
 Perineum obstetri adalah area antara **introitus vagina** dan **anus**. Dari luar ke dalam: kulit & subkutis, fasia perineum superfisialis, otot-otot perineum (m. bulbospongiosus, m. transversus perinei, m. ischiocavernosus), dan diafragma pelvis (levator ani).
 
 **Persarafan** — kunci anestesi:
+
 - **N. pudendus** (S2–S4): saraf utama — cabang perineal (sensasi perineum posterior & vulva), cabang rektalis inferior (anus & sfingter), dorsalis klitoridis.
 - **N. ilioinguinalis** (L1): labia mayora bagian atas.
 - **N. genitofemoralis** (L1–L2): labia mayora anterior.
@@ -54,7 +53,7 @@ Target infiltrasi lokal: **cabang perineal n. pudendus** di sepanjang garis insi
 
 ## Indikasi & Kontraindikasi
 
-**Indikasi:** [[30-episiotomi]] (semua jenis), penjahitan laserasi derajat 1–2, persalinan dengan vakum/forceps, perineum kaku pada primigravida.
+**Indikasi:** Episiotomi (semua jenis), penjahitan laserasi derajat 1–2, persalinan dengan vakum/forceps, perineum kaku pada primigravida.
 
 **Kontraindikasi:** Alergi lidokain/amida, infeksi di tempat suntik (abses, herpes aktif), koagulopati berat (trombosit < 50.000 / INR > 3), blokADE AV derajat 2–3.
 
@@ -62,34 +61,35 @@ Target infiltrasi lokal: **cabang perineal n. pudendus** di sepanjang garis insi
 
 ## Obat Anestesi Lokal: Lidokain
 
-| Parameter | Nilai |
-|-----------|-------|
-| Golongan | Amida |
-| Mekanisme | BlokADE kanal Na⁺ voltage-gated akson |
-| Onset | 2–5 menit (infiltrasi); 5–10 menit (blok pudendal) |
-| Durasi | 60–120 menit (tanpa adrenalin); 120–240 menit (+ adrenalin 1:200.000) |
-| Metabolisme | Hati (CYP3A4), ekskresi ginjal |
-| Konsentrasi | 1% (= 10 mg/mL) dan 2% (= 20 mg/mL) |
+| Parameter   | Nilai                                                                 |
+| ----------- | --------------------------------------------------------------------- |
+| Golongan    | Amida                                                                 |
+| Mekanisme   | BlokADE kanal Na⁺ voltage-gated akson                                 |
+| Onset       | 2–5 menit (infiltrasi); 5–10 menit (blok pudendal)                    |
+| Durasi      | 60–120 menit (tanpa adrenalin); 120–240 menit (+ adrenalin 1:200.000) |
+| Metabolisme | Hati (CYP3A4), ekskresi ginjal                                        |
+| Konsentrasi | 1% (= 10 mg/mL) dan 2% (= 20 mg/mL)                                   |
 
 ### Lidokain 1% vs 2%
 
-| | 1% (10 mg/mL) | 2% (20 mg/mL) |
-|---|---|---|
-| Volume untuk dosis maks | 20–30 mL | 10–15 mL |
-| Toksisitas/mL | Lebih rendah | Lebih tinggi |
-| Rekomendasi | **Pilihan pertama** — volume cukup, aman | Alternatif — encerkan 1:1 dg NaCl atau kurangi volume |
+|                         | 1% (10 mg/mL)                            | 2% (20 mg/mL)                                         |
+| ----------------------- | ---------------------------------------- | ----------------------------------------------------- |
+| Volume untuk dosis maks | 20–30 mL                                 | 10–15 mL                                              |
+| Toksisitas/mL           | Lebih rendah                             | Lebih tinggi                                          |
+| Rekomendasi             | **Pilihan pertama** — volume cukup, aman | Alternatif — encerkan 1:1 dg NaCl atau kurangi volume |
 
 > [!tip] REKOMENDASI
 > **Gunakan Lidokain 1%**. Untuk episiotomi Anda butuh 5–10 mL — masih jauh dari dosis toksik. Jika hanya tersedia 2%, encerkan 1:1 dengan NaCl steril.
 
 ### Dosis Maksimal
 
-| Tanpa Adrenalin | Dengan Adrenalin 1:200.000 |
-|-----------------|---------------------------|
+| Tanpa Adrenalin              | Dengan Adrenalin 1:200.000 |
+| ---------------------------- | -------------------------- |
 | **4,5 mg/kgBB** (mak 300 mg) | **7 mg/kgBB** (mak 500 mg) |
-| = 0,45 mL/kgBB Lido 1% | = 0,7 mL/kgBB Lido 1% |
+| = 0,45 mL/kgBB Lido 1%       | = 0,7 mL/kgBB Lido 1%      |
 
 **Contoh: Ibu BB 60 kg**
+
 ```
 Dosis maks = 4,5 × 60 = 270 mg → 27 mL Lidokain 1%
 Kebutuhan episiotomi: 5–10 mL → hanya 10–20% dosis maks ✅
@@ -98,16 +98,17 @@ Kebutuhan episiotomi: 5–10 mL → hanya 10–20% dosis maks ✅
 **Tabel Cepat Dosis Maks Lidokain 1%**
 
 | BB (kg) | Dosis Maks (mg) | Vol Maks Lido 1% |
-|---------|----------------|-------------------|
-| 45 | 202,5 | 20,3 mL |
-| 50 | 225 | 22,5 mL |
-| 55 | 247,5 | 24,8 mL |
-| 60 | 270 | 27,0 mL |
-| ≥ 67 | **300 mg*** | **30,0 mL** |
+| ------- | --------------- | ---------------- |
+| 45      | 202,5           | 20,3 mL          |
+| 50      | 225             | 22,5 mL          |
+| 55      | 247,5           | 24,8 mL          |
+| 60      | 270             | 27,0 mL          |
+| ≥ 67    | **300 mg\***    | **30,0 mL**      |
 
-*\* Dosis absolut 300 mg — tidak boleh dilampaui walau BB lebih besar.*
+_\* Dosis absolut 300 mg — tidak boleh dilampaui walau BB lebih besar._
 
 > [!warning] PERINGATAN DOSIS
+>
 > - Jangan pernah melebihi 300 mg (30 mL Lido 1%) tanpa adrenalin; 500 mg dengan adrenalin.
 > - Gangguan fungsi hati / gagal jantung → metabolisme lambat → kurangi dosis 50%.
 > - Injeksi intravaskular = langsung toksik. **Selalu aspirasi sebelum injeksi!**
@@ -120,17 +121,17 @@ Menambahkan adrenalin 1:200.000: vasokonstriksi → absorpsi lambat → durasi p
 
 ## Alat dan Bahan
 
-| No. | Alat/Bahan | Keterangan |
-|----|-----------|------------|
-| 1 | Lidokain 1% | 5–10 mL per prosedur |
-| 2 | Spuit 5–10 mL | Sesuai volume |
-| 3 | Jarum 23G–25G, panjang 2,5–3,8 cm | 25G minimalkan nyeri tusuk |
-| 4 | Jarum spinal panjang (3,5–5 inci) | Untuk anestesi pudendal |
-| 5 | Antiseptik (povidone iodine 10%) | Desinfeksi perineum |
-| 6 | Kasa steril | 5–10 lembar |
-| 7 | Sarung tangan steril | 1 pasang |
-| 8 | NaCl 0,9% steril | Pengenceran / pembersihan |
-| 9 | Adrenalin 1:1000 (opsional) | 0,05 mL + 10 mL Lido = 1:200.000 |
+| No. | Alat/Bahan                        | Keterangan                       |
+| --- | --------------------------------- | -------------------------------- |
+| 1   | Lidokain 1%                       | 5–10 mL per prosedur             |
+| 2   | Spuit 5–10 mL                     | Sesuai volume                    |
+| 3   | Jarum 23G–25G, panjang 2,5–3,8 cm | 25G minimalkan nyeri tusuk       |
+| 4   | Jarum spinal panjang (3,5–5 inci) | Untuk anestesi pudendal          |
+| 5   | Antiseptik (povidone iodine 10%)  | Desinfeksi perineum              |
+| 6   | Kasa steril                       | 5–10 lembar                      |
+| 7   | Sarung tangan steril              | 1 pasang                         |
+| 8   | NaCl 0,9% steril                  | Pengenceran / pembersihan        |
+| 9   | Adrenalin 1:1000 (opsional)       | 0,05 mL + 10 mL Lido = 1:200.000 |
 
 ---
 
@@ -149,7 +150,7 @@ Tentukan jalur episiotomi (misal mediolateral kanan, jam 7–8). Suntik **saat h
 
 ### Langkah 2 — Infiltrasi Subkutan
 
-Masukkan jarum **subkutan** di sepanjang garis insisi (3–4 cm). Mulai dari fourchette posterior ke bawah. **Suntik sambil menarik jarum** (*withdrawal technique*). Volume: 3–5 mL. Jaringan akan tampak sedikit menonjol (wheal).
+Masukkan jarum **subkutan** di sepanjang garis insisi (3–4 cm). Mulai dari fourchette posterior ke bawah. **Suntik sambil menarik jarum** (_withdrawal technique_). Volume: 3–5 mL. Jaringan akan tampak sedikit menonjol (wheal).
 
 ### Langkah 3 — Infiltrasi Intramuskular
 
@@ -201,12 +202,12 @@ N. pudendus (S2–S4) keluar pelvis via foramen infrapiriformis, melingkari **sp
 
 ### Komplikasi Blok Pudendal
 
-| Komplikasi | Penyebab | Penanganan |
-|-----------|----------|------------|
-| Hematoma | Tusukan a./v. pudenda interna | Kompresi, observasi |
-| Toksisitas sistemik | Injeksi intravaskular | Lihat tatalaksana LAST di bawah |
-| BlokADE n. femoralis | Jarum terlalu lateral | Paresis sementara, pulih sendiri |
-| Tusukan rektum | Jarum terlalu posterior | Antibiotik profilaksis bila perlu |
+| Komplikasi           | Penyebab                      | Penanganan                        |
+| -------------------- | ----------------------------- | --------------------------------- |
+| Hematoma             | Tusukan a./v. pudenda interna | Kompresi, observasi               |
+| Toksisitas sistemik  | Injeksi intravaskular         | Lihat tatalaksana LAST di bawah   |
+| BlokADE n. femoralis | Jarum terlalu lateral         | Paresis sementara, pulih sendiri  |
+| Tusukan rektum       | Jarum terlalu posterior       | Antibiotik profilaksis bila perlu |
 
 ---
 
@@ -220,13 +221,14 @@ N. pudendus (S2–S4) keluar pelvis via foramen infrapiriformis, melingkari **sp
 
 **Gejala (progresif):**
 
-| Stadium | Gejala |
-|---------|--------|
-| AWAL | Parestesia perioral, lidah tebal, tinitus, *metallic taste* |
-| SEDANG | Bicara cadel, nistagmus, otot kedut, disorientasi |
-| BERAT | Kejang tonik-klonik, koma, henti napas, henti jantung (aritmia ventrikel) |
+| Stadium | Gejala                                                                    |
+| ------- | ------------------------------------------------------------------------- |
+| AWAL    | Parestesia perioral, lidah tebal, tinitus, _metallic taste_               |
+| SEDANG  | Bicara cadel, nistagmus, otot kedut, disorientasi                         |
+| BERAT   | Kejang tonik-klonik, koma, henti napas, henti jantung (aritmia ventrikel) |
 
 > [!danger] PENANGANAN LAST — KEGAWATDARURATAN
+>
 > 1. **HENTIKAN** injeksi!
 > 2. **Panggil bantuan** — kode biru.
 > 3. **O₂ 100%** (NRBM / intubasi bila perlu).
@@ -245,19 +247,20 @@ N. pudendus (S2–S4) keluar pelvis via foramen infrapiriformis, melingkari **sp
 
 ## Ringkasan Dosis Praktis
 
-| Skenario | Vol. | Konsentrasi | Total Dosis | Aman? |
-|----------|------|-------------|-------------|-------|
-| Infiltrasi episiotomi | 5–10 mL | Lido 1% | 50–100 mg | ✅ |
-| Jahit laserasi derajat 1–2 | 5–8 mL | Lido 1% | 50–80 mg | ✅ |
-| Anestesi pudendal bilateral | 10–20 mL | Lido 1% | 100–200 mg | ✅ |
-| Infiltrasi + pudendal | 15–25 mL | Lido 1% | 150–250 mg | ⚠️ |
-| Dosis maks (BB 50 kg) | 22,5 mL | Lido 1% | 225 mg | ⛔ |
+| Skenario                    | Vol.     | Konsentrasi | Total Dosis | Aman? |
+| --------------------------- | -------- | ----------- | ----------- | ----- |
+| Infiltrasi episiotomi       | 5–10 mL  | Lido 1%     | 50–100 mg   | ✅    |
+| Jahit laserasi derajat 1–2  | 5–8 mL   | Lido 1%     | 50–80 mg    | ✅    |
+| Anestesi pudendal bilateral | 10–20 mL | Lido 1%     | 100–200 mg  | ✅    |
+| Infiltrasi + pudendal       | 15–25 mL | Lido 1%     | 150–250 mg  | ⚠️    |
+| Dosis maks (BB 50 kg)       | 22,5 mL  | Lido 1%     | 225 mg      | ⛔    |
 
 ---
 
 ## Kesalahan yang Sering Terjadi
 
 > [!tip] KESALAHAN UMUM
+>
 > 1. **Tidak aspirasi** → risiko toksisitas intravaskular.
 > 2. **Menyuntik di luar his** → nyeri lebih. Suntik saat his!
 > 3. **Volume terlalu kecil** (< 3 mL) → distribusi tidak merata.
@@ -312,20 +315,21 @@ Mulai episiotomi/penjahitan
 
 ## Referensi
 
-1. WHO. *WHO recommendations on episiotomy and perineal trauma*. Geneva: WHO; 2019.
-2. RCOG. *Management of Third- and Fourth-Degree Perineal Tears*. Green-top No. 29. London: RCOG; 2015.
-3. ACOG. *Prevention and Management of Obstetric Lacerations*. Practice Bulletin No. 198. Obstet Gynecol. 2018;132(3).
-4. ASRA. *Checklist for Treatment of Local Anesthetic Systemic Toxicity*. 2021.
-5. Cunningham FG, et al. *Williams Obstetrics*. 26th ed. McGraw-Hill; 2022.
-6. Neal JM, et al. *ASRA Practice Advisory on LAST*. Reg Anesth Pain Med. 2018;43(2):113–125.
-7. Katzung BG, Vanderah TW. *Basic & Clinical Pharmacology*. 15th ed. McGraw-Hill; 2021.
-8. POGI. *Pedoman Penanganan Perdarahan Pasca Persalinan*. Jakarta: POGI; 2021.
-9. Kemenkes RI. *PNPK Pelayanan Anestesi dan Terapi Intensif*. Jakarta; 2020.
-10. Oxorn H. *Oxorn-Foote Human Labor and Birth*. 6th ed. McGraw-Hill; 2013.
+1. WHO. _WHO recommendations on episiotomy and perineal trauma_. Geneva: WHO; 2019.
+2. RCOG. _Management of Third- and Fourth-Degree Perineal Tears_. Green-top No. 29. London: RCOG; 2015.
+3. ACOG. _Prevention and Management of Obstetric Lacerations_. Practice Bulletin No. 198. Obstet Gynecol. 2018;132(3).
+4. ASRA. _Checklist for Treatment of Local Anesthetic Systemic Toxicity_. 2021.
+5. Cunningham FG, et al. _Williams Obstetrics_. 26th ed. McGraw-Hill; 2022.
+6. Neal JM, et al. _ASRA Practice Advisory on LAST_. Reg Anesth Pain Med. 2018;43(2):113–125.
+7. Katzung BG, Vanderah TW. _Basic & Clinical Pharmacology_. 15th ed. McGraw-Hill; 2021.
+8. POGI. _Pedoman Penanganan Perdarahan Pasca Persalinan_. Jakarta: POGI; 2021.
+9. Kemenkes RI. _PNPK Pelayanan Anestesi dan Terapi Intensif_. Jakarta; 2020.
+10. Oxorn H. _Oxorn-Foote Human Labor and Birth_. 6th ed. McGraw-Hill; 2013.
 
 ---
 
 > [!info] Catatan Revisi
+>
 > - Modul ke-29 — Buku Saku Obgyn: Keterampilan Persalinan
 > - Anestesi pudendal: kompetensi level 2 (eksposur)
 > - Disusun berdasarkan SKDI 2019 dan pedoman POGI

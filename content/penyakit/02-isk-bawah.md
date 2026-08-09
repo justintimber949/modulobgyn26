@@ -45,11 +45,11 @@ Ini adalah gambaran klasik **sistitis akut tanpa komplikasi** pada wanita dewasa
 
 Infeksi Saluran Kemih (ISK) bagian bawah adalah infeksi yang melibatkan struktur saluran kemih distal dari vesika urinaria, meliputi:
 
-| Istilah | Lokasi Infeksi |
-|---------|---------------|
-| **Sistitis** | Infeksi pada mukosa kandung kemih (vesika urinaria) |
-| **Uretritis** | Infeksi pada uretra |
-| **Sindrom uretra akut** | Gejala ISK dengan urinalisis normal — sering terkait *Chlamydia trachomatis* atau *Neisseria gonorrhoeae* |
+| Istilah                 | Lokasi Infeksi                                                                                            |
+| ----------------------- | --------------------------------------------------------------------------------------------------------- |
+| **Sistitis**            | Infeksi pada mukosa kandung kemih (vesika urinaria)                                                       |
+| **Uretritis**           | Infeksi pada uretra                                                                                       |
+| **Sindrom uretra akut** | Gejala ISK dengan urinalisis normal — sering terkait _Chlamydia trachomatis_ atau _Neisseria gonorrhoeae_ |
 
 ISK bawah dibedakan dari **ISK atas** (pielonefritis) yang melibatkan ginjal dan umumnya disertai demam tinggi, nyeri pinggang, serta gejala sistemik.
 
@@ -73,15 +73,15 @@ ISK adalah salah satu infeksi bakteri tersering pada manusia, dengan **prevalens
 
 Penyebab tersering ISK bawah pada wanita dewasa:
 
-| Patogen | Prevalensi | Keterangan |
-|---------|-----------|------------|
-| *Escherichia coli* | **70–80%** | Paling dominan — flora usus yang mengkontaminasi uretra |
-| *Staphylococcus saprophyticus* | **5–15%** | Khas pada wanita muda aktif seksual |
-| *Klebsiella pneumoniae* | 5–10% | |
-| *Proteus mirabilis* | 3–5% | Sering terkait batu saluran kemih |
-| *Enterococcus faecalis* | 2–5% | |
-| *Chlamydia trachomatis* | | Penyebab uretritis non-gonokokal |
-| *Neisseria gonorrhoeae* | | Penyebab uretritis gonokokal |
+| Patogen                        | Prevalensi | Keterangan                                              |
+| ------------------------------ | ---------- | ------------------------------------------------------- |
+| _Escherichia coli_             | **70–80%** | Paling dominan — flora usus yang mengkontaminasi uretra |
+| _Staphylococcus saprophyticus_ | **5–15%**  | Khas pada wanita muda aktif seksual                     |
+| _Klebsiella pneumoniae_        | 5–10%      |                                                         |
+| _Proteus mirabilis_            | 3–5%       | Sering terkait batu saluran kemih                       |
+| _Enterococcus faecalis_        | 2–5%       |                                                         |
+| _Chlamydia trachomatis_        |            | Penyebab uretritis non-gonokokal                        |
+| _Neisseria gonorrhoeae_        |            | Penyebab uretritis gonokokal                            |
 
 ---
 
@@ -90,13 +90,15 @@ Penyebab tersering ISK bawah pada wanita dewasa:
 Pada wanita, uretra yang pendek (3–4 cm) dan letak yang dekat dengan anus memudahkan migrasi bakteri enterik ke saluran kemih. Faktor-faktor yang memperbesar risiko:
 
 ### Faktor Perilaku & Fisiologis
-1. **Aktivitas seksual** — Frekuensi hubungan seksual baru-baru ini adalah faktor risiko tersering pada wanita muda (*honeymoon cystitis*)
-2. **Penggunaan diafragma atau spermisida** — Mengubah flora vagina normal dan meningkatkan kolonisasi *E. coli* periuretral
+
+1. **Aktivitas seksual** — Frekuensi hubungan seksual baru-baru ini adalah faktor risiko tersering pada wanita muda (_honeymoon cystitis_)
+2. **Penggunaan diafragma atau spermisida** — Mengubah flora vagina normal dan meningkatkan kolonisasi _E. coli_ periuretral
 3. **Diapers / pembalut jarang ganti** — Kelembaban memudahkan perkembangbiakan bakteri
 4. **Kebiasaan menahan kencing** — Urin stasis memungkinkan bakteri berkembang biak
 5. **Hygiene yang buruk** — Kebiasaan cebok dari belakang ke depan
 
 ### Faktor Medis
+
 1. **Kehamilan** — Perubahan hormonal, dilatasi ureter, dan stasis urin meningkatkan risiko
 2. **Diabetes melitus** — Glukosuria dan penurunan imunitas
 3. **Menopause** — Defisiensi estrogen → perubahan flora vagina dan pH
@@ -134,35 +136,41 @@ Pada keadaan normal, mekanisme pertahanan saluran kemih — aliran urin, efek an
 ## Manifestasi Klinis
 
 ### Gejala Khas (Trias Sistitis)
-1. **Disuria** — Nyeri/panas/perih saat berkemih, terutama menjelang akhir miksi (*terminal dysuria*)
+
+1. **Disuria** — Nyeri/panas/perih saat berkemih, terutama menjelang akhir miksi (_terminal dysuria_)
 2. **Frekuensi** — Miksi >8 kali sehari dengan volume sedikit-sedikit (≤200 mL tiap kali)
 3. **Urgensi** — Perasaan ingin berkemih mendadak dan sulit ditahan
 
 ### Gejala Penyerta
+
 - **Nyeri suprapubik** — Rasa tidak nyaman atau berat di atas simfisis pubis
 - **Urin keruh atau berbau** — Akibat piuria dan aktivitas bakteri
 - **Hematuria makroskopis** — Darah tampak kasat mata pada urin (sistitis hemoragik)
 - **Nokturia** — Sering terbangun malam hari untuk berkemih
 
 ### Pada Uretritis
-- **Disuria** terutama di awal miksi (*initial dysuria*)
-- **Discharge uretra** pada beberapa kasus (purulen → *N. gonorrhoeae*; mukoid → *C. trachomatis*)
-- Sering disertai [[02-inspeksi-palpasi-genitalia-eksterna|tanda iritasi di muara uretra]] berupa eritema
+
+- **Disuria** terutama di awal miksi (_initial dysuria_)
+- **Discharge uretra** pada beberapa kasus (purulen → _N. gonorrhoeae_; mukoid → _C. trachomatis_)
+- Sering disertai tanda iritasi di muara uretra berupa eritema
 
 > [!warning] Gejala yang Harus Mencurigakan Pielonefritis
+>
 > - Demam >38°C
 > - Menggigil
 > - Nyeri ketok kostovertebra (nyeri pinggang)
 > - Mual dan muntah
 > - Tanda toksik sistemik
-> Temuan di atas menandakan infeksi sudah naik ke ginjal — **bukan ISK bawah murni**. Tata laksana berbeda!
+>   Temuan di atas menandakan infeksi sudah naik ke ginjal — **bukan ISK bawah murni**. Tata laksana berbeda!
 
 ---
 
 ## Diagnosis
 
 ### 1. Anamnesis
+
 Tanyakan secara sistematis:
+
 - Onset, durasi, dan karakteristik disuria
 - Ada/tidak demam, nyeri pinggang, mual/muntah
 - Riwayat ISK sebelumnya
@@ -173,37 +181,43 @@ Tanyakan secara sistematis:
 ### 2. Pemeriksaan Fisik
 
 **Pemeriksaan umum:**
+
 - Tanda vital — demam? Takikardia?
 - Nyeri ketok pinggang — jika positif → pielonefritis
 - Nyeri tekan suprapubik
 
 **Pemeriksaan genitalia eksterna:**
-Lakukan [[02-inspeksi-palpasi-genitalia-eksterna|inspeksi dan palpasi genitalia eksterna]] untuk menilai:
+Lakukan inspeksi dan palpasi genitalia eksterna untuk menilai:
+
 - Eritema muara uretra (OUE)
 - Discharge uretra — coba ekspresi dengan tekanan lembut dari anterior vagina ke arah uretra
 - Tanda infeksi menular seksual lainnya (ulkus, kondiloma, fluor vagina)
 
 **Pemeriksaan spekulum dan bimanual:**
-- [[03-pemeriksaan-spekulum|Pemeriksaan spekulum]] diperlukan jika ada duh tubuh vagina untuk membedakan ISK dari vaginitis/servisitis
-- Periksa [[04-pemeriksaan-bimanual|pemeriksaan bimanual]] jika ada nyeri perut bawah untuk menilai organ pelvis
-- Lakukan [[05-melakukan-swab-vagina|swab vagina]] jika dicurigai ada infeksi genital penyerta
+
+- Pemeriksaan spekulum diperlukan jika ada duh tubuh vagina untuk membedakan ISK dari vaginitis/servisitis
+- Periksa pemeriksaan bimanual jika ada nyeri perut bawah untuk menilai organ pelvis
+- Lakukan swab vagina jika dicurigai ada infeksi genital penyerta
 
 ### 3. Pemeriksaan Penunjang
 
 #### a. Urinalisis — Wajib dilakukan
-| Pemeriksaan | Temuan pada ISK bawah | Interpretasi |
-|-------------|----------------------|--------------|
-| **Leukosit esterase** | Positif | Mengindikasikan piuria |
-| **Nitrit** | Positif | Bakteri pereduksi nitrat (E. coli, Klebsiella, Proteus) |
-| **Eritrosit** | ≥5/LPB | Hematuria mikroskopis |
-| **Bakteri** | ≥20 bakteri/LPB pada sedimen | + temuan lain → diagnosis ISK |
-| **pH urin** | >7 | Curigai infeksi *Proteus* (pemecah urea) |
+
+| Pemeriksaan           | Temuan pada ISK bawah        | Interpretasi                                            |
+| --------------------- | ---------------------------- | ------------------------------------------------------- |
+| **Leukosit esterase** | Positif                      | Mengindikasikan piuria                                  |
+| **Nitrit**            | Positif                      | Bakteri pereduksi nitrat (E. coli, Klebsiella, Proteus) |
+| **Eritrosit**         | ≥5/LPB                       | Hematuria mikroskopis                                   |
+| **Bakteri**           | ≥20 bakteri/LPB pada sedimen | + temuan lain → diagnosis ISK                           |
+| **pH urin**           | >7                           | Curigai infeksi _Proteus_ (pemecah urea)                |
 
 > [!tip] Negatif Palsu Nitrit
-> *Staphylococcus saprophyticus*, *Enterococcus*, dan *Chlamydia* **tidak** mereduksi nitrat → tes nitrit bisa negatif walau ada infeksi. Jangan mengandalkan nitrit negatif sebagai satu-satunya alasan menyingkirkan ISK! Gunakan panel lengkap: leukosit esterase + sedimen.
+> _Staphylococcus saprophyticus_, _Enterococcus_, dan _Chlamydia_ **tidak** mereduksi nitrat → tes nitrit bisa negatif walau ada infeksi. Jangan mengandalkan nitrit negatif sebagai satu-satunya alasan menyingkirkan ISK! Gunakan panel lengkap: leukosit esterase + sedimen.
 
 #### b. Kultur Urin & Uji Resistensi
+
 **Indikasi:**
+
 - ISK berulang (≥2 episode dalam 6 bulan atau ≥3 dalam 1 tahun)
 - Gagal terapi empiris dalam 48–72 jam
 - Kehamilan
@@ -211,24 +225,25 @@ Lakukan [[02-inspeksi-palpasi-genitalia-eksterna|inspeksi dan palpasi genitalia 
 - Curiga infeksi jamur atau bakteri atipik
 - Pria dewasa dengan ISK (ISK pada pria selalu dianggap complicated sampai terbukti sebaliknya)
 
-**Interpretasi kultur:** Pertumbuhan ≥10⁵ CFU/mL bakteri patogen tunggal pada spesimen urin porsi tengah (*midstream*) signifikan.
+**Interpretasi kultur:** Pertumbuhan ≥10⁵ CFU/mL bakteri patogen tunggal pada spesimen urin porsi tengah (_midstream_) signifikan.
 
 #### c. Pemeriksaan Tambahan
-- **[[23-tes-kehamilan|Tes kehamilan]]** — Wajib pada wanita usia reproduksi sebelum memberi antibiotik golongan tertentu (misal fluorokuinolon kontraindikasi pada kehamilan)
+
+- **Tes kehamilan** — Wajib pada wanita usia reproduksi sebelum memberi antibiotik golongan tertentu (misal fluorokuinolon kontraindikasi pada kehamilan)
 - **USG saluran kemih** — Jika dicurigai batu, striktur, atau abses perinefrik
 
 ---
 
 ## Diagnosis Banding
 
-| Penyakit | Cara Membedakan |
-|----------|----------------|
-| **Vaginitis** | Fluor vagina, gatal, nyeri hanya di luar uretra saat kencing (bukan saat miksi penuh) — pemeriksaan spekulum dan swab vagina membantu |
-| **Uretritis non-infeksi** | Iritasi akibat sabun, spermisida, atau trauma koitus — urinalisis normal |
-| **Sistitis interstisial** | Nyeri kandung kemih kronik dengan urinalisis dan kultur negatif — diagnosis eksklusi |
-| **Pielonefritis** | Demam >38°C, nyeri pinggang, tanda toksik — jangan tunda rujukan |
-| **Batu saluran kemih** | Nyeri kolik menjalar ke selangkangan, hematuria, bisa disertai ISK sekunder |
-| **Hipersensitivitas kandung kemih** | Gejala serupa ISK tanpa bukti infeksi — sering terkait faktor psikologis |
+| Penyakit                            | Cara Membedakan                                                                                                                       |
+| ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| **Vaginitis**                       | Fluor vagina, gatal, nyeri hanya di luar uretra saat kencing (bukan saat miksi penuh) — pemeriksaan spekulum dan swab vagina membantu |
+| **Uretritis non-infeksi**           | Iritasi akibat sabun, spermisida, atau trauma koitus — urinalisis normal                                                              |
+| **Sistitis interstisial**           | Nyeri kandung kemih kronik dengan urinalisis dan kultur negatif — diagnosis eksklusi                                                  |
+| **Pielonefritis**                   | Demam >38°C, nyeri pinggang, tanda toksik — jangan tunda rujukan                                                                      |
+| **Batu saluran kemih**              | Nyeri kolik menjalar ke selangkangan, hematuria, bisa disertai ISK sekunder                                                           |
+| **Hipersensitivitas kandung kemih** | Gejala serupa ISK tanpa bukti infeksi — sering terkait faktor psikologis                                                              |
 
 ---
 
@@ -238,6 +253,7 @@ Lakukan [[02-inspeksi-palpasi-genitalia-eksterna|inspeksi dan palpasi genitalia 
 > Dokter umum menangani **ISK bawah tanpa komplikasi** pada wanita dewasa non-hamil. ISK berulang, pada kehamilan, pria, anak-anak, serta pasien dengan komorbid atau kegagalan terapi — **rujuk** ke dokter spesialis.
 
 ### Prinsip Umum
+
 1. Edukasi bahwa ISK bawah adalah infeksi bakteri yang **bisa sembuh total** dengan antibiotik
 2. Anjurkan **minum banyak air** (≥2 L/hari) untuk mempercepat flushing bakteri
 3. Hindari menahan kencing — kencing setiap 3–4 jam
@@ -248,22 +264,24 @@ Lakukan [[02-inspeksi-palpasi-genitalia-eksterna|inspeksi dan palpasi genitalia 
 
 **Lini pertama — Pilihan oral untuk ISK bawah tanpa komplikasi:**
 
-| Antibiotik | Dosis | Durasi | Catatan |
-|-----------|-------|--------|---------|
-| **Fosfomycin trometamol** | 3 gram dosis tunggal | 1 hari | +++ nyaman, efektivitas tinggi, resistensi rendah |
-| **Nitrofurantoin makrokristal** | 100 mg tiap 12 jam | 5 hari | Kadar terapi tinggi di urin, tidak di jaringan — pilihan aman |
-| **Trimetoprim-sulfametoksazol (TMP-SMX)** | 160/800 mg tiap 12 jam | 3 hari | Hanya jika resistensi lokal <20% |
-| **Sefalosporin oral (sefadroksil, sefaleksin)** | 500 mg tiap 12 jam | 5–7 hari | Alternatif jika lini pertama tidak tersedia |
+| Antibiotik                                      | Dosis                  | Durasi   | Catatan                                                       |
+| ----------------------------------------------- | ---------------------- | -------- | ------------------------------------------------------------- |
+| **Fosfomycin trometamol**                       | 3 gram dosis tunggal   | 1 hari   | +++ nyaman, efektivitas tinggi, resistensi rendah             |
+| **Nitrofurantoin makrokristal**                 | 100 mg tiap 12 jam     | 5 hari   | Kadar terapi tinggi di urin, tidak di jaringan — pilihan aman |
+| **Trimetoprim-sulfametoksazol (TMP-SMX)**       | 160/800 mg tiap 12 jam | 3 hari   | Hanya jika resistensi lokal <20%                              |
+| **Sefalosporin oral (sefadroksil, sefaleksin)** | 500 mg tiap 12 jam     | 5–7 hari | Alternatif jika lini pertama tidak tersedia                   |
 
 **Lini kedua (jika resistensi atau alergi):**
+
 - **Amoksisilin-klavulanat** — 500/125 mg tiap 8 jam, 5–7 hari
 - **Siprofloksasin atau levofloksasin** — Cadangan! Risiko resistensi tinggi, kontraindikasi pada hamil dan menyusui, hindari sebagai lini pertama
 
 > [!warning] Perhatikan Kontraindikasi Obat
+>
 > 1. **Fluorokuinolon** (siprofloksasin, levofloksasin) — JANGAN pada kehamilan, menyusui, dan anak <18 tahun. Efek samping tendonitis/tendon rupture dan gangguan neurologi.
 > 2. **TMP-SMX** — Hindari pada kehamilan trimester III (risiko kernikterus pada neonatus) dan defisiensi G6PD.
 > 3. **Nitrofurantoin** — Kontraindikasi pada gangguan fungsi ginjal (CrCl <30 mL/menit) dan kehamilan aterm (risiko anemia hemolitik pada neonatus).
-> 4. Semua antibiotik — pastikan pasien sudah di-[[23-tes-kehamilan|tes kehamilan]] dan hasilnya diketahui sebelum memberi resep!
+> 4. Semua antibiotik — pastikan pasien sudah di-tes kehamilan dan hasilnya diketahui sebelum memberi resep!
 
 ### Alur Tatalaksana Praktis
 
@@ -284,13 +302,14 @@ Anamnesis + PF + Urinalisis
          │
          └── Urinalisis (‑) → cari penyebab lain:
                    ├── Uretritis gonokokal/non-gonokokal → swab uretra + rujuk
-                   ├── Vaginitis → [[05-melakukan-swab-vagina|swab vagina]]
+                   ├── Vaginitis → swab vagina
                    └── Iritasi mekanis → edukasi
 ```
 
 ### Tata Laksana Uretritis Spesifik
-- **Uretritis gonokokal** (discharge purulen, disertai [[02-inspeksi-palpasi-genitalia-eksterna|eritema OUE]]) → rujuk ke dokter spesialis
-- **Uretritis non-gonokokal** (discharge mukoid, *Chlamydia* tersering) → rujuk
+
+- **Uretritis gonokokal** (discharge purulen, disertai eritema OUE) → rujuk ke dokter spesialis
+- **Uretritis non-gonokokal** (discharge mukoid, _Chlamydia_ tersering) → rujuk
 - Keduanya memerlukan **terapi pasangan** karena termasuk Infeksi Menular Seksual (IMS)
 
 ---
@@ -299,16 +318,17 @@ Anamnesis + PF + Urinalisis
 
 Jika tidak diterapi atau terapi tidak adekuat, ISK bawah dapat:
 
-| Komplikasi | Mekanisme |
-|------------|-----------|
-| **Pielonefritis akut** | Asenden infeksi dari vesika ke ginjal — demam tinggi, nyeri pinggang, sepsis |
-| **ISK berulang** | Relaps (patogen sama) atau re-infeksi (patogen baru) |
-| **Abses perinefrik** | Akumulasi pus di sekitar ginjal — jarang |
-| **Bakteriuria pada kehamilan** | Risiko pielonefritis gestasional, BBLR, prematuritas |
-| **Urosepsis** | Infeksi menyebar ke aliran darah — mengancam jiwa |
+| Komplikasi                     | Mekanisme                                                                    |
+| ------------------------------ | ---------------------------------------------------------------------------- |
+| **Pielonefritis akut**         | Asenden infeksi dari vesika ke ginjal — demam tinggi, nyeri pinggang, sepsis |
+| **ISK berulang**               | Relaps (patogen sama) atau re-infeksi (patogen baru)                         |
+| **Abses perinefrik**           | Akumulasi pus di sekitar ginjal — jarang                                     |
+| **Bakteriuria pada kehamilan** | Risiko pielonefritis gestasional, BBLR, prematuritas                         |
+| **Urosepsis**                  | Infeksi menyebar ke aliran darah — mengancam jiwa                            |
 
 > [!tip] ISK Berulang — Jangan Asal Ganti Antibiotik
 > Jika pasien datang lagi dengan keluhan yang sama dalam 2 minggu setelah terapi:
+>
 > - Lakukan **kultur urin + uji resistensi** sebelum mengganti antibiotik
 > - Bedakan **relaps** (patogen sama, terapi tidak adekuat) vs **re-infeksi** (patogen lain)
 > - Evaluasi faktor risiko yang belum diatasi: apakah ada batu? Diabetes? Kebiasaan menahan kencing?
@@ -319,8 +339,9 @@ Jika tidak diterapi atau terapi tidak adekuat, ISK bawah dapat:
 ## Pencegahan
 
 ### Edukasi Pasien
+
 1. **Minum air putih yang cukup** — minimal 8 gelas (≈2 L) sehari
-2. **Kencing setelah berhubungan seksual** — *post-coital voiding* menurunkan risiko secara signifikan
+2. **Kencing setelah berhubungan seksual** — _post-coital voiding_ menurunkan risiko secara signifikan
 3. **Jangan menahan kencing** — kencing setiap 3–4 jam
 4. **Kebiasaan cebok yang benar** — dari depan ke belakang (vagina ke anus), jangan sebaliknya
 5. **Hindari sabun vagina beraroma dan douching** — mengiritasi uretra dan mengubah flora normal
@@ -328,6 +349,7 @@ Jika tidak diterapi atau terapi tidak adekuat, ISK bawah dapat:
 7. **Kenakan celana dalam katun** yang tidak terlalu ketat — sirkulasi udara baik, tidak lembab
 
 ### Tindakan Medis
+
 - Pada wanita pascamenopause dengan ISK berulang → estrogen vaginal topikal (krim atau tablet) dapat dipertimbangkan oleh spesialis
 - Pada wanita hamil → skrining urinalisis setiap kunjungan ANC
 - Profilaksis antibiotik (dosis rendah jangka panjang) → hanya atas indikasi spesialis
@@ -346,15 +368,15 @@ Jika tidak diterapi atau terapi tidak adekuat, ISK bawah dapat:
 
 Untuk mendiagnosis dan menatalaksana ISK bawah dengan baik, kuasai keterampilan berikut:
 
-- [[02-inspeksi-palpasi-genitalia-eksterna|Inspeksi & Palpasi Genitalia Eksterna]] — Menilai eritema OUE dan discharge uretra
-- [[03-pemeriksaan-spekulum|Pemeriksaan Spekulum]] — Membantu membedakan ISK dari vaginitis/servisitis
-- [[04-pemeriksaan-bimanual|Pemeriksaan Bimanual]] — Menilai nyeri organ pelvis dan massa
-- [[05-melakukan-swab-vagina|Melakukan Swab Vagina]] — Mengambil specimen jika ada infeksi genital penyerta
-- [[23-tes-kehamilan|Tes Kehamilan]] — Wajib sebelum memberi antibiotik tertentu pada wanita usia reproduksi
+- Inspeksi & Palpasi Genitalia Eksterna — Menilai eritema OUE dan discharge uretra
+- Pemeriksaan Spekulum — Membantu membedakan ISK dari vaginitis/servisitis
+- Pemeriksaan Bimanual — Menilai nyeri organ pelvis dan massa
+- Melakukan Swab Vagina — Mengambil specimen jika ada infeksi genital penyerta
+- Tes Kehamilan — Wajib sebelum memberi antibiotik tertentu pada wanita usia reproduksi
 
 ---
 
-## Hal yang Tidak Boleh Dilakukan (*Don'ts*)
+## Hal yang Tidak Boleh Dilakukan (_Don'ts_)
 
 1. ❌ **Jangan** memberi fluorokuinolon tanpa tes kehamilan — fatal jika pasien ternyata hamil
 2. ❌ **Jangan** mendiagnosis ISK hanya dari gejala tanpa urinalisis — banyak penyakit meniru ISK
@@ -367,8 +389,9 @@ Untuk mendiagnosis dan menatalaksana ISK bawah dengan baik, kuasai keterampilan 
 
 ## Ringkasan untuk Koas
 
-> [!tip] Pesan Penutup — *Take-Home Messages*
-> 1. **ISK bawah pada wanita = sistitis** → *E. coli* penyebab 80%.
+> [!tip] Pesan Penutup — _Take-Home Messages_
+>
+> 1. **ISK bawah pada wanita = sistitis** → _E. coli_ penyebab 80%.
 > 2. **Diagnosis ditegakkan dari trias** → disuria + frekuensi + urgensi, diperkuat urinalisis (leukosit esterase + nitrit + bakteriuria).
 > 3. **Fosfomycin 3 g dosis tunggal atau nitrofurantoin 100 mg/12 jam/5 hari** adalah pilihan utama.
 > 4. **Jangan lupa tes kehamilan** pada wanita usia subur — Anda bisa meresepkan obat yang teratogenik jika tidak periksa.

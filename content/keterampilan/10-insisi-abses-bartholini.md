@@ -92,7 +92,7 @@ Abses kelenjar Bartholini adalah kondisi ginekologi darurat yang sering ditemuka
 
 ## Dipakai Untuk Penyakit Apa Saja
 
-- [[19-kista-abses-bartolini|Kista & Abses Kelenjar Bartolini]]
+- Kista & Abses Kelenjar Bartolini
 
 ---
 

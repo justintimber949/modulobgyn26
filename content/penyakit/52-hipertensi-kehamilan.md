@@ -31,27 +31,27 @@ Ny. Rina, 32 tahun, G1P0A0, usia kehamilan 34 minggu. ANC rutin: TD 148/94 mmHg 
 
 ## Klasifikasi Hipertensi Kehamilan (ACOG/POGI/ISHIB 2020)
 
-| Kategori | Definisi | Onset | Proteinuria |
-|----------|----------|-------|-------------|
-| **Hipertensi Kronik** | TD ≥ 140/90 **sebelum hamil / < 20 mg** | Sebelum kehamilan | Bisa ada/bukan |
-| **Hipertensi Gestasional** | TD ≥ 140/90 **≥ 20 mg** pada ibu normotensif sebelumnya | ≥ 20 mg | **Tidak ada** |
-| **Preeklampsia** | Hipertensi gestasional/kronik ** + proteinuria / end-organ dysfunction** | ≥ 20 mg | **Ada** (atau end-organ) |
-| **Preeklampsia Superimposed** | Hipertensi kronik + proteinuria baru / peningkatan TD / end-organ baru | ≥ 20 mg | Ada (baru/naik) |
-| **Eklampsia** | Preeklampsia + **kejang** (tanpa sebab neuro lain) | ≥ 20 mg | Ada |
+| Kategori                      | Definisi                                                                 | Onset             | Proteinuria              |
+| ----------------------------- | ------------------------------------------------------------------------ | ----------------- | ------------------------ |
+| **Hipertensi Kronik**         | TD ≥ 140/90 **sebelum hamil / < 20 mg**                                  | Sebelum kehamilan | Bisa ada/bukan           |
+| **Hipertensi Gestasional**    | TD ≥ 140/90 **≥ 20 mg** pada ibu normotensif sebelumnya                  | ≥ 20 mg           | **Tidak ada**            |
+| **Preeklampsia**              | Hipertensi gestasional/kronik ** + proteinuria / end-organ dysfunction** | ≥ 20 mg           | **Ada** (atau end-organ) |
+| **Preeklampsia Superimposed** | Hipertensi kronik + proteinuria baru / peningkatan TD / end-organ baru   | ≥ 20 mg           | Ada (baru/naik)          |
+| **Eklampsia**                 | Preeklampsia + **kejang** (tanpa sebab neuro lain)                       | ≥ 20 mg           | Ada                      |
 
 > **Catatan:** Proteinuria = 300 mg/24 jam ATAU P/C ratio ≥ 0,3 ATAU dipstick 1+ (jika 24 jam/ratio tidak tersedia). **End-organ dysfunction:** Trombosit < 100.000, Kreatinin > 1,1 mg/dL (atau naik 2× baseline), AST/ALT 2× normal, edema paru, serebrovaskuler (sakit kepala berat, visual disturbance).
 
 ## Preeklampsia: Fitur Berat (Severe Features) — **WAJIB DICARI**
 
-| Sistem | Kriteria Berat |
-|--------|----------------|
-| **Tekanan Darah** | Sistolik ≥ 160 **ATAU** Diastolik ≥ 110 mmHg (pada 2 pengukuran 15 menit jarak, setelah istirahat) |
+| Sistem              | Kriteria Berat                                                                                               |
+| ------------------- | ------------------------------------------------------------------------------------------------------------ |
+| **Tekanan Darah**   | Sistolik ≥ 160 **ATAU** Diastolik ≥ 110 mmHg (pada 2 pengukuran 15 menit jarak, setelah istirahat)           |
 | **Serebrovaskuler** | Sakit kepala berat/tekun (tidak mereda parasetamol), gangguan visual (scotoma, fotofobia, blur), papilledema |
-| **Hati** | Nyeri epigastrium / RUQ (kanan atas) tekun, **AST/ALT ≥ 2× normal** |
-| **Ginjal** | Kreatinin > 1,1 mg/dL **ATAU** naik 2× baseline, **Oliguria** (< 500 mL/24 jam) |
-| **Hematologis** | **Trombosit < 100.000** (HELLP syndrome jika + hemolisis + hati) |
-| **Placenta/Janin** | IUGR < 10 persentil, Oligohidramnion (AFI < 5), Dopper UA abnormal (AEDV/REV) |
-| **Edema Paru** | Sesak napas, O2 sat < 95%, ronkhi basal |
+| **Hati**            | Nyeri epigastrium / RUQ (kanan atas) tekun, **AST/ALT ≥ 2× normal**                                          |
+| **Ginjal**          | Kreatinin > 1,1 mg/dL **ATAU** naik 2× baseline, **Oliguria** (< 500 mL/24 jam)                              |
+| **Hematologis**     | **Trombosit < 100.000** (HELLP syndrome jika + hemolisis + hati)                                             |
+| **Placenta/Janin**  | IUGR < 10 persentil, Oligohidramnion (AFI < 5), Dopper UA abnormal (AEDV/REV)                                |
+| **Edema Paru**      | Sesak napas, O2 sat < 95%, ronkhi basal                                                                      |
 
 > [!warning] Red Flag
 > **SATU SAJA fitur berat di atas = PREEKLAMPSIA BERAT** → **Rawat inap, kontrol ketat, pertimbangkan terminasi kehamilan** (tergantung UK).
@@ -60,50 +60,57 @@ Ny. Rina, 32 tahun, G1P0A0, usia kehamilan 34 minggu. ANC rutin: TD 148/94 mmHg 
 ## Screening & Diagnosis
 
 ### ANC Rutin (Setiap Kunjungan)
+
 1. **TD** (kursi, lengan hati, manset ukur, 2× ambil rata-rata)
 2. **Proteinuria:** Dipstick (screening) → jika 1+ lanjut P/C ratio atau 24 jam
 3. **Edema:** Wajah, tangan, kaki (non-spesifik tapi mendukung)
 4. **Gejala:** Sakit kepala, visual, epigastric, sesak
 
 ### Lab Diagnostik (Jika TD ≥ 140/90 atau Proteinuria +)
-| Pemeriksaan | Frekuensi | Target |
-|-------------|-----------|--------|
-| **Darah Lengkap (Hb, Ht, Trombosit)** | 1-2×/minggu (rawat inap) / 2×/minggu (rawat jalan) | Trombosit < 100.000 = berat |
-| **Fungsi Hati (AST, ALT, LDH)** | 1-2×/minggu | ≥ 2× normal = berat |
-| **Fungsi Ginjal (Kreatinin, Ureum, Acurat acid)** | 1-2×/minggu | > 1,1 mg/dL = berat |
-| **Proteinuria (P/C Ratio / 24 jam)** | Awal + 1×/minggu | ≥ 0,3 / 300 mg = preeklampsia |
-| **Koagulasi (PT, aPTT, Fibrinogen, D-dimer)** | Jika trombosit < 100k / bleeding | DIC screening |
-| **USG + Doppler UA** | 1-2×/minggu | IUGR, AFI, AEDV/REV = berat |
+
+| Pemeriksaan                                       | Frekuensi                                          | Target                        |
+| ------------------------------------------------- | -------------------------------------------------- | ----------------------------- |
+| **Darah Lengkap (Hb, Ht, Trombosit)**             | 1-2×/minggu (rawat inap) / 2×/minggu (rawat jalan) | Trombosit < 100.000 = berat   |
+| **Fungsi Hati (AST, ALT, LDH)**                   | 1-2×/minggu                                        | ≥ 2× normal = berat           |
+| **Fungsi Ginjal (Kreatinin, Ureum, Acurat acid)** | 1-2×/minggu                                        | > 1,1 mg/dL = berat           |
+| **Proteinuria (P/C Ratio / 24 jam)**              | Awal + 1×/minggu                                   | ≥ 0,3 / 300 mg = preeklampsia |
+| **Koagulasi (PT, aPTT, Fibrinogen, D-dimer)**     | Jika trombosit < 100k / bleeding                   | DIC screening                 |
+| **USG + Doppler UA**                              | 1-2×/minggu                                        | IUGR, AFI, AEDV/REV = berat   |
 
 ## Tata Laksana Berbasis UK & Keparahan
 
 ### A. Hipertensi Gestasional (Tanpa Proteinuria / End-Organ)
-| UK | TD Target | Terapi | Monitoring |
-|----|-----------|--------|------------|
+
+| UK          | TD Target                   | Terapi                                                                                                                                                         | Monitoring                          |
+| ----------- | --------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
 | **< 37 mg** | < 140/90 (non-farmako dulu) | Lifestyle (garam < 2g, tidur kiri, aktivitas ringan) → jika ≥ 140/90: **Metildopa 250 mg 3×** (first-line) / Labetalol 100-200 mg 2-3× / Nifedipin XL 30-60 mg | TD harian, lab mingguan, USG 2×/bln |
-| **≥ 37 mg** | < 140/90 | Farmako + **Induksi persalinan 37-39 mg** | Persalinan |
+| **≥ 37 mg** | < 140/90                    | Farmako + **Induksi persalinan 37-39 mg**                                                                                                                      | Persalinan                          |
 
 > **Obat Pilihan (Kategori B/C aman):**
+>
 > 1. **Metildopa** (first-line, data paling lama, aman janin)
 > 2. **Labetalol** (α+β blocker, efektif, jangan jika asma/bradikardi)
 > 3. **Nifedipin XL** (CCB, sekali sehari, baik untuk compliance)
 > 4. **Hidralazin** (IV darurat, bukan oral maintenance)
-> **JANGAN:** ACEI/ARB (teratogenik), Diuretik (mengurangi volume plasenta), Atenolol (IUGR)
+>    **JANGAN:** ACEI/ARB (teratogenik), Diuretik (mengurangi volume plasenta), Atenolol (IUGR)
 
 ### B. Preeklampsia TANPA Fitur Berat (Expectant Management)
-| UK | Strategi |
-|----|----------|
-| **< 34 mg** | **Expectant management** rawat inap: antihipertensi (target TD 110-140/80-90), **Betametason 12 mg IM 2× 24 jam** (maturasi paru), MgSO4 profilaksis eklampsia **HANYA jika fitur berat / SC / induksi**, monitoring harian TD, lab 2×/minggu, USG+Doppler mingguan. **Tujuan: mencapai 34 mg**. |
-| **34-37 mg** | Expectant management **ATAU** induksi (jika maternal/fetal indication). Betametason jika < 34+6. |
-| **≥ 37 mg** | **Induksi persalinan / SC elektif** — terminasi kehamilan = terapi definitif. |
+
+| UK           | Strategi                                                                                                                                                                                                                                                                                         |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **< 34 mg**  | **Expectant management** rawat inap: antihipertensi (target TD 110-140/80-90), **Betametason 12 mg IM 2× 24 jam** (maturasi paru), MgSO4 profilaksis eklampsia **HANYA jika fitur berat / SC / induksi**, monitoring harian TD, lab 2×/minggu, USG+Doppler mingguan. **Tujuan: mencapai 34 mg**. |
+| **34-37 mg** | Expectant management **ATAU** induksi (jika maternal/fetal indication). Betametason jika < 34+6.                                                                                                                                                                                                 |
+| **≥ 37 mg**  | **Induksi persalinan / SC elektif** — terminasi kehamilan = terapi definitif.                                                                                                                                                                                                                    |
 
 ### C. Preeklampsia DENGAN FITUR BERAT (Severe Preeklampsia)
-| UK | Strategi |
-|----|----------|
+
+| UK          | Strategi                                                                                                                                                                                                                                                                                                                                                                 |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **< 34 mg** | **Stabilisasi maternal DULU** (MgSO4 loading 4-6 g IV 15-20 menit → maintenance 1-2 g/jam, antihipertensi IV: Labetalol 20-80 mg IV bolus / Nifedipin 10 mg PO / Hidralazin 5-10 mg IV), Betametason 12 mg IM 2× 24 jam. **Tujuan: stabilkan 48 jam untuk betametason kerja, lalu terminasi**. Jika maternal tidak stabil / janin kompromis → **terminasi segera (SC)**. |
-| **≥ 34 mg** | **Terminasi kehamilan segera** (Induksi jika serviks unfavorabel + MgSO4 profilaksis / SC jika kontraindikasi induksi / maternal tidak stabil). |
+| **≥ 34 mg** | **Terminasi kehamilan segera** (Induksi jika serviks unfavorabel + MgSO4 profilaksis / SC jika kontraindikasi induksi / maternal tidak stabil).                                                                                                                                                                                                                          |
 
 ### D. Eklampsia
+
 - **MgSO4 loading 4-6 g IV 15-20 menit → maintenance 1-2 g/jam minimal 24 jam pasca kejang terakhir / pasca persalinan**
 - **Antihipertensi IV** target TD < 160/110 (Hidralazin 5-10 mg IV / Labetalol 20-80 mg IV bolus / Nifedipin 10 mg PO)
 - **Intubasi/ventilasi** jika GCS < 8 / aspirasi / edema paru
@@ -111,25 +118,26 @@ Ny. Rina, 32 tahun, G1P0A0, usia kehamilan 34 minggu. ANC rutin: TD 148/94 mmHg 
 
 ## Monitoring MgSO4 (Profilaksis/Terapi Eklampsia)
 
-| Parameter | Target / Batas |
-|-----------|----------------|
-| **Refleks patella** | Hadir (hilang = toksisitas) |
-| **Frekuensi Napas** | ≥ 12×/menit (< 12 = toksisitas) |
-| **Output Urin** | ≥ 30 mL/jam (100 mL/4 jam) |
-| **Mg Level Serum** | Terapeutik 4-8 mg/dL (2-4 mmol/L) — **cek 4-6 jam setelah loading, lalu 6-12 jam** |
-| **Antidot** | **Kalsium Gluconat 1 g (10 mL 10%) IV lento** jika toksisitas (refleks hilang / apnea / blok AV) |
+| Parameter           | Target / Batas                                                                                   |
+| ------------------- | ------------------------------------------------------------------------------------------------ |
+| **Refleks patella** | Hadir (hilang = toksisitas)                                                                      |
+| **Frekuensi Napas** | ≥ 12×/menit (< 12 = toksisitas)                                                                  |
+| **Output Urin**     | ≥ 30 mL/jam (100 mL/4 jam)                                                                       |
+| **Mg Level Serum**  | Terapeutik 4-8 mg/dL (2-4 mmol/L) — **cek 4-6 jam setelah loading, lalu 6-12 jam**               |
+| **Antidot**         | **Kalsium Gluconat 1 g (10 mL 10%) IV lento** jika toksisitas (refleks hilang / apnea / blok AV) |
 
 ## Komplikasi Maternal
 
-| Komplikasi | Penanganan |
-|------------|------------|
-| **HELLP Syndrome** | Terminasi kehamilan (UK apa pun), transfusi trombosit jika < 20.000 / bleeding, MgSO4, antihipertensi, rujuk fasilitas lengkap (ICU, bank darah, neonatologi) |
-| **Edema Paru** | Diuretik (furosemid 20-40 mg IV), O2, NIV/ventilasi, posisi semi-fowler |
-| **Strok (Intrakranial hemorrhage)** | CT Scan kepala, neurokonsul, kontrol TD ketat (target < 140/90 tapi tidak terlalu cepat turun) |
-| **DIC** | Transfusi FFP, trombosit, kriopresipitat, fibrinogen, हेपארين kontroversial |
-| **Nefropati / AKI** | Hidrasi hati-hati, hindari nefrotoksik, dialisis jika indikasi |
+| Komplikasi                          | Penanganan                                                                                                                                                    |
+| ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **HELLP Syndrome**                  | Terminasi kehamilan (UK apa pun), transfusi trombosit jika < 20.000 / bleeding, MgSO4, antihipertensi, rujuk fasilitas lengkap (ICU, bank darah, neonatologi) |
+| **Edema Paru**                      | Diuretik (furosemid 20-40 mg IV), O2, NIV/ventilasi, posisi semi-fowler                                                                                       |
+| **Strok (Intrakranial hemorrhage)** | CT Scan kepala, neurokonsul, kontrol TD ketat (target < 140/90 tapi tidak terlalu cepat turun)                                                                |
+| **DIC**                             | Transfusi FFP, trombosit, kriopresipitat, fibrinogen, हेपארين kontroversial                                                                                   |
+| **Nefropati / AKI**                 | Hidrasi hati-hati, hindari nefrotoksik, dialisis jika indikasi                                                                                                |
 
 ## Pasca Persalinan
+
 - **MgSO4 lanjut 24 jam pasca persalinan / 24 jam pasca kejang terakhir**
 - **Antihipertensi:** Sering butuh 1-2 minggu, lalu taper. Metildopa/labetalol/nifedipin bisa lanjut.
 - **Monitoring TD:** 4 jam × 24 jam, lalu 6 jam × 48 jam, lalu harian × 1 minggu
@@ -137,11 +145,12 @@ Ny. Rina, 32 tahun, G1P0A0, usia kehamilan 34 minggu. ANC rutin: TD 148/94 mmHg 
 - **Kontrol 6 minggu:** TD, proteinuria, lab — jika persisten → hipertensi kronik, rujuk Penyakit Dalam
 
 ## Pencegahan (Preeklampsia Prevention)
-| Intervensi | Target | Evidensi |
-|------------|--------|----------|
-| **Asam Asetat (Aspirin) 75-150 mg malam** | Mulai **12-16 mg** (maks 28 mg) hingga 36 mg / persalinan | **Risiko tinggi:** Preeklampsia sebelumnya, hipertensi kronik, DM, nefropati, APS, kehamilan ganda, IVF, usia > 40, BMI > 35, faktor risiko ≥ 2 moderat | **Kurangi risiko 10-20%** (RCT besar) |
-| **Kalsium 1-2 g/hari** | Jika asupan kalsium < 600 mg/hari (populasi rendah kalsium) | Kurangi risiko preeklampsia ~50% |
-| **Kontrol berat badan & aktivitas** | BMI < 30, olahraga ringan 150 menit/mgg | Modest benefit |
+
+| Intervensi                                | Target                                                      | Evidensi                                                                                                                                                |
+| ----------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- |
+| **Asam Asetat (Aspirin) 75-150 mg malam** | Mulai **12-16 mg** (maks 28 mg) hingga 36 mg / persalinan   | **Risiko tinggi:** Preeklampsia sebelumnya, hipertensi kronik, DM, nefropati, APS, kehamilan ganda, IVF, usia > 40, BMI > 35, faktor risiko ≥ 2 moderat | **Kurangi risiko 10-20%** (RCT besar) |
+| **Kalsium 1-2 g/hari**                    | Jika asupan kalsium < 600 mg/hari (populasi rendah kalsium) | Kurangi risiko preeklampsia ~50%                                                                                                                        |
+| **Kontrol berat badan & aktivitas**       | BMI < 30, olahraga ringan 150 menit/mgg                     | Modest benefit                                                                                                                                          |
 
 ## Ringkasan untuk Dokter Umum
 
@@ -156,13 +165,13 @@ Ny. Rina, 32 tahun, G1P0A0, usia kehamilan 34 minggu. ANC rutin: TD 148/94 mmHg 
 
 ## Keterampilan Terkait
 
-- [[35-preeklampsia]]
-- [[36-eklampsia]]
-- [[40-hipoksia-janin]]
-- [[47-resusitasi-cairan-ibu]]
-- [[53-induksi-kimiawi-persalinan]]
-- [[70-operasi-caesar]]
-- [[66-insersi-kateter-tekanan-intrauterus]]
+- Preeklampsia
+- Eklampsia
+- Hipoksia Janin
+- Resusitasi Cairan Ibu
+- Induksi Kimiawi Persalinan
+- Operasi Caesar
+- Insersi Kateter Tekanan Intrauterus
 
 ## Referensi
 

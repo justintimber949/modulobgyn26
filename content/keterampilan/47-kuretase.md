@@ -1,32 +1,32 @@
 ---
 title: Kuretase (Dilatasi dan Kuretase / D&C)
 tags:
-- keterampilan
-- ginekologi-dasar
-- skdi-3
+  - keterampilan
+  - ginekologi-dasar
+  - skdi-3
 level_kompetensi: 3
 kategori: ginekologi-dasar
 nomor_modul: 47
 aliases:
-- Dilatasi dan Kuretase
-- D&C
-- Kuretase Endometrium
-- Kuretase Diagnostik
-- Kuretase Terapeutik
-- Evakuasi Uterus
-- kuretase
-- d&c
-- dilatasi kuretase
-- kuretase endometrium
-- kuretase diagnostik
+  - Dilatasi dan Kuretase
+  - D&C
+  - Kuretase Endometrium
+  - Kuretase Diagnostik
+  - Kuretase Terapeutik
+  - Evakuasi Uterus
+  - kuretase
+  - d&c
+  - dilatasi kuretase
+  - kuretase endometrium
+  - kuretase diagnostik
 cssclasses:
-- buku-saku
+  - buku-saku
 ---
-
 
 ## Kenapa Keterampilan Ini Penting
 
 **Kuretase (D&C)** adalah prosedur ginekologi **palig dasar & paling sering** dilakukan untuk evaluasi & tatalaksana patologi rongga uterus. Menguasainya berarti:
+
 - **Diagnostik**: Gold standard histopatologi endometrium (AUB, hiperplasia, Ca endometrium, infertilitas).
 - **Terapeutik**: Evakuasi produk konsepsi (retensio plasenta, keguguran tidak lengkap, mola hidatidosa), pengangkatan polip, hemostasis AUB parah.
 - **Kompetensi Penyelamat Nyawa**: Penanganan **retensio plasenta** (PPH penyebab #1 kematian ibu) & **AUB masif** butuh D&C cepat & aman.
@@ -39,6 +39,7 @@ Keterampilan **dilatasi bertahap (Hegar/Pratt), kuretase tajam vs tumpul (sharp 
 ## Indikasi & Kontraindikasi
 
 ### Indikasi Diagnostik
+
 1. **Abnormal Uterine Bleeding (AUB)**: Perimenopause, postmenopause, AUB tidak respons medis, screening Ca Endometrium (risiko tinggi: obesitas, PCOS, tamoksifen, Lynch).
 2. **Hiperplasia Endometrium / Ca Endometrium**: Konfirmasi histopat (biopsi pipelle gagal/tidak representatif).
 3. **Infertilitas**: Evaluasi faktor uterine (polip, sinekia, hiperplasia, TB endometrium).
@@ -47,18 +48,20 @@ Keterampilan **dilatasi bertahap (Hegar/Pratt), kuretase tajam vs tumpul (sharp 
 6. **Retensio Plasenta** (Placenta tidak lahir >30 menit / perdarahan) — **EMERGENCY D&C**.
 
 ### Indikasi Terapeutik
+
 1. **Evakuisi Produk Konsepsi** (Keguguran tidak lengkap, Keguguran Tunda, Mola).
 2. **Pengangkatan Polip Endometrium / Submukosa Kecil** (jika histeroskopi tdk tersedia).
 3. **Hemostasis AUB Parah** (tidak respons oksitosin/ergometrin/misoprostol, HB < 7).
 4. **Retensio Plasenta** (Manual removal gagal / plasenta accreta superficial).
 
 ### Kontraindikasi
-| Absolut | Relatif |
-|---------|---------|
-| - Kehamilan vital (kecuali keguguran/retensio) | - Infeksi pelvis aktif (PID, endometritis) → antibiotik dulu |
-| - Kanker serviks invasif (risiko seeding) | - Koagulopati berat (INR>3, Plt<50k) → koreksi dulu |
+
+| Absolut                                                              | Relatif                                                            |
+| -------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| - Kehamilan vital (kecuali keguguran/retensio)                       | - Infeksi pelvis aktif (PID, endometritis) → antibiotik dulu       |
+| - Kanker serviks invasif (risiko seeding)                            | - Koagulopati berat (INR>3, Plt<50k) → koreksi dulu                |
 | - Anatomi uterus abnormal berat (rudimenter, didelfis) tanpa imaging | - Uterus besar (>12 mgg) / miom submukosa besar → risiko perforasi |
-| - Pasien menolak (tidak ada consent) | - Anestesi umum tidak tersedia (jika butuh) |
+| - Pasien menolak (tidak ada consent)                                 | - Anestesi umum tidak tersedia (jika butuh)                        |
 
 ---
 
@@ -81,9 +84,10 @@ Keterampilan **dilatasi bertahap (Hegar/Pratt), kuretase tajam vs tumpul (sharp 
 | 12 | **Alat Resusitasi & Darah** (Siaga: PPH, Perforasi, Reaksi Anafilaksis). |
 
 **Persiapan Pasien:**
+
 - **Puasa 6 jam** (jika anestesi umum/sedasi). Jika lokal: makan ringan boleh.
 - **Kosongkan Kandung Kemih** (kateterisasi Foley jika anestesi umum/sedasi lama).
-- **Profilaksis Antibiotik**: Doksisiklin 100mg 2x1 hari H-1 s/d H+3 **ATAU** Azitromisin 1g PO sekali (sebelum prosedur) — *reduce PID post-D&C*.
+- **Profilaksis Antibiotik**: Doksisiklin 100mg 2x1 hari H-1 s/d H+3 **ATAU** Azitromisin 1g PO sekali (sebelum prosedur) — _reduce PID post-D&C_.
 - **Darah Lengkap, Koagulasi (PT/APTT/INR), Golongan Darah & Crossmatch** (jika risiko perdarahan).
 - **Informed Consent**: Jelaskan indikasi, prosedur, risiko (perforasi 1-2%, perdarahan, infeksi, sinekia/Asherman, kerusakan serviks), alternatif (histeroskopi, MVA, medis), biaya.
 
@@ -92,7 +96,8 @@ Keterampilan **dilatasi bertahap (Hegar/Pratt), kuretase tajam vs tumpul (sharp 
 ## Langkah-Langkah Prosedur (Step-by-Step)
 
 ### A. Persiapan & Anestesi
-1.  **Verifikasi Identitas & Consent**: *Time-out* (WHO Surgical Safety Checklist adaptasi minor prosedur).
+
+1.  **Verifikasi Identitas & Consent**: _Time-out_ (WHO Surgical Safety Checklist adaptasi minor prosedur).
 2.  **Posisi Litotomi**: Pasien supin, lutut ditekuk, paha abdakusi. **Tilting kiri 15°** (hindari supine hypotension).
 3.  **Asepsis**: Cuci tangan, sarung tangan steril. Bersihkan vulva-perineum povidon iodin. Drapping steril.
 4.  **Spekulum Cusco**: Masukkan, buka, visualisasi serviks. Bersihkan serviks povidon iodin.
@@ -104,6 +109,7 @@ Keterampilan **dilatasi bertahap (Hegar/Pratt), kuretase tajam vs tumpul (sharp 
     - Tunggu **3-5 menit** onset.
 
 ### B. Sondase Uterus (WAJIB SEBELUM DILATASI)
+
 7.  **Masukkan Sond Uterin** melalui kanal serviks ke rongga uterus.
 8.  **Rasakan Resistance**: Masuk perlahan hingga ujung sentuh **fundus** (batu/keras).
 9.  **Catat Panjang Uterus (Uterine Depth)**: cm dari ujung eksternal serviks ke fundus. **Normal 6-9 cm (nullipara), 7-10 cm (multipara)**.
@@ -111,18 +117,20 @@ Keterampilan **dilatasi bertahap (Hegar/Pratt), kuretase tajam vs tumpul (sharp 
 11. **Keluar Sond** → siapkan dilatator.
 
 ### C. Dilatasi Serviks (Bertahap, Berlapis, Pelan)
+
 12. **Mulai Dilatator Terkecil** (Hegar #3-4 / Pratt #13-15 Fr) yang **lolos tanpa gesekan berat**.
 13. **Masukkan Dilatator** mengikuti **arah uterus** (berdasarkan sondase): Jika antefleksi → arah posterior-superior; jika retrofleksi → arah anterior-superior.
 14. **Dilatasi Bertahap**: Naikkan ukuran **1-2 mm / 1-2 size Hegar** per langkah. **Jangan loncat ukuran**.
-14. **Setiap Dilatator**: Masukkan hingga **melewati internal OS** (terasa "give" / longgar), putar pelan, tarik perlahan.
-15. **Target Dilatasi**: 
+15. **Setiap Dilatator**: Masukkan hingga **melewati internal OS** (terasa "give" / longgar), putar pelan, tarik perlahan.
+16. **Target Dilatasi**:
     - **Diagnostik / Biopsi / Polip Kecil**: #8-10 Hegar (8-10 mm).
     - **Terapeutik / Retensio / Mola / Plasenta**: #10-12 Hegar (10-12 mm) — cukup untuk kuret/kanula MVA.
     - **Maksimal #12-14** (12-14 mm) — di atas itu risiko serviks incompetence & perforasi ↑ drastis.
-16. **Jika Resistance Berat / Tidak Bisa Masuk**: **HENTIKAN**. Jangan paksa. Evaluasi: Serviks stenotik? Uterus retrofleksi ekstrem? Anatomi abnormal? → Rujuk / Histeroskopi / Dilatasi di bawah USG / Anestesi Umum.
+17. **Jika Resistance Berat / Tidak Bisa Masuk**: **HENTIKAN**. Jangan paksa. Evaluasi: Serviks stenotik? Uterus retrofleksi ekstrem? Anatomi abnormal? → Rujuk / Histeroskopi / Dilatasi di bawah USG / Anestesi Umum.
 
 ### D. Kuretase (Evakuasi Rongga Uterus)
-17. **Pilih Kuret**: 
+
+17. **Pilih Kuret**:
     - **Tajam (Sharp)**: Diagnostik (endometrium utuh), Hiperplasia, Ca, Polip. Ukuran sesuai lebar rongga (biasanya #11-12).
     - **Tumpul / Suction (Blunt/MVA)**: Produk konsepsi (keguguran, mola, retensio plasenta). Kanula Karman/MVA #8-12 mm + pompa vakum 60 mmHg.
 18. **Masukkan Kuret** melalui serviks yang sudah didilatasi, arahkan ke **fundus** mengikuti kelengkungan uterus.
@@ -140,6 +148,7 @@ Keterampilan **dilatasi bertahap (Hegar/Pratt), kuretase tajam vs tumpul (sharp 
 23. **Periksa Uterus Pasca-Kuretase**: Masukkan jari (bimanual) atau sond → pastikan rongga bersih, tidak ada perforasi (tidak teraba lubang, tidak ada cairan peritoneum di kasa).
 
 ### E. Penutupan & Pasca Prosedur
+
 24. **Lepas Tenakulum** → periksa serviks perdarahan → kompres kasa / sutur jika perlu (rajut serviks).
 25. **Lepas Spekulum** → bersihkan vagina → pasang pembalut steril / pad.
 26. **Oksitosin 10-20 IU IV/IM** (rutin profilaksis atoni).
@@ -155,17 +164,19 @@ Keterampilan **dilatasi bertahap (Hegar/Pratt), kuretase tajam vs tumpul (sharp 
 ## Interpretasi & Peringatan Kritis
 
 > [!warning] **PERFORASI UTERUS — KOMEDO UTAMA (1-2%)**
-> *   **Gejala**: Tiba-tiba **tidak ada resistance** (dilatator/kuret "jatuh" ke dalam), **nyeri hebat** (jika sadar/lokal), **perdarahan intraabdomen** (hipotensi, perut kaku, pucat), **kembung**, **kekurangan napas** (jika perforasi fundus → diafragma/hepar).
-> *   **Lokasi Risiko Tinggi**: **Cornu (siku kanan/kiri)**, **Fundus** (miometrium tipis), **Isthmus** (pasca keguguran/retensio).
-> *   **Tindakan**: **HENTIKAN SEKETIKA**. Evaluasi laparoskopi / laparotomi eksploratif **SEGERA** jika: perdarahan masif, tanda peritonitis, instabil hemodinamik, viskus terluka (usia/vejiga). Jika perforasi kecil (<5mm), hanya endometrium, pasien stabil, **observasi ketat IV ABX + Oksitosin + Bedrest 24-48 jam** (konsul SpOG/Bedah).
-> *   **PENCEGAHAN**: SONDASE WAJIB, DILATASI BERTAHAP, ARAH SESUAI POSISI UTEREUS, JANGAN PAKSA, KURETASE TAJAM DI FUNDUS/CORNU HATI-HATI.
+>
+> - **Gejala**: Tiba-tiba **tidak ada resistance** (dilatator/kuret "jatuh" ke dalam), **nyeri hebat** (jika sadar/lokal), **perdarahan intraabdomen** (hipotensi, perut kaku, pucat), **kembung**, **kekurangan napas** (jika perforasi fundus → diafragma/hepar).
+> - **Lokasi Risiko Tinggi**: **Cornu (siku kanan/kiri)**, **Fundus** (miometrium tipis), **Isthmus** (pasca keguguran/retensio).
+> - **Tindakan**: **HENTIKAN SEKETIKA**. Evaluasi laparoskopi / laparotomi eksploratif **SEGERA** jika: perdarahan masif, tanda peritonitis, instabil hemodinamik, viskus terluka (usia/vejiga). Jika perforasi kecil (<5mm), hanya endometrium, pasien stabil, **observasi ketat IV ABX + Oksitosin + Bedrest 24-48 jam** (konsul SpOG/Bedah).
+> - **PENCEGAHAN**: SONDASE WAJIB, DILATASI BERTAHAP, ARAH SESUAI POSISI UTEREUS, JANGAN PAKSA, KURETASE TAJAM DI FUNDUS/CORNU HATI-HATI.
 
 > [!warning] **KOMPLIKASI LAIN YANG HARUS DIAWASI**
-> *   **Serviks Lacerasi**: Tarikan tenakulum terlalu kuat / dilatasi terlalu cepat. → Rajut 3-0 catgut/Monocryl.
-> *   **Perdarahan Masif (Atoni/Uteri Atoni)**: Pasca kuretase, miometrium tidak kontraksi. → Oksitosin IV tetes, Ergometrin 0,2 mg IM/IV (jika TDK HT), Misoprostol 400-800 mcg bukal/rektal, Kompresi Bimanual, Bakar Balon (Bakri/Sengstaken), Laparotomi (ligasi uterin/hipogastrik/histerektomi).
-> *   **Sindrome Asherman (Sinekia Intrauterin)**: Kuretase terlalu agresif ke basalis layer, infeksi pasca. → Infertilitas, hipomenorea, amenorea. → Histeroskopi adhesiolisis.
-> *   **Infeksi / Endometritis / PID**: Demam >38°C, nyeri tekan uterus, leukositosis. → IV Antibiotik (Kefalosporin + Metronidazol + Doksisiklin).
-> *   **Emboli Amniotik / Tromboemboli** (Retensio Plasenta/Mola): DIC, gagal napas, kollaps kardiovaskular. → Resusitasi agresif, ICU, DIC protocol.
+>
+> - **Serviks Lacerasi**: Tarikan tenakulum terlalu kuat / dilatasi terlalu cepat. → Rajut 3-0 catgut/Monocryl.
+> - **Perdarahan Masif (Atoni/Uteri Atoni)**: Pasca kuretase, miometrium tidak kontraksi. → Oksitosin IV tetes, Ergometrin 0,2 mg IM/IV (jika TDK HT), Misoprostol 400-800 mcg bukal/rektal, Kompresi Bimanual, Bakar Balon (Bakri/Sengstaken), Laparotomi (ligasi uterin/hipogastrik/histerektomi).
+> - **Sindrome Asherman (Sinekia Intrauterin)**: Kuretase terlalu agresif ke basalis layer, infeksi pasca. → Infertilitas, hipomenorea, amenorea. → Histeroskopi adhesiolisis.
+> - **Infeksi / Endometritis / PID**: Demam >38°C, nyeri tekan uterus, leukositosis. → IV Antibiotik (Kefalosporin + Metronidazol + Doksisiklin).
+> - **Emboli Amniotik / Tromboemboli** (Retensio Plasenta/Mola): DIC, gagal napas, kollaps kardiovaskular. → Resusitasi agresif, ICU, DIC protocol.
 
 ---
 
@@ -186,35 +197,36 @@ Keterampilan **dilatasi bertahap (Hegar/Pratt), kuretase tajam vs tumpul (sharp 
 
 ## Dipakai Untuk Penyakit
 
-- [[90-hiperplasia-endometrium]] — Diagnostik (biopsi/kuretase) & Terapeutik (pengangkatan)
-- [[92-karsinoma-endometrium]] — Staging klinis, biopsi inkisional (jika histeroskopi tdk ada)
-- [[80-fibrokista-payudara]] — *Tidak langsung, tapi AUB perimenopause perlu D&C eksklusi endometrium*
-- [[51-mola-hidatidosa]] — Evakuasi molar (terapeutik) + histopat + follow-up hCG
-- [[59-abrupsio-plasenta]] / [[55-pengambilan-plasenta-manual]] — Retensio plasenta (terapeutik)
-- [[75-kehamilan-ektopik]] — **KONTRAINDIKASI D&C** (kecuali dikombinasi laparoskopi/rujukan). D&C hanya untuk eksklusi heterotopic (jarang).
-- [[13-suntik-kb]] / [[11-insersi-ekstraksi-iud]] — AUB pada pemakai KB → D&C diagnostik
-- [[47-resusitasi-cairan-ibu]] — Manajemen PPH sekunder retensio plasenta (kuretase darurat)
+- Hiperplasia Endometrium — Diagnostik (biopsi/kuretase) & Terapeutik (pengangkatan)
+- Karsinoma Endometrium — Staging klinis, biopsi inkisional (jika histeroskopi tdk ada)
+- Fibrokista Payudara — _Tidak langsung, tapi AUB perimenopause perlu D&C eksklusi endometrium_
+- Mola Hidatidosa — Evakuasi molar (terapeutik) + histopat + follow-up hCG
+- Abrupsio Plasenta / Pengambilan Plasenta Manual — Retensio plasenta (terapeutik)
+- Kehamilan Ektopik — **KONTRAINDIKASI D&C** (kecuali dikombinasi laparoskopi/rujukan). D&C hanya untuk eksklusi heterotopic (jarang).
+- Suntik Kb / [[12-insersi-ekstraksi-iud] — AUB pada pemakai KB → D&C diagnostik
+- Resusitasi Cairan Ibu — Manajemen PPH sekunder retensio plasenta (kuretase darurat)
 
 ---
 
 ## Referensi
 
-1. **Berek & Novak's Gynecology**, 16th Ed. Ch 31: *Dilation and Curettage, Hysteroscopy, and Endometrial Ablation*.
-2. **ACOG Practice Bulletin No. 128**: *Diagnosis of Abnormal Uterine Bleeding in Reproductive-Aged Women* (2012, Reaffirmed 2023).
-3. **ACOG Practice Bulletin No. 200**: *Early Pregnancy Loss* (2018, Reaffirmed 2022) — MVA vs D&C vs Expectant/Medical.
-4. **WHO**: *Safe Abortion: Technical and Policy Guidance for Health Systems*, 2012 (Updated 2022) — MVA Technique.
-5. **IPAS**: *Manual Vacuum Aspiration (MVA) Clinical Guidelines*, 2019.
-6. **POGI**: *Pedoman Pelayanan Kesehatan Reproduksi*, 2021 — Kuretase, MVA, Mifepriston/Misoprostol.
-7. **Kemenkes RI**: *Buku Saku Pelayanan Kesehatan Ibu (KIA)*, 2020.
-8. **Sarwono Prawirohardjo**, *Ilmu Kandungan*, Ed 5. Ch: *Operasi Kecil Ginekologi (Kuretase)*.
-9. **RCOG Green-top Guideline No. 17**: *The Investigation and Management of Endometrial Hyperplasia*, 2016.
-10. **NCCN Guidelines**: *Uterine Neoplasms*, 2024.
+1. **Berek & Novak's Gynecology**, 16th Ed. Ch 31: _Dilation and Curettage, Hysteroscopy, and Endometrial Ablation_.
+2. **ACOG Practice Bulletin No. 128**: _Diagnosis of Abnormal Uterine Bleeding in Reproductive-Aged Women_ (2012, Reaffirmed 2023).
+3. **ACOG Practice Bulletin No. 200**: _Early Pregnancy Loss_ (2018, Reaffirmed 2022) — MVA vs D&C vs Expectant/Medical.
+4. **WHO**: _Safe Abortion: Technical and Policy Guidance for Health Systems_, 2012 (Updated 2022) — MVA Technique.
+5. **IPAS**: _Manual Vacuum Aspiration (MVA) Clinical Guidelines_, 2019.
+6. **POGI**: _Pedoman Pelayanan Kesehatan Reproduksi_, 2021 — Kuretase, MVA, Mifepriston/Misoprostol.
+7. **Kemenkes RI**: _Buku Saku Pelayanan Kesehatan Ibu (KIA)_, 2020.
+8. **Sarwono Prawirohardjo**, _Ilmu Kandungan_, Ed 5. Ch: _Operasi Kecil Ginekologi (Kuretase)_.
+9. **RCOG Green-top Guideline No. 17**: _The Investigation and Management of Endometrial Hyperplasia_, 2016.
+10. **NCCN Guidelines**: _Uterine Neoplasms_, 2024.
 
 ---
 
 > [!note] **Revisi**
+>
 > - Modul ke-47 — Buku Saku Obgyn: Keterampilan Ginekologi Dasar
 > - Level SKDI: 3 (Mampu D&C Diagnostik & Terapeutik, Dilatasi Bertahap, Kuretase Sistematis, MVA)
-> - Wajib wikilink: [[90-hiperplasia-endometrium]], [[92-karsinoma-endometrium]], [[51-mola-hidatidosa]], [[55-pengambilan-plasenta-manual]]
+> - Wajib wikilink: Hiperplasia Endometrium, Karsinoma Endometrium, Mola Hidatidosa, Pengambilan Plasenta Manual
 > - Disusun berdasarkan WHO, ACOG, IPAS, POGI, Kemenkes
 > - Revisi terakhir: Juli 2026

@@ -1,25 +1,24 @@
 ---
 title: Pertolongan Distosia Bahu
 tags:
-- keterampilan
-- persalinan
-- skdi-3
+  - keterampilan
+  - persalinan
+  - skdi-3
 level_kompetensi: 3
 kategori: persalinan
 nomor_modul: 57
 aliases:
-- Shoulder Dystocia
-- Penanganan Distosia Bahu
-- HELPERR Maneuver
-- distosia bahu
-- shoulder dystocia
-- helpper maneuver
-- penanganan bahu macet
-- distosia bahu
+  - Shoulder Dystocia
+  - Penanganan Distosia Bahu
+  - HELPERR Maneuver
+  - distosia bahu
+  - shoulder dystocia
+  - helpper maneuver
+  - penanganan bahu macet
+  - distosia bahu
 cssclasses:
-- buku-saku
+  - buku-saku
 ---
-
 
 > [!info] Level Kompetensi SKDI: 3
 > Dilakukan di bawah supervisi SpOG. Distosia bahu adalah emergensi obstetri yang membutuhkan penanganan segera.
@@ -37,6 +36,7 @@ Distosia bahu adalah kondisi dimana bahu anterior janin tersangkut di belakang s
 ## Etiologi dan Faktor Risiko
 
 **Faktor risiko utama:**
+
 - Diabetes gestasional
 - Postterm (> 42 minggu)
 - Induksi persalinan
@@ -47,6 +47,7 @@ Distosia bahu adalah kondisi dimana bahu anterior janin tersangkut di belakang s
 - Pelvis android (panggul pria)
 
 **Etiologi mekanik:**
+
 - Bahu anterior terjepit di belakang simfisis pubis
 - Bahu posterior tidak bisa melewati promontorium
 - Diameter bahu janin > diameter pintu bawah panggul
@@ -54,6 +55,7 @@ Distosia bahu adalah kondisi dimana bahu anterior janin tersangkut di belakang s
 ## Diagnosis
 
 ### Kriteria Klinis
+
 1. Kepala janin sudah lahir tapi bahu tidak juga lahir
 2. Traction pada kepala tidak menghasilkan penurunan bahu
 3. "Turtle sign" — wajah bayi tampak terjepit (chin tertekan ke dada) karena bahu tersangkut
@@ -67,38 +69,47 @@ Distosia bahu adalah kondisi dimana bahu anterior janin tersangkut di belakang s
 Gunakan urutan mnemonik HELPERR:
 
 ### H — Call for Help
+
 - Panggil bantuan segera (SpOG, anestesi, neonatologi)
 - Siapkan ruang operasi caesar
 
 ### E — Episiotomi
+
 - Episiotomi mediolateral lebar bisa membantu akses (tidak wajib tapi bisa membantu)
 
 ### L — Legs (McRoberts)
+
 - Fleksi kedua paha ibu sampai ke abdomen (dorsal hip flexion)
 - Ini melebar pintu bawah panggul dan memutar bahu anterior
 
 ### P — Suprapubic Pressure
+
 - Tekan suprapubis dengan tangan atau siku (bukan pada fundus!)
 - Tekanan membantu memutar bahu anterior dari belakang simfisis
 - Bisa dilakukan bersamaan dengan McRoberts
 
 ### E — Enter Maneuver
+
 Jika L dan P belum berhasil:
 
 **Woods Corkscrew Maneuver:**
+
 - Masukkan jari tangan ke belakang bahu posterior
 - Putar bahu posterior ke arah depan (seperti membuka tutup botol)
 
 **Rubin II Maneuver:**
+
 - Masukkan jari ke bahu anterior dari belakang
 - Dorong bahu anterior ke arah dada janin
 
 ### R — Remove Posterior Arm
+
 - Masukkan tangan ke vagina, raih lengan posterior
 - Tekuk lengan dan tarik keluar melewati perineum
 - Setelah lengan posterior keluar, bahu akan lebih mudah berputar
 
 ### R — Roll the Patient
+
 - Jika semua manuver gagal, ganti posisi ibu ke posisi "all fours" (tangan dan lutut)
 - Gravitasi bisa membantu rotasi bahu
 
@@ -108,12 +119,14 @@ Jika L dan P belum berhasil:
 ## Komplikasi
 
 **Pada janin:**
+
 - Brachial plexus injury (Erb's palsy, Klumpke's palsy)
-- Fraktur klaharikula atau humerus
+- Fraktur klavikula atau humerus
 - Asfiksia → kerusakan neurologis
 - Kematian perinatal
 
 **Pada ibu:**
+
 - Robekan perineum berat (laserasi 3-4)
 - Perdarahan postpartum
 - Retensi plasenta
@@ -148,10 +161,10 @@ Tim segera melakukan manuver McRoberts + suprapubic pressure. Bahu anterior berh
 
 ## Keterampilan Terkait
 
-- [[37-distosia-bahu|Penyakit Distosia Bahu]]
-- [[30-episiotomi]]
-- [[46-resusitasi-neonatal|Resusitasi Neonatal]]
-- [[27-menolong-persalinan-fisiologis-apn|APN]]
+- Penyakit Distosia Bahu
+- Episiotomi
+- Resusitasi Neonatal
+- APN
 
 ## Referensi
 

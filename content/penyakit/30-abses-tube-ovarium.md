@@ -35,7 +35,7 @@ cssclasses:
 
 _"Dok, perut saya sakit sekali bagian kanan bawah. Saya demam tinggi. Badan terasa dingin meski pakai selimut,"_ ujar Ny. Dewi dengan suara lemah.
 
-Pemeriksaan fisik: TD 110/70 mmHg, nadi 110x/menit, suhu 39,2°C. Pada [[04-pemeriksaan-bimanual|pemeriksaan bimanual]] ditemukan **nyeri goyang serviks (CMT) positif**, **nyeri tekan adneksa kanan**, dan **teraba massa kenyal-nyeri di adneksa kanan** sekitar 6 cm. Pada [[25-pemeriksaan-usg-obstetri|USG transvaginal]] tampak massa kompleks di adneksa kanan dengan dinding tebal, septasi internal, dan cairan bebas di kavum Douglas — gambaran khas **Abses Tubo-Ovarium (TOA)**.
+Pemeriksaan fisik: TD 110/70 mmHg, nadi 110x/menit, suhu 39,2°C. Pada pemeriksaan bimanual ditemukan **nyeri goyang serviks (CMT) positif**, **nyeri tekan adneksa kanan**, dan **teraba massa kenyal-nyeri di adneksa kanan** sekitar 6 cm. Pada USG transvaginal tampak massa kompleks di adneksa kanan dengan dinding tebal, septasi internal, dan cairan bebas di kavum Douglas — gambaran khas **Abses Tubo-Ovarium (TOA)**.
 
 ---
 
@@ -96,26 +96,25 @@ Ketika infeksi asenden dari vagina/serviks mencapai tuba dan ovarium, proses inf
 
 ### Pemeriksaan Fisik
 
-| Langkah | Pemeriksaan                              | Temuan Khas TOA                                                   |
-| ------- | ---------------------------------------- | ----------------------------------------------------------------- | ---------------------------------------------------------------------- |
-| 1       | [[02-inspeksi-palpasi-genitalia-eksterna | Inspeksi & Palpasi Genitalia Eksterna]]                           | Duh purulen dari ostium uretra/serviks                                 |
-| 2       | [[03-pemeriksaan-spekulum                | Pemeriksaan Spekulum]]                                            | Duh endoserviks purulen/mukopurulen, serviks hiperemis                 |
-| 3       | [[04-pemeriksaan-bimanual                | Pemeriksaan Bimanual]]                                            | **Kunci diagnosis**: CMT (+), massa adneksa kenyal-nyeri, ukuran >5 cm |
-| 4       | Pemeriksaan abdomen                      | Nyeri tekan kuadran bawah, guarding/rebounding (jika peritonitis) |
-
-### Pemeriksaan Penunjang
-
-| Pemeriksaan                       | Temuan                                                                   | Keterangan                                                                                                                |
-| --------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
-| **Darah rutin**                   | Leukositosis >15.000/μL, neutrofil dominan                               | Respons inflamasi sistemik                                                                                                |
-| **CRP**                           | >50 mg/L                                                                 | Marker inflamasi berat                                                                                                    |
-| **Prokalsitonin**                 | Meningkat                                                                | Membantu diagnosis sepsis                                                                                                 |
-| **Kultur darah (2 botol)**        | Dapat positif                                                            | Identifikasi patogen sistemik                                                                                             |
-| \*\*[[25-pemeriksaan-usg-obstetri | USG transvaginal/transabdominal]]\*\*                                    | **Temuan khas TOA**: massa kompleks adneksa dengan dinding tebal, septasi internal, cairan bebas pelvis, dinding ireguler | **Pemeriksaan penunjang utama** — tersedia di RSKH |
-| **CT scan/MRI pelvis**            | Massa kompleks tubo-ovarium, dinding abses tebal, edema jaringan sekitar | Jika USG meragukan                                                                                                        |
-| **NAAT gonore & klamidia**        | Positif pada 30-50%                                                      | Etiologi dasar PID                                                                                                        |
-| **Tes kehamilan (HCG)**           | Negatif                                                                  | Eksklusi kehamilan ektopik                                                                                                |
-| **HIV, VDRL, HBsAg**              | Skrining IMS penyerta                                                    | Ko-infeksi sering terjadi                                                                                                 |
+| Langkah | Pemeriksaan               | Temuan Khas TOA                                                        |
+| ------- | ------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
+| 101     | Pemeriksaan Spekulum]]    | Duh purulen dari ostium uretra/serviks                                 |
+| 102     | Pemeriksaan Bimanual]]    | **Kunci diagnosis**: CMT (+), massa adneksa kenyal-nyeri, ukuran >5 cm |
+| 103     | Pemeriksaan abdomen       | Nyeri tekan kuadran bawah, guarding/rebounding (jika peritonitis)      |
+| 104     |
+| 105     | ### Pemeriksaan Penunjang |
+| 106     |
+| 107     |                           | Pemeriksaan                                                            | Temuan                                                                                                                    | Keterangan                      |
+| 108     |                           | ---                                                                    | ---                                                                                                                       | ---                             |
+| 109     |                           | **Darah rutin**                                                        | Leukositosis >15.000/μL, neutrofil dominan                                                                                | Respons inflamasi sistemik      |
+| 110     |                           | **CRP**                                                                | >50 mg/L                                                                                                                  | Marker inflamasi berat          |
+| 111     |                           | **Prokalsitonin**                                                      | Meningkat                                                                                                                 | Membantu diagnosis sepsis       |
+| 112     |                           | **Kultur darah (2 botol)**                                             | Dapat positif                                                                                                             | Identifikasi patogen sistemik   |
+| 113     |                           | **USG transvaginal**                                                   | **Temuan khas TOA**: massa kompleks adneksa dengan dinding tebal, septasi internal, cairan bebas pelvis, dinding ireguler | **Pemeriksaan penunjang utama** |
+| 114     |                           | **CT scan/MRI pelvis**                                                 | Massa kompleks tubo-ovarium, dinding abses tebal, edema jaringan sekitar                                                  | Jika USG meragukan              |
+| 115     |                           | **NAAT gonore & klamidia**                                             | Positif pada 30-50%                                                                                                       | Etiologi dasar PID              |
+| 116     |                           | **Tes kehamilan (HCG)**                                                | Negatif                                                                                                                   | Eksklusi kehamilan ektopik      |
+| 117     |                           | **HIV, VDRL, HBsAg**                                                   | Skrining IMS penyerta                                                                                                     | Ko-infeksi sering terjadi       |
 
 > [!tip] USG Transvaginal — Kunci Diagnosis TOA
 > Temuan USG yang khas untuk TOA:
@@ -215,7 +214,7 @@ Diagnosis TOA adalah **kombinasi klinis + pencitraan**:
 
 - Pilihan pertama untuk TOA unilokuler yang dapat diakses
 - Tingkat keberhasilan 85-95%
-- Dapat dilakukan transvaginal (kuldosentesis) atau transabdominal
+  218|- Dapat dilakukan transvaginal (drainase transvaginal posterior) atau transabdominal
 - Ambil sampel pus untuk kultur
 
 **2. Laparoskopi / Laparotomi**
@@ -239,7 +238,7 @@ Diagnosis TOA adalah **kombinasi klinis + pencitraan**:
 > Massa adneksa pada TOA sering disangka kista ovarium pada USG. Bedakan: TOA memiliki **dinding tebal, septasi internal, dan cairan bebas pelvis**. Kista ovarium sederhana berdinding tipis, tanpa septasi, tidak ada tanda inflamasi sistemik.
 
 > [!tip] Jebakan #2 — **Memberi Antibiotik Oral Saja**
-> TOA memerlukan **antibiotik IV** karena perfeksi jaringan ke kapsul abses terbatas. Antibiotik oral saja tidak akan mencapai konsentrasi terapeutik di dalam abses. Semua TOA harus dirawat inap.
+> 241| > TOA memerlukan **antibiotik IV** karena penetrasi jaringan ke kapsul abses terbatas. Antibiotik oral saja tidak akan mencapai konsentrasi terapeutik di dalam abses. Semua TOA harus dirawat inap.
 
 > [!tip] Jebakan #3 — **Lupa Eksklusi Kehamilan Ektopik**
 > Kehamilan ektopik dapat memberikan gambaran klinis dan USG yang mirip TOA. **Selalu lakukan tes kehamilan (HCG)** pada semua wanita usia reproduksi dengan massa adneksa + nyeri perut bawah. TOA dan KET bisa ko-eksis (jarang tapi bisa).
@@ -322,11 +321,11 @@ Pasca-drainase, kondisi pasien membaik signifikan. Antibiotik IV dilanjutkan tot
 
 ## Keterampilan Terkait
 
-- [[02-inspeksi-palpasi-genitalia-eksterna|Inspeksi & Palpasi Genitalia Eksterna]]
-- [[03-pemeriksaan-spekulum|Pemeriksaan Spekulum]]
-- [[04-pemeriksaan-bimanual|Pemeriksaan Bimanual]] — **kunci diagnosis**
-- [[05-melakukan-swab-vagina|Melakukan Swab Vagina]]
-- [[25-pemeriksaan-usg-obstetri|USG Obstetri]]
+- Inspeksi & Palpasi Genitalia Eksterna
+- Pemeriksaan Spekulum
+- Pemeriksaan Bimanual — **kunci diagnosis**
+- Melakukan Swab Vagina
+- USG Obstetri
 
 ## Referensi
 
